@@ -1,0 +1,2 @@
+# Verordnung zur Durchführung des Forstvermehrungsgutgesetzes im Land Brandenburg (BbgFoVGDV)
+Auf Grund des § 7 Abs. 4 Satz 1 und des § 23 Abs. 2 Nr. 13 Buchstabe a des Forstvermehrungsgutgesetzes vom 22. Mai 2002 (BGBl. I S. 1658) sowie auf Grund des § 5 Abs. 2 Satz 2 und des § 8 Abs. 2 des Landesorganisationsgesetzes in der Fassung der Bekanntmachung vom 12. September 1994 (GVBl. I S. 406) und des § 36 Abs. 1 Satz 2 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) verordnet die Landesregierung:
