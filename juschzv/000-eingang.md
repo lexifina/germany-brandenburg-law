@@ -1,0 +1,2 @@
+# Verordnung zur Regelung von Zuständigkeiten nach dem Jugendschutzgesetz (Jugendschutzzuständigkeitsverordnung - JuSchZV)
+Auf Grund des § 5 Abs. 2 Satz 1 und 2 des Landesorganisationsgesetzes in der Fassung der Bekanntmachung vom 12. September 1994 (GVBl. I S. 406) und des § 36 Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) verordnet die Landesregierung:
