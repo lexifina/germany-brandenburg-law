@@ -1,0 +1,4 @@
+# Verordnung zur Errichtung des Technischen Finanzamtes
+Auf Grund
+1. des § 2 Abs. 2 des Finanzverwaltungsgesetzes in der Fassung der Bekanntmachung vom 30. August 1971 (BGBl. I S. 1426), der durch Artikel 1 Nr. 2 Buchstabe b des Gesetzes vom 14. Dezember 2001 (BGBl. I S. 3714) geändert worden ist, in Verbindung mit § 1 der Verordnung über die Übertragung von Ermächtigungen zum Erlass von Rechtsverordnungen im Bereich der Finanzverwaltung auf den Minister der Finanzen vom 23. August 1991 (GVBl. S. 390), und
+2. des § 17 Abs. 2 Satz 3 des Finanzverwaltungsgesetzes, der durch Artikel 1 des Gesetzes vom 14. Dezember 1984 (BGBl. I S. 1493) neu gefasst worden ist, in Verbindung mit § 1 der Verordnung über die Übertragung von Ermächtigungen zum Erlass von Rechtsverordnungen im Bereich der Finanzverwaltung auf den Minister der Finanzen verordnet die Ministerin der Finanzen:
