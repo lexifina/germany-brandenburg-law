@@ -1,0 +1,2 @@
+# Verordnung zum Führen von Charterbooten ohne Fahrerlaubnis auf ausgewählten schiffbaren Gewässern des Landes Brandenburg (LChartbootV)
+Auf Grund des § 46 Abs. 2 Nr. 1 des Brandenburgischen Wassergesetzes in der Fassung der Bekanntmachung vom 13. Juli 1994 (GVBl. I S. 302) verordnet der Minister für Stadtentwicklung, Wohnen und Verkehr im Benehmen mit dem Minister für Landwirtschaft, Umweltschutz und Raumordnung:
