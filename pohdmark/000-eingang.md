@@ -1,0 +1,2 @@
+# Verordnung über die Ausbildung und Prüfung für den höheren Staatsdienst im Markscheidefach (A-POhDMark)
+Auf Grund des § 74 des Landesbeamtengesetzes vom 24. Dezember 1992 (GVBl. I S. 506) und des § 7 des Markscheidergesetzes vom 28. April 1992 (GVBl. I S. 138) verordnet der Minister für Wirtschaft, Mittelstand und Technologie im Einvernehmen mit dem Minister des Innern und der Ministerin der Finanzen:
