@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung von Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Ministeriums für Wirtschaft (Widerspruchszuständigkeitsverordnung MW - WidZVMW)
+Auf Grund des § 127 Satz 2 des Landesbeamtengesetzes in der Fassung der Bekanntmachung vom 8. Oktober 1999 (GVBl. I S. 446), der durch Artikel 1 des Gesetzes vom 22. März 2004 (GVBl. I S. 59, 63) geändert worden ist, verordnet der Minister für Wirtschaft:
