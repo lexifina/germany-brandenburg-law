@@ -1,0 +1,3 @@
+# Präambel
+Wir, die Bürgerinnen und Bürger des Landes Brandenburg, haben uns in freier Entscheidung diese Verfassung gegeben,
+im Geiste der Traditionen von Recht, Toleranz und Solidarität in der Mark Brandenburg, gründend auf den friedlichen Veränderungen im Herbst 1989, von dem Willen beseelt, die Würde und Freiheit des Menschen zu sichern, das Gemeinschaftsleben in sozialer Gerechtigkeit zu ordnen, das Wohl aller zu fördern, Natur und Umwelt zu bewahren und zu schützen, und entschlossen, das Bundesland Brandenburg als lebendiges Glied der Bundesrepublik Deutschland in einem sich einigenden Europa und in der Einen Welt zu gestalten.
