@@ -1,0 +1,7 @@
+# Anlage
+## Flurstücksliste zur Verordnung über das Naturschutzgebiet „Kleiner Plessower See“ vom 6. Dezember 2002
+Das Naturschutzgebiet hat eine Größe von rund 104 Hektar. Es umfasst folgende Flächen im Landkreis Potsdam-Mittelmark, Stadt Werder:
+Gemarkung: | Flur: | Flurstücke:
+Plessow | 1 | 147, 148/2, 148/3, 149/1, 149/2, 149/3, 149/4, 150, 151, 153/1, 153/2, 153/3, 153/4, 153/5, 166/1, 166/2, 166/3, 166/5, 167/1, 167/2, 167/3, 167/4, 168, 169/1, 169/2, 169/3, 169/4, 170, 252 teilweise, 257, 276/1, 276/2, 277/1, 277/2, 278/1, 278/2, 281/1, 281/2, 282/1, 282/2, 283 bis 291, 292/1, 292/2, 293 bis 306;
+Plessow | 3 | 1, 2/1, 2/2, 3, 4 teilweise, 5, 6 teilweise, 7 teilweise, 8/1 teilweise, 8/2 teilweise, 11/1, 11/2, 14/1, 14/2, 14/3, 14/4, 45 teilweise, 52 teilweise, 53 teilweise, 54 teilweise, 55 teilweise, 92/1, 93/2, 94/1, 95 teilweise, 130 teilweise;
+Plötzin | 3 | 111/6, 111/7, 111/8, 123/4, 123/5, 123/6, 123/8 teilweise, 134 bis 137, 138/1, 138/2, 139/1, 139/2, 139/3, 139/4, 139/5, 139/6, 140/2, 141/2, 144/1, 144/2, 144/4, 144/6,145, 146, 147/1, 147/2, 147/3, 147/4, 148/1, 148/2, 148/3, 148/4, 148/5, 149/3 teilweise, 151/3 teilweise, 161/2 teilweise, 162, 170, 171 teilweise, 180 teilweise,188, 189 teilweise, 202/2 teilweise, 211 teilweise, 212, 213 teilweise, 217/3 teilweise, 218/4 teilweise, 223/2 teilweise, 224 teilweise, 226 teilweise, 227 teilweise, 228/3 teilweise, 232, 233, 235.
