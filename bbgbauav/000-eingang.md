@@ -1,0 +1,2 @@
+# Verordnung über bauaufsichtliche Anforderungen an Abgrabungen und Aufschüttungen im Land Brandenburg (Brandenburgische Bau-Abgrabungsverordnung - BbgBauAV)
+Auf Grund des § 88 Abs. 2, 3 und 9 der Brandenburgischen Bauordnung in der Fassung der Bekanntmachung vom 25. März 1998 (GVBl. I S. 82) verordnet der Minister für Stadtentwicklung, Wohnen und Verkehr im Einvernehmen mit dem Minister für Umwelt, Naturschutz und Raumordnung:
