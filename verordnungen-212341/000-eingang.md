@@ -1,0 +1,2 @@
+# Verordnung zur vorläufigen Regelung der zuständigen Behörden für den Vollzug des Artikels 6 Abs. 3 und 4 der FFH-Richtlinie
+Auf Grund des § 5 Abs. 2 Satz 2 und 3 des Landesorganisationsgesetzes in der Fassung der Bekanntmachung vom 12. September 1994 (GVBl. I S. 406) in Verbindung mit Artikel 6 Abs. 3 und 4 der Richtlinie 92/43/EWG zur Erhaltung der natürlichen Lebensräume sowie der wild lebenden Tiere und Pflanzen vom 21. Mai 1992 – FFH-Richtlinie – (ABl. EG Nr. L 206 S. 7) verordnet die Landesregierung:
