@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von Zuständigkeiten für den Erlass von Widerspruchsbescheiden und für die Vertretung von Klagen aus dem Beamtenverhältnis für den Geschäftsbereich des Ministeriums für Infrastruktur und Raumordnung (Widerspruchszuständigkeitsverordnung MIR - WidZV MIR)
+Auf Grund des § 127 Abs. 3 Nr. 2 Satz 2 und Abs. 4 Satz 2 des Landesbeamtengesetzes vom 24. Dezember 1992 (GVBl. I S. 506) verordnet der Minister für Stadtentwicklung, Wohnen und Verkehr:
