@@ -1,0 +1,2 @@
+# Verordnung über die Anerkennung von Weiterbildungsveranstaltungen zur Bildungsfreistellung nach dem Brandenburgischen Weiterbildungsgesetz (Bildungsfreistellungsverordnung - BFV)
+Auf Grund des § 24 Abs. 5 des Brandenburgischen Weiterbildungsgesetzes vom 15. Dezember 1993 (GVBl. I S. 498) verordnet der Minister für Bildung, Jugend und Sport im Einvernehmen mit dem für Bildung zuständigen Ausschuss des Landtages:
