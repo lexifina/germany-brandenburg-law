@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von Zuständigkeiten für den Erlaß von Widerspruchsbescheiden und für die Vertretung von Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Ministerpräsidenten (Widerspruchszuständigkeitsverordnung Ministerpräsident - WidZVMP)
+Auf Grund des § 127 Abs. 3 Nr. 2 Satz 2 und des § 127 Abs. 4 Satz 2 des Landesbeamtengesetzes vom 24. Dezember 1992 (GVBl. S. 506) verordnet der Ministerpräsident:
