@@ -1,0 +1,2 @@
+# Verordnung zum automatisierten Datenaustausch zwischen Grundbuchamt und der für die Führung des Liegenschaftskatasters zuständigen Stelle
+Auf Grund des § 127 Abs. 1 Nr. 2 der Grundbuchordnung in der Fassung der Bekanntmachung vom 26. Mai 1994 (BGBl. I S. 1114) in Verbindung mit § 1 Abs. 1 Nr. 10 der Justiz-Zuständigkeitsübertragungsverordnung vom 2. Juni 2003 (GVBl. II S. 341) verordnet die Ministerin der Justiz und für Europaangelegenheiten:
