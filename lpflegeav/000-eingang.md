@@ -1,0 +1,2 @@
+# Verordnung über den Landespflegeausschuss nach dem Elften Buch Sozialgesetzbuch (Landespflegeausschussverordnung - LPflegeAV)
+Auf Grund des § 92 Abs. 4 des Elften Buches Sozialgesetzbuch - Soziale Pflegeversicherung - vom 26. Mai 1994 (BGBl. I S. 1014) und des § 5 Abs. 2 Satz 2 des Landesorganisationsgesetzes in der Fassung der Bekanntmachung vom 12. September 1994 (GVBl. I S. 406) verordnet die Landesregierung:
