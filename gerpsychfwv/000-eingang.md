@@ -1,0 +1,2 @@
+# Weiterbildungs- und Prüfungsverordnung für die Heranbildung von Fachkräften für die gerontopsychiatrische Betreuung und Pflege (Gerontopsychiatrische Fachkraft-Weiterbildungsverordnung - GerPsychFWV)
+Auf Grund des § 9 des Gesetzes über die Weiterbildung in den Fachberufen des Gesundheitswesens vom 18. März 1994 (GVBl. I S. 62) sowie des § 9 des Brandenburgischen Sozialberufsgesetzes in der Fassung der Bekanntmachung vom 10. Oktober 1996 (GVBl. I S. 308) verordnet der Minister für Arbeit, Soziales, Gesundheit und Frauen:
