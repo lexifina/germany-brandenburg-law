@@ -1,0 +1,1 @@
+# Gesetz über die ländliche Entwicklung und zur Ausführung des Flurbereinigungsgesetzes und des Landwirtschaftsanpassungsgesetzes im Land Brandenburg (Brandenburgisches Landentwicklungsgesetz - BbgLEG)
