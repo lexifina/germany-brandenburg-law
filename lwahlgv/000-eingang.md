@@ -1,0 +1,2 @@
+# Verordnung über den Einsatz von Stimmenzählgeräten bei Landtagswahlen und Volksentscheiden (Landeswahlgeräteverordnung - LWahlGV)
+Auf Grund des § 36 Abs. 5 des Brandenburgischen Landeswahlgesetzes in der Fassung der Bekanntmachung vom 28. Januar 2004 (GVBl. I S. 30) und des § 44 Abs. 7 des Volksabstimmungsgesetzes, der durch Artikel 2 Nr. 11 Buchstabe c des Gesetzes vom 20. November 2003 (GVBl. I S. 278, 281) eingefügt worden ist, verordnet der Minister des Innern:
