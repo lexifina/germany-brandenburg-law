@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von Zuständigkeiten für den Erlaß von Widerspruchsbescheiden und für die Vertretung von Klagen aus dem Beamtenverhältnis im Geschäftsbereich des Präsidenten des Landtages (Widerspruchszuständigkeitsverordnung - WidZVLT)
+Auf Grund des § 127 Abs. 3 Nr. 2 Satz 2 und des § 127 Abs. 4 Satz 2 des Landesbeamtengesetzes vom 24. Dezember 1992 (GVBl. I S. 506) verordnet der Präsident des Landtages:
