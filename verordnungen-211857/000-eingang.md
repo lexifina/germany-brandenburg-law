@@ -1,0 +1,2 @@
+# Verordnung über die Aufhebung des Wasserschutzgebietes für das Wasserwerk I der Stadt Frankfurt (Oder)
+Auf Grund des § 19 Abs. 1 Nr. 1 und Abs. 2 des Wasserhaushaltsgesetzes in der Fassung der Bekanntmachung vom 23. August 2002 (BGBl. I S. 3246) in Verbindung mit § 15 Abs. 1 und 2 des Brandenburgischen Wassergesetzes vom 13. Juli 1994 (GVBl. I S. 302), der durch Artikel 2 Nr. 2 des Gesetzes vom 10. Juli 2002 (GVBl. I S. 62, 67) geändert worden ist, verordnet der Minister für Landwirtschaft, Umweltschutz und Raumordnung:
