@@ -1,0 +1,2 @@
+# Zweite Verordnung zur Übertragung der Befugnis für den Erlaß von Rechtsverordnungen zur Festsetzung von Naturschutzgebieten und Landschaftsschutzgebieten
+Aufgrund des § 5 Abs. 2 Satz 1 des Landesorganisationsgesetzes in der Fassung der Bekanntmachung vom 12. September 1994 (GVBl. I S. 406) in Verbindung mit § 21 Abs. 1 Satz 3, § 22 Abs. 2, § 27 Abs. 1 und 2 und § 78 Abs. 1 Satz 5 des Brandenburgischen Naturschutzgesetzes vom 25. Juni 1992 (GVBl. I S. 208) verordnet der Minister für Umwelt, Naturschutz und Raumordnung:
