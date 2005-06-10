@@ -1,0 +1,2 @@
+# Verordnung zur Festsetzung des Wasserschutzgebietes Tettau
+Auf Grund des § 19 Abs. 1 Nr. 1 und Abs. 2 des Wasserhaushaltsgesetzes in der Fassung der Bekanntmachung vom 19. August 2002 (BGBl. I S. 3245), zuletzt geändert durch Artikel 6 des Gesetzes vom 6. Januar 2004 (BGBl. I S. 2, 15), in Verbindung mit § 15 Abs. 1 und 2 des Brandenburgischen Wassergesetzes in der Fassung der Bekanntmachung vom 8. Dezember 2004 (GVBl. 2005 I S. 50) verordnet der Minister für Ländliche Entwicklung, Umwelt und Verbraucherschutz:
