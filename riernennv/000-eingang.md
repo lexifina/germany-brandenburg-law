@@ -1,0 +1,5 @@
+# Verordnung zur Übertragung von Befugnissen zur Ernennung, Zurruhesetzung und Entlassung der Richter des Landes Brandenburg (Richterernennungsverordnung - RiErnennV)
+Auf Grund
+1. des Artikels 109 Abs. 3 Satz 2 der Verfassung des Landes Brandenburg vom 20. August 1992 (GVBl. I S. 298), der durch Artikel 1 des Gesetzes vom 7. April 1999 (GVBl. I S. 98) angefügt wurde, in Verbindung mit § 9 Abs. 1 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186),
+2. des § 14 Abs. 1 Satz 2, des § 98 Abs. 1 Satz 2 und des § 116 Abs. 1 Satz 2 des Landesbeamtengesetzes in der Fassung der Bekanntmachung vom 8. Oktober 1999 (GVBl. I S. 446), von denen § 98 Abs. 1 Satz 2 und § 116 Abs. 1 Satz 2 durch Artikel 1 Nr. 24 Buchstabe a und Artikel 1 Nr. 34 Buchstabe b des Gesetzes vom 22. März 2004 (GVBl. I S. 59, 62, 63) angefügt worden sind, in Verbindung mit § 11 Abs. 1 des Brandenburgischen Richtergesetzes in der Fassung der Bekanntmachung vom 22. November 1996 (GVBl. I S. 322)
+verordnet die Landesregierung:
