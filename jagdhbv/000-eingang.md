@@ -1,0 +1,2 @@
+# Verordnung über die Feststellung der Brauchbarkeit von Jagdgebrauchshunden in Brandenburg (Jagdhundebrauchbarkeitsverordnung - JagdHBV)
+Auf Grund des § 37 Abs. 7 des Jagdgesetzes für das Land Brandenburg vom 9. Oktober 2003 (GVBl. I S. 250) verordnet der Minister für Ländliche Entwicklung, Umwelt und Verbraucherschutz nach Anhörung des Ausschusses für Ländliche Entwicklung, Umwelt und Verbraucherschutz des Landtages und nach Anhörung des Landesjagdverbandes Brandenburg:
