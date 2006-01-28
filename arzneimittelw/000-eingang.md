@@ -1,0 +1,2 @@
+# Verordnung über die Zuständigkeiten im Arzneimittelwesen
+Auf Grund des § 9 Abs. 2 des Gesetzes über den Beruf des pharmazeutisch-technischen Assistenten vom 18. März 1968 (BGBl. I S. 228), zuletzt geändert durch Gesetz vom 18. Februar 1986 (BGBl. I S. 265), des § 36 Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) sowie des § 5 Abs. 2 und § 17 Abs. 2 des Landesorganisationsgesetzes verordnet die Landesregierung:
