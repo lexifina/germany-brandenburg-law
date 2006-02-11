@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von Zuständigkeiten für die Wahl ehrenamtlicher Richter in der Verwaltungsgerichtsbarkeit
+Auf Grund des § 26 Abs. 2 Satz 4 der Verwaltungsgerichtsordnung in der Fassung der Bekanntmachung vom 19. März 1991 (BGBl. I S. 686), des § 84 Abs. 2 Satz 3 des Bundespersonalvertretungsgesetzes vom 15. März 1974 (BGBl. I S. 693) in Verbindung mit § 9 Abs. 1 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186) und des § 96 Abs. 2 Satz 3 des Landespersonalvertretungsgesetzes vom 15. September 1993 (GVBl. I S. 358) verordnet die Landesregierung:
