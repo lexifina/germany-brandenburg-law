@@ -1,0 +1,38 @@
+# Anlage 1
+### Abgrenzung der Schutzzonen
+1. Vorbemerkung
+Die Wasserfassung „Schwedt-Springallee“ des Wasserwerkes Schwedt befindet sich im Landkreis Uckermark, ca. 1,5 km nördlich des Ortes Gatow in einem Waldgebiet. Die 14 Brunnen der Fassung sind linienförmig über eine Strecke von ca. 700 m angeordnet, die ca. 400 m westlich der Hohensaaten-Friedrichsthaler Wasserstraße etwa parallel zur ihr in Nord-Süd-Ausrichtung verläuft.
+Die im Folgenden genannten Straßen- und Wegstrecken sind selbst nicht Bestandteil der Schutzzonen.
+Hinweis: Alle in der Anlage 1 genannten Nord- und Ostwerte sind UTM-Koordinaten im System ETRS 89.
+2. Fassungsbereich (Zone I)
+Die Grenzen der Zonen I werden jeweils durch die Umzäunung der Brunnen gebildet. Die Umzäunung verläuft am Rand einer quadratischen Fläche mit einer Seitenlänge von 10 m um den Brunnenstandort als Mittelpunkt. In der Tabelle werden die Brunnen aufgeführt, die die Ausgangspunkte der vorstehenden Beschreibung der Zonen I bilden.
+Brunnennummer | Ost-Wert (m) | Nord-Wert (m)
+1 | 34 55 595 | 58 86 190
+2 | 34 55 600 | 58 86 237
+3 | 34 55 603 | 58 86 287
+4 | 34 55 622 | 58 86 334
+5 | 34 55 630 | 58 86 384
+6 | 34 55 639 | 58 86 434
+7 | 34 55 648 | 58 86 483
+8 | 34 55 657 | 58 86 534
+9 | 34 55 664 | 58 86 573
+10 | 34 55 669 | 58 86 622
+11 | 34 55 700 | 58 86 694
+12 | 34 55 738 | 58 86 724
+13 | 34 55 777 | 58 86 757
+14 | 34 55 814 | 58 86 787
+Von den Zonen I werden die Flurstücke 46, 47 und 283 der Flur 2 sowie die Flurstücke 341, 385 und 387 der Flur 3 der Gemarkung Hohenfelde teilweise erfasst.
+3. Engere Schutzzone (Zone II)
+Die inneren Grenzen der Zone II verlaufen entlang der Grenzen der Zonen I.
+Die Beschreibung der äußeren Grenze der Zone II erfolgt im Uhrzeigersinn und beginnt an der Flugallee, ca. 320 m südwestlich des Brunnens Nummer 1 (südlichster Brunnen).
+Beginnend ca. 320 m südwestlich des Brunnens Nummer 1 an einem Punkt mit den Koordinaten O: 34 55 309 N: 58 86 044, verläuft die äußere Grenze der Zone II rechtwinklig zur Flugallee ca. 700 m in nordnordöstlicher Richtung entlang einer gedachten geraden Linie, die Forstabteilung 12 querend, bis zur Kreuzung eines Waldweges (Springallee) mit einer aus Nordnordwest her einmündenden Waldschneise, von dort in Verlängerung der gedachten Linie ca. 310 m in nordnordöstlicher Richtung entlang der Waldschneise bis zu einem Punkt mit den Koordinaten O: 34 55 554 N: 58 87 025 an einer von Westnordwest her einmündenden Waldschneise, von dort rechtwinklig nach Ostsüdost abbiegend in Verlängerung der von Westnordwesten her einmündenden Waldschneise 500 m entlang einer gedachten geraden Linie bis zu einem Punkt mit den Koordinaten N: 58 86 899 O: 34 56 035, von dort rechtwinklig nach Südsüdwesten abbiegend ca. 1 012 m entlang einer gedachten geraden Linie bis zu einem Punkt mit den Koordinaten O: 34 55 791 N: 58 85 915 an der Flugallee, von dort ca. 500 m in westlicher Richtung entlang der Flugallee bis zu einem Punkt mit den Koordinaten O: 34 55 309 N: 58 86 044, dem Ausgangspunkt der Beschreibung der äußeren Grenze der Zone II.
+Folgende Flurstücke liegen vollständig oder teilweise (tw.) in der Zone II:
+Gemarkung Hohenfelde,
+Flur 2:
+Flurstücke: | 42 (tw.), 44 (tw.), 46, 47 (tw.), 48 (tw.), 49 (tw.), 188 (tw.), 189, 190 (tw.), 191, 192 (tw.) und 283 (tw.)
+Flur 3:
+Flurstücke: | 341 (tw.), 370 (tw.), 383 (tw.), 384, 385 (tw.), 387 (tw.), 388 (tw.), 389 (tw.) und 390
+4. Weitere Schutzzone (Zone III)
+Die innere Grenze der Zone III verläuft entlang der äußeren Grenze der Zone II.
+Die Beschreibung der äußeren Grenze der Zone III erfolgt im Uhrzeigersinn und beginnt ca. 750 m nordöstlich des Brunnens Nummer 14 am östlichen Deich der Hohensaaten-Friedrichsthaler Wasserstraße an der Teerofenbrücke.
+Beginnend an der Teerofenbrücke verläuft die äußere Grenze der Zone III entlang des Weges auf der Krone des östlichen Deiches der Hohensaaten-Friedrichsthaler Wasserstraße ca. 1 760 m in südlicher Richtung bis zur Grenze zwischen den Gemarkungen Gatow und Hohenfelde, von dort ca. 90 m in südwestlicher Richtung entlang dieser Gemarkungsgrenze, die Hohensaaten-Friedrichsthaler Wasserstraße querend, bis zum Westufer der Hohensaaten-Friedrichsthaler Wasserstraße, von dort ca. 430 m in südlicher Richtung entlang des Westufers bis zu einem Punkt mit den Koordinaten O: 34 55 821 N: 58 85 061, von dort ca. 550 m in westsüdwestlicher Richtung entlang einer gedachten geraden Linie bis zum westlichen Eckpunkt des Flurstückes 67/1 der Flur 1 der Gemarkung Gatow an einem Weg nordwestlich der Ortslage Gatow, von dort in Verlängerung der gedachten Linie entlang dieses Weges ca. 230 m in westsüdwestlicher Richtung bis zu einer Wegkreuzung an der Grenze zwischen den Gemarkungen Gatow und Hohenfelde (Waldrand), von dort ca. 850 m in westnordwestlicher Richtung entlang des Waldweges südlich der Forstabteilungen 6a und 7a1 bis zum südwestlichen Eckpunkt der Forstabteilung 7a1, von dort ca. 710 m in nordwestlicher Richtung entlang des zwischen Feld und Wald verlaufenden Weges bis zur Bundesstraße 2 (B 2), von dort ca. 160 m in nördlicher Richtung entlang der B 2 bis zum südwestlichen Eckpunkt des Flurstückes 202 der Flur 2 der Gemarkung Vierraden am Südrand der Siedlung „Kolonie Wildbahn“, von dort ca. 19 m in westlicher Richtung entlang einer gedachten geraden Linie, die B 2 querend, bis zum südöstlichen Eckpunkt des Flurstückes 53/1 der Flur 2 der Gemarkung Blumenhagen, von dort ca. 255 m entlang der Süd- und Westgrenzen der bebauten Flurstücke der „Kolonie Wildbahn“ bis zu einem an der Grenze zwischen den Gemarkungen Blumenhagen und Hohenfelde verlaufenden Waldweg, von dort ca. 520 m in westnordwestlicher Richtung entlang dieses Weges bis zum südwestlichen Eckpunkt des Flurstückes 31 der Flur 2 der Gemarkung Hohenfelde an einem von Norden her einmündenden Waldweg, von dort ca. 230 m in nordnordöstlicher Richtung entlang dieses Waldweges bis zum nordwestlichen Eckpunkt des Flurstückes 31 an einer Waldwegkreuzung, von dort ca. 475 m in nordwestlicher Richtung entlang des Waldweges südlich der Forstabteilungen 10a6 und 10a7 bis zum Waldrand, von dort ca. 300 m in westlicher, dann ca. 230 m in nordwestlicher Richtung entlang des Waldrandes bis zur Landesstraße 272 (L 272) von Blumenhagen nach Hohenfelde, von dort ca. 620 m in nördlicher Richtung entlang der L 272 bis zu dem am Beginn der Linkskurve nach Norden abzweigenden Weg, von dort ca. 1 530 m in nördlicher Richtung entlang dieses Weges an den westlichen Grenzen der Flure 2 und 3 der Gemarkung Hohenwalde bis zum Waldweg „Gerichtsallee“, von dort ca. 340 m in östlicher Richtung entlang der Gerichtsallee bis zu einem von Norden her einmündenden Waldweg, von dort ca. 600 m in nördlicher Richtung entlang dieses Waldweges bis zum Waldweg „Wolfsallee“, von dort ca. 1 760 m in östlicher Richtung entlang der Wolfsallee, die B 2 kreuzend, bis zum Waldweg „Kuhweg“, von dort ca. 1 250 m in südöstlicher Richtung entlang des Kuhweges bis zur Wolfsallee (östlich der B 2), von dort ca. 740 m in östlicher Richtung entlang der Wolfsallee bis zum Waldrand, von dort ca. 380 m in südlicher Richtung entlang des Waldrandes bis zur Grenze zwischen den Gemarkungen Gatow und Hohenfelde, von dort ca. 90 m in östlicher Richtung entlang der Gemarkungsgrenze bis zum Westufer des Wasserlaufes „Holzgrube“, von dort ca. 395 m in südsüdwestlicher Richtung entlang des Westufers der „Holzgrube“ bis zur Teerofenbrücke, von dort ca. 50 m in ostsüdöstlicher Richtung über die Teerofenbrücke bis zum Weg auf der Deichkrone östlich der Hohensaaten-Friedrichsthaler Wasserstraße, dem Ausgangspunkt der Beschreibung der äußeren Grenze der Zone III.
