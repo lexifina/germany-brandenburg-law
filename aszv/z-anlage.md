@@ -23,8 +23,7 @@
 7.2 | Fahrpersonalverordnung
 7.3 | EG-Kontrollrichtlinienverordnung
 8 | Ladenschlussrecht
-8.1 | Gesetz über den Ladenschluss
-8.2 | Verordnung über die Ladenschlusszeiten für Verkaufsstellen auf Personenbahnhöfen der nichtbundeseigenen Eisenbahnen
+8.1 | Brandenburgisches Ladenöffnungsgesetz
 9 | Jugendarbeitsschutzrecht
 9.1 | Jugendarbeitsschutzgesetz
 9.2 | Jugendarbeitsschutzuntersuchungsverordnung
@@ -144,17 +143,9 @@ Lfd. Nr. | Vorschrift | Verwaltungsaufgabe | Zuständige Behörde
 7.3 | EG-Kontrollrichtlinienverordnung
 7.3.1 | § 4 Abs. 3 und 5 | Entgegennahme der Angaben und Übermittlung an das Bundesministerium für Verkehr, Bau- und Wohnungswesen sowie Bundesamt für Güterverkehr | MASGF
 8 | Ladenschlussrecht
-8.1 | Gesetz über den Ladenschluss
-8.1.1 | § 4 Abs. 2 Satz 1 | Öffnungszeiten für Apotheken | Apothekerkammer
-8.1.2 | § 11, § 12 Abs. 2 Satz 3, § 14 Abs. 1 Satz 2 | Erlass von ordnungsbehördlichen Verordnungen über abweichende Öffnungszeiten an Sonn- und Feiertagen oder an Sonnabenden sowie erweiterte Verkaufszeiten in ländlichen Gebieten | KrOrdB
-8.1.3 | § 17 Abs. 8 | Bewilligung von Ausnahmen | LAS
-8.1.4 | § 19 Abs. 1 | Zulassung Marktverkehr – Großmärkte – Wochenmärkte | KrOrdB OrdB
-8.1.5 | § 20 Abs. 2a | Zulassung des Feilhaltens bestimmter Waren | OrdB
-8.1.6 | § 22 Abs. 1 | Aufsicht über die Einhaltung von Öffnungszeiten | Soweit es sich um die Aufsicht über die Anwendung der §§ 3 bis 15, der §§ 19 bis 21des Ladenschlussgesetzes sowie der zur Ausführung dieser Vorschriften erlassenen Verordnungen handelt: OrdB; im Übrigen LAS
-8.1.7 | § 23 Abs. 1 | Bewilligung von Ausnahmen im Einzelfall | KrOrdB
-8.1.8 | § 24 | Verfolgung und Ahndung von Ordnungswidrigkeiten | Zuständig sind die in Nummer 8.1.6 genannten Behörden
-8.2 | Verordnung über die Ladenschlusszeiten für Verkaufsstellen auf Personenbahnhöfen der nichtbundeseigenen Eisenbahnen
-8.2.1 | § 2 | Bewilligung von Ausnahmen | OrdB
+8.1 | Brandenburgisches Ladenöffnungsgesetz
+8.1.1 | § 9 | Bewilligung von Ausnahmen im Einzelfall | KrOrdB
+8.1.2 | § 12 | Verfolgung und Ahndung von Ordnungswidrigkeiten | Soweit es sich um die Aufsicht über die Anwendung der §§ 3 bis 8 des Ladenöffnungsge-setzes handelt: OrdB/ im Übrigen LAS
 9 | Jugendarbeitsschutzrecht
 9.1 | Jugendarbeitsschutzgesetz
 9.1.1 | § 27 Abs. 2 | Verbot der Beschäftigung, Beaufsichtigung, Anweisung oder Ausbildung von Kindern oder Jugendlichen durch bestimmte Personen | LAS/LBGR
