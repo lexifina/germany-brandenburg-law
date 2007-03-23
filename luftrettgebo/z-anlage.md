@@ -2,7 +2,9 @@
 ## Gebührenverzeichnis
 Tarifstelle | Gegenstand | Gebühr (EUR)
 1 | Für die Benutzung eines Rettungshubschraubers werden je Flugminute erhoben: | 
-1.1 | von der Luftrettungsstation Brandenburg an der Havel ab 01.04.2006 | 42,04
-1.2 | von der Luftrettungsstation Senftenberg ab 01.04.2006 | 44,11
-1.3 | von der Luftrettungsstation Bad Saarow ab 01.04.2006 | 47,19
-2 | Für die Benutzung eines Verlegungshubschraubers von der Luftrettungsstation Senftenberg werden ab 01.04.2006 je Flugminute erhoben: | 40,09
+1.1 | von der Luftrettungsstation Brandenburg an der Havel | 46,98
+1.2 | von der Luftrettungsstation Senftenberg | 48,90
+1.3 | von der Luftrettungsstation Bad Saarow | 55,55
+2 | Für die Benutzung eines Verlegungshubschraubers von der Luftrettungsstation Senftenberg werden je Flugminute erhoben: | 
+2.1 | für Einsätze am Tage | 44,00
+2.2 | für Einsätze in der Nacht | 58.00
