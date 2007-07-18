@@ -13,7 +13,7 @@ Blatt | Unterzeichnung
 4 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
 5 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
 6 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
-7 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 14.08.2006
+7 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 20.06.2007
 8 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
 9 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
 10 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 14.08.2006
@@ -206,7 +206,6 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 175 | Lychen | 16 | 1 250 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 27.1.1997
 176 | Lychen | 17 | 2 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 27.1.1997
 177 | Lychen | 19 | 2 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 27.1.1997
-178 | Lychen | 20 | 2 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 27.1.1997
 179 | Lychen | 21 | 5 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 27.1.1997
 180 | Lychen | 22 | 5 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 27.1.1997
 181 | Lychen | 23 | 2 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 27.1.1997
@@ -266,7 +265,6 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 239 | Rutenberg | 2 | 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
 240 | Rutenberg | 3 | 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
 241 | Rutenberg | 4 | 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
-242 | Rutenberg | 5 | 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
 244 | Rutenberg | 7 | 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
 245 | Rutenberg | 8 | 5 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
 246 | Schapow | 2 | 4 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
@@ -359,3 +357,6 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 243a | Rutenberg | 6 (Teil a) | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 14.08.2006
 243b | Rutenberg | 6 (Teil b) | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 14.08.2006
 268 | Templin | 15 | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 14.08.2006
+178a | Lychen | 20 (Teil 1 von 2) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 20.06.2007
+178b | Lychen | 20 (Teil 2 von 2) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 20.06.2007
+242 | Rutenberg | 5 | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 20.06.2007
