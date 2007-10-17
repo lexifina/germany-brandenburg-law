@@ -1,0 +1,2 @@
+# Siebte Verordnung zur Übertragung der Befugnis für den Erlass von Rechtsverordnungen zur Festsetzung von Naturschutzgebieten und Landschaftsschutzgebieten
+Auf Grund des § 9 Abs. 1 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186) in Verbindung mit § 21 Abs. 1 Satz 3 und § 22 Abs. 2 des Brandenburgischen Naturschutzgesetzes in der Fassung der Bekanntmachung vom 26. Mai 2004 (GVBl. I S. 350) verordnet der Minister für Ländliche Entwicklung, Umwelt und Verbraucherschutz:
