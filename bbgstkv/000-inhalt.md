@@ -27,15 +27,9 @@
 § 23 Feststellung der Prüfungsergebnisse, Zeugnis
 § 24 Ergänzungsprüfung
 ## Abschnitt 4 Anerkennungsprüfung
-§ 25 Antrag auf Zulassung zur Anerkennungsprüfung
-§ 26 Umfang der Anerkennungsprüfung
-§ 27 Feststellung des Prüfungsergebnisses, Zeugnis
+§ 25 (weggefallen) § 26 (weggefallen) § 27 (weggefallen)
 ## Abschnitt 5 Schlussbestimmungen
-§ 28 Folgeänderung
-§ 29 Übergangsbestimmung
-§ 30 In-Kraft-Treten, Außer-Kraft-Treten
+§ 28 Folgeänderung § 29 (weggefallen) § 30 In-Kraft-Treten, Außer-Kraft-Treten
 Anlage 1: Stundentafeln der Schwerpunktkurse
 Anlage 2: Muster des Zeugnisses über die Feststellungsprüfung
 Anlage 3: Muster des Zeugnisses über die Ergänzungsprüfung
-Anlage 4: Muster des Zeugnisses über die Anerkennungsprüfung
-Anlage 5: Zuordnung der Studiengänge zu den Schwerpunktkursen
