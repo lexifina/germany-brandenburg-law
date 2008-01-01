@@ -1,0 +1,2 @@
+# Verordnung zur Aufhebung der Brandenburgischen Umlageverordnung
+Auf Grund des § 22 Abs. 1 des Milch- und Fettgesetzes in der im Bundesgesetzblatt Teil III, Gliederungsnummer 7842-1, veröffentlichten bereinigten Fassung in Verbindung mit § 1 der Verordnung zur Übertragung der Ermächtigungen zum Erlass von Rechtsverordnungen nach dem Milch- und Fettgesetz vom 5. Dezember 1992 (GVBl. II S. 764) verordnet der Minister für Ländliche Entwicklung, Umwelt und Verbraucherschutz:
