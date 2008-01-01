@@ -1,0 +1,2 @@
+# Verordnung über die öffentliche Förderung von Beratungsstellen nach dem Schwangerschaftskonfliktgesetz
+Auf Grund des § 4 Abs. 2 des Brandenburgischen Gesetzes zur Ausführung des Schwangerschaftskonfliktgesetzes vom 12. Juli 2007 (GVBl. I S. 118) verordnet die Ministerin für Arbeit, Soziales, Gesundheit und Familie im Einvernehmen mit dem Minister der Finanzen und auf Grund des § 5 Abs. 2 des Brandenburgischen Gesetzes zur Ausführung des Schwangerschaftskonfliktgesetzes verordnet die Ministerin für Arbeit, Soziales, Gesundheit und Familie:
