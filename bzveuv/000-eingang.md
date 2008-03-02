@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von beamtenrechtlichen Zuständigkeiten für die Beamtinnen und Beamten der Stiftung Europa-Universität Viadrina Frankfurt (Oder) (Beamtenzuständigkeitsverordnung Stiftung EUV - BZVEUV)
+Auf Grund des § 13 Abs. 2 des Gesetzes über die Errichtung der „Stiftung Europa-Universität Viadrina Frankfurt (Oder)“ vom 14. Dezember 2007 (GVBl. I S. 206) verordnet die Ministerin für Wissenschaft, Forschung und Kultur im Einvernehmen mit dem Minister der Finanzen:
