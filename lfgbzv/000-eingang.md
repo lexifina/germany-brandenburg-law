@@ -1,0 +1,2 @@
+# Verordnung über die Zuständigkeiten nach dem Lebensmittel- und Futtermittelgesetzbuch, dem Verbraucherinformationsgesetz und weiteren Vorschriften (LFGBZV)
+Auf Grund des § 9 Abs. 2 und 4 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186) und des § 36 Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) verordnet die Landesregierung:
