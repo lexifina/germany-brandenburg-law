@@ -1,0 +1,2 @@
+# Verordnung über die Zuständigkeit in Namensänderungsangelegenheiten
+Auf Grund des § 13 a des Gesetzes über die Änderung von Familiennamen und Vornamen, der durch Artikel 13 des Gesetzes vom 10. März 1975 (BGBl. I S. 685) eingefügt worden ist und auf Grund des Artikels I § 2 Abs. 3 der Ersten Verordnung zur Durchführung des Gesetzes über die Änderung von Familiennamen und Vornamen, der durch Artikel 11 der Verordnung vom 18. April 1975 (BGBl. I S. 967) eingefügt worden ist, verordnet die Landesregierung:
