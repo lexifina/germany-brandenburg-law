@@ -1,0 +1,2 @@
+# § 13a Beitreibung privatrechtlicher Forderungen
+Die Gemeinden und Gemeindeverbände können privatrechtliche Entgelte im Sinne des § 6 Abs. 1 Satz 1 Halbsatz 2, Baukostenzuschüsse nach § 8 Abs. 9 und Kostenerstattungen nach § 10 der Verordnung über Allgemeine Bedingungen für die Versorgung mit Wasser im Verwaltungszwangsverfahren beitreiben, wenn sich der Schuldner dieser Forderungen durch schriftlichen Vertrag oder schriftliche Erklärung zu einer Geldleistung verpflichtet und der sofortigen Vollstreckung unterworfen hat.
