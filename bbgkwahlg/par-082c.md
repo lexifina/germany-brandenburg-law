@@ -1,0 +1,3 @@
+# § 82c Wahlberechtigung, Wählbarkeit und Inkompatibilität
+(1) Wahlberechtigt sind alle Personen, die nach den §§ 8 und 9 wahlberechtigt sind und in dem Ortsteil ihren ständigen Wohnsitz oder gewöhnlichen Aufenthalt haben. Wählbar sind alle wahlberechtigten Personen, die nach § 11 wählbar sind und in dem Ortsteil ihren ständigen Wohnsitz oder gewöhnlichen Aufenthalt haben.
+(2) Personen, die nach § 12 nicht zugleich Mitglied der Vertretung der Gemeinde sein können, und der hauptamtliche Bürgermeister oder Oberbürgermeister der Gemeinde können nicht zugleich Mitglied des Ortsbeirates sein oder das Amt des Ortsvorstehers ausüben, wenn der betreffende Ortsteil in dieser Gemeinde gelegen ist.
