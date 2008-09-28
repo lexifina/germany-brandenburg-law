@@ -1,0 +1,2 @@
+# § 20a Erstaufnahmeeinrichtungen und Gemeinschaftsunterkünfte für Aussiedler, Asylbewerber und Ausländer
+Aussiedler, Asylbewerber und Ausländer nach § 2 des Landesaufnahmegesetzes, die im Land Brandenburg in Erstaufnahmeeinrichtungen und Gemeinschaftsunterkünften Aufnahme finden, unterliegen der allgemeinen Meldepflicht ungeachtet der voraussichtlichen Dauer ihres Aufenthaltes in der Einrichtung. § 12 Abs. 3 Satz 4 und 6 bleibt unberührt.
