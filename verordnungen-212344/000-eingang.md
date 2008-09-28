@@ -1,0 +1,2 @@
+# Verordnung über die Zuständigkeiten zur Durchführung der Verordnung (EWG) Nr. 2078/92 des Rates für umweltgerechte und den natürlichen Lebensraum schützende landwirtschaftliche Produktionsverfahren
+Auf Grund des § 21 des Landwirtschaftsförderungsgesetzes vom 14. Februar 1994 (GVBl. I S. 30) verordnet der Minister für Ernährung, Landwirtschaft und Forsten im Einvernehmen mit dem Minister des Innern:
