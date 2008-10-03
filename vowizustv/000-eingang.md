@@ -1,0 +1,2 @@
+# Verordnung zur Bestimmung der für die Verfolgung und Ahndung von Verkehrsordnungswidrigkeiten zuständigen Verwaltungsbehörden (Verkehrsordnungswidrigkeitenzuständigkeitsverordnung - VOWiZustV)
+Auf Grund des § 26 Abs. 1 Satz 1 des Straßenverkehrsgesetzes vom 19. Dezember 1952 (BGBl. I S. 837), zuletzt geändert durch Artikel 1 Nr. 3 des Gesetzes vom 20. Juli 1973 (BGBl. I S. 870), sowie des § 36 Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBI. I S. 602) verordnet die Landesregierung:
