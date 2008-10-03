@@ -1,0 +1,2 @@
+# Verordnung über die Anerkennung von Prüfingenieurinnen und Prüfingenieuren und über die bautechnischen Prüfungen im Land Brandenburg (Brandenburgische Bautechnische Prüfungsverordnung - BbgBauPrüfV)
+Auf Grund des § 80 Abs. 2, 3 und 5 der Brandenburgischen Bauordnung vom 16. Juli 2003 (GVBl. I S. 210), der zuletzt durch Artikel 1 Nr. 27 des Gesetzes vom 14. Juli 2008 (GVBl. I S. 172, 176) geändert worden ist, verordnet der Minister für Infrastruktur und Raumordnung:
