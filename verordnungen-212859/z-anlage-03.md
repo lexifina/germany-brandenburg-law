@@ -2,7 +2,7 @@
 ### 1. Topografische Karten Maßstab 1 : 10 000
 Titel: Übersichtskarte zur Verordnung über das Landschaftsschutzgebiet „Königswald mit Havelseen und Seeburger Agrarlandschaft“
 Kartenblatt | Unterzeichnung
-N-33-122-B-d-4 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des Ministeriums für Umwelt, Naturschutz und Raumordnung (MUNR), Siegelnummer 9, am 7.12.1998
+N-33-122-B-d-4 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz, am 8.7.2008
 N-33-122-D-b-2 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 7.12.1998
 N-33-122-D-b-4 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 7.12.1998
 N-33-123-A-c-3 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 7.12.1998
@@ -34,9 +34,8 @@ Blatt- Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 15 | Döberitz | 15 | 2 500 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 7.12.1998
 16 | Döberitz | 16 | 4 000 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 7.12.1998
 17 | Döberitz | 17 | 4 000 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 7.12.1998
-18 | Elstal | 16 | 2 500 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 7.12.1998
 19 | Elstal | 18 | 2 500 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 7.12.1998
-20 | Fahrland | 21 | 2 500 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 7.12.1998
+20 | Elstal | 21 | 2 500 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 7.12.1998
 21 | Fahrland | 1 | 2 500 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 7.12.1998
 22 | Fahrland | 2 | 2 500 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 7.12.1998
 23 | Fahrland | 3 | 2 500 | unterzeichnet von dem Bearbeiter Herrn Meidler und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 7.12.1998
@@ -100,3 +99,4 @@ Blatt- Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 56b | Neu Fahrland | 4 | 1 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 29.10.2007
 75a | Seeburg | 3 | 3 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 29.10.2007
 75b | Seeburg | 3 | 3 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 29.10.2007
+18 | Elstal | 16 | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 8.7.2008
