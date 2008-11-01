@@ -1,0 +1,2 @@
+# Verordnung über Zuständigkeiten nach dem Fleischgesetz (FlGZV)
+Auf Grund des § 9 Absatz 2 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186) und des § 36 Absatz 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) verordnet die Landesregierung und auf Grund des Artikels 7 des Landwirtschaftsstaatsvertrages vom 20. April 2004 (GVBl. I S. 165) verordnet der Minister für Ländliche Entwicklung, Umwelt und Verbraucherschutz:
