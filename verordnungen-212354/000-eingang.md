@@ -1,0 +1,2 @@
+# Verordnung über die Aufhebung des Wasserschutzgebietes für die Notbrunnen I und II des Wasserwerkes Groß Glienicke
+Auf Grund des § 15 Abs. 4 des Brandenburgischen Wassergesetzes in der Fassung der Bekanntmachung vom 8. Dezember 2004 (GVBl. 2005 I S. 50), der zuletzt durch Artikel 1 Nr. 16 Buchstabe a des Gesetzes vom 23. April 2008 (GVBl. I S. 62, 67) geändert worden ist, verordnet der Minister für Ländliche Entwicklung, Umwelt und Verbraucherschutz:
