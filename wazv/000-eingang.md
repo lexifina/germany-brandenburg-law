@@ -1,0 +1,2 @@
+# Verordnung über die Zuständigkeit der obersten und der oberen Wasserbehörde (Wasserbehördenzuständigkeitsverordnung - WaZV)
+Auf Grund des § 126 Abs. 1 zweiter Halbsatz des Brandenburgischen Wassergesetzes in der Fassung der Bekanntmachung vom 8. Dezember 2004 (GVBl. 2005 I S. 50), der durch Artikel 1 Nr. 130 des Gesetzes vom 23. April 2008 (GVBl. I S. 62, 86) neu gefasst worden ist, verordnet der Minister für Ländliche Entwicklung, Umwelt und Verbraucherschutz:
