@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung der Ermächtigung nach § 82a Abs. 8 des Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit
+Auf Grund des § 82a Abs. 8 des Gesetzes über die Angelegenheiten der freiwilligen Gerichtsbarkeit in der im Bundesgesetzblatt Teil III, Gliederungsnummer 315-1, veröffentlichten bereinigten Fassung, der durch Artikel 2 Abs. 13 Nr. 4 des Gesetzes vom 19. Februar 2007 (BGBl. I S. 122, 140) eingefügt worden ist, verordnet die Landesregierung:
