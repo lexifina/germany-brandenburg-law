@@ -1,0 +1,2 @@
+# Verordnung zur Bestimmung der für die Verfolgung und Ahndung von Ordnungswidrigkeiten zuständigen Verwaltungsbehörden nach dem Dritten Teil des Gesetzes über Ordnungswidrigkeiten, nach dem Passgesetz und nach dem Personalausweisgesetz (Ordnungswidrigkeitenzuständigkeitsverordnung - OWiZustV)
+Auf Grund des § 36 Abs. 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) sowie des § 5 Abs. 2 Satz 2 des Landesorganisationsgesetzes verordnet die Landesregierung:
