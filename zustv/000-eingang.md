@@ -1,0 +1,2 @@
+# Verordnung über die zuständige Behörde zur Anfechtung der Vaterschaft (AV-ZustV)
+Auf Grund des § 1600 Absatz 6 Satz 1 des Bürgerlichen Gesetzbuches in der Fassung der Bekanntmachung vom 2. Januar 2002 (BGBl. I S. 42, 2909; 2003 I S. 738), der durch Artikel 1 Nummer 1 Buchstabe e des Gesetzes vom 13. März 2008 (BGBl. I S. 313) eingefügt worden ist, und des § 16 Absatz 2 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186) verordnet die Landesregierung:
