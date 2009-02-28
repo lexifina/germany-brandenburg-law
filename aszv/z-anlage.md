@@ -3,6 +3,7 @@
 1 | Arbeitsschutzgesetz und darauf beruhende Verordnungen
 1.1 | Arbeitsschutzgesetz
 1.2 | Arbeitsstättenverordnung
+1.3 | Lärm- und Vibrations-Arbeitsschutzverordnung
 2 | Unfallversicherungsrecht
 2.1 | Fünftes Buch Sozialgesetzbuch
 2.2 | Siebtes Buch Sozialgesetzbuch
@@ -21,7 +22,6 @@
 7 | Fahrpersonalrecht
 7.1 | Fahrpersonalgesetz
 7.2 | Fahrpersonalverordnung
-7.3 | EG-Kontrollrichtlinienverordnung
 8 | Ladenschlussrecht
 8.1 | Brandenburgisches Ladenöffnungsgesetz
 9 | Jugendarbeitsschutzrecht
@@ -40,13 +40,13 @@
 14 | Sprecherausschussgesetz
 15 | Gesetz über Europäische Betriebsräte
 16 | Gesetz über die Beteiligung der Arbeitnehmer in einer Europäischen Gesellschaft
+17 | Gesetz über die Pflegezeit
 II. Erläuterungen zum nachfolgenden Verzeichnis
 1. | Im Verzeichnis verwendete Abkürzungen
  | MASGF | Ministerium für Arbeit, Soziales, Gesundheit und Familie
  | LAS | Landesamt für Arbeitsschutz
  | MW | Ministerium für Wirtschaft
  | LBGR | Landesamt für Bergbau, Geologie und Rohstoffe
- | LDS | Landesbetrieb für Datenverarbeitung und Statistik
  | KrOrdB | Kreisordnungsbehörden
  | OrdB | örtliche Ordnungsbehörden
  | PP | Polizeipräsidien
@@ -72,6 +72,10 @@ Lfd. Nr. | Vorschrift | Verwaltungsaufgabe | Zuständige Behörde
 1.1.12 | § 25 | Verfolgung und Ahndung von Ordnungswidrigkeiten | LAS
 1.2 | Arbeitsstättenverordnung
 1.2.1 | § 3 Abs. 3 | Zulassung von Ausnahmen auf Antrag des Arbeitgebers | LAS/Bauaufsichtsbehörde für Arbeitsstätten vor deren Nutzung
+1.3 | Lärm- und Vibrations-Arbeitsschutzverordnung | 
+1.3.1 | § 14 Abs. 5 | Entscheidung über das Untersuchungsergebnis auf Antrag des Arbeitgebers oder der untersuchten Person | LAS
+1.3.2 | § 15 Abs. 1 | Erteilung von Ausnahmen auf Antrag des Arbeitgebers, Überprüfung der Ausnahmen | LAS
+1.3.3 | § 15 Abs. 2 | Zulassung der Anwendung der Wochen-Lärmexpositionspegel auf Antrag des Arbeitgebers | LAS
 2 | Unfallversicherungsrecht
 2.1 | Fünftes Buch Sozialgesetzbuch
 2.1.1 | § 20 Abs. 2 | Entgegennahme von Mitteilungen über das Vorliegen einerberufsbedingten gesundheitlichen Gefährdung oder einer Berufskrankheit durch die Krankenkassen | LAS
@@ -106,7 +110,7 @@ Lfd. Nr. | Vorschrift | Verwaltungsaufgabe | Zuständige Behörde
 3.2.8 | § 16 Abs. 1 Satz 3, § 16 Abs. 3 Satz 2 | Verlangen der Vorlage der Gesundheitskartei Entgegennahme und Aufbewahrung der Karteikarten | LAS
 3.2.9 | § 18 Abs. 2 | Erteilung des Befähigungsscheines | LAS/LBGR
 3.3 | Verordnung über die Verpflichtung der Arbeitgeber zu Mitteilungen an die für die Gewerbeaufsicht zuständigen Landesbehörden
-3.3.1 | § 1 Abs. 1 | Entgegennahme von Mitteilungen | LDS
+3.3.1 | § 1 Abs. 1 | Entgegennahme von Mitteilungen | Amt für Statistik Berlin-Brandenburg
 3.3.2 | § 1 Abs. 1 | Bestimmung des Zeitpunktes für die Mitteilung | MASGF
 3.3.3 | § 3 | Verlangen von Auskünften | LAS
 4 | Gesetz über Betriebsärzte, Sicherheitsingenieure und andere Fachkräfte für Arbeitssicherheit
@@ -118,14 +122,9 @@ Lfd. Nr. | Vorschrift | Verwaltungsaufgabe | Zuständige Behörde
 5.2.1 | § 12 | Verlangen der Vorlage des Seediensttauglichkeitszeugnisses | LAS
 6 | Allgemeines Arbeitszeitrecht
 6.1 | Arbeitszeitgesetz
-6.1.1 | § 13 Abs. 3 Nr. 1 | Feststellung, ob eine Beschäftigung nach § 10 zulässig ist | LAS/LBGR
-6.1.2 | § 13 Abs. 3 Nr. 2 | Bewilligung von Abweichungen von § 9 | LAS/LBGR
-6.1.3 | § 13 Abs. 4 | Bewilligung von Abweichungen von § 9 | LAS/LBGR
-6.1.4 | § 13 Abs. 5 | Bewilligung von Abweichungen von § 9 | LAS/LBGR
-6.1.5 | § 15 Abs. 1 | Bewilligung von Ausnahmen | LAS/LBGR
-6.1.6 | § 15 Abs. 2 | Zulassung von Ausnahmen im öffentlichen Interesse | MASGF/LBGR
-6.1.7 | § 17 | Aufsicht und Anordnung von Maßnahmen, soweit keine andereZuständigkeit benannt ist | LAS/LBGR
-6.1.8 | § 22 | Verfolgung und Ahndung von Ordnungswidrigkeiten | LAS/LBGR
+6.1.1 | § 15 Abs. 2 | Zulassung von Ausnahmen im öffentlichen Interesse | MASGF/LBGR
+6.1.2 | § 17 | Aufsicht und Anordnung von Maßnahmen, soweit keine andereZuständigkeit benannt ist | LAS/LBGR
+6.1.3 | § 22 | Verfolgung und Ahndung von Ordnungswidrigkeiten | LAS/LBGR
 6.2 | Verordnung über Ausnahmen vom Verbot der Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen in der Papierindustrie
 6.2.1 | § 8 Abs. 2 Satz 1 | Anordnung über die Vorlage oder Einsendung des Verzeichnisses über Sonntagsbeschäftigung | LAS
 6.3 | Verordnung über Ausnahmen vom Verbot der Beschäftigung von Arbeitnehmern an Sonn- und Feiertagen in der Eisen- und Stahlindustrie
@@ -135,23 +134,23 @@ Lfd. Nr. | Vorschrift | Verwaltungsaufgabe | Zuständige Behörde
 7.1.1 | § 4 Abs. 1 | Durchführung der Aufsicht | Im Rahmen der Verkehrsüberwachung PP; im Übrigen LAS/LBGR
 7.1.2 | § 4 Abs. 3 | Einholen von Auskünften, Aushändigen oder Einsenden der Unterlagen | Im Rahmen der Verkehrsüberwachung PP; im Übrigen LAS/LBGR
 7.1.3 | § 4a | Erteilung von Fahrer-, Werkstatt- oder Unternehmerkarten | KrOrdB
-7.1.4 | § 5 Abs. 1 | Untersagung der Fortsetzung der Fahrt | Im Rahmen der Verkehrsüberwachung PP; im Übrigen LAS/LBGR
-7.1.5 | § 8 Abs. 1 | Verfolgung und Ahndung von Ordnungswidrigkeiten | Für Verfahren gegen Fahrer, Beifahrer und Schaffner der Zentraldienst der Polizei mit seiner Zentralen Bußgeldstelle der Polizei für die Ahndung, daneben die PP für die Verfolgung einschließlich der Erteilung von Verwarnungen; im Übrigen LAS/LBGR
+7.1.4 | § 4b | Abruf von Daten | KrOrdB, Zentraldienst der Polizei mit seiner Zentralen Bußgeldstelle der Polizei, daneben die PP; im Übrigen LAS
+7.1.5 | §§ 5 und 7 | Untersagung der Fortsetzung der Fahrt, Sicherstellung einer gefälschten Fahrerkarte und einer verwendeten Fahrerkarte, welche auf Grundlage falscher Erklärungen oder gefälschter Dokumente erwirkt wurden | Im Rahmen der Verkehrsüberwachung PP; im Übrigen LAS/LBGR
+7.1.6 | §§ 8 und 8a | Verfolgung und Ahndung von Ordnungswidrigkeiten | Für Verfahren gegen Fahrerinnen und Fahrer, Beifahrerinnen und Beifahrer, Schaffnerinnen und Schaffner der Zentraldienst der Polizei mit seiner Zentralen Bußgeldstelle der Polizei für die Ahndung, daneben im Rahmen der Verkehrsüberwachung die PP für die Verfolgung einschließlich der Erteilung von Verwarnungen; im Übrigen LAS/LBGR
 7.2 | Fahrpersonalverordnung
-7.2.1 | § 4 | Verlangen der Bescheinigung über arbeitsfreie Tage | Im Rahmen der Verkehrsüberwachung PP; im Übrigen LAS/LBGR
-7.2.2 | § 6 Abs. 3 Nr. 2 | Bewilligung von Abweichungen | LAS
-7.3 | EG-Kontrollrichtlinienverordnung
-7.3.1 | § 4 Abs. 3 und 5 | Entgegennahme der Angaben und Übermittlung an das Bundesministerium für Verkehr, Bau- und Wohnungswesen sowie Bundesamt für Güterverkehr | MASGF
+7.2.1 | § 1 Abs. 3 Nr. 2 | Bewilligung von Abweichungen | LAS
+7.2.2 | § 8 | Rücknahme von Speicherkarten | KrOrdB
+7.2.3 | § 20 Abs. 1 und 2 | Verlangen des Nachweises über berücksichtigungsfreie Tage, der Unternehmerbescheinigungen | Im Rahmen der Verkehrsüberwachung PP; im Übrigen LAS/LBGR
+7.2.4 | §§ 21 bis 25 | Verfolgung und Ahndung von Ordnungswidrigkeiten | Für Verfahren gegen Fahrerinnen und Fahrer, Beifahrerinnen und Beifahrer, Schaffnerinnen und Schaffner der Zentraldienst der Polizei mit seiner Zentralen Bußgeldstelle der Polizei für Ahndung, daneben die PP für die Verfolgung einschließlich der Erteilung von Verwarnungen; im Übrigen LAS/LBGR
 8 | Ladenschlussrecht
 8.1 | Brandenburgisches Ladenöffnungsgesetz
-8.1.1 | § 9 | Bewilligung von Ausnahmen im Einzelfall | KrOrdB
-8.1.2 | § 12 | Verfolgung und Ahndung von Ordnungswidrigkeiten | Soweit es sich um die Aufsicht über die Anwendung der §§ 3 bis 8 des Ladenöffnungsge-setzes handelt: OrdB/ im Übrigen LAS
+8.1.1 | § 9 | Bewilligung von Ausnahmen im Einzelfall | 
+8.1.2 | § 12 | Verfolgung und Ahndung von Ordnungswidrigkeiten | Soweit es sich um die Aufsicht über die Anwendung der §§ 3 bis 8 des Ladenöffnungsgesetzes handelt: OrdB/ im Übrigen LAS
 9 | Jugendarbeitsschutzrecht
 9.1 | Jugendarbeitsschutzgesetz
-9.1.1 | § 27 Abs. 2 | Verbot der Beschäftigung, Beaufsichtigung, Anweisung oder Ausbildung von Kindern oder Jugendlichen durch bestimmte Personen | LAS/LBGR
-9.1.2 | § 51 Abs. 1 | Aufsicht über die Ausführung der Vorschriften und Wahrnehmung der Befugnisse aus § 51 Abs. 2 | Hinsichtlich der Aufsicht über die Ausführung der Verordnung über das Verbot der Beschäftigung von Personen unter 18 Jahren mit sittlich gefährdenden Tätigkeiten: OrdB; im Übrigen LAS/LBGR
-9.1.3 | § 55 Abs. 1 | Bildung des Landesausschusses für Jugendarbeitsschutz | MASGF
-9.1.4 | § 58 Abs. 1 bis 3 § 59 Abs. 1 und 2 | Verfolgung und Ahndung von Ordnungswidrigkeiten | LAS/LBGR
+9.1.1 | § 51 Abs. 1 | Aufsicht über die Ausführung der Vorschriften und Wahrnehmung der Befugnisse aus § 51 Abs. 2 | Hinsichtlich der Aufsicht über die Ausführung der Verordnung über das Verbot der Beschäftigung von Personen unter 18 Jahren mit sittlich gefährdenden Tätigkeiten: OrdB; im Übrigen LAS/LBGR
+9.1.2 | § 55 Abs. 1 | Bildung des Landesausschusses für Jugendarbeitsschutz | MASGF
+9.1.3 | § 58 Abs. 1 bis 3 § 59 Abs. 1 und 2 | Verfolgung und Ahndung von Ordnungswidrigkeiten | LAS/LBGR
 9.2 | Jugendarbeitsschutzuntersuchungsverordnung
 9.2.1 | § 2 | Ausgabe von Untersuchungsberechtigungsscheinen Entgegennahme der abzugeltenden Untersuchungsberechtigungsscheine und Veranlassung der Vergütung | Gesundheitsamt LAS für Nachuntersuchungen/ Gesundheitsamt für Erstuntersuchungen
 9.3 | Kinderarbeitsschutzverordnung
@@ -167,25 +166,12 @@ Lfd. Nr. | Vorschrift | Verwaltungsaufgabe | Zuständige Behörde
 11.1 | Heimarbeitsgesetz
 11.1.1 | § 3 Abs. 2 | Aufsicht über die Durchführung dieses Gesetzes, soweit nicht der obersten Arbeitsschutzbehörde vorbehalten | LAS
 11.1.2 | § 4 Abs. 1 und 4 | Errichtung von Heimarbeitsausschüssen | MASGF
-11.1.3 | § 6 Satz 3 und 4 | Entgegennahme und Weiterleitung der Heimarbeitslisten | LAS
-11.1.4 | § 7 Abs. 1 | Entgegennahme der Mitteilung über die erstmalige Ausgabe von Heimarbeit | LAS
-11.1.5 | § 9 Abs. 2 | Genehmigung der Ausgabe von Entgelt oder Arbeitszetteln in Bezug auf Entgeltbelege | LAS
-11.1.6 | § 9 Abs. 3 Satz 2 und 3 | Aufforderung zur Vorlage der Entgeltbelege | LAS
-11.1.7 | § 10 Satz 2 | Schutz vor Zeitversäumnis | LAS
-11.1.8 | § 14 Abs. 2 | Erlass von Verfügungen zur Durchführung des öffentlichen Gesundheitsschutzes | OrdB im Benehmen mit LAS
-11.1.9 | § 15 | Entgegennahme der Anzeige des Arbeitgebers für Heimarbeit mit besonderen Gefahrenschutzvorschriften | LAS
-11.1.10 | § 16a | Erlass von Maßnahmen zur Durchführung des Arbeits- und Gefahrenschutzes | LAS
-11.1.11 | § 19 Abs. 3 Satz 3 | Billigung von Vergleichen | LAS
-11.1.12 | § 22 Abs. 3 Satz 1 | Errichtung von Entgeltausschüssen für fremde Hilfskräfte | MASGF
-11.1.13 | § 23 | Prüfung der Entgelte und sonstigen Vertragsbedingungen | LAS
-11.1.14 | §§ 24, 26 | Aufforderung zur Nachzahlung von Minderbeträgen und sonstigen Geldleistungen | LAS
-11.1.15 | § 25 | Gerichtliche Geltendmachung des Anspruchs auf Nachzahlung des Minderbetrages | LAS
-11.1.16 | § 30 | Verbot der Ausgabe von Heimarbeit | LAS
-11.1.17 | §§ 30, 32a | Verfolgung und Ahndung von Ordnungswidrigkeiten | LAS
+11.1.3 | § 14 Abs. 2 | Erlass von Verfügungen zur Durchführung des öffentlichen Gesundheitsschutzes | OrdB im Benehmen mit LAS
+11.1.4 | § 22 Abs. 3 Satz 1 | Errichtung von Entgeltausschüssen für fremde Hilfskräfte | MASGF
 11.2 | Erste Rechtsverordnung zur Durchführung des Heimarbeitsgesetzes
 11.2.1 | § 4 Abs. 1 Satz 1 | Beisitzer berufen | MASGF
 12 | Berufskrankheiten-Verordnung
-12.1 | Gesamter Verordnungstext | Alle behördlichen Aufgaben | LAS/LBGR
+12.1 | Gesamter Verordnungstext | Alle behördlichen Aufgaben | LAS
 13 | Betriebsverfassungsgesetz
 13.1 | § 121 | Verfolgung und Ahndung von Ordnungswidrigkeiten | LAS
 14 | Sprecherausschussgesetz
@@ -194,3 +180,5 @@ Lfd. Nr. | Vorschrift | Verwaltungsaufgabe | Zuständige Behörde
 15.1 | § 45 | Verfolgung und Ahndung von Ordnungswidrigkeiten | LAS
 16 | Gesetz über die Beteiligung der Arbeitnehmer in einer Europäischen Gesellschaft
 16.1 | § 46 | Bußgeldvorschriften | LAS
+17. | Gesetz über die Pflegezeit | 
+17.1 | § 5 Abs. 2 | Erklärung der Zulässigkeit einer Kündigung | LAS/LBGR
