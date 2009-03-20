@@ -1,0 +1,2 @@
+# Verordnung zur Durchführung von Ausgleichs- und Ersatzmaßnahmen in Maßnahmen- und Flächenpools in Brandenburg (Flächenpoolverordnung - FPV)
+Auf Grund des § 14 Absatz 2 des Brandenburgischen Naturschutzgesetzes in der Fassung der Bekanntmachung vom 26. Mai 2004 (GVBl. I S. 350), der durch Artikel 7 Nummer 2 des Gesetzes vom 28. Juni 2006 (GVBl. I S. 74, 79) neu gefasst worden ist, verordnet der Minister für Ländliche Entwicklung, Umwelt und Verbraucherschutz:
