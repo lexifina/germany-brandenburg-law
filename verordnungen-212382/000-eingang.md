@@ -1,0 +1,2 @@
+# Verordnung zur Festsetzung des Wasserschutzgebietes Königs Wusterhausen
+Auf Grund des § 19 Absatz 1 Nummer 1 und Absatz 2 des Wasserhaushaltsgesetzes in der Fassung der Bekanntmachung vom 19. August 2002 (BGBl. I S. 3245) in Verbindung mit § 15 Absatz 1 des Brandenburgischen Wassergesetzes in der Fassung der Bekanntmachung vom 8. Dezember 2004 (GVBl. 2005 I S. 50), der zuletzt durch Artikel 1 Nummer 16 Buchstabe a des Gesetzes vom 23. April 2008 (GVBl. I S. 62, 67) geändert worden ist, verordnet der Minister für Ländliche Entwicklung, Umwelt und Verbraucherschutz:
