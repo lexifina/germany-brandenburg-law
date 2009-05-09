@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von Aufgaben des Wasserwirtschaftsamtes an die Gewässerunterhaltungsverbände (Unterhaltungsverbändezuständigkeitsverordnung - UVZV)
+Auf Grund des § 126 Absatz 3 Satz 4 des Brandenburgischen Wassergesetzes in der Fassung der Bekanntmachung vom 8. Dezember 2004 (GVBl. 2005 I S. 50), der durch Artikel 1 Nummer 130 Buchstabe d des Gesetzes vom 23. April 2008 (GVBl. I S. 62, 86) neu gefasst worden ist, verordnet der Minister für Ländliche Entwicklung, Umwelt und Verbraucherschutz:
