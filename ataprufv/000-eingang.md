@@ -1,0 +1,2 @@
+# Verordnung über die Prüfung zur Ausübung der Tätigkeit als Amtstierarzt in der Veterinärverwaltung (Amtstierärzteprüfungsverordnung - ATäPrüfV)
+Auf Grund des § 3 Absatz 2 des Gesetzes zur Ausführung des Tierseuchengesetzes in der Fassung der Bekanntmachung vom 17. Dezember 2001 (GVBl. 2002 I S. 14), der zuletzt durch Artikel 2 des Gesetzes vom 3. Dezember 2008 (GVBl. I S. 294) geändert worden ist, verordnet der Minister für Ländliche Entwicklung, Umwelt und Verbraucherschutz:
