@@ -1,0 +1,2 @@
+# Verordnung über Anforderungen an Hersteller von Bauprodukten und Anwender von Bauarten im Land Brandenburg (Brandenburgische Hersteller- und Anwenderverordnung - BbgHAV)
+Auf Grund des § 14 Absatz 5 in Verbindung mit § 18 Absatz 1 Satz 2 der Brandenburgischen Bauordnung in der Fassung der Bekanntmachung vom 17. September 2008 (GVBl. I S. 226) verordnet der Minister für Infrastruktur und Raumordnung:
