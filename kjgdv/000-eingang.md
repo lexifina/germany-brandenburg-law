@@ -1,0 +1,2 @@
+# Verordnung über die Aufgaben des Kinder- und Jugendgesundheitsdienstes der Gesundheitsämter nach § 6 Absatz 2 des Brandenburgischen Gesundheitsdienstgesetzes (Kinder- und Jugendgesundheitsdienst-Verordnung - KJGDV)
+Auf Grund des § 6 Absatz 4 des Brandenburgischen Gesundheitsdienstgesetzes vom 23. April 2008 (GVBl. I S. 95) verordnet die Ministerin für Arbeit, Soziales, Gesundheit und Familie im Einvernehmen mit dem Minister für Bildung, Jugend und Sport:
