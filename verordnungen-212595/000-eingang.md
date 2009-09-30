@@ -1,0 +1,2 @@
+# Verordnung über das Einleiten oder Einbringen von Abwasser in öffentliche Abwasseranlagen (Indirekteinleiterverordnung)
+Auf Grund des § 72 Absatz 1 des Brandenburgischen Wassergesetzes in der Fassung der Bekanntmachung vom 8. Dezember 2004 (GVBl. I S. 50), der zuletzt durch Artikel 1 Nummer 80 des Gesetzes vom 23. April 2008 (GVBl. I S. 62, 78) geändert worden ist, verordnet der Minister für Ländliche Entwicklung, Umwelt und Verbraucherschutz:
