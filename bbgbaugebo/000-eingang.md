@@ -1,0 +1,2 @@
+# Verordnung über die Gebühren in bauordnungsrechtlichen Angelegenheiten im Land Brandenburg (Brandenburgische Baugebührenordnung - BbgBauGebO)
+Auf Grund des § 3, des § 7 Absatz 1 Nummer 1 und des § 18 Absatz 2 des Gebührengesetzes für das Land Brandenburg vom 7. Juli 2009 (GVBl. I S. 246) sowie auf Grund des § 80 Absatz 3 Nummer 8, 10 und 11 der Brandenburgischen Bauordnung in der Fassung der Bekanntmachung vom 17. September 2008 (GVBl. I S. 226) verordnet der Minister für Infrastruktur und Raumordnung:
