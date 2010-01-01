@@ -1,0 +1,2 @@
+# Verordnung über die Arbeitszeit für die Beamten des Polizeivollzugsdienstes, des feuerwehrtechnischen Dienstes und des Justizvollzugsdienstes des Landes Brandenburg (Brandenburgische Arbeitszeitverordnung Polizei, Feuerwehr, Justizvollzug - BbgAZVPFJ)
+Auf Grund des § 76 Absatz 1 Satz 2 des Landesbeamtengesetzes vom 3. April 2009 (GVBl. I S. 26) verordnen der Minister des Innern und die Ministerin der Justiz:
