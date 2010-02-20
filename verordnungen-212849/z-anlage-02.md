@@ -10,7 +10,7 @@ Kartenblatt | Unterzeichnung
 3544 SW | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 3643 NO | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz (MLUV), am 23.02.2009
 3643 NW | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
-3643 SO | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 11.05.2006
+3643 SO | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV), am 29. Dezember 2009
 3643 SW | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 3644 NW | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 3644 SO | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
@@ -101,7 +101,6 @@ Blatt-Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 71 | Ferch | 6 | 2 500 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 72 | Ferch | 7 | 2 500 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 73 | Ferch | 8 | 2 500 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
-74 | Ferch | 9 | 500 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 75 | Ferch | 10 | 500 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 76 | Ferch | 11 | 4 000 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 77 | Ferch | 12 | 5 000 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
@@ -217,3 +216,4 @@ Blatt-Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 150a | Werder | 26 teilw. | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 11.05.2006
 150b | Werder | 26 teilw. | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 11.05.2006
 81 | Geltow | 3 | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 23.02.2009
+74 | Ferch | 9 | 1 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 22 des MUGV, am 29. Dezember 2009
