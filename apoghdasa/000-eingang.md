@@ -1,0 +1,2 @@
+# Verordnung über die Ausbildungen und Prüfungen für die Laufbahnen des gehobenen und höheren Arbeitsschutzaufsichtsdienstes des Landes Brandenburg (Ausbildungs- und Prüfungsordnung Arbeitsschutzaufsicht - APOghDASA)
+Auf Grund des § 26 Absatz 1 Satz 1 des Landesbeamtengesetzes vom 3. April 2009 (GVBl. I S. 26) verordnet der Minister für Arbeit, Soziales, Frauen und Familie im Einvernehmen mit dem Minister des Innern und dem Minister der Finanzen:
