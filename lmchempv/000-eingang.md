@@ -1,0 +1,2 @@
+# Ausbildungs- und Prüfungsverordnung für Staatlich geprüfte Lebensmittelchemikerinnen und Staatlich geprüfte Lebensmittelchemiker (LMChemPV)
+Auf Grund des § 4 des Gesetzes zum Schutz der Berufsbezeichnung "Staatlich geprüfte Lebensmittelchemikerin" und "Staatlich geprüfter Lebensmittelchemiker" (LMChemG) vom 26. November 1998 (GVBl. I S. 227) verordnet der Minister für Landwirtschaft, Umweltschutz und Raumordnung:
