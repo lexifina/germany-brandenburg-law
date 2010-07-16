@@ -1,6 +1,6 @@
 # Anlage 2
 (zu § 2 Abs. 2 NatPUOG)
-Die Nationalparkgrenze und die Grenzen der Schutzzonen wurden in der Regel auf Grundlage von georeferenzierten Luftbildern (Landesamt für Verbraucherschutz, Landwirtschaft und Flurneuordnung, Befliegung 2000) entlang von Biotop-, Vegetations- oder Nutzungsartengrenzen geführt. Aus diesem Grund sind Grenzflurstücke häufig nur anteilig betroffen.
+Die Nationalparkgrenze und die Grenzen der Schutzzonen wurden in der Regel auf Grundlage von georeferenzierten Luftbildern Landesamt für Ländliche Entwicklung, Landwirtschaft und Flurneuordnung, Befliegung 2000) entlang von Biotop-, Vegetations- oder Nutzungsartengrenzen geführt. Aus diesem Grund sind Grenzflurstücke häufig nur anteilig betroffen.
 Die somit nach topographischen Merkmalen und naturschutzfachlichen Gesichtspunkten definierte Grenze des Nationalparks und seiner Zonierung wurde im Nachgang mit den jeweils aktuellen Ständen der georeferenzierten Automatisierten Liegenschaftskarten (ALK) (Kataster- und Vermessungsämter der Landkreise Uckermark und Barnim, Stand 03.04.2006) überlagert. Die Lage der hierin dargestellten Flurstücke (Wege, Gräben, Gewässer, Deiche etc.) entspricht in einigen Fällen nicht der tatsächlichen Lage der betreffenden Flächen im Gelände.
 Verursacht sind diese Lageabweichungen durch
 Lageveränderungen von Wegen und Gräben im Ergebnis von Meliorationsmaßnahmen und Wegebau in der Vergangenheit,
