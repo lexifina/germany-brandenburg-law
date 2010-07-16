@@ -30,6 +30,7 @@ Abschnitt 5 Weiterbildung
 § 26 Durchführung der Weiterbildung
 Abschnitt 6 Sonstige Bestimmungen
 § 27 Rücknahme, Widerruf
+§ 27a Verfahren über den Einheitlichen Ansprechpartner für das Land Brandenburg
 § 28 Ordnungswidrigkeiten
 § 29 Zuständige Behörde
 § 30 Datenschutz
