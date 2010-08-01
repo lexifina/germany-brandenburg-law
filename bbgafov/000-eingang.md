@@ -1,0 +1,2 @@
+# Verordnung zur Durchführung des Brandenburgischen Ausbildungsförderungsgesetzes (Brandenburgische Ausbildungsförderungsverordnung - BbgAföV)
+Auf Grund des § 5 Absatz 2 und 3 Satz 2 des Brandenburgischen Ausbildungsförderungsgesetzes vom 16. Juni 2010 (GVBl. I Nr. 24) verordnet die Ministerin für Wissenschaft, Forschung und Kultur im Einvernehmen mit dem Minister für Bildung, Jugend und Sport, dem Minister für Arbeit, Soziales, Frauen und Familie sowie dem Minister der Finanzen:
