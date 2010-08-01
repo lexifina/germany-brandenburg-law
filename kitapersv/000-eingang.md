@@ -1,0 +1,2 @@
+# Verordnung über die Anzahl und Qualifikation des notwendigen pädagogischen Personals in Kindertagesstätten (Kita-Personalverordnung - KitaPersV)
+Auf Grund des § 24 Abs. 1 Nr.1 Buchstabe a) in Verbindung mit § 10 des Kindertagesstättengesetzes vom 10. Juni 1992 (GVBl. I S. 178) verordnet der Minister für Bildung, Jugend und Sport mit Zustimmung der Ministerin für Arbeit, Soziales, Gesundheit und Frauen, des Ministers des Innern und des Ministers der Finanzen sowie im Einvernehmen mit dem Landtagsausschuß für Bildung, Jugend und Sport:
