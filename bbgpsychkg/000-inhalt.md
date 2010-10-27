@@ -2,6 +2,7 @@
 ## Abschnitt 1 Allgemeines
 § 1 Anwendungsbereich
 § 2 Grundsatz
+§ 2a Besuchskommissionen
 ## Abschnitt 2 Ziel, Art und Träger der Hilfen
 § 3 Anspruch auf Hilfen
 § 4 Ziel der Hilfen
@@ -34,7 +35,7 @@
 § 30 Unterricht
 § 31 Geld zur freien Verfügung
 § 32 Beschwerderecht
-§ 33 Besuchskommissionen
+§ 33 (weggefallen)
 § 34 Aussetzung und Aufhebung der Unterbringung
 § 35 Kosten der Unterbringung
 ## Abschnitt 4 Vollzug von Maßregeln der Besserung und Sicherung
