@@ -5,11 +5,11 @@ Nr. | Gegenstand | Gebühren
 2 | Schuldnerverzeichnis | 
 2.1 | Entscheidung über den Antrag auf Bewilligung des laufenden Bezugs von Abdrucken (§ 915 d der Zivilprozessordnung) | 410 €
 2.2 | Erteilung von Abdrucken (§§ 915, 915d der Zivilprozessordnung, § 26 Abs. 2 der Insolvenzordnung) Anmerkung: Neben den Gebühren für die Erteilung von Abdrucken werden Dokumentenpauschalen nicht erhoben. | 0,50 Euro je Eintragung, mindestens 10 Euro
-3 | Hinterlegungssachen | 
-3.1 | Hinterlegung von Wertpapieren, sonstigen Urkunden, Kostbarkeiten und von unverändert aufzubewahrenden Zahlungsmitteln (§ 7 Abs. 2 Satz 1 der Hinterlegungsordnung) in jeder Angelegenheit, in der eine besondere Annahmeanordnung ergeht | 8 bis 255 Euro
-3.2 | Anzeige gemäß § 11 Satz 2 der Hinterlegungsordnung Anmerkung: Neben der Gebühr für die Anzeige werden nur die Auslagen nach § 137 Absatz 1 Nummer 2 und 3 der Kostenordnung erhoben. | 8 Euro
-3.3 | Zurückweisung der Beschwerde | 8 bis 255 Euro
-3.4 | Zurücknahme der Beschwerde | 8 bis 65 Euro
+3 | (aufgehoben) | 
+3.1 | (aufgehoben) | 
+3.2 | (aufgehoben) | 
+3.3 | (aufgehoben) | 
+3.4 | (aufgehoben) | 
 4 | Vereidigung, Beeidigung und Ermächtigung | 
 4.1 | Allgemeine Beeidigung von Dolmetscherinnen und Dolmetschern (§ 189 Gerichtsverfassungsgesetz). | 120 Euro
 Für eine zweite und jede weitere Sprache erhöht sich die Gebühr um | 20 Euro
