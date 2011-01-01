@@ -6,7 +6,7 @@
 § 4 Ermessen, Austauschmittel
 § 5 Verantwortlichkeit für das Verhalten von Personen
 § 6 Verantwortlichkeit für den Zustand von Sachen und Tieren
-§ 7 Inanspruchnahme nicht verantwortlicher Personen
+§ 7 Inanspruchnahme von Notstandspflichtigen
 § 8 Einschränkung von Grundrechten
 § 9 Legitimationspflicht
 ## Kapitel 2 Befugnisse der Polizei
@@ -39,9 +39,12 @@
 § 31a Datenerhebung zur Eigensicherung
 § 32 Datenerhebung durch Observation
 § 33 Datenerhebung durch den verdeckten Einsatz technischer Mittel zum Abhören und Aufzeichnen des gesprochenen Wortes und zur Anfertigung von Bildaufnahmen und Bildaufzeichnungen
+§ 33a Datenerhebung durch den Einsatz technischer Mittel zur Überwachung von Wohnungen
+§ 33b Datenerhebung durch Eingriffe in die Telekommunikation
 § 34 Datenerhebung durch den Einsatz von Personen, deren Zusammenarbeit mit der Polizei Dritten nicht bekannt ist
 § 35 Datenerhebung durch den Einsatz Verdeckter Ermittler
 § 36 Polizeiliche Ausschreibung
+§ 36a Anlassbezogene automatische Kennzeichenfahndung
 ## Unterabschnitt 2 Datenspeicherung, Datenveränderung und Datennutzung
 § 37 Allgemeine Regeln über die Dauer der Datenspeicherung
 § 38 Zweckbindung bei der Datenspeicherung, Datenveränderung und Datennutzung
@@ -89,25 +92,28 @@
 § 71 Auskunftsrecht, Akteneinsicht
 ## Kapitel 7 Organisation und Zuständigkeit der Polizei, Polizeibeiräte
 ## Abschnitt 1 Organisation der Polizei
-§ 72 Polizeibehörden und -einrichtungen
-§ 73 Polizeipräsidien
-§ 74 Landeseinsatzeinheit der Polizei
+§ 72 Polizeibehörde und -einrichtungen
+§ 73 (weggefallen)
+§ 74 (weggefallen)
 ## Abschnitt 2 Zuständigkeit der Polizei
-## Unterabschnitt 1 Örtliche Zuständigkeit
-§ 75 Örtliche Zuständigkeit der Polizeipräsidien und Polizeivollzugsbeamten
+§ 75 (weggefallen)
 § 76 Amtshandlungen von Polizeivollzugsbeamten außerhalb Brandenburgs
 § 77 Amtshandlungen von Polizeivollzugsbeamten anderer Länder und des Bundes sowie von Bediensteten ausländischer Staaten im Land Brandenburg
-## Unterabschnitt 2 Sachliche Zuständigkeit
-§ 78 Allgemeine sachliche Zuständigkeit der Polizeibehörden
-§ 79 Besondere sachliche Zuständigkeit der Polizeipräsidien
-§ 80 Sachliche Zuständigkeit des Landeskriminalamtes
-§ 81 Außerordentliche Zuständigkeit
+§ 78 Zuständigkeit des Polizeipräsidiums und der Polizeivollzugsbediensteten
+§ 79 (weggefallen)
+§ 80
+(weggefallen)
+§ 81
+(weggefallen)
 ## Abschnitt 3 Polizeibeiräte
-§ 82 Polizeibeiräte, Mitgliederzahl
-§ 83 Aufgaben der Polizeibeiräte
+§ 82 Polizeibeiräte
+§ 83
+(weggefallen)
 § 84 Wahl der Mitglieder
-§ 85 Sitzungen des Polizeibeirates, Vorsitz, Geschäftsordnung und Geschäftsführung
-§ 86 Neuwahl der Polizeibeiräte
+§ 85 Verordnungsermächtigung
+§ 86
+(weggefallen)
 ## Kapitel 8 Schlussvorschriften
 § 87 Verwaltungsabkommen
 § 88 Verwaltungsvorschriften
+§ 89 Übergangsvorschriften
