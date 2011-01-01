@@ -1,0 +1,2 @@
+# Verordnung zur Bestimmung der Städte Bernau bei Berlin, Falkensee und Oranienburg zu Großen kreisangehörigen Städten (BestGkSV)
+Auf Grund des § 1 Absatz 3 der Kommunalverfassung des Landes Brandenburg vom 18. Dezember 2007 (GVBl. I S. 286) und der §§ 9 Absatz 2 und 16 Absatz 2 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186) in Verbindung mit § 2 der Verordnung zur Ausführung des Reichs- und Staatsangehörigkeitsgesetzes vom 28. November 1991 (GVBl. S. 524) verordnet der Minister des Innern:
