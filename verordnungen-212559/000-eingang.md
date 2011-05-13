@@ -1,0 +1,2 @@
+# Verordnung über die zuständigen Behörden für die Aufgaben nach § 6b des Bundeskindergeldgesetzes (BKGG-Zuständigkeitsverordnung)
+Auf Grund des § 13 Absatz 4 des Bundeskindergeldgesetzes in der Fassung der Bekanntmachung vom 28. Januar 2009 (BGBl. I S. 142, 3177), der durch Artikel 5 des Gesetzes vom 24. März 2011 (BGBl. I S. 453, 490) eingefügt worden ist, in Verbindung mit § 9 Absatz 2 und § 16 Absatz 2 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186) verordnet die Landesregierung:
