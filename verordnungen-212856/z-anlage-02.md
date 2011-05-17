@@ -21,7 +21,7 @@ Blatt | Unterzeichnung
 12 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
 13 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
 14 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
-15 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
+15 | unterzeichnet von dem Siegelverwahrer, Siegelnummer 22 des MUGV, am 6. Dezember 2010
 16 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
 17 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 14.08.2006
 18 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 6 des MUNR, am 29.1.1997
@@ -300,7 +300,6 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 277 | Templin | 28 | 5 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 28.1.1997
 278 | Templin | 29 | 2 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 28.1.1997
 279 | Templin | 30 | 2 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 28.1.1997
-280 | Templin | 31 | 2 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 28.1.1997
 281 | Templin | 32 | 2 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 28.1.1997
 282 | Templin | 41 | 1 250 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 28.1.1997
 283 | Templin | 42 | 2 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 28.1.1997
@@ -360,3 +359,7 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 178a | Lychen | 20 (Teil 1 von 2) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 20.06.2007
 178b | Lychen | 20 (Teil 2 von 2) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 20.06.2007
 242 | Rutenberg | 5 | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 20.06.2007
+280a | Templin | 31 (Blatt 1 von 4) | 2 500 | unterzeichnet von dem Siegelverwahrer, Siegelnummer 22 des MUGV, am 6. Dezember 2010
+280b | Templin | 31 (Blatt 2 von 4) | 2 500 | unterzeichnet von dem Siegelverwahrer, Siegelnummer 22 des MUGV, am 6. Dezember 2010
+280c | Templin | 31 (Blatt 3 von 4) | 2 500 | unterzeichnet von dem Siegelverwahrer, Siegelnummer 22 des MUGV, am 6. Dezember 2010
+280d | Templin | 31 (Blatt 4 von 4) | 2 500 | unterzeichnet von dem Siegelverwahrer, Siegelnummer 22 des MUGV, am 6. Dezember 2010
