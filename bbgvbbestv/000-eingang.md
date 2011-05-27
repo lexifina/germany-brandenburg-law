@@ -1,0 +1,2 @@
+# Verordnung zur Bestimmung des Amtes für Statistik Berlin-Brandenburg als Vollstreckungsbehörde in Verfahren nach dem Zensusgesetz 2011 und dem Gesetz zur Ausführung des Zensusgesetzes 2011 im Land Brandenburg (Brandenburgische Vollstreckungsbehörden-Bestimmungsverordnung - BbgVbBestV)
+Auf Grund des § 2 Absatz 4 Satz 2 zweite Alternative des Verwaltungsvollstreckungsgesetzes für das Land Brandenburg vom 18. Dezember 1991 (GVBl. S. 661) verordnet der Minister des Innern:
