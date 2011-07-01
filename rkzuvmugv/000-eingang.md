@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von Zuständigkeiten des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz für die Bewilligung, Berechnung und Zahlung von Trennungsgeld und für die Berechnung und Zahlung von Reisekosten auf die Zentrale Bezügestelle des Landes Brandenburg (Reisekostenzuständigkeitsübertragungsverordnung MUGV - RkZÜVMUGV)
+Auf Grund des § 63 Absatz 3 Satz 2 des Landesbeamtengesetzes vom 3. April 2009 (GVBl. I S. 26) verordnet die Ministerin für Umwelt, Gesundheit und Verbraucherschutz im Einvernehmen mit dem Minister der Finanzen:
