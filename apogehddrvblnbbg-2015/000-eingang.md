@@ -1,0 +1,2 @@
+# Verordnung über die Ausbildung und Prüfung für den gehobenen nichttechnischen Dienst bei der Deutschen Rentenversicherung Berlin-Brandenburg (APOgehDDRVBln-Bbg)
+Auf Grunddes § 26 Absatz 1 und des § 12 Absatz 4 des Landesbeamtengesetzes vom 3. April 2009 (GVBl. I S. 26) verordnet der Minister für Arbeit, Soziales, Frauen und Familie im Einvernehmen mit dem Minister des Innern und dem Minister der Finanzen:
