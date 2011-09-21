@@ -27,7 +27,7 @@ Blatt Nr. | Unterzeichnung
 18 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
 19 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
 20 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
-21 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
+21 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV) am 7. Juni 2011
 22 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
 23 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
 25 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
@@ -456,9 +456,9 @@ Blatt Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 24 | Päwesin | 2 | 3 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
 25 | Päwesin | 5 | 4 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
 26 | Riewend | 1 | 3 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV am 15.01.2007
-27 | Pritzerbe | 1 | 2 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
+27 | Pritzerbe | 1 | 3 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV) am 7. Juni 2011
 28 | Pritzerbe | 2 | 2 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
-29 | Pritzerbe | 15 | 2 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
+29 | Pritzerbe | 15 | 3 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV) am 7. Juni 2011
 30 | Pritzerbe | 17 | 2 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
 32 | Radewege | 1 | 2 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
 33 | Radewege | 7 | 2 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
