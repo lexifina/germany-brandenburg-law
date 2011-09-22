@@ -96,7 +96,7 @@
 § 77 Rechtswirkungen, Entschädigung
 ## Kapitel 6 Kostenentscheidung im gerichtlichen Disziplinarverfahren
 § 78 Kostentragung
-§ 79 Erstattungsfähige Kosten
+§ 79 Kosten
 ## Teil 5 Unterhaltsbeitrag, Unterhaltsleistung und Begnadigung
 § 80 Unterhaltsbeitrag bei Entfernung aus dem Beamtenverhältnis oder bei Aberkennung des Ruhegehalts
 § 81 Unterhaltsleistung bei Mithilfe zur Aufdeckung von Straftaten
@@ -109,7 +109,7 @@
 § 85 Ermittlungen
 ## Kapitel 3 Kommunalbeamte und sonstige Beamte von Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts
 § 86 Dienstvorgesetzter, höherer Dienstvorgesetzter, oberste Dienstbehörde
-§ 87 Kürzung der Dienstbezüge, Zurückstufung
+§ 87 Kürzung der Dienstbezüge, Zurückstufung, Einbehaltung von Dienstbezügen
 § 88 Besondere Zuständigkeiten
 § 89 Unterrichtungs- und Mitteilungspflicht
 § 90 Weisungsbefugnis der Rechtsaufsichtsbehörde
