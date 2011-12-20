@@ -9,6 +9,7 @@
 § 7 Inanspruchnahme von Notstandspflichtigen
 § 8 Einschränkung von Grundrechten
 § 9 Legitimationspflicht
+*
 ## Kapitel 2 Befugnisse der Polizei
 ## Abschnitt 1 Allgemeine und besondere Befugnisse
 § 10 Allgemeine Befugnisse, Begriffsbestimmung
@@ -117,3 +118,4 @@
 § 87 Verwaltungsabkommen
 § 88 Verwaltungsvorschriften
 § 89 Übergangsvorschriften
+§ 90 Außerkraftreten
