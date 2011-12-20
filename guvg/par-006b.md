@@ -1,0 +1,2 @@
+# § 6b Unbeachtlichkeit von Rechtsfehlern bei der Ladung zur Verbandsversammlung oder zum Verbandsausschuss und der Beschlussfassung
+Fehler bei der Ladung zur Verbandsversammlung oder zum Verbandsausschuss und bei der Beschlussfassung sind für die Wirksamkeit der bis zum 31. Dezember 2008 erfolgten Wahlen und Beschlüsse der Verbandsversammlung oder des Verbandsausschusses unbeachtlich, sofern diese Entscheidungen nicht durch die Aufsichtsbehörde aufgehoben worden sind.
