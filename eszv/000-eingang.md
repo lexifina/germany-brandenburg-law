@@ -1,0 +1,2 @@
+# Verordnung über die Bewilligung von Zuschüssen an die Träger von Ersatzschulen (Ersatzschulzuschussverordnung - ESZV)
+Auf Grund des § 124a Absatz 8 des Brandenburgischen Schulgesetzes in der Fassung der Bekanntmachung vom 2. August 2002 (GVBl. I S. 78), der durch Artikel 1 des Gesetzes vom 19. Dezember 2011 (GVBl. I Nr. 35) eingefügt worden ist, verordnet die Ministerin für Bildung, Jugend und Sport:
