@@ -16,7 +16,7 @@ Blatt-Nr. | Unterzeichnung
 7 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 8 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 9 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
-10 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
+10 | unterzeichnet vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz, am 28. Oktober 2011
 11 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz, am 24.02.2009
 12 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 13 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
@@ -39,7 +39,7 @@ Blatt-Nr. | Unterzeichnung
 30 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 31 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 32 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
-33 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2006
+33 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 9. Juli 2009
 34 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 35 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 36 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
@@ -175,7 +175,6 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 122 | Hennickendorf | 1 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 123 | Hennickendorf | 2 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 124 | Hennickendorf | 3 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
-126 | Hennickendorf | 5 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 128 | Hennickendorf | 7 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 129 | Hennickendorf | 8 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 130 | Jeserig | 2 | 3 000 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
@@ -310,7 +309,6 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 259 | Schönhagen | 3 | 3 000 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 260 | Schönhagen | 4 | 3 000 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 261 | Seddin | 1 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
-262 | Seddin | 2 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 263 | Seddin | 3 | 5 000 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 264 | Seddin | 4 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 265 | Siethen | 1 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
@@ -389,5 +387,9 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 125b | Hennickendorf | 4 (Teil 2 von 4) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
 125c | Hennickendorf | 4 (Teil 3 von 4) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
 125d | Hennickendorf | 4 (Teil 4 von 4) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
-127 | Hennickendorf | 6 | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
+126a | Hennickendorf | 5, 6 | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 9. Juli 2009
+126b | Hennickendorf | 5, 6 | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 9. Juli 2009
+126c | Hennickendorf | 5, 6 | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 9. Juli 2009
+127 | Hennickendorf | 6 | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 09. Juli 2009
+262 | Seddin | 2 | 2 500 | unterzeichnet vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz, am 28. Oktober 2011
 280 | Stücken | 7 | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 24.02.2009
