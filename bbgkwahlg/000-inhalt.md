@@ -97,20 +97,22 @@
 § 80 Beschluss der Vertretung; Rechtsbehelf
 § 81 Abwahl
 § 82 Verlust der Rechtsstellung eines Bürgermeisters oder Oberbürgermeisters
-## Abschnitt 9 Unmittelbare Wahl der Ortsbeiräte und Ortsvorsteher
-§ 82a Anwendbarkeit von Vorschriften
-§ 82b Wahltag und Wahlzeit
-§ 82c Wahlberechtigung, Wählbarkeit und Inkompatibilität
-§ 82d Wahlorgane
-§ 82e Wahlgebiet, Wahlkreis und Wahlbezirk
-§ 82f Bestimmung der Bewerber
-§ 82g Wahlprüfung
-§ 82h Rechtsfolgen von abgesagten oder gescheiterten Wahlen
-## Abschnitt 10 Gemeinsame Schlussvorschriften
-§ 83 Ehrenamtliche Mitwirkung
-§ 84 Ordnungswidrigkeiten
-§ 85 Kosten
-§ 86 Statistik
-§ 87 Maßgebende Einwohnerzahl
-§ 88 Durchführung des Gesetzes
-§ 89 Fristen und Termine sowie Schriftform
+## Abschnitt 9 Unmittelbare Wahl der Landräte
+§ 83 Wahl und Abwahl der Landräte
+## Abschnitt 10 Unmittelbare Wahl der Ortsbeiräte und Ortsvorsteher
+§ 84 Anwendbarkeit von Vorschriften
+§ 85 Wahltag und Wahlzeit
+§ 86 Wahlberechtigung, Wählbarkeit und Inkompatibilität
+§ 87 Wahlorgane
+§ 88 Wahlgebiet, Wahlkreis und Wahlbezirk
+§ 89 Bestimmung der Bewerber
+§ 90 Wahlprüfung
+§ 91 Rechtsfolgen von abgesagten oder gescheiterten Wahlen
+## Abschnitt 11 Gemeinsame Schlussvorschriften
+§ 92 Ehrenamtliche Mitwirkung
+§ 93 Ordnungswidrigkeiten
+§ 94 Kosten
+§ 95 Statistik
+§ 96 Maßgebende Einwohnerzahl
+§ 97 Durchführung des Gesetzes
+§ 98 Fristen und Termine sowie Schriftform
