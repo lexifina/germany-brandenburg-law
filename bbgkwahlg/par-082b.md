@@ -1,4 +1,0 @@
-# § 82b Wahltag und Wahlzeit
-(1) Die Wahlberechtigten des Ortsteiles wählen den Ortsbeirat oder den Ortsvorsteher am Tag der landesweiten Kommunalwahlen auf fünf Jahre. § 7a gilt entsprechend.
-(2) Findet die Wahl abweichend von Absatz 1 während der allgemeinen Wahlperiode statt, wird der Ortsbeirat oder Ortsvorsteher für den Rest der allgemeinen Wahlperiode gewählt. Abweichend hiervon endet die Wahlperiode erst mit dem Ende der nächsten allgemeinen Wahlperiode, wenn die Wahl 48 Monate nach dem Tag der letzten landesweiten Kommunalwahlen stattfindet.
-(3) In den Fällen des Absatzes 2 bestimmt der Wahlleiter den Wahltag und gegebenenfalls auch den Tag einer etwa notwendig werdenden Stichwahl.
