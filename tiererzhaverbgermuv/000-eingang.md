@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von Ermächtigungen zur Durchführung des Tiererzeugnisse-Handels-Verbotsgesetzes (Tiererzeugnisse-Handels-Verbotsgesetz-Ermächtigungsübertragungsverordnung - TierErzHaVerbGErmÜV)
+Auf Grund des § 9 Absatz 2 und 4 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186) und des § 36 Absatz 2 Satz 1 und 2 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) verordnet die Landesregierung:
