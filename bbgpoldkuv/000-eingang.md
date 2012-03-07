@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung der Befugnis zur Regelung der Dienstkleidung für Beamtinnen und Beamte des Polizeivollzugsdienstes im Land Brandenburg (Polizeidienstkleidungsübertragungsverordnung - BbgPolDkÜV)
+Auf Grund des § 59 Satz 2 und des § 109 Absatz 1 des Landesbeamtengesetzes vom 3. April 2009 (GVBl. I S. 26) in Verbindung mit § 9 Absatz 1 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186) verordnet die Landesregierung:
