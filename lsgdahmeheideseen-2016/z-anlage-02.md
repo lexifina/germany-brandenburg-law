@@ -23,7 +23,7 @@ Blatt Nr. | Unterzeichnung
 6.1. | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 6.2. | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 6.3. | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
-7.1. | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
+7.1. | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV) am 27. Februar 2012
 7.2. | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 7.3. | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 7.4. | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 05.07.2007
@@ -156,7 +156,6 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 115 | Klein Köris | 5 | 5 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 116 | Klein Köris | 6 | 2 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 117 | Klein Köris | 7 | 5 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
-118 | Klein Köris | 8 | 5 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 119 | Klein Köris | 9 | 5 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 120 | Klein Köris | 10 | 2 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 121 | Klein Köris | 11 | 2 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
@@ -260,7 +259,7 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 221 | Staakow | 1 | 5 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 222 | Staakow | 5 | 2 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 223 | Staakow | 6 | 2 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
-224 | Staakow | 5 (Son-der-zeich-nung) | 1 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
+224 | Staakow | 5 (Sonderzeichnung) | 1 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 225 | Storkow | 1 | 2 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 226 | Storkow | 2 | 2 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 227 | Storkow | 3 | 2 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
@@ -315,7 +314,7 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 276 | Tornow | 5 | 5 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 277 | Tornow | 6 | 3 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 278 | Tornow | 7 | 5 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
-279 | Tornow | 6 (Bei-blatt) | 1 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
+279 | Tornow | 6 (Beiblatt) | 1 500 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 280 | Wendisch Rietz | 3 | 5 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 281 | Wendisch Rietz | 4 | 5 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
 283 | Wendisch Rietz | 6 | 4 000 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 10.07.1998
@@ -350,6 +349,7 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 58b | Görsdorf/ Beeskow | 4 (Teil 2 von 2) | 1 500 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 05.07.2007
 63a | Gräbendorf | 3 (Teil 1 von 2) | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 05.07.2007
 63b | Gräbendorf | 3 (Teil 2 von 2) | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 05.07.2007
+118 | Klein Köris | 8 | 4 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV) am 27. Februar 2012
 137a | Kummersdorf | 2 (Teil 1 von 3) | 1 500 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 05.07.2007
 137b | Kummersdorf | 2 (Teil 2 von 3) | 1 500 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 05.07.2007
 137c | Kummersdorf | 2 (Teil 3 von 3) | 1 500 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 05.07.2007
