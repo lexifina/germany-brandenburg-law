@@ -8,7 +8,7 @@ Kartenblatt | Unterzeichnung
 3543 SO | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz (MLUV), am 11.05.2006
 3543 SW | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 11.05.2006
 3544 SW | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
-3643 NO | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz (MLUV), am 23.02.2009
+3643 NO | unterzeichnet vom Siegelverwahrer und gesiegelt mit dem Siegel des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV), Siegelnummer 22, am 4. Mai 2012
 3643 NW | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 3643 SO | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV), am 29. Dezember 2009
 3643 SW | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
@@ -105,7 +105,6 @@ Blatt-Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 76 | Ferch | 11 | 4 000 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 77 | Ferch | 12 | 5 000 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 78 | Ferch | 13 | 5 000 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
-79 | Geltow | 1 | 2 500 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 80 | Geltow | 2 | 3 000 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 80a | Geltow | 2 | 1 000 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 82 | Geltow | 4 | 3 000 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
@@ -208,6 +207,7 @@ Blatt-Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 32 | Alt Töplitz | 3 | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 11.05.2006
 33 | Alt Töplitz | 4 | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 11.05.2006
 69 | Ferch | 4 | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 11.05.2006
+79 | Geltow | 1 | 2 000 | unterzeichnet vom Siegelverwahrer und gesiegelt mit dem Siegel des MUGV, Siegelnummer 22, am 4. Mai 2012
 117a | Neuseddin | 2 teilw. | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 11.05.2006
 117b | Neuseddin | 2 teilw. | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 11.05.2006
 117c | Neuseddin | 2 teilw. | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 11.05.2006
