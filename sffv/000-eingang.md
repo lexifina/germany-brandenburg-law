@@ -1,0 +1,2 @@
+# Verordnung zur Durchführung der Sprachstandsfeststellung und kompensatorischen Sprachförderung (SprachfestFörderverordnung - SfFV)
+Auf Grund des § 37 Absatz 2 des Brandenburgischen Schulgesetzes in der Fassung der Bekanntmachung vom 2. August 2002 (GVBl. I S. 78), der durch Artikel 1 Nummer 28 Buchstabe b des Gesetzes vom 8. Januar 2007 (GVBl. I S. 2, 10) geändert worden ist, verordnet der Minister für Bildung, Jugend und Sport:
