@@ -10,7 +10,7 @@ Blatt-Nr. | Unterzeichnung
 1 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 2 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 3 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz (MLUV), am 01.08.2007
-4 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
+4 | unterzeichnet vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz, am 30. Mai 2012
 5 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 6 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 7 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
@@ -25,7 +25,7 @@ Blatt-Nr. | Unterzeichnung
 16 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 17 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 18 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz, am 24.02.2009
-19 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
+19 | unterzeichnet vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz, am 30. Mai 2012
 20 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 21 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 22 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
@@ -95,7 +95,6 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 41 | Blankensee | 1 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 42 | Blankensee | 2 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 43 | Blankensee | 3 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
-44 | Blankensee | 4 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 45 | Blankensee | 5 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 46 | Blankensee | 6 | 2 500 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 47 | Brachwitz | 1 | 3 000 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
@@ -381,8 +380,9 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 28 | Bergholz-Rehbrücke | 3 | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
 29a | Bergholz-Rehbrücke | 4 (Teil 1 von 2) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
 29b | Bergholz-Rehbrücke | 4 (Teil 2 von 2) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
-73a | Drewitz | 8 (Teil 1 von 2) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
-73b | Drewitz | 8 (Teil 2 von 2) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
+44 | Blankensee | 4 | 3 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz am 30. Mai 2012
+73a | Drewitz | 8 (Teil 1 von 2) | 2 000 | unterzeichnet von dem Siegelverwahrer, Siegelnummer 22 des MUGV, am 30. Mai 2012
+73b | Drewitz | 8 (Teil 2 von 2) | 2 000 | unterzeichnet von dem Siegelverwahrer, Siegelnummer 22 des MUGV, am 30. Mai 2012
 125a | Hennickendorf | 4 (Teil 1 von 4) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
 125b | Hennickendorf | 4 (Teil 2 von 4) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
 125c | Hennickendorf | 4 (Teil 3 von 4) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
