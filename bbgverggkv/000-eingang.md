@@ -1,0 +1,2 @@
+# Verordnung zur Errichtung einer Kommission für die Anpassung des Mindestentgeltes nach dem Brandenburgischen Vergabegesetz (Brandenburgische Vergabegesetz-Kommissionsverordnung - BbgVergGKV)
+Auf Grund des § 4 Absatz 2 Satz 1 und Absatz 3 Satz 2 des Brandenburgischen Vergabegesetzes vom 21. September 2011 (GVBl. I Nr. 19) in Verbindung mit § 1 der Brandenburgischen Vergabegesetz-Zuständigkeitsübertragungsverordnung vom 29. März 2012 (GVBl. II Nr. 22) verordnet der Minister für Arbeit, Soziales, Frauen und Familie:
