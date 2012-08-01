@@ -1,0 +1,2 @@
+# Verordnung zur Festsetzung des Wasserschutzgebietes für das Wasserwerk Strausberg
+Auf Grund des § 51 Absatz 1 Satz 1 Nummer 1 und Satz 2 und Absatz 2 und des § 52 Absatz 1 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585) in Verbindung mit § 15 Absatz 1 Satz 1 und Absatz 2 des Brandenburgischen Wassergesetzes in der Fassung der Bekanntmachung vom 2. März 2012 (GVBl. I Nr. 20) verordnet die Ministerin für Umwelt, Gesundheit und Verbraucherschutz:
