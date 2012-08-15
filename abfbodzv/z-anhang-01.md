@@ -1,4 +1,4 @@
-# Anhang zur Anlage der Abfall- und Bodenschutz-Zuständigkeitsverordnung
+# Anhang 1 zur Anlage der Abfall- und Bodenschutz-Zuständigkeitsverordnung
 Hoch- und Rechtswerte der Deponien (Rechtswerte bezogen auf den 4. Meridianstreifen, Gauß-Krüger-Koordinaten)
 1. | Alte Ziegelei (LOS) | H: 58 00 000 R: 46 45 000
 2. | BASF Kabelbaggerteich (OSL) | H: 57 08 000 R: 46 32 000
