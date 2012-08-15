@@ -17,7 +17,7 @@
 15. Bioabfallverordnung (BioAbfV)
 16. Batterieverordnung (BattV)
 17. PCB/PCT-Abfallverordnung (PCBAbfallV)
-18. Abfallverbringungsgesetz (AbfVerbrG) und Verordnung (EWG) Nr. 259/93 des Rates vom 1. Februar 1993 zur Überwachung und Kontrolle der Verbringung von Abfällen in der, in die und aus der Europäischen Gemeinschaft
+18. Abfallverbringungsgesetz (AbfVerbrG), Verordnung (EG) Nr. 1013/2006 über die Verbringung von Abfällen
 19. Umweltrahmengesetz (URG)
 20. Brandenburgisches Abfall- und Bodenschutzgesetz (BbgAbfBodG)
 21. Abfallkompost- und Verbrennungsverordnung (AbfKompVbrV)
@@ -57,22 +57,22 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 1.17 | § 32 Abs. 4 Satz 3 | nachträgliche Anordnungen bei zugelassenen Deponien | LUGV/LBGR
 1.18 | § 33 | Zulassung vorzeitigen Beginns mit der Errichtung oder dem Betrieb der Deponie | LUGV/LBGR
 1.19 | § 35 | Anordnungen im Sinne der Vorschrift bei Deponien, die schon vor dem 1. Juli 1990 betrieben wurden oder mit deren Errichtung begonnen war | LUGV/LBGR
-1.20.1 | § 36 Abs. 1 und 2 | Entgegennahme von Anzeigen über die Stilllegung von Deponien und von Meldungen der Überwachungsergebnisse sowie Anordnungen zur Sicherung und Rekultivierung von Deponien | UAWB/LBGR; LUGV bezüglich der im Anhang aufgeführten Deponien
-1.20.2 | § 36 Abs. 3 | Feststellung des Abschlusses der Stilllegung | UAWB/LBGR; LUGV bezüglich der im Anhang aufgeführten Deponien
+1.20.1 | § 36 Abs. 1 und 2 | Entgegennahme von Anzeigen über die Stilllegung von Deponien und von Meldungen der Überwachungsergebnisse sowie Anordnungen zur Sicherung und Rekultivierung von Deponien | UAWB/LBGR; LUGV bezüglich der in Anhang 1 aufgeführten Deponien
+1.20.2 | § 36 Abs. 3 | Feststellung des Abschlusses der Stilllegung | UAWB/LBGR; LUGV bezüglich der in Anhang 1 aufgeführten Deponien
 1.20.3 | § 36 Abs. 5 | Feststellung des Abschlusses der Nachsorgephase | UAWB/LBGR
 1.21.1 | § 36 Abs. 4 | Entgegennahme von Anzeigen über die Stilllegung von Anlagen, in denen besonders überwachungsbedürftige Abfälle anfallen | LUGV/LBGR
 1.21.2 | § 36a | Fristsetzung und Entgegennahme der Emissionserklärung | LUGV/LBGR
 1.21.3 | § 36d Abs. 3 | Fristsetzung und Entgegennahme von Kosten-, Entgelt-, Abgaben- sowie Auslagenübersichten | LUGV/LBGR
 1.22 | § 38 Abs. 2 | Auskunft über vorhandene geeignete Abfallbeseitigungsanlagen | LUGV; SBB, soweit es sich um besonders überwachungsbedürftige Abfälle handelt
 1.23 | § 40 | Überwachungsaufgaben nach Sachgebieten: | 
-1.23.1 |  | Überwachung der Vermeidung, Verwertung und Beseitigung von Abfällen, soweit nicht die Überwachung in den folgenden Nummern besonders geregelt ist | UAWB/LBGR
-1.23.2 |  | Überwachung der Vermeidung, Verwertung und Beseitigung von besonders überwachungsbedürftigen Abfällen im Sinne des § 41 Abs. 1 und 3 Nr. 1 KrW-/AbfG mit Ausnahme der Überwachung derjenigen Abfallerzeuger, die gemäß § 2 Abs. 2 NachwV von der Nachweispflicht ausgenommen sind (Kleinmengen) sowie mit Ausnahme der Überwachung der Letzthalterentledigung nach § 4 Abs. 1 AltfahrzeugV | LUGV/LBGR, neben diesen Behörden hat die SBB die Zuständigkeit zur Überwachung und Feststellung, ob Abfälle der Andienungspflicht unterliegen
-1.23.3 |  | Überwachung der unbefugten Ablagerung von Abfällen oder Kraftfahrzeugen oder Anhänger im Sinne des § 15 Abs. 4 KrW-/AbfG außerhalb von zugelassenen Abfallentsorgungsanlagen, soweit nicht § 4 BbgAbfG eine abweichende Zuständigkeit vorsieht | UAWB/LBGR
+1.23.1 |  | Überwachung der Vermeidung, Verwertung und Beseitigung von Abfällen einschließlich der Inanspruchnahme anderer abfallrechtlich Verantwortlicher (Grundstückseigentümer, Erzeuger, ehemalige Besitzer), sofern nicht eine spezielle Zuständigkeit nach den nachfolgenden Nummern besteht | UAWB/LBGR
+1.23.2 |  | Überwachung der Vermeidung, Verwertung und Beseitigung von gefährlichen Abfällen mit Ausnahme der Erzeuger von Kleinmengen im Sinne von § 2 Absatz 2 NachwV, sofern nicht eine spezielle Zuständigkeit nach Nummer 1.23.3 besteht | LUGV/LBGR
+1.23.3 |  | Überwachung der Lagerung /Ablagerung von Abfällen (gefährlich oder nicht gefährlich) außerhalb von zugelassenen Abfallentsorgungsanlagen | UAWB/LBGR; UAWB/LUGV bezüglich der in Anhang 2 aufgeführten Abfalllager und Ablagerungen
 1.23.4 |  | Überwachung von zugelassenen Deponien sowie von Deponien im Sinne des § 35 Abs. 2 KrW-/AbfG während der Errichtung und Ablagerungsphase | LUGV/LBGR
 1.23.5 |  | Überwachung von Deponien, die ohne gemäß § 31 Abs. 2 oder 3 KrW-/AbfG erforderliche Zulassung oder eine entsprechende Zulassung nach DDR-Recht errichtet oder betrieben werden (illegal errichtete Deponien) | UAWB/LBGR
-1.23.6.1 |  | Überwachung von Deponien während der Stilllegungsphase einschließlich der Überwachung der Erfüllung von Anordnungen nach § 36 Abs. 2 KrW-/AbfG | UAWB/LBGR; LUGV bezüglich der im Anhang aufgeführten Deponien
+1.23.6.1 |  | Überwachung von Deponien während der Stilllegungsphase einschließlich der Überwachung der Erfüllung von Anordnungen nach § 36 Abs. 2 KrW-/AbfG | UAWB/LBGR; LUGV bezüglich der in Anhang 1 aufgeführten Deponien
 1.23.6.2 |  | Überwachung von Deponien während der Nachsorgephase | UAWB/LBGR
-1.23.7 |  | abfallrechtliche Überwachung von genehmigungsbedürftigen Anlagen im Sinne des § 4 BImSchG, in denen Abfälle entsorgt werden (Annahme, Lagerung, unzulässige Ablagerung, Umschlagen, Behandlung und Abgabe) | LUGV/LBGR
+1.23.7 |  | Überwachung von immissionsschutzrechtlich genehmigten Anlagen, die der Abfallentsorgung dienen (Annahme, Lagerung, unzulässige Ablagerung, Umschlagen, Behandlung und Abgabe einschließlich der Inanspruchnahme anderer abfallrechtlich Verantwortlicher bis zur Erfüllung der abfallrechtlichen Entsorgungspflichten, auch nach Unwirksamwerden einer immissionsschutzrechtlichen Genehmigung oder verändertem Genehmigungsbedürfnis) | LUGV/LBGR; UAWB/LUGV bezüglich der in Anhang 2 aufgeführten Abfalllager und Ablagerungen
 1.23.8 |  | abfallrechtliche Überwachung der Entsorgung von Abfällen durch Aufbringung auf Böden | AWB/LBGR
 1.23.9 |  | Überwachung der Technischen Überwachungsorganisationen und Entsorgergemeinschaften im Sinne des § 52 KrW-/AbfG | LUGV
 1.23.10 |  | Überwachung der Dritten und privaten Entsorgungsträger, soweit ihnen gemäß den §§ 16 Abs. 2, 17 und 18 KrW-/AbfG Entsorgungsaufgaben übertragen worden sind | LUGV
@@ -86,9 +86,9 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 1.30 | § 46 Abs. 2 | Entgegennahme von Anzeigen über die Erzeugung oder Entsorgung besonders überwachungsbedürftiger Abfälle zur Verwertung | SBB
 1.31 | §§ 46 Abs. 3 und 47 Abs. 2 | Freistellung von der Nachweisführung bei besonders überwachungsbedürftigen Abfällen zur Verwertung | LUGV/LBGR Die Bergbehörde entscheidet im Einvernehmen mit LUGV; LUGV, soweit landesweit eine Freistellung erfolgen soll
 1.32 | weggefallen |  | 
-1.33 | § 49 Abs. 1 | Entscheidung über Transportgenehmigungen | LUGV
-1.34 | § 50 Abs. 1 | Entscheidung über Abfallmaklergenehmigungen | LUGV
-1.35 | § 50 Abs. 3 und § 51 Abs. 1 | Entgegennahme von Anzeigen über genehmigungsfreie Abfallmakler oder Transporteure | LUGV
+1.33 | § 49 Abs. 1 | Entscheidung über Transportgenehmigungen | SBB
+1.34 | § 50 Abs. 1 | Entscheidung über Abfallmaklergenehmigungen | SBB
+1.35 | § 50 Abs. 3 und § 51 Abs. 1 | Entgegennahme von Anzeigen über genehmigungsfreie Abfallmakler oder Transporteure | SBB
 1.36 | § 51 Abs. 2 | Auflagen und Untersagungsverfügungen gegenüber Abfallmaklern und Transporteuren, die als Entsorgungsfachbetrieb genehmigungsfrei sind | LUGV
 1.37 | § 52 Abs. 1 | Zustimmung zu Überwachungsverträgen | LUGV
 1.38 | § 52 Abs. 3 | Anerkennung von Entsorgergemeinschaften und Widerruf | LUGV
@@ -117,14 +117,14 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 3.16 | § 23 Nr. 2 | Wahrnehmung der Aufgaben der für den Entsorger zuständigen Behörde bei einer Verwertung außerhalb einer Anlage | die unter Nummer 3 jeweils bezeichnete Behörde
 3.17.1 | §§ 25 und 26 in Verbindung mit den §§ 3 bis 23 und 25 | alle Aufgaben der zuständigen Behörde im Sinne der Nachweisverordnung, soweit Nachweise über die Entsorgung überwachungsbedürftiger oder nicht überwachungsbedürftiger Abfälle geführt werden außer Aufgaben nach § 25 Abs. 5 | UAWB/LUGV/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 3.17.2 | § 25 Abs. 5 | Befreiung von den Pflichten der Nachweisführung nach den Absätzen 1 bis 3 | UAWB/LBGR; LUGV/LBGR, soweit der Adressat der Anordnung nach Nummer 1.23.7 der abfallrechtlichen Überwachung durch LUGV/LBGR unterliegt; LUGV, soweit landesweit eine Befreiung von Pflichten der Nachweisführung ausgesprochen werden soll
-3.18 | § 27 Abs. 3 und 4 | Erteilung oder Änderung der Erzeuger-, Beförderer- und Entsorgernummern | LUGV
+3.18 | § 27 Abs. 3 und 4 | Erteilung oder Änderung der Erzeuger-, Beförderer- und Entsorgernummern | SBB
 3.19 | § 27 Abs. 4 | Erteilung oder Änderung der Nachweisnummern | SBB, soweit Nachweise über besonders überwachungsbedürftige Abfälle zu führen sind; im Übrigen UAWB/LUGV/LBGR, soweit sie nach Nummer 1.23 für die Überwachung des Adressaten zuständig sind
 3.20 | § 27 Abs. 4 | Erteilung oder Änderung der Freistellungsnummern | LUGV
 3.21 | § 27 Abs. 4 | Erteilung oder Änderung der Konzept- und Bilanznummern | LUGV/LBGR
 3.22 | § 32 Abs. 4 | Gestattung der Aufbereitung, Übermittlung und Speicherung der Nachweisdaten sowie Freistellung von Anforderungen nach § 32 Abs. 4 Satz 2 NachwV (§ 32 Abs. 4 Satz 1 und 3 NachwV) | LUGV
 3.23 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LUGV/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 4 | Verordnung zur Transportgenehmigung (TgV)
-4.1 | § 1 Abs. 1 und 4, § 7 Abs. 1, § 8 Abs. 2 und § 10 Abs. 2 und 3 | Entscheidung über die Transportgenehmigung | LUGV
+4.1 | § 1 Abs. 1 und 4, § 7 Abs. 1, § 8 Abs. 2 und § 10 Abs. 2 und 3 | Entscheidung über die Transportgenehmigung | SBB
 4.2 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LUGV/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 5 | Verordnung über Entsorgungsfachbetriebe (EfbV)
 5.1 | § 14 Abs. 1, § 15 Abs. 1 und 3 | Entscheidung über die Zustimmung zum Überwachungsvertrag | LUGV
@@ -190,8 +190,12 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 17 | PCB/PCT-Abfallverordnung (PCBAbfallV)
 17.1 | § 4 Abs. 1 | Entgegennahme von Registern über PCB-Abfälle von PCB-Beseitigungsunternehmen | LUGV
 17.2 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LUGV/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
-18 | Abfallverbringungsgesetz (AbfVerbrG) und Verordnung (EWG) Nr. 259/93 des Rates vom 1. Februar 1993 zur Überwachung und Kontrolle der Verbringung von Abfällen in der, in die und aus der Europäischen Gemeinschaft
- |  | alle Aufgaben der zuständigen Behörde im Sinne dieser Vorschriften einschließlich der Verfolgung von Ordnungswidrigkeiten | LUGV
+18 | Abfallverbringungsgesetz (AbfVerbrG) und Verordnung (EG) Nr. 1013/2006 über die Verbringung von Abfällen
+18.1 |  | alle Aufgaben der nach Landesrecht zuständigen Behörde, sofern nachfolgend keine abweichende Regelung getroffen ist | SBB
+18.2 | § 8 Absatz 4 AbfVerbrG | Übernahme der Kosten, sofern eine kostenpflichtige Person nicht in Anspruch genommen werden kann | MUGV
+18.3 | § 9 Absatz 1 Satz 2 AbfVerbrG | Befugnis, Daten zu erheben und zu verwenden | SBB, LUGV jeweils im Rahmen ihrer Zuständigkeit
+18.4 | § 11 Absatz 1 AbfVerbrG | Kontrolle von Anlagen und Unternehmen gemäß Artikel 50 Absatz 2 VVA | LUGV, LBGR, SBB jeweils im Rahmen ihrer Zuständigkeit
+18.5 | §§ 18 und 19 AbfVerbrG | Ordnungswidrigkeiten, Einziehung von Gegenständen | LUGV
 19 | Umweltrahmengesetz (URG)
 19.1 | Artikel 1 § 4 Abs. 3 | Entscheidung über die Freistellung von der Verantwortung für vor dem 1. Juli 1990 verursachte Schäden | UAWB/LBGR
 19.2 | Artikel 1 § 4 Abs. 3 | Entscheidung über das Einvernehmen zur Freistellung von der Verantwortlichkeit | MUGV(2)
@@ -241,7 +245,7 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 26.5 | § 8 Abs. 10 | Entgegennahme von Informationen über angelieferte aber nicht zugelassene Abfälle | LUGV/LBGR
 26.6 | § 9 Abs. 1 | Festlegungen von Auslöseschwellen und Grundwasser-Messstellen | LUGV/LBGR
 26.7 | § 9 Abs. 4 und § 11 Abs. 2 Satz 4 | Zulassung von Ausnahmen | LUGV/LBGR
-26.8 | § 12 | behördliche Maßnahmen in der Stilllegungsphase | UAWB/LBGR; LUGV bezüglich der im Anhang aufgeführten Deponien
+26.8 | § 12 | behördliche Maßnahmen in der Stilllegungsphase | UAWB/LBGR; LUGV bezüglich der in Anhang 1 aufgeführten Deponien
 26.9 | § 13 | behördliche Maßnahmen in der Nachsorgephase | UAWB/LBGR
 26.10.1 | § 14 Abs. 1 | Entgegennahme von Anzeigen | LUGV/LBGR
 26.10.2 | § 14 Abs. 2 | Entscheidung über Zulassung des Weiterbetriebs von Altdeponien | LUGV/LBGR

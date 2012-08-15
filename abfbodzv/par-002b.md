@@ -1,0 +1,2 @@
+# § 2b Befugnisse der Sonderabfallgesellschaft Brandenburg/Berlin mbH
+Soweit mit dieser Verordnung der Sonderabfallgesellschaft Brandenburg/Berlin mbH Aufgaben nach § 15 Absatz 2 des Brandenburgischen Abfall- und Bodenschutzgesetzes übertragen werden, gelten die Überwachungs- und Anordnungsbefugnisse des Abfallrechts (§§ 21 und 40 des Kreislaufwirtschafts- und Abfallgesetzes, §§ 23 und 24 des Brandenburgischen Abfall- und Bodenschutzgesetzes) sinngemäß.
