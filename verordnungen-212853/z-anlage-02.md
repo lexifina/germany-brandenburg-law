@@ -16,7 +16,7 @@ Blatt Nr. | Unterzeichnung
 7 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV am 15.01.2007
 8 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
 9 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
-10 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
+10 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz am 19. Juni 2012
 11 | unterzeichnet von der Bearbeiterin Frau Ludwig und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 25.5.1998
 12 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV am 15.01.2007
 13 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV am 15.01.2007
@@ -65,7 +65,6 @@ Blatt Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 4 | Brädikow | 7 | 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 26.5.1998
 5 | Brädikow | 8 | 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 26.5.1998
 6 | Friesack | 1 | 4 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 26.5.1998
-7 | Friesack | 3 | 4 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 26.5.1998
 8 | Friesack | 6 | 4 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 26.5.1998
 9 | Friesack | 8 | 4 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 26.5.1998
 10 | Friesack | 9 | 4 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 9 des MUNR, am 26.5.1998
@@ -347,6 +346,7 @@ Blatt Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 3.2.2 Liegenschaftskarten Landkreis Havelland
 Titel: Liegenschaftskarte zur Verordnung über das Landschaftsschutzgebiet „Westhavelland“
 Blatt Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
+7 | Friesack | 3 | 4 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz am 19. Juni 2012
 18 | Paulinenaue | 1 | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV am 15.01.2007
 89 | Ribbeck | 8 | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV am 15.01.2007
 72a | Groß Behnitz | 4 (Teil 1 von 3) | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 25 des MLUV am 15.01.2007
