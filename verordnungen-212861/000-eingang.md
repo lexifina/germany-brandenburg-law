@@ -1,0 +1,2 @@
+# Verordnung über das Landschaftsschutzgebiet „Notte-Niederung“
+Auf Grund des § 22 Absatz 1 und 2 und des § 26 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542) in Verbindung mit § 19 Absatz 1 und 2, § 22 Absatz 2, § 29 Absatz 3 sowie § 78 Absatz 1 Satz 3 des Brandenburgischen Naturschutzgesetzes in der Fassung der Bekanntmachung vom 26. Mai 2004 (GVBl. I S. 350) verordnet die Ministerin für Umwelt, Gesundheit und Verbraucherschutz:
