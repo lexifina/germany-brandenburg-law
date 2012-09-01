@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von Zuständigkeiten des Ministeriums für Arbeit, Soziales, Gesundheit, Frauen und Familie für die Bewilligung, Berechnung und Zahlung von Trennungsgeld und die Berechnung und Zahlung von Reisekosten auf die Zentrale Bezügestelle des Landes Brandenburg (Reisekostenzuständigkeitsübertragungsverordnung MASGF - RkZÜVMASGF)
+Auf Grund des § 63 Absatz 3 Satz 2 des Landesbeamtengesetzes vom 3. April 2009 (GVBl. I S. 26) verordnet der Minister für Arbeit, Soziales, Frauen und Familie im Einvernehmen mit dem Minister der Finanzen:
