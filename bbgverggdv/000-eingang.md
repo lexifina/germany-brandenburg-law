@@ -1,0 +1,2 @@
+# Verordnung über Angebotsprüfungen, Kontrollen, Auftragssperren und erleichterte Nachweise nach dem Brandenburgischen Vergabegesetz (Brandenburgische Vergabegesetz-Durchführungsverordnung - BbgVergGDV)
+Auf Grund des § 10 Absatz 1 des Brandenburgischen Vergabegesetzes vom 21. September 2011 (GVBl. I Nr. 19) in Verbindung mit § 2 der Brandenburgischen Vergabegesetz-Zuständigkeitsübertragungsverordnung vom 29. März 2012 (GVBl. II Nr. 22) verordnet der Minister für Wirtschaft und Europaangelegenheiten:
