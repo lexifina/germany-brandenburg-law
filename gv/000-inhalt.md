@@ -2,7 +2,7 @@
 ## Abschnitt 1 Allgemeines
 § 1 Geltungsbereich
 § 2 Ziele, Selbstständigkeit und Zusammenarbeit der Schulen
-§ 3 Sprachstandsfeststellung und Sprachförderkurse
+§ 3 (aufgehoben)
 § 4 Anmeldung, Aufnahme
 § 5 Grundsätze der Förderung
 § 6 Besondere Fördermaßnahmen bei besonderen Schwierigkeiten im Lesen, Rechtschreiben und Rechnen
@@ -18,7 +18,7 @@
 § 14 Empfehlung der Grundschule
 § 15 Gutachten der Grundschule
 ## Abschnitt 4 Übergangs- und Schlussvorschriften
-§ 16 Übergangsvorschriften
+§ 16 (aufgehoben)
 § 17 Durchführung der Verordnung
 § 18 Inkrafttreten, Außerkrafttreten
 Anlage 1 Kontingentstundentafel
