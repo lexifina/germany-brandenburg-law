@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von Zuständigkeiten für die Berechnung und Zahlung von Reisekosten sowie die Bewilligung, Berechnung und Zahlung von Trennungsgeld für den Geschäftsbereich des Ministerpräsidenten auf die Zentrale Bezügestelle des Landes Brandenburg (Reisekosten-Trennungsgeldzuständigkeitsübertragungsverordnung MP - RkTrZÜVMP)
+Auf Grund des § 63 Absatz 3 Satz 2 des Landesbeamtengesetzes vom 3. April 2009 (GVBl. I S. 26) verordnet der Ministerpräsident im Einvernehmen mit dem Minister der Finanzen:
