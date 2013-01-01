@@ -1,0 +1,2 @@
+# Verordnung zur Festsetzung der Investitionspauschale nach dem Brandenburgischen Krankenhausentwicklungsgesetz (Krankenhausinvestitionspauschalverordnung - BbgKHEGIPV)
+Auf Grund des § 16 Absatz 8 des Brandenburgischen Krankenhausentwicklungsgesetzes vom 8. Juli 2009 (GVBl. I S. 310), der durch Gesetz vom 18. Dezember 2012 (GVBl. I Nr. 44) neu gefasst worden ist, verordnet die Ministerin für Umwelt, Gesundheit und Verbraucherschutz:
