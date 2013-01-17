@@ -18,7 +18,7 @@ Kartenblatt | Unterzeichnung
 2742 SW | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MLUR, Siegelnummer 39, am 31. Januar 2003
 2743 SO | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MLUR, Siegelnummer 39, am 31. Januar 2003
 2743 SW | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MLUR, Siegelnummer 39, am 31. Januar 2003
-2841 NO | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MLUR, Siegelnummer 39, am 31. Januar 2003
+2841 NO | unterzeichnet vom Siegelverwahrer und gesiegelt mit dem Siegel des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz, Siegelnummer 22, am 29. Oktober 2012
 2842 NO | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MLUR, Siegelnummer 39, am 31. Januar 2003
 2842 NW | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MLUR, Siegelnummer 39, am 31. Januar 2003
 2842 SO | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MLUR, Siegelnummer 39, am 31. Januar 2003
@@ -69,12 +69,11 @@ Blatt | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 17 | Dranse | 8 | 2 500 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MLUR, Siegelnummer 39, am 10. Dezember 2002
 18 | Dranse | 9 | 2 500 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MLUR, Siegelnummer 39, am 10. Dezember 2002
 19 | Dranse | 11 | 2 500 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MLUR, Siegelnummer 39, am 10. Dezember 2002
-20 | Zempow | 1 | 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 39 des MLUR, am 10. Dezember 2002
+20 | Zempow | 1 | 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 39 des MLUR,am 10. Dezember 2002
 21 | Zempow | 2 | 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 39 des MLUR, am 10. Dezember 2002
 22 | Zempow | 3 | 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 39 des MLUR, am 10. Dezember 2002
 23 | Schweinrich | 1 | 2 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 39 des MLUR, am 10. Dezember 2002
 24 | Schweinrich | 2 | 4 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 39 des MLUR, am 10. Dezember 2002
-25 | Schweinrich | 4 | 4 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 39 des MLUR, am 10. Dezember 2002
 26 | Schweinrich | 5 | 4 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 39 des MLUR, am 10. Dezember 2002
 27 | Schweinrich | 6 | 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 39 des MLUR, am 10. Dezember 2002
 28 | Schweinrich | 7 | 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 39 des MLUR, am 10. Dezember 2002
@@ -304,6 +303,7 @@ Blatt | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 ### 4. Liegenschaftskarten
 Titel: | Flurkarte/Liegenschaftskarte zur Verordnung über das Landschaftsschutzgebiet „Ruppiner Wald- und Seengebiet"
 Blatt | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
+25 | Schweinrich | 4 | 4 000 | unterzeichnet vom Siegelverwahrer und gesiegelt mit dem Siegel des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz, Siegelnummer 22, am 29. Oktober 2012
 59 a | Großzerlang | 1 (Teil 1 von 4) | 3 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 3. November 2006
 59 b | Großzerlang | 1 (Teil 2 von 4) | 3 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 3. November 2006
 59 c | Großzerlang | 1 (Teil 3 von 4) | 3 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 3. November 2006
