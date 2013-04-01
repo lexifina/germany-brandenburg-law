@@ -3,8 +3,9 @@
 Nr. | Gegenstand | Gebühren
 1 | Feststellungserklärung nach den §§ 1059a Absatz 1 Nummer 2, Absatz 2, 1059e, 1092 Abs. 2 und 1098 Abs. 3 BGB | 25 bis 385 Euro
 2 | Schuldnerverzeichnis | 
-2.1 | Entscheidung über den Antrag auf Bewilligung des laufenden Bezugs von Abdrucken (§ 915 d der Zivilprozessordnung) | 410 €
-2.2 | Erteilung von Abdrucken (§§ 915, 915d der Zivilprozessordnung, § 26 Abs. 2 der Insolvenzordnung) Anmerkung: Neben den Gebühren für die Erteilung von Abdrucken werden Dokumentenpauschalen nicht erhoben. | 0,50 Euro je Eintragung, mindestens 10 Euro
+2.1 | Entscheidung über den Antrag auf Bewilligung des laufenden Bezugs von Abdrucken (§ 882g der Zivilprozessordnung) | 525 Euro
+2.2 | Erteilung von Abdrucken (§§ 882b, 882g der Zivilprozessordnung) Anmerkung: Neben den Gebühren für die Erteilung von Abdrucken werden Dokumentenpauschalen und die Datenträgerpauschale nicht erhoben. | 0,50 Euro je Eintragung, mindestens 17 Euro
+2.3 | Einsicht in das Schuldnerverzeichnis (§ 882f der Zivilprozessordnung), je übermitteltem Datensatz Anmerkung: Die Gebühr entsteht auch, wenn die Information übermittelt wird, dass für den Schuldner kein Eintrag verzeichnet wird (Negativauskunft). Die Gebühr entsteht nicht im Falle einer Selbstauskunft. | 4,50 Euro
 3 | (aufgehoben) | 
 3.1 | (aufgehoben) | 
 3.2 | (aufgehoben) | 
