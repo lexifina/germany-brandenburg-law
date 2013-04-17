@@ -22,7 +22,7 @@ Blatt-Nr. | Unterzeichnung
 13 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 14 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 15 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
-16 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
+16 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz, am 6. März 2013
 17 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 18 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des Ministeriums für Ländliche Entwicklung, Umwelt und Verbraucherschutz, am 24.02.2009
 19 | unterzeichnet vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz, am 30. Mai 2012
@@ -68,8 +68,6 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 12 | Babelsberg | 18 | 1 000 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 13 | Beelitz | 3 | 5 000 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 14 | Beelitz | 4 | 3 000 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
-15 | Beelitz | 5 | 2 000 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
-16 | Beelitz | 6 | 2 000 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 17 | Beelitz | 7 | 1 000 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 18 | Beelitz | 10 | 2 000 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
 19 | Beelitz | 11 | 2 000 | unterzeichnet von der Bearbeiterin Frau Schütte und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 16.12.1998
@@ -377,6 +375,8 @@ lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 4. Liegenschaftskarten
 Titel: Liegenschaftskarte zur Verordnung über das Landschaftsschutzgebiet „Nuthetal-Beelitzer Sander“
 lfd. Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
+15 | Beelitz | 5 | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV), am 6. März 2013
+16 | Beelitz | 6 | 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV), am 6. März 2013
 28 | Bergholz-Rehbrücke | 3 | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
 29a | Bergholz-Rehbrücke | 4 (Teil 1 von 2) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
 29b | Bergholz-Rehbrücke | 4 (Teil 2 von 2) | 2 000 | unterzeichnet vom Siegelverwahrer, Siegelnummer 25 des MLUV, am 01.08.2007
