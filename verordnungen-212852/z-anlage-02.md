@@ -8,8 +8,8 @@ Titel: Topografische Karte zur Verordnung über das Landschaftsschutzgebiet „M
 Blatt | Unterzeichnung
 1 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 2 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
-3 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
-4 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
+3 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV), am 23. Mai 2013
+4 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV), am 23. Mai 2013
 5 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 6 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 7 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
@@ -17,11 +17,11 @@ Blatt | Unterzeichnung
 9 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 10 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 11 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
-12 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
+12 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV), am 23. Mai 2013
 13 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 14 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 15 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
-16 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
+16 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV), am 23. Mai 2013
 17 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 18 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 19 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
@@ -58,14 +58,14 @@ Blatt | L / F | Gemarkung | Flur | Maßstab | Unterzeichnung
 27 | F | Grünheide | 1 | 1 : 5 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 28 | F | Grünheide | 1 (Beiblatt) | 1 : 1 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 29 | F | Grünheide | 2 | 1 : 1 250 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
-30 | F | Grünheide | 3 | 1 : 1 250 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
-31 | F | Grünheide | 4 | 1 : 5 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
-32 | F | Grünheide | 5 | 1 : 625 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
-33 | F | Grünheide | 6 | 1 : 5 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
+30 | L | Grünheide | 3 | 1 : 1 500 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des Ministeriums für Umwelt, Gesundheit und Verbraucherschutz (MUGV), am 23. Mai 2013
+31 | L | Grünheide | 4 | 1 : 4 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des MUGV, am 23. Mai 2013
+32 | L | Grünheide | 5 | 1 : 2 500 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des MUGV, am 23. Mai 2013
+33 | L | Grünheide | 6 | 1 : 4 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des MUGV, am 23. Mai 2013
 34 | F | Grünheide | 7 | 1 : 2 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 35 | F | Grünheide | 8 | 1 : 5 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
-36 | F | Grünheide | 9 | 1 : 5 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
-37 | F | Grünheide | 10 | 1 : 2 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
+36 | L | Grünheide | 9 | 1 : 5 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des MUGV, am 23. Mai 2013
+37 | L | Grünheide | 10 | 1 : 2 500 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des MUGV, am 23. Mai 2013
 38 | F | Kagel | 1 | 1 : 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 39 | F | Kagel | 2 | 1 : 3 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 40 | F | Kagel | 2 (Beiblatt) | 1 : 1 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
@@ -97,7 +97,7 @@ Blatt | L / F | Gemarkung | Flur | Maßstab | Unterzeichnung
 66 | F | Erkner | 9 (Beiblatt) | 1 : 1 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 67 | F | Spreeau | 1 | 1 : 5 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 68 | F | Spreeau | 2 | 1 : 2 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
-69 | F | Spreeau | 3 | 1 : 5 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
+69 | L | Spreeau | 3 | 1 : 2 000 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des MUGV, am 23. Mai 2013
 70 | F | Spreeau | 4 | 1 : 1 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 71 | F | Spreeau | 5 | 1 : 5 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 72 | F | Spreeau | 6 | 1 : 5 000 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
@@ -130,7 +130,7 @@ Blatt | L / F | Gemarkung | Flur | Maßstab | Unterzeichnung
 99 | F | Gosen | 4 | 1 : 1 250 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 100 | F | Gosen | 5 | 1 : 1 250 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 101 | F | Gosen | 6 | 1 : 1 250 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
-102 | F | Neu Zittau | 1 | 1 : 2 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
+102 | L | Neu Zittau | 1 | 1 : 2 500 | unterzeichnet und gesiegelt vom Siegelverwahrer, Siegelnummer 22 des MUGV, am 23. Mai 2013
 103 | F | Neu Zittau | 2 | 1 : 1 250 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 104 | F | Neu Zittau | 3 | 1 : 2 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
 105 | F | Neu Zittau | 3 (Beiblatt) | 1 : 500 | unterzeichnet von der Siegelverwahrerin, Siegelnummer 32 des MLUV, am 20. Oktober 2006
