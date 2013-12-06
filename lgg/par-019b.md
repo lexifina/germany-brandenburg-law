@@ -1,0 +1,3 @@
+# § 19b Aufgaben und Rechte der Landesgleichstellungsbeauftragten
+(1) Die Landesgleichstellungsbeauftragte berät und unterstützt die nach diesem Gesetz und die nach der Kommunalverfassung des Landes Brandenburg bestellten Gleichstellungsbeauftragten sowie alle Dienststellen im Geltungsbereich dieses Gesetzes. Bei Meinungsverschiedenheiten zwischen der Gleichstellungsbeauftragten einer obersten Landesbehörde und der Leitung der Dienststelle kann sie beratend hinzugezogen werden. Sie ist unabhängig und keinen Weisungen unterworfen.
+(2) Die Landesgleichstellungsbeauftragte trägt dazu bei, die Öffentlichkeit über die Gleichstellung von Frauen und Männern zu informieren. Sie kooperiert mit Frauenverbänden und anderen öffentlichen und nicht öffentlichen Stellen.
