@@ -1,0 +1,3 @@
+# § 23a Gerichtliches Verfahren
+(1) Bleiben ihr Widerspruch nach § 23 Absatz 1 und ihr Antrag nach § 23 Absatz 2 erfolglos, kann die Gleichstellungsbeauftragte das Verwaltungsgericht mit dem Antrag anrufen, festzustellen, dass die Dienststelle ihre Rechte aus diesem Gesetz verletzt hat. Dies gilt auch, wenn die Dienststelle keinen oder einen nicht den Vorschriften dieses Gesetzes entsprechenden Gleichstellungsplan aufgestellt hat. Die Anrufung hat keine aufschiebende Wirkung.
+(2) Die Kosten für das verwaltungsrechtliche Verfahren, einschließlich der anwaltlichen Vertretung trägt die Dienststelle.
