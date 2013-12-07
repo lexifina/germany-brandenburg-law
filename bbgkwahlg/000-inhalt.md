@@ -116,3 +116,4 @@
 § 96 Maßgebende Einwohnerzahl
 § 97 Durchführung des Gesetzes
 § 98 Fristen und Termine sowie Schriftform
+§ 99 Übergangsvorschrift
