@@ -10,6 +10,7 @@ Artikel 5 Geltung
 Artikel 6 Rechtsschutz
 ## 2. Abschnitt: Freiheit, Gleichheit und Würde
 Artikel 7 Schutz der Menschenwürde
+Artikel 7a Schutz des friedlichen Zusammenlebens
 Artikel 8 Recht auf Leben
 Artikel 9 Freiheit der Person
 Artikel 10 Freie Entfaltung der Persönlichkeit
@@ -28,8 +29,8 @@ Artikel 21 Recht auf politische Mitgestaltung
 Artikel 22 Wahlen und Volksabstimmungen
 Artikel 23 Versammlungsfreiheit
 Artikel 24 Petitionsrecht
-## 4. Abschnitt: Rechte der Sorben (Wenden)
-Artikel 25 Rechte der Sorben (Wenden)
+## 4. Abschnitt: Rechte der Sorben/Wenden
+Artikel 25 Rechte der Sorben/Wenden
 ## 5. Abschnitt: Ehe, Familie, Lebensgemeinschaften und Kinder
 Artikel 26 Ehe, Familie und Lebensgemeinschaften
 Artikel 27 Schutz und Erziehung von Kindern und Jugendlichen
