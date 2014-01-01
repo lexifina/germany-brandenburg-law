@@ -1,0 +1,2 @@
+# § 127a Verfahren über den Einheitlichen Ansprechpartner für das Land Brandenburg
+Verwaltungsverfahren gemäß den §§ 125 und 127 können über den Einheitlichen Ansprechpartner für das Land Brandenburg abgewickelt werden. Das Gesetz über den Einheitlichen Ansprechpartner für das Land Brandenburg vom 7. Juli 2009 (GVBl. I S. 262) sowie § 1 des Verwaltungsverfahrensgesetzes für das Land Brandenburg in Verbindung mit den §§ 71a bis 71e des Verwaltungsverfahrensgesetzes finden Anwendung.
