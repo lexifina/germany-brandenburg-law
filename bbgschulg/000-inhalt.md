@@ -165,12 +165,14 @@
 § 121 Genehmigung von Ersatzschulen
 § 122 Versagung und Aufhebung der Genehmigung
 § 123 Anerkannte Ersatzschulen
-§ 124 Finanzhilfe
+§ 124 Voraussetzungen für die Gewährung des Betriebskostenzuschusses
+§ 124a Ermittlung des Betriebskostenzuschusses
 ## Abschnitt 3 Ergänzungsschulen
 § 125 Ergänzungsschulen
 § 126 Staatlich anerkannte Ergänzungsschulen
 ## Abschnitt 4 Ergänzende Vorschriften
 § 127 Freie Einrichtungen und Privatunterricht
+§ 127a Verfahren über den Einheitlichen Ansprechpartner für das Land Brandenburg
 § 128 Ordnungswidrigkeiten
 ## Teil 11 Schulaufsicht
 ## Abschnitt 1 Allgemeine Vorschriften
@@ -190,7 +192,7 @@
 § 139 Landesschulbeirat
 ## Teil 13 Übergangs- und Schlussvorschriften
 ## Abschnitt 1 Übergangsvorschriften
-§ 140 Wartefrist für Schulen in freier Trägerschaft, nicht gemeinnützige Ersatzschulen
+§ 140 Übergangsregelungen für die Gewährung des Betriebskostenzuschusses
 § 141 Einführung der Schulzeitverkürzung und Sprachstandsfeststellung
 § 142 Fortbestehende Schulträgerschaften
 § 143 Fortführung von Schulen
