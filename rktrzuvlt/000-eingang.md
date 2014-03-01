@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von Zuständigkeiten im Geschäftsbereich des Präsidenten des Landtages für die Berechnung und Zahlung von Reisekosten sowie die Bewilligung, Berechnung und Zahlung von Trennungsgeld auf die Zentrale Bezügestelle des Landes Brandenburg (Reisekosten-Trennungsgeldzuständigkeitsübertragungsverordnung Landtag - RkTrZÜVLT)
+Auf Grund des § 63 Absatz 3 Satz 2 des Landesbeamtengesetzes vom 3. April 2009 (GVBl. I S. 26) verordnet der Präsident des Landtages im Einvernehmen mit dem Minister der Finanzen:
