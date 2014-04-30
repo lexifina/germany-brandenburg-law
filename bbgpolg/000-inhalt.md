@@ -8,8 +8,7 @@
 § 6 Verantwortlichkeit für den Zustand von Sachen und Tieren
 § 7 Inanspruchnahme von Notstandspflichtigen
 § 8 Einschränkung von Grundrechten
-§ 9 Legitimationspflicht
-*
+§ 9 Legitimations- und Kennzeichnungspflicht
 ## Kapitel 2 Befugnisse der Polizei
 ## Abschnitt 1 Allgemeine und besondere Befugnisse
 § 10 Allgemeine Befugnisse, Begriffsbestimmung
@@ -41,7 +40,8 @@
 § 32 Datenerhebung durch Observation
 § 33 Datenerhebung durch den verdeckten Einsatz technischer Mittel zum Abhören und Aufzeichnen des gesprochenen Wortes und zur Anfertigung von Bildaufnahmen und Bildaufzeichnungen
 § 33a Datenerhebung durch den Einsatz technischer Mittel zur Überwachung von Wohnungen
-§ 33b Datenerhebung durch Eingriffe in die Telekommunikation
+§ 33b Datenerhebung durch Eingriffe in die Telekommunikation, Verkehrs- und Nutzungsdatenauskunft
+§ 33c Datenerhebung durch Bestandsdatenauskunft
 § 34 Datenerhebung durch den Einsatz von Personen, deren Zusammenarbeit mit der Polizei Dritten nicht bekannt ist
 § 35 Datenerhebung durch den Einsatz Verdeckter Ermittler
 § 36 Polizeiliche Ausschreibung
