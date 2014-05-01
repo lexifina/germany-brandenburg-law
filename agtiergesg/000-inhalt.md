@@ -2,6 +2,7 @@
 ## Abschnitt 1 Behörden und Aufgaben
 § 1 Behörden, Zuständigkeiten
 § 2 Andere Zuständigkeiten
+§ 2a Datenverarbeitung
 § 3 Amtstierarzt
 § 4 Untersuchungseinrichtungen, Gutachter
 § 5 Tierseuchenverordnung, Tierseuchenverfügung
@@ -28,5 +29,5 @@
 § 23 Tierhalter als Kostenträger
 ## Abschnitt 5 Schlußvorschriften
 § 24 Verwaltungsvorschriften
-§ 25 Übergangsregelungen
+§ 25 Einschränkung von Grundrechten
 § 26 Inkrafttreten, Außerkrafttreten
