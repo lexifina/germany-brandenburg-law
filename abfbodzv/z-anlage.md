@@ -44,7 +44,7 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 1.5 | § 19 Abs. 1 | Anforderung und Entgegennahme betrieblicher Abfallwirtschaftskonzepte | LUGV/LBGR
 1.6 | § 20 Abs. 1 | Anforderung und Entgegennahme betrieblicher Abfallbilanzen | LUGV/LBGR
 1.7 | § 21 Abs. 1 | Anordnungen zur Durchführung des KrW-/AbfG und der danach ergangenen Verordnungen | UAWB/LUGV/LBGR jeweils im Rahmen der ihnen zugeordneten Überwachungsaufgabe nach Nummer 1.23
-1.8 | § 21 Abs. 2 | Anordnung der Prüfung betrieblicher Abfallwirtschaftskonzepte und -bilanzen durch Sachverständige | LUGV/LBGR
+1.8 | § 21 Abs. 2 | Anordnung der Prüfung betrieblicher Abfallwirtschaftskonzepte und bilanzen durch Sachverständige | LUGV/LBGR
 1.8a | § 21 Abs. 2 | Bekanntgabe von Sachverständigen | LUGV
 1.9 | § 21 Abs. 3 | Beanstandung und Fristsetzung bei betrieblichen Abfallwirtschaftskonzepten und -bilanzen | LUGV/LBGR
 1.10 | § 25 Abs. 2 | Entgegennahme von Anzeigen über die freiwillige Rücknahme von Abfällen sowie Entscheidung über Ausnahmen von Nachweisanforderungen | LUGV/LBGR
@@ -165,22 +165,15 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 14.2 | §§ 4 Abs. 2, 3 und 4; § 5 Abs. 2, 3 und 4, § 6; § 7 sowie § 8 Abs. 2 | Überwachung der Einhaltung der bezeichneten Anforderungen durch Betreiber von Demontagebetrieben, Annahmestellen sowie Rücknahmestellen | LUGV
 14.3 |  | Vollzug dieser Verordnung im Übrigen | LUGV
 15 | Bioabfallverordnung (BioAbfV)
-15.1 | § 3 Abs. 8 Satz 1 | Entscheidung über einen Antrag auf Bestimmung als Untersuchungsstelle zur Prüfung der seuchen- und phytohygienischen Unbedenklichkeit | LELF
-15.2 | § 4 Abs. 9 Satz 1 und 4, § 9 Abs. 2 Satz 8 | Entscheidung über einen Antrag auf Bestimmung als Untersuchungsstelle | LUGV
-15.3 | § 3 Abs. 3 Satz 2, § 4 Abs. 3 Satz 4 und 5, § 4 Abs. 5 Satz 2 und 3, § 4 Abs. 6 Satz 2, § 6 Abs. 1 Satz 4, § 6 Abs. 3, § 9 Abs. 4 Satz 1 | Entscheidung über Ausnahmen von den Anforderungen der BioAbfV | UAWB; LUGV/LBGR, soweit die Maßnahme an den Betreiber einer Anlage, die nach Nummer 1.23.7 der Überwachung des LUGV/LBGR unterliegt, gerichtet ist und die Annahme von Bioabfällen, Maßnahmen in der Anlage wie die Verwendung, Behandlung, Lagerung und Untersuchung von Bioabfällen sowie die Abgabe von Bioabfällen durch den Bioabfallbehandler oder Gemischhersteller betrifft
-15.4 | § 3 Abs. 7 Satz 2 und 3; § 3 Abs. 8 Satz 2, 3 und 4; § 4 Abs. 7 Satz 2; § 4 Abs. 8 Satz 2; § 4 Abs. 9 Satz 3; § 9 Abs. 1 Satz 1 und 2; § 9 Abs. 2 Satz 2; § 11 Abs. 1 Satz 3; § 11 Abs. 2 Satz 3; § 11 Abs. 3 Satz 3 | Entgegennahme von Untersuchungsergebnissen zur Produktprüfung und Nachweisen sowie Anordnung von Maßnahmen | UAWB; LUGV/LBGR, soweit die Maßnahme an den Betreiber einer Anlage, die nach Nummer 1.23.7 der Überwachung des LUGV/LBGR unterliegt, gerichtet ist und die Annahme von Bioabfällen, Maßnahmen in der Anlage wie die Verwendung, Behandlung, Lagerung und Untersuchung von Bioabfällen sowie die Abgabe von Bioabfällen durch den Bioabfallbehandler oder Gemischhersteller betrifft
-15.5 | § 4 Abs. 7 Satz 3, § 4 Abs. 8 Satz 3 | Entscheidung über weiteres Vorgehen | UAWB; LUGV/LBGR, soweit die Maßnahme an den Betreiber einer Anlage, die nach Nummer 1.23.7 der Überwachung des LUGV/LBGR unterliegt, gerichtet ist und die Annahme von Bioabfällen, Maßnahmen in der Anlage wie die Verwendung, Behandlung, Lagerung und Untersuchung von Bioabfällen sowie die Abgabe von Bioabfällen durch den Bioabfallbehandler oder Gemischhersteller betrifft
-15.6 | § 6 Abs. 2 Satz 1 | Zustimmung zum Aufbringen von Bioabfällen und Gemischen, die andere als in Anhang 1 Nr. 1 BioAbfV genannte Bioabfälle enthalten | UAWB; LUGV, soweit die Zustimmung landesweit erfolgen soll
-Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
-15.7 | § 9 Abs. 2 Satz 5 | Untersagung der Aufbringung von Bioabfällen und Gemischen | UAWB
-15.8 | § 9 Abs. 2 Satz 9 | Bekanntgabe an Bewirtschafter | UAWB
-15.9 | § 9 Abs. 3 Satz 2 | Ausnahmen von der Pflicht zur Untersuchung | UAWB; LUGV, soweit die Ausnahme oder Zustimmung landesweit erfolgen soll
-15.10 | § 10 Abs. 2 Satz 1 | Ausnahmen von der Pflicht zur Untersuchung oder Behandlung sowie Zulassung der Verwendung oder Aufbringung bestimmter Bioabfälle | UAWB; LUGV/LBGR, soweit die Maßnahme an den Betreiber einer Anlage, die nach Nummer 1.23.7 der Überwachung des LUGV/LBGR unterliegt, gerichtet ist und die Annahme von Bioabfällen, Maßnahmen in der Anlage wie die Verwendung, Behandlung, Lagerung und Untersuchung von Bioabfällen sowie die Abgabe von Bioabfällen durch den Bioabfallbehandler oder Gemischhersteller betrifft; LUGV, soweit die Ausnahme oder Zustimmung landesweit erfolgen soll
-15.11 | § 11 Abs. 3 Satz 1 | Befreiung der Mitglieder von Gütegemeinschaften von Vorlage- und Nachweispflichten | UAWB; LUGV/LBGR, soweit die Maßnahme an den Betreiber einer Anlage, die nach Nummer 1.23.7 der Überwachung des LUGV/ LBGR unterliegt, gerichtet ist und die Annahme von Bioabfällen, Maßnahmen in der Anlage wie die Verwendung, Behandlung, Lagerung und Untersuchung von Bioabfällen sowie die Abgabe von Bioabfällen durch den Bioabfallbehandler oder Gemischhersteller betrifft
-15.12 |  | landwirtschaftliche Fachbehörde im Sinne dieser Verordnung | Landkreis/kreisfreie Stadt; LELF bei den Entscheidungen der zuständigen Behörde nach § 3 Abs. 3 Satz 2, § 6 Abs. 2 Satz 1, § 10 Abs. 2 Satz 1 sowie in den Fällen, in denen das LUGV als zuständige Behörde entscheidet
-15.13 |  | tierärztliche Fachbehörde im Sinne dieser Verordnung | Landkreis/kreisfreie Stadt
-15.14 |  | forstwirtschaftliche Fachbehörde im Sinne dieser Verordnung | Amt für Forstwirtschaft
-15.15 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LUGV/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
+15.1 | § 3 Abs. 8a | Entscheidung über einen Antrag auf Bestimmung als Untersuchungsstelle | LUGV
+15.2 | § 6 Abs. 2 Satz 1 | Zustimmung zum Aufbringen von Bioabfällen und Gemischen, die andere als in Anhang 1 Nr. 1 BioAbfV genannte Bioabfälle enthalten | UAWB; LUGV, soweit die Zustimmung landesweit erfolgen soll
+15.3 | § 7 Abs. 4 Satz 2 | Verlängerung des Zeitraums für ein Aufbringungsverbot | UAWB
+15.4 | § 9 Abs. 2 Satz 5 | Untersagung der Aufbringung von Bioabfällen und Gemischen | UAWB
+15.5 | § 9 Abs. 3 | Ausnahmen von der Pflicht zur Untersuchung | UAWB; LUGV, soweit die Ausnahme oder Zustimmung landesweit erfolgen soll
+15.6 |  | landwirtschaftliche Fachbehörde im Sinne dieser Verordnung | Landkreis/kreisfreie Stadt; LELF bei den Entscheidungen der zuständigen Behörde nach § 3 Abs. 3 Satz 2 und 4, § 6 Abs. 2 Satz 1 und 2, § 10 Abs. 2 Satz 1 und 4 sowie in den Fällen, in denen das LUGV als zuständige Behörde entscheidet
+15.7 |  | tierärztliche Fachbehörde im Sinne dieser Verordnung | Landkreis/kreisfreie Stadt
+15.8 |  | forstwirtschaftliche Fachbehörde im Sinne dieser Verordnung | Landesbetrieb Forst Brandenburg als untere Forstbehörde
+15.9 |  | Vollzug dieser Verordnung im Übrigen | UAWB; LUGV/LBGR, soweit die Maßnahme an den Betreiber einer Anlage, die nach Nummer 1.23.7 der Überwachung des LUGV/LBGR unterliegt, gerichtet ist und die Annahme von Bioabfällen, Maßnahmen in der Anlage wie die Verwendung, Behandlung, Lagerung und Untersuchung von Bioabfällen sowie die Abgabe von Bioabfällen durch den Bioabfallbehandler oder Gemischhersteller betrifft
 16 | Batterieverordnung (BattV)
 16.1 | § 4 Abs. 2 | Überwachung der Anforderungen an das gemeinsame Rücknahmesystem sowie Anordnungen nach § 21 Abs. 1 KrW-/AbfG und Ordnungswidrigkeitsverfahren gegenüber dem Systembetreiber | LUGV
 16.2 | § 4 Abs. 3 Satz 1 | Entgegennahme von Anzeigen und Nachweisen und 2 und § 10 über die Einrichtung von Rücknahmesystemen Abs. 2 und deren Rücklaufquoten sowie über Austritt aus dem gemeinsamen Rücknahmesystem | LUGV

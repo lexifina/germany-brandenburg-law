@@ -1,5 +1,6 @@
 # Anhang 2 zur Anlage der Abfall- und Bodenschutz-Zuständigkeitsverordnung
-Abfallrechtliche Überwachungszuständigkeit im Land Brandenburg für stillgelegte oder nicht mehr betriebene und illegale Abfalllager und Ablagerungen
+### Abfallrechtliche Überwachungszuständigkeit im Land Brandenburg für stillgelegte oder nicht mehr betriebene und illegale Abfalllager und Ablagerungen
+Niederbarnimer Baugesellschaft mbH Frankfurter Straße 52 Fürstenwalde
 Anlagenname, Standort | Zuständigkeit
 Stadt Brandenburg an der Havel
 Magnum Enterprises Caasmannstraße 5 Stadt Brandenburg | LUGV
@@ -60,7 +61,7 @@ Universal Containerdienst Ortwin Jolitz Waldesruh | UAWB
 Baustoffhandel & Transporte GmbH An der Glashütte/Ecke Am Wall, Neuenhagen | UAWB
 RST Rüdersdorfer Silo Transport GmbH Rüdersdorf | UAWB
 TTS Seelower Transport Tiefbau und Service GmbH Wriezen | UAWB
-Futterphosphatwerk GmbH i.L. Rüdersdorf | LUGV
+Futterphosphatwerk GmbH i. L. Rüdersdorf | LUGV
 TEG Rüdersdorf | LUGV
 BSR Naturstein GmbH Bad Freienwalde | LUGV
 INVESTA Finanzberatung und Vermittlung GmbH Beiersdorf-Freudenberg | UAWB
