@@ -6,7 +6,7 @@
 ## Abschnitt 2 Auftrag der Schule
 § 3 Recht auf Bildung
 § 4 Ziele und Grundsätze der Erziehung und Bildung
-§ 5 Schulen im Siedlungsgebiet der Sorben (Wenden)
+§ 5 Schulen mit niedersorbischsprachigen Angeboten im angestammten Siedlungsgebiet der Sorben/Wenden
 ## Teil 2 Schulgestaltung
 ## Abschnitt 1 Stellung der Schulen
 § 6 Rechtsstellung der Schulen

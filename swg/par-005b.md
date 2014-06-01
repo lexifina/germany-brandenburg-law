@@ -1,0 +1,2 @@
+# § 5b Bericht der Landesregierung
+Die Landesregierung erstattet dem Landtag zur Mitte der Wahlperiode Bericht zur Lage des sorbischen/wendischen Volkes im Land unter Berücksichtigung der internationalen Verpflichtungen zum Schutz der sorbischen/wendischen Sprache und Kultur. Der Bericht beinhaltet eine Bestandsaufnahme, analysiert die Wirksamkeit der Förderung sorbischer/wendischer Sprache und Kultur und trifft Aussagen zu Vorhaben der Landesregierung.
