@@ -32,7 +32,7 @@ Gemeinde Wusterhausen/Dosse
 ### Wahlkreis 5 (Havelland I):
 Gemeinde Brieselang
 Amt Friesack
-Stadt Ketzin
+Stadt Ketzin/Havel
 Stadt Nauen
 Amt Nennhausen
 Gemeinde Wustermark
@@ -45,12 +45,12 @@ Stadt Hennigsdorf
 Stadt Kremmen
 Gemeinde Löwenberger Land
 Gemeinde Oberkrämer
+Stadt Velten
 ### Wahlkreis 8 (Oberhavel II):
 Gemeinde Birkenwerder
 Gemeinde Glienicke/Nordbahn
 Stadt Hohen Neuendorf
 Gemeinde Mühlenbecker Land
-Stadt Velten
 ### Wahlkreis 9 (Oberhavel III):
 Gemeinde Leegebruch
 Stadt Liebenwalde
@@ -98,26 +98,26 @@ von der Stadt Brandenburg an der Havel die Stadtteile Görden und Plaue (ohne de
 von der Stadt Brandenburg an der Havel die Stadt- oder Ortsteile Altstadt, Dom, Hohenstücken, Kirchmöser, Neustadt und Nord sowie Gollwitz und Wust (ohne den Teil, der zum Wahlkreis 16 gehört)
 ### Wahlkreis 18 (Potsdam-Mittelmark II):
 Stadt Beelitz
-Stadt Belzig
+Stadt Bad Belzig
 Amt Brück
+Gemeinde Michendorf
 Amt Niemegk
 Gemeinde Seddiner See
 Stadt Treuenbrietzen
 Gemeinde Wiesenburg/Mark
 ### Wahlkreis 19 (Potsdam-Mittelmark III/Potsdam III):
-Gemeinde Michendorf
 Gemeinde Schwielowsee
 Stadt Werder (Havel)
-von der Landeshauptstadt Potsdam die Orts- oder Stadtteile Fahrland, Groß Glienicke, Marquardt, Neu Fahrland, Satzkorn und Uetz-Paaren (ohne die Teile, die zum Wahlkreis 21 oder 22 gehören)
+von der Landeshauptstadt die Orts- oder Stadtteile Bornim, Bornstedt, Eiche, Fahrland, Golm, Groß Glienicke, Grube, Marquardt, Nedlitz, Neu Fahrland, Sacrow, Satzkorn und Uetz-Paaren (ohne die Teile, die zum Wahlkreis 21 oder 22 gehören)
 ### Wahlkreis 20 (Potsdam-Mittelmark IV):
 Gemeinde Kleinmachnow
 Gemeinde Nuthetal
 Gemeinde Stahnsdorf
 Stadt Teltow
 ### Wahlkreis 21 (Potsdam I):
-von der Landeshauptstadt die Stadt- oder Ortsteile Potsdam Nord, Nördliche Vorstädte, Westliche Vorstädte, Babelsberg und Innenstadt sowie Golm (ohne die Teile, die zum Wahlkreis 19 oder 22 gehören)
+von der Landeshauptstadt die Stadt- oder Ortsteile Nördliche Innenstadt, Babelsberg, Klein Glienicke, Westliche Vorstädte und Nördliche Vorstädte (ohne die Teile, die zum Wahlkreis 19 oder 22 gehören)
 ### Wahlkreis 22 (Potsdam II):
-von der Landeshauptstadt die Stadt- oder Ortsteile Stern/Drewitz/Kirchsteigfeld, Potsdam Süd und Zentrum Ost (ohne die Teile, die zum Wahlkreis 19 oder 21 gehören)
+von der Landeshauptstadt die Stadt- oder Ortsteile Drewitz, Kirchsteigfeld, Potsdam Süd, Stern und Südliche Innenstadt/Zentrum Ost (ohne die Teile, die zum Wahlkreis 19 oder 21 gehören)
 ### Wahlkreis 23 (Teltow-Fläming I)
 Gemeinde Am Mellensee
 Gemeinde Großbeeren
@@ -150,7 +150,6 @@ Amt Spreenhagen
 Stadt Storkow (Mark)
 Gemeinde Tauche
 ### Wahlkreis 28 (Dahme-Spreewald III):
-Amt Golßener Land
 Gemeinde Heideblick
 Gemeinde Heidesee
 Amt Lieberose/Oberspreewald
