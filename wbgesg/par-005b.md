@@ -1,0 +1,4 @@
+# § 5b Verfahren für die Anerkennung von im Ausland erworbenen Weiterbildungsabschlüssen
+(1) Die zuständige Behörde bestätigt der antragstellenden Person binnen eines Monats den Empfang der Unterlagen und teilt ihr gegebenenfalls mit, welche Unterlagen nachzureichen sind.
+(2) Ein Verfahren über die Anerkennung der in einem anderen europäischen Staat erworbenen beruflichen Qualifikation muss kurzfristig, spätestens jedoch drei Monate nach Einreichung der vollständigen Unterlagen abgeschlossen werden. Die Entscheidung ist von der zuständigen Behörde ordnungsgemäß zu begründen, insbesondere sind die wesentlichen Unterschiede mitzuteilen. Die Bearbeitungsfrist verlängert sich bei den Berufen, die nicht dem Grundsatz der automatischen Anerkennung nach der Richtlinie 2005/36/EG unterliegen, um einen Monat.
+(3) Gegen die Entscheidung nach Absatz 2 oder gegen eine nicht fristgerecht getroffene Entscheidung nach Absatz 2 ist der Rechtsweg zulässig.
