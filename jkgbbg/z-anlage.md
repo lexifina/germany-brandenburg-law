@@ -1,7 +1,7 @@
 # Anlage zu § 1 Abs. 2
 ## Gebührenverzeichnis
 Nr. | Gegenstand | Gebühren
-1 | Feststellungserklärung nach den §§ 1059a Absatz 1 Nummer 2, Absatz 2, 1059e, 1092 Abs. 2 und 1098 Abs. 3 BGB | 25 bis 385 Euro
+1 | Feststellungserklärung nach den §§ 1059a Absatz 1 Nummer 2, Absatz 2, 1059e, 1092 Abs. 2 und 1098 Abs. 3 BGB | 35 bis 540 Euro
 2 | Schuldnerverzeichnis | 
 2.1 | Entscheidung über den Antrag auf Bewilligung des laufenden Bezugs von Abdrucken (§ 882g der Zivilprozessordnung) | 525 Euro
 2.2 | Erteilung von Abdrucken (§§ 882b, 882g der Zivilprozessordnung) Anmerkung: Neben den Gebühren für die Erteilung von Abdrucken werden Dokumentenpauschalen und die Datenträgerpauschale nicht erhoben. | 0,50 Euro je Eintragung, mindestens 17 Euro
