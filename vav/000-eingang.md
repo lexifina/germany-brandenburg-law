@@ -1,0 +1,2 @@
+# Verordnung über die Höchstsätze für den pauschalierten Ersatz des Verdienstausfalls der ehrenamtlichen Feuerwehrangehörigen (Verdienstausfallverordnung - VaV)
+Auf Grund des § 49 Absatz 2 Nummer 4 in Verbindung mit § 27 Absatz 2 Satz 5 und Absatz 3 des Brandenburgischen Brand- und Katastrophenschutzgesetzes vom 24. Mai 2004 (GVBl. I S. 197) verordnet der Minister des Innern im Einvernehmen mit dem Minister der Finanzen:
