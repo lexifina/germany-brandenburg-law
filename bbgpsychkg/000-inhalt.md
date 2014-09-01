@@ -20,7 +20,7 @@
 § 15 Eingangsuntersuchung, Aufnahmebericht und Behandlungsplanung
 § 16 Gestaltung der Unterbringung
 § 17 Verlegung
-§ 18 Behandlung
+§ 18 Behandlung und Zwangsmaßnahmen auf dem Gebiet der Gesundheitsfürsorge
 § 19 Beurlaubung
 § 20 Unmittelbarer Zwang, Begründungspflicht, Akteneinsicht
 § 21 Besondere Sicherungsmaßnahmen
@@ -43,8 +43,8 @@
 § 37 Eingangsuntersuchung und Behandlungsplanung
 § 38 Gestaltung des Maßregelvollzugs, Beiräte
 § 39 Lockerungen des Maßregelvollzugs
-§ 40 Behandlung der Anlasserkrankung
-§ 41 Andere Erkrankungen
+§ 40 Behandlung der Anlasserkrankung und Zwangsmaßnahmen
+§ 41 Andere Erkrankungen und Zwangsmaßnahmen auf dem Gebiet der Gesundheitsfürsorge
 § 42 Erkennungsdienstliche Maßnahmen, Festnahme
 § 43 Fachaufsicht
 § 44 Besondere Datenschutzbestimmungen in den Einrichtungen des Maßregelvollzugs
