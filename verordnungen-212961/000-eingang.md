@@ -1,0 +1,2 @@
+# Verordnung über den Braunkohlenplan Tagebau Welzow-Süd, Weiterführung in den räumlichen Teilabschnitt II und Änderung im räumlichen Teilabschnitt I (Brandenburgischer Teil)
+Auf Grund des § 19 des Gesetzes zur Regionalplanung und zur Braunkohlen- und Sanierungsplanung in der Fassung der Bekanntmachung vom 12. Dezember 2002 (GVBl. 2003 I S. 2), der zuletzt durch Artikel 2 des Gesetzes vom 21. September 2011 (GVBl. I Nr. 21) geändert worden ist, verordnet die Landesregierung:
