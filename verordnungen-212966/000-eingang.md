@@ -1,0 +1,2 @@
+# Verordnung über das Verfahren der Feststellung von Veränderungen des angestammten Siedlungsgebietes der Sorben/Wenden
+Auf Grund des § 13c Absatz 2 des Sorben/Wenden-Gesetzes vom 7. Juli 1994 (GVBl. I S. 294), der durch Artikel 1 Nummer 17 des Gesetzes vom 11. Februar 2014 (GVBl. I Nr. 7) eingefügt worden ist, verordnet die Ministerin für Wissenschaft, Forschung und Kultur im Benehmen mit dem Hauptausschuss des Landtages und dem Rat für An-gelegenheiten der Sorben/Wenden:
