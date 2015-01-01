@@ -1,0 +1,2 @@
+# Verordnung über die Anpassung der Landeszuschüsse nach § 16 Absatz 6 des Kindertagesstättengesetzes (Landeszuschussanpassungsverordnung - LAZAV)
+Auf Grund des § 23 Absatz 1 Nummer 4 des Kindertagesstättengesetzes in der Fassung der Bekanntmachung vom 27. Juni 2004 (GVBl. I S. 384) verordnet der Minister für Bildung, Jugend und Sport im Einvernehmen mit dem Ausschuss für Bildung, Jugend und Sport des Landes Brandenburg, mit dem Minister der Finanzen und dem Minister des Inneren und für Kommunales:
