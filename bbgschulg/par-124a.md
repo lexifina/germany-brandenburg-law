@@ -18,7 +18,7 @@ Die Zahl der Unterrichtsstunden je Klasse, Woche und Schulform ergibt sich aus d
 (5) Der Zuschlagsfaktor für Sachkosten wird auf 1,25 festgelegt.
 (6) Der Zuschussfaktor wird auf 0,94 festgelegt. Für schwer mehrfachbehinderte Schülerinnen und Schüler und für Schülerinnen und Schüler mit sonderpädagogischem Förderbedarf im Förderschwerpunkt „geistige Entwicklung“ wird der Zuschussfaktor auf 1,0 festgelegt.
 (7) Soweit Schulen in öffentlicher Trägerschaft eine zusätzliche personelle Ausstattung für besondere schulische Angebote erhalten, können Ersatzschulen für entsprechende Angebote zusätzliche Zuschüsse gewährt werden. Der Einsatz von sonstigem pädagogischen Personal an Schulen in öffentlicher Trägerschaft wird bei der Bezuschussung entsprechender Ersatzschulen berücksichtigt. Für dieses Personal ist die Entgeltgruppe 9 maßgeblich.
-(8) Das für Schule zuständige Ministerium wird ermächtigt, das Nähere über die Grundlagen und das Verfahren zur Feststellung der Höhe des Betriebskostenzuschusses sowie über die Verwendungsnachweisprüfung durch Rechtsverordnung zu regeln, insbesondere zu
+(8) Das für Schule zuständige Mitglied der Landesregierung wird ermächtigt, das Nähere über die Grundlagen und das Verfahren zur Feststellung der Höhe des Betriebskostenzuschusses sowie über die Verwendungsnachweisprüfung durch Rechtsverordnung zu regeln, insbesondere zu
 1. der Ermittlung der zu berücksichtigenden Zahl der Schülerinnen und Schüler,
 2. der Ermittlung der Arbeitgeberkosten je Entgeltgruppe einschließlich der Festsetzung der Entwicklungsstufe,
 3. der Ermittlung der Zahl der Unterrichtsstunden je Klasse, Woche und Schulform,
