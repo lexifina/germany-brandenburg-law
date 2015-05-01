@@ -1,4 +1,4 @@
-## Inhaltsverzeichnis
+## Inhaltsübersicht
 ## Teil 1 Allgemeines
 ## Abschnitt 1 Einleitende Vorschriften
 § 1 Geltungsbereich
@@ -180,7 +180,7 @@
 § 130 Umfang der Schulaufsicht
 ## Abschnitt 2 Staatliche Schulbehörden
 § 131 Schulbehörden
-§ 132 Personal und Kosten der staatlichen Schulämter
+§ 132 Personal und Kosten des Landesschulamtes
 § 133 Schulpsychologische Beratung
 ## Abschnitt 3 Einrichtung des Landes zur Weiterentwicklung der Schule
 § 134 Landesinstitut für Schule und Medien Berlin-Brandenburg
@@ -192,8 +192,8 @@
 § 139 Landesschulbeirat
 ## Teil 13 Übergangs- und Schlussvorschriften
 ## Abschnitt 1 Übergangsvorschriften
-§ 140 Übergangsregelungen für die Gewährung des Betriebskostenzuschusses
-§ 141 Einführung der Schulzeitverkürzung und Sprachstandsfeststellung
+§ 140 (weggefallen)
+§ 141 (weggefallen)
 § 142 Fortbestehende Schulträgerschaften
 § 143 Fortführung von Schulen
 § 144 Bestehende Schulen in freier Trägerschaft
@@ -201,5 +201,5 @@
 § 145 Einschränkung von Grundrechten
 § 146 Durchführung des Gesetzes
 § 147 Maßgebende Schülerzahl, Einwohnerzahl
-§ 148 Ausbildungsstätten für Heilberufe und Heilhilfsberufe
-§ 149 (In-Kraft-Treten, Außer-Kraft-Treten
+§ 148 (weggefallen)
+§ 149 (Inkrafttreten, Außerkrafttreten
