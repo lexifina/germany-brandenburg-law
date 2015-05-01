@@ -7,7 +7,6 @@
 § 5 Wahlsystem
 § 6 Anzahl der Vertreter
 § 7 Wahltag; Wahlzeit
-§ 7a Sonderregelung zum Wahltag und zur Wahlperiode für die nächsten allgemeinen Kommunalwahlen 2008
 ## Abschnitt 2 Wahlberechtigung; Wählbarkeit
 § 8 Sachliche Voraussetzungen der Wahlberechtigung
 § 9 Ausschluss vom Wahlrecht
