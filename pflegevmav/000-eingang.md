@@ -1,0 +1,2 @@
+# Verordnung über den Mehrbelastungsausgleich für den Vollzug der Bußgeldverfahren in der Pflegeversicherung (Pflegeversicherung-Mehrbelastungsausgleichsverordnung - PflegeVMAV)
+Auf Grund des § 8 Absatz 4 Satz 9 in Verbindung mit Satz 10 des Landespflegegesetzes vom 29. Juni 2004 (GVBl. I S. 339), der durch Gesetz vom 12. Juli 2011 (GVBl. I Nr. 15) geändert worden ist, verordnet die Ministerin für Arbeit, Soziales, Gesundheit, Frauen und Familie im Benehmen mit dem Minister der Finanzen und dem Minister des Innern und für Kommunales:
