@@ -10,12 +10,13 @@
 § 8 Rücknahme der Ernennung
 ## Abschnitt 2 Laufbahnen
 § 9 Laufbahn, Laufbahngruppen, Laufbahnordnungsbehörde
-§ 10 Vorbildungsvoraussetzungen
-§ 11 Einstellung in den Vorbereitungsdienst
-§ 12 Erwerb der Laufbahnbefähigung
+§ 10 Zugangsvoraussetzungen zu den Laufbahnen
+§ 11 Laufbahnen mit Vorbereitungsdienst
+§ 12 Rechtsstellung im Vorbereitungsdienst
 § 13 Laufbahnen besonderer Fachrichtungen
 § 14 Anerkennung der bei einem anderen Dienstherrn erworbenen Laufbahnbefähigung
 § 15 Erwerb der Laufbahnbefähigung aufgrund des Gemeinschaftsrechts
+§ 15a Nichtanwendung des Brandenburgischen Berufsqualifikationsfeststellungsgesetzes
 § 16 Andere Bewerber
 § 17 Einstellung
 § 18 Probezeit, Feststellung der gesundheitlichen Eignung
@@ -23,8 +24,8 @@
 § 20 Beförderungen
 § 21 Laufbahnwechsel
 § 22 Aufstieg
-§ 23 Fortbildung
-§ 24 Benachteiligungsverbot, Nachteilsausgleich
+§ 23 Fortbildung, Personalentwicklung
+§ 24 Benachteiligungsverbot, Nachteilsausgleich, Vielfalt
 § 25 Rechtsverordnungen über Laufbahnen
 § 26 Ausbildungs- und Prüfungsordnungen
 ## Abschnitt 3 Umsetzung, landesinterne Abordnung, Versetzung und Umbildung von Körperschaften
@@ -36,6 +37,7 @@
 ## Abschnitt 4 Beendigung des Beamtenverhältnisses
 ## Unterabschnitt 1 Entlassung, Verlust der Beamtenrechte
 § 32 Verfahren der Entlassung kraft Gesetzes
+§ 32a Entlassung durch Verwaltungsakt
 § 33 Verfahren der Entlassung durch Verwaltungsakt
 § 34 Zuständigkeit für die Entlassung, Wirkung der Entlassung
 § 35 Wirkung des Verlustes der Beamtenrechte und eines Wiederaufnahmeverfahrens
@@ -47,7 +49,7 @@
 § 40 Feststellung der Dienstunfähigkeit auf Antrag des Beamten
 § 41 Feststellung der Dienstunfähigkeit von Amts wegen
 § 42 Wiederherstellung der Dienstfähigkeit
-§ 43 Ärztliche Untersuchung, Übermittlung ärztlicher Daten
+§ 43 Ärztliche Untersuchung, Übermittlung ärztlicher Daten, Gendiagnostik
 ## Unterabschnitt 3 Ruhestand, einstweiliger Ruhestand
 § 44 Wartezeit
 § 45 Ruhestand wegen Erreichens der Altersgrenze
@@ -125,7 +127,7 @@
 § 108 Beamte an Hochschulen
 ## Unterabschnitt 2 Polizeivollzugsdienst
 § 109 Beamte des Polizeivollzugsdienstes
-§ 110 Altersgrenze für Polizeivollzugsbeamte
+§ 110 Altersgrenzen für Polizeivollzugsbeamte, besonderes Teilzeitmodell
 § 111 Laufbahnen
 § 112 Gemeinschaftsunterkunft und -verpflegung
 § 113 Dienstkleidung
@@ -141,10 +143,10 @@
 ## Unterabschnitt 6 Ämter mit leitender Funktion im Beamtenverhältnis auf Probe
 § 120 Ämter mit leitender Funktion im Beamtenverhältnis auf Probe
 ## Abschnitt 8 Beamte auf Zeit
-§ 121 Beamte auf Zeit
-§ 122 Eintritt in den Ruhestand mit Ablauf der Amtszeit
-§ 123 Beendigung des Beamtenverhältnisses auf Zeit, Abwahl
-§ 124 Beendigung des einstweiligen Ruhestandes
+§ 121 Vorbehalt des Gesetzes
+§ 122 Beamte auf Zeit
+§ 123 Kommunale Wahlbeamte
+§ 124 Beamte des Landes auf Lebenszeit als kommunale Wahlbeamte
 ## Abschnitt 9 Landespersonalausschuss
 § 125 Aufgaben
 § 126 Mitglieder
@@ -161,6 +163,6 @@
 § 135 Laufbahnrechtliche Übergangsvorschriften
 § 136 Übergangsregelungen für bereits in das Beamtenverhältnis auf Probe berufene Beamte
 § 137 Übergangsregelungen zur Nebentätigkeit und zur Dienstbefreiung
-§ 138 Übergangsregelung für am 23. März 2004 vorhandene Beamte auf Zeit
+§ 138 Übergangsregelungen für vorhandene Beamte auf Zeit
 § 139 Übergangsregelungen für Ämter in leitender Funktion im Beamtenverhältnis auf Zeit
 § 140 Übergangsregelung zum Verfahren bei Dienstunfähigkeit
