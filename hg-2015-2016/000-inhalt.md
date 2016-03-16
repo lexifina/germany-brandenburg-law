@@ -18,4 +18,4 @@
 § 18 Berichtspflichten gegenüber dem Ausschuss für Haushalt und Finanzen des Landtages
 § 19 Weitergeltung von Vorschriften und Ermächtigungen
 § 20 Inkrafttreten
-Anlage Haushaltsplan des Landes Brandenburg für die Haushaltsjahre 2015 und 2016
+Anlage Haushaltsplan des Landes Brandenburg für das Haushaltsjahr 2016
