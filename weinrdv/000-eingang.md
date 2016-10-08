@@ -1,0 +1,6 @@
+# Verordnung zur Durchführung des Weinrechts im Land Brandenburg (Weinrechtsdurchführungsverordnung - WeinRDV)
+Auf Grund
+des § 3 Absatz 4, des § 6 Absatz 5, des § 8a Absatz 1 und 3, des § 8c, des § 9 Absatz 2, des § 12 Absatz 3 Nummer 3 und Absatz 5, des § 17 Absatz 3 und 4, des § 20 Absatz 6, des § 22 Absatz 3, des § 23 Absatz 4, des § 24 Absatz 5 und des § 44 Absatz 1 des Weingesetzes in der Fassung der Bekanntmachung vom 18. Januar 2011 (BGBl. I S. 66),
+des § 5 Absatz 1 Satz 4 und des § 32c Absatz 2 der Weinverordnung in der Fassung der Bekanntmachung vom 21. April 2009 (BGBl. I S. 827),
+des § 11 Absatz 1 Satz 2, des § 12 Absatz 2, des § 13 Absatz 2 Satz 2, des § 14 Absatz 1, des § 23, des § 29 Absatz 3, des § 30 Absatz 2 und 3 und des § 31 der Wein-Überwachungsverordnung in der Fassung der Bekanntmachung vom 14. Mai 2002 (BGBl. I S. 1624), von denen § 12 Absatz 2, § 23, § 29 Absatz 3 und § 30 Absatz 2 und 3 durch Artikel 1 der Verordnung vom 6. Dezember 2010 (BGBl. I S. 1828) geändert worden sind, in Verbindung mit § 1 der Verordnung zur Übertragung von Ermächtigungen zum Erlass von Rechtsverordnungen nach dem Weinrecht vom 22. Januar 1996 (GVBl. II S. 74), der durch Artikel 14 des Gesetzes vom 15. Juli 2010 (GVBl. I Nr. 28) geändert worden ist,
+verordnet der Minister für Infrastruktur und Landwirtschaft:
