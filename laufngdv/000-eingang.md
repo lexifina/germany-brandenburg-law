@@ -1,0 +1,2 @@
+# Verordnung über die Durchführung des Landesaufnahmegesetzes (Landesaufnahmegesetz-Durchführungsverordnung - LAufnGDV)
+Auf Grund des § 6 Absatz 7, des § 7 Absatz 3, des § 9 Absatz 6, des § 10 Absatz 3 und des § 12 Absatz 3 Satz 1 des Landesaufnahmegesetzes vom 15. März 2016 (GVBl. I Nr. 11) verordnet die Ministerin für Arbeit, Soziales, Gesundheit, Frauen und Familie im Einvernehmen mit dem Minister des Innern und für Kommunales und dem Minister der Finanzen:
