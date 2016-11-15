@@ -1,0 +1,2 @@
+# Verordnung über die Gebühren für öffentliche Leistungen im Bereich der Straßenbahnen, Oberleitungsbusse und Eisenbahnen (GebOSOE)
+Auf Grund des § 1 Absatz 1, des § 3 Absatz 1 und des § 18 Absatz 2 Satz 2 des Gebührengesetzes für das Land Brandenburg vom 7. Juli 2009 (GVBl. I S. 246), von denen § 18 Absatz 2 Satz 2 durch Artikel 5 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 32 S. 27) neu gefasst worden ist, verordnet die Ministerin für Infrastruktur und Landesplanung:
