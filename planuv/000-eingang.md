@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung der Planungshoheit nach dem Baugesetzbuch für das Gewerbegebiet „Prignitz/Falkenhagen“ (Planungshoheitsübertragungsverordnung - PlanÜV)
+Auf Grund des § 203 Absatz 1 des Baugesetzbuches in der Fassung der Bekanntmachung vom 23. September 2004 (BGBl. I S. 2414), das zuletzt durch Artikel 6 des Gesetzes vom 20. Oktober 2015 (BGBl. I S. 1722, 1731) geändert worden ist, verordnet die Landesregierung im Einvernehmen mit der Stadt Pritzwalk und der amtsangehörigen Gemeinde Gerdshagen:
