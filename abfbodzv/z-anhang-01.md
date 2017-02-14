@@ -6,7 +6,7 @@ Hoch- und Rechtswerte der Deponien (Rechtswerte bezogen auf den 4. Meridianstrei
 4. | Bahnsdorfer Berg (EE) | H: 57 24 850 R: 45 90 000
 5. | Bergen (LDS) | H: 57 37 000 R: 46 20 000
 6. | Bernau, Ogadeberge (BAR) | H: 58 39 860 R: 46 09 590
-7. | Beeskow, Hornitex (LOS) | H: 57 84 000 R: 46 57 000
+7. | Beeskow, Betriebsdeponie Glunz (LOS) | H: 57 84 000 R: 46 57 000
 8. | Boossen – Seefichten (FF) | H: 58 06 000 R: 46 69 000
 9. | Brandenburg, Stahlwerk (BRB) | H: 58 08 000 R: 45 32 150
 10. | Brück – Neuendorf (PM) | H: 57 84 780 R: 45 57 500
@@ -17,10 +17,10 @@ Hoch- und Rechtswerte der Deponien (Rechtswerte bezogen auf den 4. Meridianstrei
 15. | Dallgow – Rohrbeck (HVL) | H: 58 23 000 R: 45 69 700
 16. | Deetz, Bauschuttdeponie (PM) | H: 58 14 000 R: 45 54 000
 17. | Dobbrikow, Asbestdeponie (TF) | H: 57 81 000 R: 45 73 000
-18. | Eberswalde – Ostende (BAR) | H: 58 58 500 R: 46 25 000
+18. | Eberswalde-Ostend (BAR) | H: 58 58 500 R: 46 25 000
 19. | Eberswalde – Finow (BAR) | H: 58 58 123 R: 46 18 064
 20. | Eisenhüttenstadt – Buchwaldstraße (LOS) | H: 57 84 000 R: 46 84 000
-21. | Eisenhüttenstadt, Zementwerk (LOS) | H: 57 83 870 R: 46 81 720
+21. | leer | 
 22. | Elslaake, Fa. Märkische Faser AG (HVL) | H: 58 41 400 R: 45 26 100
 23. | Elslaake, Fa. Neuzera (HVL) | H: 58 41 230 R: 45 25 950
 24. | EKO-Seekippe (LOS) | H: 57 86 500 R: 46 78 000
@@ -34,11 +34,11 @@ Hoch- und Rechtswerte der Deponien (Rechtswerte bezogen auf den 4. Meridianstrei
 32. | Gransee (OHV) | H: 58 74 650 R: 45 78 300
 33. | Groß Schönebeck (BAR) | H: 58 62 780 R: 46 04 930
 34. | Göritz (OSL) | H: 57 42 000 R: 46 41 000
-35. | Görzke | H: 57 83 550 R: 45 26 180
+35. | Görzke (PM) | H: 57 83 550 R: 45 26 180
 36. | Groß Kienitz (TF) | H: 58 00 000 R: 46 01 000
 37. | Guben – Wilschwitzer Weg (SPN) | H: 57 62 000 R: 46 83 500
 38. | Grube Präsident (LOS) | H: 57 83 783 R: 46 77 757
-39. | Golm (PM) | H: 58 09 000 R: 45 65 000
+39. | Golm (P) | H: 58 09 000 R: 45 65 000
 40. | Hennickendorf (MOL) | H: 58 19 000 R: 46 24 000
 41. | Hennersdorf (EE) | H: 57 23 000 R: 46 14 000
 42. | Horstfelde (TF) | H: 57 88 800 R: 45 94 630
@@ -104,4 +104,3 @@ Hoch- und Rechtswerte der Deponien (Rechtswerte bezogen auf den 4. Meridianstrei
 102. | Wittenberge, Märkische Ölwerke (PR) | H: 58 73 000 R: 44 86 000
 103. | Wolfshain (SPN) | H: 57 20 000 R: 46 80 000
 104. | Wriezen (MOL) | H: 58 44 000 R: 46 42 000
-(2) Bei der Freistellung durch das Landesamt für Bergbau, Geologie und Rohstoffe ist gemäß § 46 Abs. 2 BbgAbfG das Ministerium für Wirtschaft des Landes Brandenburg die für die Erteilung des Einvernehmens zuständige Behörde.
