@@ -1,0 +1,2 @@
+# Verordnung über die Zuständigkeit nach dem Kulturgutschutzgesetz für das Land Brandenburg (Kulturgutschutzgesetzzuständigkeitsverordnung - KGSGZustV)
+Auf Grund des § 3 Absatz 1 Satz 2 des Kulturgutschutzgesetzes vom 31. Juli 2016 (BGBl. I S. 1914) in Verbindung mit § 6 Absatz 2 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186), der durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28 S. 2) geändert worden ist, verordnet die Landesregierung:
