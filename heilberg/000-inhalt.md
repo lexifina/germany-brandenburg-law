@@ -7,6 +7,7 @@
 § 4
 § 5
 § 6
+§ 6a
 § 7
 ## Abschnitt 3 Organe der Kammern
 § 8
@@ -47,9 +48,11 @@
 § 39
 § 40
 § 41
+§ 41a
 § 42
 § 43
 § 44
+§ 44a
 ## Unterabschnitt 2 Ärztliche Weiterbildung
 § 45
 § 46
