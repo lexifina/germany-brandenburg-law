@@ -3,8 +3,8 @@
 § 1 Errichtung, Rechtsstellung und Sitz
 § 2 Aufgabe
 ## Abschnitt II Organisation und Rechtsverhältnisse
-§ 3 Mitgliedschaft
-§ 4 Mitgliedschaft auf Antrag
+§ 3 Pflichtmitgliedschaft
+§ 4 Pflichtmitgliedschaft auf Antrag
 § 5 Beginn und Ende der Mitgliedschaft
 § 6 Organe
 § 7 Vertreterversammlung
@@ -21,6 +21,6 @@
 § 18 Satzung
 § 19 Aufsicht
 ## Abschnitt III Verfahrens-, Übergangs- und Schlußvorschriften
-§ 20 Erste Vertreterversammlung
+§ 20 (weggefallen)
 § 21 Übergangsregelung
 § 22 Inkrafttreten
