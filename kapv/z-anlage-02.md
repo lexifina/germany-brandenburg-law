@@ -2,11 +2,11 @@
 ## Verzeichnis der anzuwendenden Curricularnormwerte für Studiengänge
 Fächergruppe | Studiengang | Abschluss | Curricular- normwert
 Universität Potsdam
-Agrar-, Forst- und Ernährungswissenschaften | Ernährungswissenschaft | BA (180 LP) | 3,96
+Agrar-, Forst- und Ernährungswissenschaften | Ernährungswissenschaft | BA (180 LP) | 4,10
 MA | 2,72
 Ingenieurwissenschaften | Arbeitslehre | MA-LA SIP | 1,26
 Arbeitslehre/Technik | MA-LA G 1. Fach | 1,03
-MA-LA 2. Fach | 0,93
+MA-LA G 2. Fach | 0,93
 Informatik | BA LSek | 1,66
 MA-LA G | 1,80
 MA-LA SIP | 1,06
@@ -19,6 +19,7 @@ MA | 2,40
 Sachunterricht (kleines Fach) | MA-LA SIP/SP | 0,33
 Sachunterricht (Primarstufe) | BA LPri | 0,84
 MA LPri | 0,89
+Wirtschaftsinformatik und Digitale Transformation | MA | 1,67
 Wirtschaft-Arbeit-Technik | BA LSek | 1,57
 MA LSek I | 0,74
 MA-LA SIP | 1,21
@@ -35,20 +36,20 @@ Musik (Primarstufe) | BA LPri | 5,50
 MA LPri | 1,20
 Musik (kleines Fach) | MA-LA SIP/SP | 0,40
 Musisch-ästhetische Erziehung (Lernbereich) | MA-LA SIP/SP | 0,46
-Mathematik, Naturwissenschaften | Astrophysics6 | MA | 2,51
-Biochemistry and Molecular Biology6 | MA | 3,10
+Mathematik, Naturwissenschaften | Astrophysics | MA | 2,51
+Biochemistry and Molecular Biology | MA | 3,10
 Bioinformatik | MA | 2,01
 Biologie | BA LSek | 2,35
 MA LSek I | 0,81
 MA LSek II | 1,09
 MA-LA G | 1,94
 MA-LA SIP | 1,37
-Biowissenschaften | BA (180 LP) | 4,61
-Chemie | BA (180 LP) | 4,29
+Biowissenschaften | BA (180 LP) | 3,97
+Chemie | BA (180 LP) | 4,82
 BA LSek | 1,99
 MA LSek I | 0,66
 MA LSek II | 0,75
-MA | 3,33
+MA | 3,53
 MA-LA G | 1,96
 MA-LA SIP | 1,36
 Geographie | BA LSek | 2,10
@@ -56,9 +57,8 @@ MA LSek I | 0,83
 MA LSek II | 1,17
 MA-LA G | 2,19
 MA-LA SIP | 1,25
-Geoinformation und Visualisierung | MA | 1,70
 Geoökologie | BA (180 LP) | 3,54
-MA | 1,91
+MA | 2,43
 Geowissenschaften | BA (180 LP) | 3,83
 MA | 2,24
 International Field Geosciences1 (5. – 8. FS) | BA | 2,77
@@ -73,27 +73,29 @@ Mathematik (Primarstufe) | BA LPri | 0,64
 MA LPri | 0,74
 Mathematik (kleines Fach) | MA-LA SIP/SP | 0,40
 Ökologie, Evolution, Naturschutz | MA | 3,03
-Physik | BA (180 LP) | 3,00
+Physik | BA (180 LP) | 2,98
 BA LSek | 1,39
 MA LSek I | 0,68
 MA LSek II | 0,79
-MA | 2,48
+MA | 2,44
 MA-LA G | 1,88
 MA-LA SIP | 1,32
 Polymer Science3 | MA | 2,69
-Toxicology6 | MA | 2,03
+Remote Sensing, Geoinformation and Visualization | MA | 2,62
+Toxicology | MA | 2,03
 Rechts-, Wirtschafts- und Sozialwissenschaften | Betriebswirtschaftslehre | BA (180 LP) | 1,76
 BA (90/60 LP) | 1,59
-MA | 0,85
+MA | 1,31
 Deutsch-Russischer Masterstudiengang Verwaltungswissenschaft | MA | 1,43
+Economics | MA | 1,17
 Internationale Beziehungen4 | MA | 1,59
-National and international Administration and Policy6 | MA | 1,51
-MA/PhD | 1,49
+National and international Administration and Policy | MA | 1,51
+MA/PhD | 1,43
 Öffentliches Recht | BA (60 LP) | 0,58
 Politik und Verwaltung | BA (90/60 LP) | 1,69
 Politik und Wirtschaft | BA (180 LP) | 1,96
 Politik, Verwaltung und Organisation | BA (180 LP) | 1,50
-Politikwissenschaft | MA | 1,07
+Politikwissenschaft | MA | 1,37
 Politische Bildung | BA LSek | 0,84
 MA LSek I | 0,75
 MA LSek II | 0,81
@@ -101,7 +103,8 @@ MA-LA G | 1,38
 MA-LA SIP | 1,13
 Recht der Wirtschaft | BA (60 LP) | 0,59
 Rechtswissenschaften | ST | 2,20
-Soziologie | BA (90/60 LP) | 1,88
+Soziologie | BA (180 LP) | 1,93
+BA (90/60 LP) | 1,88
 MA | 1,07
 Verwaltungswissenschaft | MA | 1,30
 Volkswirtschaftslehre | BA (180 LP) | 1,91
@@ -109,21 +112,22 @@ BA (90/60 LP) | 2,27
 Master of Economics | MA | 0,99
 Wirtschaftsinformatik | BA (180 LP) | 2,63
 Wirtschaftsinformatik und E-Government | MA | 1,34
-Sonstige Fächer | Erziehungswissenschaftliche Studien | MA-LA G | 0,67
+Sonstige Fächer | Erziehungswissenschaftliche Studien | BA (90/60 LP) | 1,76
+MA-LA G | 0,67
 MA-LA SIP; SIP/SP | 0,57
 Inklusionspädagogik/Primarstufe | BA LPI | 4,30
-MA LPI | 2,58
+MA LPI | 2,64
 Studienbereich Bildungswissenschaften für Sekundarstufen I und II | BA LSek | 0,57
 MA LSek I | 0,66
 MA LSek II | 0,44
-Studienbereich Bildungswissenschaften | BA LPri | 0,34
-Primarstufe | MA LPri | 0,49
+Studienbereich Bildungswissenschaften Primarstufe | BA LPri | 0,34
+MA LPri | 0,49
 Studienbereich Grundschulbildung | BA LPri | 1,82
 MA LPri | 0,43
 Primarstufenspezifischer Bereich | MA-LA SIP | 0,30
-Sport/Sportwissenschaft | Clinical Exercise Science (CES) | MA/PhD (240 LP) | 3,57
-MA (120 LP) | 1,77
-PhD (180 LP) | 2,74
+Sport/Sportwissenschaft | Clinical Exercise Science (CES) | MA/PhD 240 LP | 3,27
+MA 120 LP | 2,04
+PhD 180 LP | 1,53
 Integrative Sport-, Bewegungs- und Gesundheitswissenschaft | MA | 2,57
 Sport | BA LSek | 1,92
 MA LSek I | 0,82
@@ -135,14 +139,15 @@ MA LPri | 0,86
 Sport (kleines Fach) | MA-LA SIP/SP | 0,40
 Sportmanagement | BA (180 LP) | 3,50
 Sporttherapie und Prävention | BA (180 LP) | 4,82
-Sprach- und Kulturwissenschaften | Anglistik/Amerikanistik | BA (90/60 LP) | 3,32
+Sprach- und Kulturwissenschaften | Angewandte Kulturwissenschaften und Kultursemiotik (single degree) | MA | 1,24
+Anglistik/Amerikanistik | BA (90/60 LP) | 3,32
 Anglophone Modernities in Literature and Culture | MA | 1,90
 European Masters in Clinical Linguistics1 | MA | 3,20
 Cognitive Systems: Language, Learning and Reasoning | MA | 1,57
-Cognitive Science – Embodied Cognition6 | MA/PhD (240 LP) | 2,16
-MA (120 LP) | 1,36
-PhD (180 LP) | 0,80
-Computerlinguistik | BA (210 LP) | 3,22
+Cognitive Science – Embodied Cognition | MA/PhD 240 LP | 2,16
+MA 120 LP | 1,36
+PhD 180 LP | 0,80
+Computerlinguistik | BA (180 LP) | 3,08
 Deutsch | BA LSek | 1,32
 MA LSek I | 0,81
 MA LSek II | 0,97
@@ -162,9 +167,9 @@ Erziehungswissenschaft | BA (90/60 LP) | 1,59
 MA | 1,05
 Europäische Medienwissenschaften5 | BA (180 LP) | 6,23
 MA | 3,70
-Experimental Clinical Linguistics | MA/PhD (240 LP) | 3,71
-MA (90 LP) | 2,57
-PhD (180 LP) | 1,47
+Experimental Clinical Linguistics | MA/PhD 240 LP | 2,73
+MA 90 LP | 2,39
+PhD 180 LP | 0,35
 Französisch, Spanisch | BA LSek | 1,67
 MA LSek I | 1,27
 MA LSek II | 1,55
@@ -180,17 +185,19 @@ MA LSek I | 0,57
 MA LSek II | 0,72
 MA-LA G | 1,51
 MA-LA SIP | 1,01
-BA (90/60 LP) | 2,43
-Geschichte, Politik und Gesellschaft6 | BA (180 LP) | 1,59
+BA (90/60 LP) | 1,71
+Geschichte, Politik und Gesellschaft | BA (180 LP) | 1,59
 Gräzistik | BA (60 LP) | 1,20
 Interdisziplinäre Russlandstudien1 | BA (240 LP) | 3,70
+Internationale angewandte Kulturwissenschaften und Kultursemiotik (double degree) | MA | 1,22
 Italienische Philologie | BA (90/60 LP) | 2,78
-Jüdische Studien | BA (90/60 LP) | 2,73
+Jüdische Studien | BA (90/60 LP) | 3,15
 MA | 1,63
-Jüdische Theologie | BA (180 LP) | 3,16
+Jüdische Theologie | BA (180 LP) | 3,76
 MA | 2,35
+Linguistik | BA (60 LP) | 0,57
 Linguistik: Kommunikation-Variation-Mehrsprachigkeit | MA | 1,44
-Kulturelle Begegnungsräume der Frühen Neuzeit | MA | 1,40
+Kulturelle Begegnungsräume der Frühen Neuzeit | MA | 1,30
 Kulturwissenschaften | BA (90 LP) | 1,55
 Latein | BA LSek | 1,77
 MA LSek II | 1,18
@@ -204,7 +211,7 @@ Linguistik | BA (180 LP) | 2,81
 BA (90/60 LP) | 2,78
 MA | 1,90
 Osteuropäische Kulturstudien | MA | 1,73
-Patholinguistik | BA (210 LP) | 5,21
+Patholinguistik | BA (210 LP) | 5,08
 Philosophie | BA (90/60 LP) | 2,53
 MA | 1,63
 Polnisch | BA LSek | 1,58
@@ -215,7 +222,7 @@ MA-LA SIP | 1,16
 Polonistik | BA (90/60 LP) | 2,86
 Psychologie | BA (180 LP) | 2,47
 Psychologie | MA | 2,67
-Religionswissenschaft | BA (90/60 LP) | 2,64
+Religionswissenschaft | BA (90/60 LP) | 2,31
 Romanische Philologie | MA | 1,64
 Russisch | BA LSek | 1,59
 MA LSek I | 0,73
@@ -224,19 +231,20 @@ MA-LA G | 1,70
 MA-LA SIP | 1,16
 Russistik | BA (90/60 LP) | 2,87
 Spanische Philologie | BA (90/60 LP) | 2,78
-Vergleichende Literatur- und Kunstwissenschaft | MA | 1,58
-War and Conflict Studies6 | MA | 1,28
+Vergleichende Literatur- und Kunstwissenschaft | MA | 1,28
+War and Conflict Studies | MA | 1,22
 Zeitgeschichte | MA | 0,92
 Brandenburgische Technische Universität Cottbus-Senftenberg andere als anwendungsbezogene Studiengänge
 Humanmedizin/Gesundheitswissenschaften | Berufspädagogik für Gesundheitsberufe | MA | 2,35
 Ingenieurwissenschaften | Architektur | BA | 3,35
-MA | 2,15
+MA | 2,89
 Architektur.Studium.Generale | MA | 1,24
 Architekturvermittlung | MA | 1,83
 Bauen & Erhalten | MA | 2,20
 Bauingenieurwesen | BA | 3,48
 MA | 2,25
 Civil Engineering | MA | 2,01
+Cyber Security | MA | 1,66
 Elektrotechnik | BA | 3,00
 MA | 1,88
 Environmental and Resource Management | BA | 3,20
@@ -253,9 +261,10 @@ Landnutzung und Wasserbewirtschaftung | BA | 2,89
 MA | 2,21
 Maschinenbau | BA | 2,98
 MA | 1,82
+Medizininformatik | BA | 3,29
 Nachwachsende Rohstoffe und Erneuerbare Energien | MA | 1,99
 Power Engineering | MA | 2,10
-Stadt- und Regionalplanung | BA | 3,23
+Stadt- und Regionalplanung | BA | 3,86
 MA | 2,13
 Structural Engineering | MA | 2,48
 Technologien biogener Rohstoffe | BA | 2,93
@@ -284,7 +293,7 @@ Wirtschaftsrecht für Technologieunternehmen | MA | 1,28
 Sprach- und Kulturwissenschaften | Kultur und Technik | BA | 2,73
 MA | 1,87
 Brandenburgische Technische Universität Cottbus-Senftenberg anwendungsbezogene Studiengänge
-Humanmedizin/Gesundheitswissenschaften | Pflegewissenschaften | BA | 6,1
+Humanmedizin/Gesundheitswissenschaften | Pflegewissenschaften | BA | 6,10
 Physiotherapie (dualer Studiengang) | BA | 4,00
 Therapiewissenschaften | BA | 6,17
 Ingenieurwissenschaften | Angewandte Chemie | BA | 5,60
@@ -318,13 +327,14 @@ International Business Administration | BA | 1,71
 MA | 1,14
 Internationale Betriebswirtschaftslehre | BA | 1,75
 Magister des Rechts | Mag | 1,50
-International human rights an Humanitarian Law | MA | 0,70
-Human rights an Genocoide Studies | MA | 0,70
+International human rights and Humanitarian Law | MA | 0,70
+Human rights and Genocoide Studies | MA | 0,70
 Management für Mittel- und Osteuropa | MA | 1,14
 Mediation | MA | 1,17
 Rechtswissenschaften | ST | 2,20
+Recht und Politik | BA | 1,91
 Recht und Wirtschaft – Wirtschaft und Recht | BA | 1,75
-Recht der Wirtschaft (Aufbaustudium) | Zertifikat | 0,51
+Recht der Wirtschaft (Aufbaustudium) | Zertifikat | 0,52
 Europäisches Wirtschaftsrecht | MA | 0,42
 Sprach- und Kulturwissenschaften | Europäische Kulturgeschichte | MA | 1,20
 European Studies | MA | 1,50
@@ -420,28 +430,31 @@ Frühkindliche Bildungsforschung5 | MA | 2,80
 Soziale Arbeit, Schwerpunkt Familie (Onlinestudiengang, Fernstudiengang) | MA | 3,70
 Soziale Arbeit (Onlinestudiengang, Fernstudiengang) | BA | 5,80
 Soziale Arbeit (Präsenzstudium) | BA | 5,38
-Sprach- und Kulturwissenschaften | Bibliotheksmanagement | BA | 5,80
-Information und Dokumentation | BA | 5,90
+Sprach- und Kulturwissenschaften | Bibliothekswissenschaft | BA | 5,80
+Informations- und Datenmanagement | BA | 5,90
 Europäische Medienwissenschaften5 | BA | 6,23
 MA | 3,70
 Kulturarbeit | BA | 6,17
 Informationswissenschaften | MA | 2,34
 Technische Hochschule Wildau
 Ingenieurwissenschaften | Automatisierungstechnik | BA | 4,42
-Aviation Management | MA | 3,33
+Aviation Management | MA | 3,34
 Bibliotheksinformatik | MA | 2,50
-Ingenieurwesen | BA | 4,85
 Logistik | BA | 4,42
 Luftfahrttechnik/Luftfahrtlogistik | BA | 4,40
 MA | 3,18
-Maschinenbau | MA | 3,40
+Maschinenbau | BA | 4,36
+MA | 3,40
 Photonics | MA | 3,30
+Physikalische Technologien/Energiesysteme | BA | 4,70
+Technical Management | MA | 2,98
 Technisches Management und Logistik | MA | 3,17
 Telematik | BA | 4,60
-MA | 3,17
+MA | 3,40
 Verkehrssystemtechnik | BA | 4,34
 Wirtschaftsingenieurwesen | BA | 4,33
 Wirtschaftsinformatik | BA | 4,49
+MA | 3,07
 Wirtschaftsingenieurwesen (berufsbegleitender Studiengang) | BA | 2,71
 Mathematik, Naturwissenschaften | Biosystemtechnik/Bioinformatik | BA | 4,59
 MA | 3,14
@@ -459,7 +472,6 @@ Anmerkungen:
 3 | gemeinsamer Studiengang mit FU Berlin, TU Berlin und HU Berlin
 4 | gemeinsamer Studiengang mit FU Berlin und HU Berlin
 5 | gemeinsamer Studiengang der Universität Potsdam und der Fachhochschule Potsdam
-6 | vorbehaltlich der Genehmigung zur Einrichtung des Studiengangs
 BA | Bachelor
 BA-LA G | Bachelor-Lehramt für das Gymnasium
 BA LPI | Bachelor-Lehramt für die Primarstufe mit Schwerpunktbildung Inklusionspädagogik
@@ -468,19 +480,17 @@ BA LSek | Bachelor-Lehramt für die Sekundarstufen I und II
 BA-LA SIP | Bachelor-Lehramt für die Sekundarstufe I und Primarstufe
 BA-LA SIP/SP | Bachelor-Lehramt für die Sekundarstufe I und Primarstufe mit dem Schwerpunkt Primarstufe
 D | Diplom
-LP | Leistungspunkte
 MA | Master
 MA-LA G | Master-Lehramt für das Gymnasium
 MA-LA SIP | Master-Lehramt für die Sekundarstufe I und Primarstufe
 MA-LA SIP/SP | Master-Lehramt für die Sekundarstufe I und Primarstufe mit dem Schwerpunkt Primarstufe
 Mag | Magister Legum
 PhD | Philosophical Doctor
-ST | erste juristische Staatsprüfung
-Anmerkungen zu den Studiengängen der Universität Potsdam: Altes Lehramt gemäß Brandenburgischem Lehrerbildungsgesetz in der Fassung vor dem 18. Dezember 2012:
+ST | erstes juristisches Staatsexamen
+Anmerkungen zu den Studiengängen der Universität Potsdam:
+Altes Lehramt gemäß Brandenburgischem Lehrerbildungsgesetz in der Fassung vor dem 18. Dezember 2012:
 CNW BA-Lehramt | 1. + 2. Fach (außer bei den primarstufenspezifischen kleinen Fächern/Lernbereich); ohne Erziehungswissenschaftliche Studien und ohne Primarstufenspezifischen Bereich im LA SIP und LA SIP/SP
 CNW MA-Lehramt | 1. + 2. Fach (außer bei den primarstufenspezifischen kleinen Fächern/Lernbereich); einschließlich Anteil am Praxissemester; ohne Erziehungswissenschaftliche Studien und ohne Primarstufenspezifischen Bereich
-CNW MA-Erziehungswissenschaftliche Studien | einschließlich Anteil am Praxissemester im Lehramt-Master (= 0,64), genehmigt vom MWFK am 05.12.2008, davon 0,12 Erziehungswissenschaftliche Studien und je 0,26 für Fach 1 und Fach 2.
-Neues Lehramt gemäß Brandenburgischem Lehrerbildungsgesetz vom 18. Dezember 2012:
-Die Curricularnormwerte der Lehramtsbachelor- und -masterstudiengänge umfassen den Wert des 1. bzw. 2. Faches. Außerdem studieren alle Lehramtsstudierenden in den Studienbereichen Bildungswissenschaften (LSek und LPri) und Grundschulbildung (LPri) – siehe sonstige Fächer. Das Praxissemester im Lehramt-Master ist anteilig im Curricularnormwert des 1. bzw. 2. Faches sowie im Studienbereich Bildungswissenschaften enthalten.
-2-Fach-Bachelorstudiengänge (Nicht-Lehramt):
-Die angegebenen Curricularnormwerte geben bei 2-Fach-Bachelorstudiengängen einen rechnerischen Curricularwert wieder, der in Summe das 1. und 2. Fach enthält.
+CNW MA- Erziehungswissen- schaftliche Studien | einschließlich Anteil am Praxissemester im Lehramt-Master (= 0,64), genehmigt vom MWFK am 05.12.2008, davon 0,12 Erziehungswissenschaftliche Studien und je 0,26 für Fach 1 und Fach 2.
+Neues Lehramt gemäß Brandenburgischem Lehrerbildungsgesetz vom 18. Dezember 2012: Die Curricularnormwerte (CNW) der Lehramtsbachelor- und -masterstudiengänge umfassen den Wert des 1. bzw. 2. Faches. Außerdem studieren alle Lehramtsstudierenden in den Studienbereichen Bildungswissenschaften (LSek und LPri) und Grundschulbildung (LPri) – siehe sonstige Fächer. Das Praxissemester im Lehramt-Master ist anteilig im Curricularnormwert des 1. bzw. 2. Faches sowie im Studienbereich Bildungswissenschaften enthalten.
+2-Fach-Bachelorstudiengänge (Nicht-Lehramt): Die angegebenen Curricularnormwerte geben bei 2-Fach-Bachelorstudiengängen einen rechnerischen Curricularwert wieder, der in Summe das 1. und 2. Fach enthält.
