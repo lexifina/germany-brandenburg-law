@@ -1,0 +1,4 @@
+# Verordnung über Unterricht und Erziehung für Schülerinnen und Schüler mit sonderpädagogischem Förderbedarf (Sonderpädagogik-Verordnung - SopV)
+Auf Grund des § 31 in Verbindung mit § 11 Absatz 4, § 13 Absatz 3, § 56, § 57 Absatz 4, § 58 Absatz 3, § 59 Absatz 9, § 60 Absatz 4 und § 61 Absatz 3 des Brandenburgischen Schulgesetzes in der Fassung der Bekanntmachung vom 2. August 2002 (GVBl. I S. 78), von denen § 13 Absatz 3 durch Artikel 1 Nummer 10 des Gesetzes vom 8. Januar 2007 (GVBl. I S. 2), § 31 zuletzt durch Artikel 7 Nummer 6 des Gesetzes vom 25. Januar 2016 (GVBl. I Nr. 5) und § 56 zuletzt durch Artikel 2 Nummer 18 des Gesetzes vom 14. März 2014 (GVBl. I Nr. 14) geändert worden sind, verordnet der Minister für Bildung, Jugend und Sport im Benehmen mit dem für Bildung zuständigen Ausschuss des Landtages:
+Inhaltsübersicht
+Abschnitt 1 Allgemeines
