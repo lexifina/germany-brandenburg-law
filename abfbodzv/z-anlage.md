@@ -33,6 +33,7 @@
 31. Verordnung (EG) Nr. 166/2006 über die Schaffung eines Europäischen Schadstofffreisetzungs- und Verbringungsregisters (E-PRTR-VO)
 32. Gewinnungsabfallverordnung (GewinnungsAbfV)
 33. Verordnung (EU) Nr. 333/2011 mit Kriterien zur Festlegung, wann bestimmte Arten von Schrott gemäß der Richtlinie 2008/98/EG nicht mehr als Abfall anzusehen sind
+34. POP-Abfall-Überwachungs-Verordnung (POP-Abfall-ÜberwV)
 ### II. Erläuterungen zu dem nachfolgenden Verzeichnis
 1. In dem Verzeichnis werden folgende Abkürzungen verwandt: MLUL Ministerium für Ländliche Entwicklung, Umwelt und Landwirtschaft LfU Landesamt für Umwelt UAWB Landkreis und kreisfreie Stadt als untere Abfallwirtschaftsbehörde LBGR Landesamt für Bergbau, Geologie und Rohstoffe SBB Sonderabfallgesellschaft Brandenburg/Berlin mbH UB Landkreise und kreisfreie Städte als untere Bodenschutzbehörde LELF Landesamt für Ländliche Entwicklung, Landwirtschaft und Flurneuordnung
 2. Soweit in der letzten Spalte des Verzeichnisses mehrere Behörden erwähnt werden und keine anderweitige ausdrückliche Regelung getroffen worden ist, handelt es sich bei der Verwendung
@@ -318,4 +319,8 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 32.1 |  | Vollzug dieser Verordnung | LfU
 33 | Verordnung (EU) Nr. 333/2011 des Rates vom 31. März 2011 mit Kriterien zur Festlegung, wann bestimmte Arten von Schrott gemäß der Richtlinie 2008/98/EG des Europäischen Parlaments und des Rates nicht mehr als Abfall anzusehen sind
 33.1 |  | Vollzug dieser Verordnung | LfU/LBGR
+34 | POP-Abfall-Überwachungs-Verordnung (POP-Abfall-ÜberwV)
+34.1 | § 4 Absatz 1 | Aufgaben im Zusammenhang mit dem Nachweis über die Zulässigkeit der vorgesehenen Entsorgung | SBB
+34.2 | § 6 | Verfolgung von Ordnungswidrigkeiten | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
+34.3 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 (2) Bei der Freistellung durch das Landesamt für Bergbau, Geologie und Rohstoffe ist gemäß § 42 Absatz 7 Satz 2 BbgAbfBodG das für Wirtschaft zuständige Ministerium die für die Erteilung des Einvernehmens zuständige Behörde.
