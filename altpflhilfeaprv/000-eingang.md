@@ -1,0 +1,2 @@
+# Ausbildungs- und Prüfungsverordnung für den Beruf der Altenpflegehelferin und des Altenpflegehelfers im Land Brandenburg (Altenpflegehilfe-Ausbildungs-Prüfungsverordnung - AltPflHilfeAPrV)
+Auf Grund des § 7 des Brandenburgischen Altenpflegehilfegesetzes vom 27. Mai 2009 (GVBl. I S. 154), der durch Artikel 7 des Gesetzes vom 15. Juli 2010 (GVBl. I Nr. 28) geändert worden ist, verordnet der Minister für Arbeit, Soziales, Frauen und Familie:

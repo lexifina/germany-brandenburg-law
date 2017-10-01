@@ -1,0 +1,5 @@
+# § 12a Schriftlicher Teil der Prüfung
+(1) Der schriftliche Teil der Prüfung wird in Form von zwei Aufsichtsarbeiten mit der Dauer von je 60 Minuten geleistet. Die Altenpflegeschule kann stattdessen die Erstellung einer Hausarbeit mit einem Umfang von zehn bis 15 Seiten als schriftlichen Teil der Prüfung festlegen.
+(1) Der schriftliche Teil der Prüfung bezieht sich auf die Lernfelder 1.1, 1.2, 1.3 und 1.5 des Lernbereichs 1 sowie auf die Lernfelder des Lernbereichs 2 des Teils A der Anlage 1.
+(2) Die Aufgaben für die Aufsichtsarbeiten werden von der zuständigen Behörde auf Vorschlag der Altenpflegeschule oder der Altenpflegeschulen bestimmt. Jede Aufsichtsarbeit ist von zwei Fachprüferinnen oder Fachprüfern unabhängig voneinander zu benoten. Bei unterschiedlicher Benotung entscheidet das vorsitzende Mitglied des Prüfungsausschusses im Benehmen mit den Fachprüferinnen oder Fachprüfern.
+(3) Das vorsitzende Mitglied des Prüfungsausschusses bildet die Note für den schriftlichen Teil der Prüfung aus dem arithmetischen Mittel der Noten der Fachprüferinnen oder Fachprüfer.
