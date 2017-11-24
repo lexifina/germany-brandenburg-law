@@ -1,0 +1,6 @@
+# Verordnung zur Übertragung von Zuständigkeiten des Landesrechnungshofs Brandenburg für die Berechnung und Zahlung von Reise- und Umzugskosten, die Bewilligung, Berechnung und Zahlung von Trennungsgeld, die Unfallfürsorgeangelegenheiten sowie den Ersatz von Sachschäden auf die Zentrale Bezügestelle des Landes Brandenburg (Reisekostenzuständigkeitsübertragungsverordnung LRH - RkZÜVLRH)
+Auf Grund
+des § 63 Absatz 3 Satz 3 des Landesbeamtengesetzes vom 3. April 2009 (GVBl. I S. 26), der durch Artikel 4 des Gesetzes vom 20. November 2013 (GVBl. I Nr. 32 S. 123) geändert worden ist, in Verbindung mit § 9 Absatz 3 der Trennungsgeldverordnung in der Fassung der Bekanntmachung vom 29. Juni 1999 (BGBl. I S. 1533) im Einvernehmen mit dem Minister der Finanzen,
+des § 66 Absatz 4 des Landesbeamtengesetzes in Verbindung mit § 6 Absatz 1 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186), der durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28 S. 2) geändert worden ist,
+des § 89 Absatz 1 des Brandenburgischen Beamtenversorgungsgesetzes vom 20. November 2013 (GVBl. I Nr. 32), der durch Artikel 3 des Gesetzes vom 10. Juli 2017 (GVBl. I Nr. 14 S. 6) geändert worden ist, im Einvernehmen mit dem Minister der Finanzen
+verordnet der Präsident des Landesrechnungshofs Brandenburg:
