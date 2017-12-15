@@ -1,0 +1,2 @@
+# Verordnung über das Naturschutzgebiet „Küstrinchen“
+Auf Grund des § 22 Absatz 1 und 2, des § 23 und des § 32 Absatz 2 und 3 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542) in Verbindung mit § 8 Absatz 1 und 3 und § 42 Absatz 2 Satz 3 des Brandenburgischen Naturschutzausführungsgesetzes vom 21. Januar 2013 (GVBl. I Nr. 3) und § 4 Absatz 1 der Naturschutzzuständigkeitsverordnung vom 27. Mai 2013 (GVBl. II Nr. 43) verordnet die Ministerin für Umwelt, Gesundheit und Verbraucherschutz:
