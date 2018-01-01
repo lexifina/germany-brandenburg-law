@@ -1,0 +1,13 @@
+# Verordnung über die beamtenrechtlichen Zuständigkeiten im Geschäftsbereich des Ministeriums für Bildung, Jugend und Sport (Beamtenzuständigkeitsverordnung MBJS - BZVMBJS)
+Auf Grund des § 6 Absatz 1 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186), der durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28) geändert worden ist, in Verbindung mit
+§ 4 Absatz 1 Satz 2 des Landesbeamtengesetzes vom 3. April 2009 (GVBl. I S. 26) in Verbindung mit § 1 Absatz 3 Satz 1 der Ernennungsverordnung vom 1. August 2004 (GVBl. II S. 742),
+§ 32 Absatz 1 Satz 1, § 38 Satz 2, § 50 Satz 1 zweiter Halbsatz, § 54 Absatz 1 Satz 1, § 56 Absatz 1 Satz 5, § 57 Absatz 1 Satz 2, § 66 Absatz 4 zweiter Halbsatz, § 69 Absatz 5 Satz 1, § 84 Satz 2, § 85 Absatz 2 Satz 1, § 86 Absatz 1 Satz 3, § 87 Satz 4, § 88 Satz 5, § 89 Satz 3, § 92 Absatz 2 zweiter Halbsatz und § 103 Absatz 2 des Landesbeamtengesetzes, von denen § 50 Satz 1 durch Artikel 1 Nummer 18 des Gesetzes vom 5. Dezember 2013 (GVBl. I Nr. 36 S. 9) geändert worden ist,
+§ 63 Absatz 3 Satz 3 des Landesbeamtengesetzes, der durch Artikel 4 Nummer 2 des Gesetzes vom 20. November 2013 (GVBl. I Nr. 32 S. 123) geändert worden ist, und § 9 Absatz 3 der Trennungsgeldverordnung in der Fassung der Bekanntmachung vom 29. Juni 1999 (BGBl. I S. 1533) im Einvernehmen mit dem Minister der Finanzen,
+§ 6 Satz 2 der Dienstjubiläumsverordnung vom 18. Dezember 2014 (BGBl. I S. 2267) in Verbindung mit § 64 Satz 1 des Landesbeamtengesetzes, der durch das Gesetz vom 11. März 2010 (GVBl. I Nr. 13) neu gefasst worden ist,
+§ 39 Absatz 4 Satz 2 und 3, § 48 Absatz 1 Satz 4 und § 49 Satz 2 der Schullaufbahnverordnung vom 24. Juni 1999 (GVBl. II S. 378),
+§ 17 Absatz 2 Satz 2, § 34 Absatz 5, § 35 Absatz 2 Satz 2 und § 42 Absatz 2 Satz 2 des Landesdisziplinargesetzes vom 18. Dezember 2001 (GVBl. I S. 254),
+§ 13 Absatz 2 Satz 3 des Brandenburgischen Besoldungsgesetzes vom 20. November 2013 (GVBl. I Nr. 32),
+§ 54 Absatz 3 Satz 2 des Beamtenstatusgesetzes vom 17. Juni 2008 (BGBl. I S. 1010) in Verbindung mit § 103 Absatz 2 des Landesbeamtengesetzes,
+§ 47 Absatz 3 Satz 3, § 48 Absatz 2 Satz 1, § 57 Absatz 6 Satz 2 und Absatz 7 Satz 1, § 63 Absatz 1 Satz 1 in Verbindung mit § 89 Absatz 1 des Brandenburgischen Beamtenversorgungsgesetzes vom 20. November 2013 (GVBl. I Nr. 32) und
+§ 7 Absatz 2 Satz 3, § 47 Absatz 3 Satz 3, § 48 Absatz 2 Satz 1, § 57 Absatz 6 Satz 2 und Absatz 7 Satz 1, § 63 Absatz 1 Satz 1 in Verbindung mit § 89 Absatz 1 des Brandenburgischen Beamtenversorgungsgesetzes im Einvernehmen mit dem Minister der Finanzen
+verordnet die Ministerin für Bildung, Jugend und Sport:
