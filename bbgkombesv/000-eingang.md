@@ -1,0 +1,2 @@
+# Verordnung über die Besoldung und Dienstaufwandsentschädigung der hauptamtlichen Wahlbeamtinnen und Wahlbeamten auf Zeit der Gemeinden und Gemeindeverbände im Land Brandenburg (Brandenburgische Kommunalbesoldungsverordnung - BbgKomBesV)
+Auf Grund des § 17 Absatz 2 und des § 21 des Brandenburgischen Besoldungsgesetzes vom 20. November 2013 (GVBl. I Nr. 32, 34) verordnet der Minister des Innern und für Kommunales im Einvernehmen mit dem Minister der Finanzen:
