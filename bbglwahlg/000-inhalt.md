@@ -67,5 +67,5 @@
 § 50 Durchführung des Gesetzes
 § 51 Fristen und Termine sowie Schriftform
 § 52 Wahlkosten
-§ 53 Änderung des Abgeordnetengesetzes
-§ 54 Inkrafttreten, Außerkrafttreten
+§ 53 Staatliche Mittel für Einzelbewerber
+§ 54 Auszahlung staatlicher Mittel an Parteien
