@@ -1,0 +1,2 @@
+# Verordnung über die Bestimmung der Landeshauptkasse als Vollstreckungsbehörde nach dem Justizbeitreibungsgesetz
+Auf Grund des § 2 Absatz 1 Satz 2 des Justizbeitreibungsgesetzes in der Fassung der Bekanntmachung vom 27. Juni 2017 (BGBl. I S. 1926) in Verbindung mit § 6 Absatz 1 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186), der durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28 S. 2) geändert worden ist, verordnet die Landesregierung:
