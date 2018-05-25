@@ -15,6 +15,6 @@
 § 14 Strafrechtliche Verantwortung
 § 15 Ordnungswidrigkeiten
 § 16 Verjährung
-§ 16 a Anwendbarkeit des Bundesdatenschutzgesetzes
+§ 16a Datenverarbeitung zu journalistischen und literarischen Zwecken
 § 17 Geltung für den Rundfunk
 § 18 Inkrafttreten; Außerkrafttreten
