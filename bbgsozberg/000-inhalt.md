@@ -8,21 +8,21 @@ Abschnitt 2 Berufe mit Fachschulausbildung
 Abschnitt 3 Feststellung gleichwertiger Fähigkeiten
 § 7 Gleichwertige Fähigkeiten
 Abschnitt 4 Berufsqualifikationen anderer Länder
-§ 8 EU-Berufsqualifikationsrichtlinie
-§ 9 Grundsatz der Gleichwertigkeit
-§ 10 Gleichwertige Ausbildungsnachweise
-§ 11 Ausgleichsmaßnahmen
+§ 8 Anerkennung ausländischer Berufsqualifikationen
+§ 9 Gleichwertigkeit der Ausbildungsnachweise
+§ 10 Verfahren zur Feststellung der Gleichwertigkeit bei fehlenden Nachweisen
+§ 11 (weggefallen)
 § 12 Zuverlässigkeit
 § 13 Gesundheitliche Eignung
 § 14 Sprachkenntnisse
-§ 15 Führen der Berufsbezeichnung
-§ 16 Verfahren bei EU-Berufsqualifizierungsanträgen
+§ 15 (weggefallen)
+§ 16 (weggefallen)
 § 17 Zusammenarbeit der Behörden
 § 18 Dienstleistungsfreiheit
 § 19 Meldepflicht
 § 20 Verfahren bei Dienstleistungserbringung
 § 21 Berichtspflicht
-§ 22 Berufsqualifikationen außerhalb der europäischen Staaten nach § 8
+§ 22 (weggefallen)
 Abschnitt 5 Weiterbildung
 § 23 Ziel der Weiterbildung
 § 24 Weiterbildungsbezeichnung
