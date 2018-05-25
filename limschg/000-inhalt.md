@@ -22,7 +22,7 @@
 § 17 Bericht über die Emissions- und Immissionssituation
 § 18 Zuwendungen
 § 19 (aufgehoben)
-§ 20 Datenschutz, Auskunftspflicht und Akteneinsichtsrecht
+§ 20 (weggefallen)
 § 21 Zuständigkeit
 § 22 Entschädigungspflicht bei Widerruf oder Rücknahme einer Genehmigung
 § 23 Ordnungswidrigkeiten
