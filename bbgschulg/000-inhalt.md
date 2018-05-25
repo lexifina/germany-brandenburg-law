@@ -180,7 +180,7 @@
 § 130 Umfang der Schulaufsicht
 ## Abschnitt 2 Staatliche Schulbehörden
 § 131 Schulbehörden
-§ 132 Personal und Kosten des Landesschulamtes
+§ 132 Personal der staatlichen Schulämter
 § 133 Schulpsychologische Beratung
 ## Abschnitt 3 Einrichtung des Landes zur Weiterentwicklung der Schule
 § 134 Landesinstitut für Schule und Medien Berlin-Brandenburg
