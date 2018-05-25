@@ -1,4 +1,4 @@
-## Inhaltsverzeichnis
+## Inhaltsübersicht
 ## Erster Abschnitt Allgemeine Vorschriften
 § 1 Zweck des Verfassungsschutzes; Auftrag der Verfassungsschutzbehörde
 § 2 Zuständigkeit der Verfassungsschutzbehörde
@@ -8,8 +8,8 @@
 ## Zweiter Abschnitt Befugnisse
 § 6 Befugnisse der Verfassungsschutzbehörde
 § 7 Besondere Formen der Datenerhebung
-§ 8 Speicherung, Veränderung, Nutzung, Berichtigung, Sperrung und Löschung personenbezogener Daten
-§ 9 (aufgehoben)
+§ 8 Verarbeitung und Verarbeitungseinschränkung personenbezogener Daten
+§ 9 Sicherheit der Datenverarbeitung
 § 10 (aufgehoben)
 § 11 (aufgehoben)
 ## Dritter Abschnitt Auskunft, Einsicht und Benachrichtigung
@@ -22,6 +22,6 @@
 § 25 Kontrollrechte der Parlamentarischen Kontrollkommission
 § 26 Verfahrensweise der Parlamentarischen Kontrollkommission
 ## Sechster Abschnitt Schlußvorschriften
-§ 27 Geltung des Brandenburgischen Datenschutzgesetzes
+§ 27 Geltung des Brandenburgischen Datenschutzgesetzes und der Verordnung (EU) 2016/679
 § 28 Erlaß von Verwaltungsvorschriften
-§ 29 Inkrafttreten, Außerkrafttreten
+§ 29 Einschränkung von Grundrechten
