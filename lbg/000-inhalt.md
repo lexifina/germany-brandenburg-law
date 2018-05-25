@@ -107,11 +107,11 @@
 § 92 Anzeigepflicht nach Beendigung des Beamtenverhältnisses
 § 93 Rechtsverordnung zur Nebentätigkeit
 ## Unterabschnitt 5 Personalaktenrecht
-§ 94 Inhalt der Personalakte, Zugang zur Personalakte
+§ 94 Verarbeitung personenbezogener Daten, Inhalt der Personalakte, Zugang zur Personalakte
 § 95 Beihilfeakte
-§ 96 Anhörungspflicht
-§ 97 Einsichtsrecht
-§ 98 Vorlage der Personalakte, Auskunft an Dritte
+§ 96 Anhörung
+§ 97 Auskunft an den betroffenen Beamten
+§ 98 Übermittlung der Personalakte, Auskunft an Dritte
 § 99 Entfernung von Unterlagen
 § 100 Aufbewahrungsfristen
 § 101 Dateien
