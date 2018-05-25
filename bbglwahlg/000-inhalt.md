@@ -69,3 +69,5 @@
 § 52 Wahlkosten
 § 53 Staatliche Mittel für Einzelbewerber
 § 54 Auszahlung staatlicher Mittel an Parteien
+§ 55 Veröffentlichung von Wahldaten im Internet
+§ 56 Einschränkung eines Grundrechts
