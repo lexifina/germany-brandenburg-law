@@ -17,8 +17,8 @@
 ## Abschnitt 4 Anerkennungen
 § 13 Anerkennungen
 § 14 Anerkennung von Befähigungsprüfungen für Religionsunterricht
-## Abschnitt 5 Landesinstitut für Lehrerbildung, Mitwirkung und Datenschutz
-§ 15 Landesinstitut für Lehrerbildung
+## Abschnitt 5 Zuständigkeiten, Verwaltungsrechtsweg, Mitwirkung und Datenschutz
+§ 15 Zuständigkeiten und Verwaltungsrechtsweg
 § 16 Landesschulbeirat
 § 17 Schutz personenbezogener Daten
 ## Abschnitt 6 Übergangsvorschriften
