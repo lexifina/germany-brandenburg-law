@@ -2,7 +2,7 @@
 § 2 Zusammensetzung
 § 3 Voraussetzungen der Wählbarkeit
 § 4 Wahl der Verfassungsrichter
-§ 5 Ernennung und Amtseid
+§ 5 Ernennung, Amtseid und Rechtsstellung
 § 6 Entlassung, Amtszeitende und Ausscheiden
 § 7 Vorsitz
 § 8 Beschlußfähigkeit
@@ -19,6 +19,8 @@
 § 18 Beauftragte von Personengruppen
 § 19 Verfahrensbevollmächtigte
 § 20 Einleitung des Verfahrens
+§ 20a Übermittlung elektronischer Dokumente
+§ 20b Elektronische Aktenführung
 § 21 Verwerfung und Zurückweisung von Anträgen
 § 21a Erörterung
 § 22 Mündliche Verhandlung, Form der Entscheidung
@@ -26,6 +28,7 @@
 § 23 Beweiserhebung
 § 24 Vernehmung von Zeugen und Sachverständigen
 § 25 Beweistermin
+§ 25a Stellungnahme durch sachkundige Dritte
 § 26 Niederschrift
 § 27 Entscheidung und Verkündung
 § 28 Abstimmung
@@ -71,6 +74,8 @@
 § 59 Beschwerdeberechtigte
 ## Achter Abschnitt Verfahren in den Fällen des § 12 Nr. 8 (Volksbegehren)
 § 60 Anrufung des Verfassungsgerichts
+## Neunter Abschnitt Verfahren in den Fällen des § 12 Nummer 9 (Sonstige Zuweisungen)
+§ 60a Nichtanerkennung von Parteien oder politischen Vereinigungen für die Wahl zum Landtag
 ## IV. Teil Übergangs- und Schlußvorschriften
 § 61 (aufgehoben)
 § 62 Einziehung von Gebühren
