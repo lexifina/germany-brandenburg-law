@@ -1,7 +1,7 @@
 ## Inhaltsübersicht
 ## Abschnitt 1 Kosten in Justizverwaltungsangelegenheiten
 § 1 Gebühren und Auslagen
-§ 2 Anwendung der Justizbeitreibungsordnung
+§ 2 Anwendung des Justizbeitreibungsgesetzes
 § 3 (aufgehoben)
 § 4 (aufgehoben)
 § 5 (aufgehoben)
