@@ -21,9 +21,11 @@
 § 18 Verwendung und Anlage der Mittel
 § 19 Mitwirkungspflichten der Mitglieder
 § 20 Amtshilfe der Steuerberaterkammer
+§ 20a Datenverarbeitung personenbezogener Daten
+§ 20b Datenverarbeitung besonderer Kategorien personenbezogener Daten
 § 21 Satzung
 § 22 Aufsicht
 ## Abschnitt 3 Übergangs- und Schlussvorschriften
 § 23 Eingetragene Lebenspartnerschaften
-§ 24 (weggefallen)
+§ 24 Einschränkung von Grundrechten
 § 25 In-Kraft-Treten
