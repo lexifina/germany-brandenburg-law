@@ -1,4 +1,4 @@
-# § 6a
+# § 5c Vorwarnungen über das Binnenmarkt-Informationssystem (IMI)
 (1) Im Falle eines sofort vollziehbaren, bestandskräftigen oder rechtskräftigen Widerrufs oder einer sofort vollziehbaren, bestandskräftigen oder rechtskräftigen Rücknahme einer Anerkennung nach § 37 Absatz 3 unterrichtet die zuständige Kammer spätestens drei Tage nach der betreffenden Entscheidung über das Binnenmarkt-Informationssystem (IMI) die zuständigen Behörden der anderen Mitgliedstaaten sowie der Länder der Bundesrepublik Deutschland über diese Entscheidung unter Übermittlung folgender Angaben (Vorwarnung):
 1. Identität der betroffenen Person,
 2. Beruf der betroffenen Person,
