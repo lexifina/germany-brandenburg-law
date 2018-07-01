@@ -1,0 +1,2 @@
+# Verordnung über die Kostenerstattung nach dem Landesaufnahmegesetz für die Aufnahme von Flüchtlingen, spätausgesiedelten und weiteren aus dem Ausland zugewanderten Personen (Landesaufnahmegesetz-Erstattungsverordnung - LAufnGErstV)
+Auf Grund des § 14 Absatz 6, des § 16 Satz 2 und des § 20 Absatz 3 des Landesaufnahmegesetzes vom 15. März 2016 (GVBl. I Nr. 11) verordnet die Ministerin für Arbeit, Soziales, Gesundheit, Frauen und Familie im Einvernehmen mit dem Minister des Innern und für Kommunales und dem Minister der Finanzen:
