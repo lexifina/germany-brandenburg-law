@@ -13,7 +13,7 @@
 § 10 Zugangsvoraussetzungen zu den Laufbahnen
 § 11 Laufbahnen mit Vorbereitungsdienst
 § 12 Rechtsstellung im Vorbereitungsdienst
-§ 13 Laufbahnen besonderer Fachrichtungen
+§ 13 Laufbahnen ohne Vorbereitungsdienst
 § 14 Anerkennung der bei einem anderen Dienstherrn erworbenen Laufbahnbefähigung
 § 15 Erwerb der Laufbahnbefähigung aufgrund des Gemeinschaftsrechts
 § 15a Nichtanwendung des Brandenburgischen Berufsqualifikationsfeststellungsgesetzes
@@ -67,16 +67,17 @@
 § 55 Dienstvergehen von Ruhestandsbeamten
 § 56 Zuständigkeit für die Entscheidung über die Aussagegenehmigung, Übermittlungen bei Strafverfahren
 § 57 Verbot der Annahme von Belohnungen, Geschenken und sonstigen Vorteilen
-§ 58 Wohnung und Aufenthalt
+§ 58 Wohnung und Aufenthalt, Betreuung bei Übungen und besonderen Einsätzen
 § 59 Dienstkleidung
 § 60 Verjährung von Schadensersatzansprüchen
 § 61 Fernbleiben vom Dienst, Erkrankung
-§ 62 Beihilfeberechtigung
+§ 62 Beihilfe in Krankheits-, Pflege- und Geburtsfällen
 § 63 Reise- und Umzugskosten
 § 64 Dienstjubiläen
 § 65 Verzinsung, Abtretung, Verpfändung, Aufrechnung, Zurückbehaltung, Rückforderung
 § 66 Ersatz von Sachschäden
 § 67 Übergang von Schadensersatzansprüchen auf den Dienstherrn
+§ 67a Erfüllungsübernahme durch den Dienstherrn bei Schmerzensgeldansprüchen
 § 68 Dienstzeugnis
 § 69 Amtsbezeichnung
 § 70 Arbeitsschutz, Jugendarbeitschutz
@@ -84,7 +85,7 @@
 ## Unterabschnitt 2 Wahl eines Beamten in eine gesetzgebende Körperschaft
 § 72 Ruhen der Rechte und Pflichten aus dem Dienstverhältnis
 § 73 Wiederverwendung nach Beendigung des Mandats
-§ 74 Anrechnung der Ruhenszeit auf die Dienstzeit
+§ 74 Nichtanrechnung der Ruhenszeit auf die Dienstzeit
 § 75 Beamte auf Zeit und Beamte im einstweiligen Ruhestand
 ## Unterabschnitt 3 Arbeitszeit, Urlaub und Dienstbefreiung
 § 76 Arbeitszeit
@@ -92,15 +93,16 @@
 § 78 Teilzeitbeschäftigung
 § 79 Beurlaubung
 § 80 Teilzeitbeschäftigung und Beurlaubung aus familiären Gründen
-§ 81 Höchstdauer von Beurlaubungen
+§ 80a Familienpflegezeit
+§ 81 Höchstdauer von Beurlaubungen und unterhälftiger Teilzeitbeschäftigung
 § 82 Hinweispflicht
 ## Unterabschnitt 4 Nebentätigkeit
 § 83 Begriffsbestimmungen
 § 84 Pflicht zur Übernahme einer Nebentätigkeit
-§ 85 Anzeige einer Nebentätigkeit
-§ 86 Verbot einer Nebentätigkeit
+§ 85 Genehmigungspflichtige Nebentätigkeiten
+§ 86 Nicht genehmigungspflichtige Nebentätigkeiten, Anzeigepflicht
 § 87 Ausübung einer Nebentätigkeit
-§ 88 Verfahren
+§ 88 Verfahren, Hinweispflicht
 § 89 Inanspruchnahme von Einrichtungen, Personal oder Material des Dienstherrn
 § 90 Rückgriffsanspruch für Haftung aus angeordneter Nebentätigkeit
 § 91 Beendigung von Nebenämtern und -beschäftigungen
@@ -127,12 +129,14 @@
 § 108 Beamte an Hochschulen
 ## Unterabschnitt 2 Polizeivollzugsdienst
 § 109 Beamte des Polizeivollzugsdienstes
-§ 110 Altersgrenzen für Polizeivollzugsbeamte, besonderes Teilzeitmodell
+§ 109a Altersgrenzen für die Einstellung von Polizeivollzugsbeamten
+§ 109b Altersgrenzenregelungen für den Aufstieg von Polizeivollzugsbeamten
+§ 110 Altersgrenzen für den Eintritt in den Ruhestand für Polizeivollzugsbeamte, besonderes Teilzeitmodell
 § 111 Laufbahnen
 § 112 Gemeinschaftsunterkunft und -verpflegung
 § 113 Dienstkleidung
 § 114 Heilfürsorge
-§ 115 Betreuung bei Übungen und besonderen Einsätzen
+§ 115 Gesundheitsfürsorge
 § 116 Polizeidienstunfähigkeit
 ## Unterabschnitt 3 Beamte des feuerwehrtechnischen Dienstes
 § 117 Beamte des feuerwehrtechnischen Dienstes
@@ -159,10 +163,8 @@
 ## Abschnitt 11 Übergangs- und Schlussvorschriften
 § 132 Verwaltungsvorschriften
 § 133 Übergangsregelung zur Altersteilzeit
-§ 134 Übergangsregelungen zum Landespersonalausschuss
+§ 134 (weggefallen)
 § 135 Laufbahnrechtliche Übergangsvorschriften
-§ 136 Übergangsregelungen für bereits in das Beamtenverhältnis auf Probe berufene Beamte
-§ 137 Übergangsregelungen zur Nebentätigkeit und zur Dienstbefreiung
+§ 136 (weggefallen)
+§ 137 Übergangsregelungen zur Nebentätigkeit
 § 138 Übergangsregelungen für vorhandene Beamte auf Zeit
-§ 139 Übergangsregelungen für Ämter in leitender Funktion im Beamtenverhältnis auf Zeit
-§ 140 Übergangsregelung zum Verfahren bei Dienstunfähigkeit
