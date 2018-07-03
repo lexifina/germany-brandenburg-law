@@ -30,7 +30,7 @@ Stadt Rathenow
 Amt Rhinow
 Gemeinde Wusterhausen/Dosse
 ### Wahlkreis 5 (Havelland I):
-Gemeinde Brieselang
+Gemeinde Brieselang zum Gebietsstand 1. Januar 2019
 Amt Friesack
 Stadt Ketzin/Havel
 Stadt Nauen
@@ -38,7 +38,7 @@ Amt Nennhausen
 Gemeinde Wustermark
 ### Wahlkreis 6 (Havelland II):
 Gemeinde Dallgow-Döberitz
-Stadt Falkensee
+Stadt Falkensee zum Gebietsstand 1. Januar 2019
 Gemeinde Schönwalde-Glien
 ### Wahlkreis 7 (Oberhavel I):
 Stadt Hennigsdorf
