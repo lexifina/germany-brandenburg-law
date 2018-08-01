@@ -23,7 +23,3 @@
 § 18 Inkrafttreten, Außerkrafttreten
 Anlage 1 Kontingentstundentafel
 Anlage 2 Schulärztliche Stellungnahme
-Anlage 3 Antrag auf Zurückstellung vom Schulbesuch
-Anlage 4 Erklärung zur Schweigepflichtentbindung, Gestattung zur Akteneinsicht sowie zur Überprüfung personenbezogener Daten
-Anlage 5 Prüfergebnisse der Zurückstellungsgründe
-Anlage 6 Protokoll zum Beratungsgespräch
