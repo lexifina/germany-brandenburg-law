@@ -7,14 +7,14 @@
 ## Abschnitt 2 Wahlrecht und Wählbarkeit
 § 5 Sachliche Voraussetzungen des Wahlrechts
 § 6 Förmliche Voraussetzungen des Wahlrechts
-§ 7 Ausschluß vom Wahlrecht
+§ 7 Ausschluss vom Wahlrecht
 § 8 Wählbarkeit
 ## Abschnitt 3 Vorbereitung der Wahl
 ## Unterabschnitt 1 Wahlleitung
 § 9 Mitwirkung der Ämter und amtsfreien Gemeinden, Landkreise und kreisfreien Städte; Wahlbehörden
 § 10 Wahlorgane
-§ 11 Landeswahlausschuß und Landeswahlleiter
-§ 12 Kreiswahlausschuß und Kreiswahlleiter
+§ 11 Landeswahlausschuss und Landeswahlleiter
+§ 12 Kreiswahlausschuss und Kreiswahlleiter
 § 13 Gemeinsame Vorschriften für die Wahlausschüsse
 § 14 Wahlvorstand
 ## Unterabschnitt 2 Wahlkreise und Wahlbezirke
@@ -61,7 +61,7 @@
 ## Abschnitt 9 Gemeinsame Vorschriften für die Abschnitte 1 bis 8
 § 46 Ehrenamtliche Mitwirkung
 § 47 Ordnungswidrigkeiten
-## Abschnitt 10 Übergangs- und Schlußvorschriften
+## Abschnitt 10 Übergangs- und Schlussvorschriften
 § 48 Anfechtung
 § 49 Statistik
 § 50 Durchführung des Gesetzes
