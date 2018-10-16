@@ -27,9 +27,9 @@
 § 20 Bestattungspflichtige Personen
 § 21 Bestattungsarten
 § 22 Voraussetzungen der Bestattung
-§ 23 Feuerbestattung
+§ 23 Einäscherung
 § 24 Feuerbestattungsanlagen
-§ 25 Beisetzung
+§ 25 Beisetzungsort
 ## Abschnitt 4 Friedhofswesen
 § 26 Friedhöfe
 § 27 Gemeindefriedhöfe
@@ -43,9 +43,9 @@
 § 35 Umwelt- und Naturschutz
 ## Abschnitt 5 Gemeinsame Vorschriften
 § 36 Aufgabenwahrnehmung
-§ 37 Datenschutz
+§ 37 (weggefallen)
 § 38 Ordnungswidrigkeiten
-§ 39 Personen- und Funktionsbezeichnungen
+§ 39 Einschränkung von Grundrechten
 ## Abschnitt 6 Übergangs- und Schlussvorschriften
 § 40 Sonderbestimmungen
 § 41 Übergangsvorschrift
