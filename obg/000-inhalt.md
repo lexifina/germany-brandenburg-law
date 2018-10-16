@@ -51,7 +51,7 @@
 § 44 Kosten
 § 45 Gebühren
 ## Teil IV Übergangs- und Schlußbestimmungen
-§ 46 Übergangsregelung bis zur Bildung der Ämter
+§ 46 (weggefallen)
 § 47 Besondere Regelungen über die Zuständigkeit
 § 48 Verwaltungsvorschriften
 § 49 (Inkrafttreten)

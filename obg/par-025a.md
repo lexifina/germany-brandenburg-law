@@ -14,5 +14,5 @@
 5. Rassen, Gruppen und deren Kreuzungen untereinander oder mit anderen Hunden bestimmt, für welche die Eigenschaft als gefährliche Hunde im Sinne des Absat-zes 3 Nr. 1 vermutet wird, dabei kann auch vorgesehen werden, dass für bestimmte Rassen, Gruppen und deren Kreuzungen untereinander oder mit anderen Hunden wegen ihrer besonderen Gefährlichkeit eine Erlaubnis nach Absatz 1 nicht erteilt werden darf,
 6. das Nähere über die Erlaubniserteilung nach Absatz 1 und die Prüfung des Versicherungsnachweises bestimmt,
 7. Ausnahmeregelungen für Dienst-, Jagd- und Herdengebrauchshunde sowie für Blindenhunde und Behindertenbegleithunde erlässt und
-8. Regelungen über die Erstattung der Kosten trifft, die den Ämtern, den amtsfreien Gemeinden und Landkreisen durch Übertragung von Aufgaben zum Schutz der Bevölkerung vor gefährlichen und anderen Hunden entstehen.
+8. Regelungen über die Erstattung der Kosten trifft, die den Ämtern, Verbandsgemeinden, den amtsfreien Gemeinden und Landkreisen durch Übertragung von Aufgaben zum Schutz der Bevölkerung vor gefährlichen und anderen Hunden entstehen.
 (5) In der Rechtsverordnung nach Absatz 4 kann bestimmt werden, dass vorsätzliche und fahrlässige Verstöße gegen die in ihnen enthaltenen Gebote und Verbote mit Geldbuße bis zu 50 000 Euro geahndet werden können.
