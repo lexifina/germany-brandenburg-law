@@ -1,0 +1,2 @@
+# Verordnung über die öffentliche Bekanntmachung von Satzungen und sonstigen ortsrechtlichen Vorschriften in den Gemeinden, Verbandsgemeinden, Ämtern und Landkreisen (Bekanntmachungsverordnung - BekanntmV)
+Auf Grund des § 5 Abs. 3 Satz 3 der Gemeindeordnung vom 15. Oktober 1993 (GVBl. I S. 398), des § 5 Abs. 3 Satz 3 der Landkreisordnung vom 15. Oktober 1993 (GVBl. I S. 398, 433) und des § 4 Abs. 4 der Amtsordnung vom 15. Oktober 1993 (GVBl. I S. 398, 450) verordnet der Minister des Innern:
