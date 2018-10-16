@@ -1,0 +1,1 @@
+# Gesetz zu finanziellen Hilfen und zur Schaffung von Ausnahmeregelungen zur Erleichterung von freiwilligen Zusammenschlüssen zur Vergrößerung der Strukturen auf gemeindlicher Ebene und zur Verringerung der Anzahl der hauptamtlichen Verwaltungen auf der gemeindlichen Ebene (Gemeindestrukturänderungsförderungsgesetz - GemStrÄndFördG)
