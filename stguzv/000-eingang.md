@@ -1,0 +1,24 @@
+# Verordnung zur Bestimmung der zuständigen Behörden auf dem Gebiet des Straßenverkehrsrechts, des Güterkraftverkehrs und nach dem Berufskraftfahrer-Qualifikations-Gesetz (Straßenverkehrsrechts- und Güterkraftverkehrs-Zuständigkeits-Verordnung - StGÜZV)
+Auf Grund
+des § 6 Absatz 2 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S.186), der durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28 S. 2) geändert worden ist, auch in Verbindung mit
+a) § 9 Absatz 1 Satz 3 und § 12 Absatz 1 Satz 2 des Landesorganisationsgesetzes, die durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28 S. 2) eingefügt worden sind, und in Verbindung mit § 44 Absatz 1 Satz 1 und § 46 Absatz 2 Satz 1 der Straßenverkehrs-Ordnung vom 6. März 2013 (BGBl. I S. 367),
+b) § 9 Absatz 1 Satz 3 und § 12 Absatz 1 Satz 2 des Landesorganisationsgesetzes und in Verbindung mit § 4 Absatz 3 Satz 1 der Ferienreiseverordnung vom 13. Mai 1985 (BGBl. I S. 774),
+c) § 12 Absatz 1 Satz 2 des Landesorganisationsgesetzes und in Verbindung mit § 46 Absatz 1 Satz 1 der Fahrzeug-Zulassungsverordnung vom 3. Februar 2011 (BGBl. I S. 139),
+d) § 12 Absatz 1 Satz 2 des Landesorganisationsgesetzes und in Verbindung mit § 2 Absatz 2 der EG-Fahrzeuggenehmigungsverordnung vom 3. Februar 2011 (BGBl. I S. 126),
+e) § 12 Absatz 1 Satz 2 des Landesorganisationsgesetzes und in Verbindung mit § 57d Absatz 4 und 9 Satz 1, § 68 Absatz 1, § 70 Absatz 1 Nummer 2, Anlage VIII Nummer 4.1 Satz 2 und Nummer 4.3 Satz 1, Anlage VIIIb Nummer 1 und 9.1 Satz 1, Anlage VIIIc Nummer 1.1 Satz 1, Nummer 7.2 Satz 1, Nummer 8.1 Satz 1 und Nummer 8.2 Satz 1, Anlage XVIIa Nummer 7.1 Buchstabe g, Nummer 7.2 Satz 1, Nummer 8.1 Satz 1 und Nummer 8.2 Satz 1, Anlage XVIIIc Nummer 1.1 sowie Anlage XVIIId Nummer 8.2, 9.1 Satz 1 und Nummer 9.2 Satz 1 der Straßenverkehrs-Zulassungs-Ordnung vom 26. April 2012 (BGBl. I S. 679),
+f) § 10 Absatz 2 des Kraftfahrsachverständigengesetzes vom 22. Dezember 1971 (BGBl. I S. 2086),
+g) § 12 Absatz 1 Satz 2 des Landesorganisationsgesetzes und in Verbindung mit § 5 Absatz 1 Satz 3, § 36 Absatz 6 Satz 1, § 42 Absatz 2 Satz 4, § 48 Absatz 4 Nummer 7 Satz 2, § 66 Absatz 1 und 7 Satz 1, § 67 Absatz 1, 3 Satz 4 und Absatz 4 Satz 2, § 68 Absatz 1 Satz 1 und 3 und Absatz 2 Satz 6, § 70 Absatz 1 Satz 1, § 71 Absatz 5 Satz 1, § 71a Absatz 2 Satz 1 und Absatz 7, § 71b Satz 2, § 73 Absatz 1 Satz 1, § 74 Absatz 1 der Fahrerlaubnis-Verordnung vom 13. Dezember 2010 (BGBl. I S. 1980), von denen § 66 Absatz 1 und § 70 durch Artikel 1 der Verordnung vom 16. April 2014 (BGBl. I S. 348) neu gefasst, § 68 Absatz 1 zuletzt durch die Verordnung vom 2. Oktober 2015 (BGBl. I S. 1674) geändert, § 66 Absatz 7 Satz 1 durch Artikel 1 der Verordnung vom 21. Dezember 2016 (BGBl. I S. 3083) geändert, § 74 Absatz 1 durch Artikel 1 der Verordnung vom 21. Dezember 2016 (BGBl. I S. 3083) neu gefasst und die §§ 71a und 71b durch Artikel 1 der Verordnung vom 14. August 2017 (BGBl. I S. 3232) eingefügt worden sind,
+h) § 12 Absatz 1 Satz 2 des Landesorganisationsgesetzes und in Verbindung mit § 29 Absatz 3 Nummer 2 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919),
+i) § 12 Absatz 1 Satz 2 des Landesorganisationsgesetzes und in Verbindung mit § 50 Absatz 1 des Fahrlehrergesetzes vom 30. Juni 2017 (BGBl. I S. 2162, 3784),
+j) § 3 Absatz 7 Satz 1, § 21 Absatz 1 Satz 1 und § 21a Absatz 1 des Güterkraftverkehrsgesetzes vom 22. Juni 1998 (BGBl. I S. 1485), von denen § 21a Absatz 1 durch Artikel 1 des Gesetzes vom 22. November 2011 (BGBl. I S. 2272) geändert worden ist,
+k) § 1 Absatz 1 Satz 1 der Verordnung über den grenzüberschreitenden Güterkraftverkehr und den Kabotageverkehr vom 28. Dezember 2011 (BGBl. 2012 I S. 42),
+des § 70 Absatz 5 Satz 1 der Straßenverkehrs-Zulassungs-Ordnung,
+des § 15 des Kraftfahrsachverständigengesetzes,
+des § 43 Absatz 1 Satz 1 und § 47 Absatz 1 der Fahrzeug-Zulassungsverordnung, von denen § 47 Absatz 1 durch Artikel 1 der Verordnung vom 31. Juli 2017 (BGBl. I S. 3090) geändert worden ist,
+des § 8 Absatz 3 Satz 1 des Berufskraftfahrer-Qualifikations-Gesetzes vom 14. August 2006 (BGBl. I S. 1958) und
+des § 36 Absatz 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602)
+verordnet die Landesregierung und
+auf Grund
+des § 6 Absatz 1 des Landesorganisationsgesetzes, der durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28 S. 2) geändert worden ist, in Verbindung mit § 10 Absatz 1 Satz 1 des Kraftfahrsachverständigengesetzes und
+des § 6 Absatz 1 in Verbindung mit § 13 Absatz 3 des Landesorganisationsgesetzes und in Verbindung mit Anlage VIIIc Nummer 1.1, Anlage XVIIa Nummer 1.1 sowie Anlage XVIIId Nummer 1.1 der Straßenverkehrs-Zulassungs-Ordnung und in Verbindung mit § 67 Absatz 4 Satz 5 der Fahrerlaubnis-Verordnung
+verordnet die Ministerin für Infrastruktur und Landesplanung:
