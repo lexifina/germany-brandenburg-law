@@ -1,0 +1,2 @@
+# Ordnungsbehördliche Verordnung zur Abwehr von Gefahren durch Kampfmittel (Kampfmittelverordnung für das Land Brandenburg - KampfmV)
+Auf Grund des § 25 in Verbindung mit § 30 des Ordnungsbehördengesetzes in der Fassung der Bekanntmachung vom 21. August 1996 (GVBl. I S. 266), von denen § 25 zuletzt durch Artikel 15 des Gesetzes vom 25. Januar 2016 (GVBl. I Nr. 5 S. 18) geändert worden ist, verordnet der Minister des Innern und für Kommunales nach Kenntnisnahme durch den Ausschuss für Inneres und Kommunales des Landtages:
