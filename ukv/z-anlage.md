@@ -1,6 +1,6 @@
 # Anlage
 ## Unterbringungsplan
-### I. Unterbringung von erwachsenen Personen
+I. Unterbringung von erwachsenen Personen | 
 1. Versorgungsgebiet Neuruppin | 
 Krankenhaus | Aufnahmegebiet
 Ruppiner Kliniken GmbH Fehrbelliner Str. 38 16816 Neuruppin | Landkreis Ostprignitz-Ruppin
@@ -23,7 +23,7 @@ Klinikum Niederlausitz GmbH Calauer Str. 8 01968 Senftenberg | amtsfreie Gemeind
 Elbe-Elster Klinikum GmbH Kirchhainer Str. 38 a 03238 Finsterwalde | Landkreis Elbe-Elster
 Krankenhaus Spremberg Karl-Marx-Str. 80 03130 Spremberg | Landkreis Spree-Neiße
 Asklepios Fachklinikum Lübben Luckauer Str. 17 15907 Lübben | amtsfreie Gemeinden Heideblick Märkische Heide Ämter Altdöbern Dahme/Mark Golßener Land Lieberose/Oberspreewald Unterspreewald Städte Calau Lübben (Spreewald) Lübbenau (Spreewald) Luckau Vetschau
-Asklepios Fachklinikum Teupitz Buchholzer Str. 21 15755 Teupitz | amtsfreie Gemeinden Am Mellensee Bestensee Blankenfelde-Mahlow Eichwalde Heidesee Rangsdorf Schönefeld Schulzendorf Wildau Zeuthen Ämter Schenkenländchen Städte Baruth/Mark Königs Wusterhausen Ludwigsfelde Mittenwalde Zossen
+Asklepios Fachklinikum Teupitz Buchholzer Str. 21 15755 Teupitz | amtsfreie Gemeinden Am Mellensee Bestensee Blankenfelde-Mahlow Eichwalde Großbeeren Heidesee Rangsdorf Schönefeld Schulzendorf Wildau Zeuthen Ämter Schenkenländchen Städte Baruth/Mark Königs Wusterhausen Ludwigsfelde Mittenwalde Zossen
 5. Versorgungsgebiet Frankfurt (Oder) | 
 Krankenhaus | Aufnahmegebiet
 Klinikum Frankfurt (Oder) GmbH Müllroser Chaussee 7 15236 Frankfurt (Oder) | kreisfreie Stadt Frankfurt (Oder) amtsfreie Gemeinden Letschin Ämter Golzow Lebus Neuhardenberg Seelow-Land Städte Seelow
@@ -38,7 +38,8 @@ Krankenhaus | Aufnahmegebiet
 Martin Gropius Krankenhaus GmbH Oderberger Straße 8 16225 Eberswalde | Landkreise Barnim Uckermark
 3. Versorgungsgebiet Potsdam | 
 Krankenhaus | Aufnahmegebiet
-Asklepios Fachklinikum Brandenburg Anton-Saefkow-Allee 2 14772 Brandenburg an der Havel | Landkreise Potsdam-Mittelmark Havelland Teltow-Fläming kreisfreie Städte Brandenburg an der Havel Landeshauptstadt Potsdam
+Klinikum Ernst von Bergmann gGmbH Charlottenstrasse 72 14467 Potsdam | Landkreis Teltow-Fläming kreisfreie Stadt Landeshauptstadt Potsdam amtsfreie Gemeinden Kleinmachnow Stahnsdorf Stadt Teltow
+Asklepios Fachklinikum Brandenburg Anton-Saefkow-Allee 2 14772 Brandenburg an der Havel | Landkreise Havelland Potsdam-Mittelmark mit Ausnahme der amtsfreien Gemeinden Kleinmachnow und Stahnsdorf sowie der Stadt Teltow kreisfreie Stadt Brandenburg an der Havel
 4. Versorgungsgebiet Cottbus | 
 Krankenhaus | Aufnahmegebiet
 Asklepios Fachklinikum Lübben Luckauer Str. 17 15907 Lübben | Landkreise Dahme-Spreewald Spree-Neiße Oberspreewald-Lausitz Elbe-Elster kreisfreie Stadt Cottbus
