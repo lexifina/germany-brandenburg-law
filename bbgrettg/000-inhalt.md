@@ -7,7 +7,7 @@
 § 6 Träger des Rettungsdienstes
 § 7 Landesrettungsdienstplan
 § 8 Rettungsdienstbereichspläne
-§ 9 Integrierte Leitstellen
+§ 9 Integrierte Regionalleitstellen
 § 10 Beteiligung Dritter
 § 11 Zentrale Koordinierungsstelle
 § 12 Ortsnahe Notfallversorgung
