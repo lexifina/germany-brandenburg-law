@@ -1,0 +1,2 @@
+# Verordnung zur Verteilung und Verwendung der Mittel für die Theater- und Orchesterförderung gemäß § 5 des Brandenburgischen Finanzausgleichsgesetzes (Brandenburgische FAG-Förderungsverordnung - BbgFAGFV)
+Auf Grund des § 5 Absatz 1 des Brandenburgischen Finanzausgleichgesetzes vom 29. Juni 2004 (GVBl. I S. 262), der zuletzt durch Gesetz vom 18. Dezember 2018 (GVBl. I Nr. 34) geändert worden ist, verordnet die Ministerin für Wissenschaft, Forschung und Kultur im Einvernehmen mit dem Minister der Finanzen:
