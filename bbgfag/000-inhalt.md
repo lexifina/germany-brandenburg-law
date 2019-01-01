@@ -21,7 +21,8 @@
 ## Abschnitt 4 Sonderlastenausgleich
 § 14 Schullastenausgleich
 § 14a Mehrbelastungsausgleich für Mittelzentren und Kreisstädte
-§ 15 Soziallastenausgleich
+§ 14b Mehrbelastungsausgleich für grundfunktionale Schwerpunkte
+§ 15 Sozial- und Jugendhilfelastenausgleich
 ## Abschnitt 5 Zuweisungen zum Ausgleich besonderen Bedarfs
 § 16 Ausgleichsfonds
 ## Abschnitt 6 Leistungen außerhalb der Finanzausgleichsmasse
@@ -32,6 +33,7 @@
 ## Abschnitt 8 Gemeinsame Vorschriften, Verfahren, Beirat
 § 19 Berechnung, Festsetzung und Auszahlung
 § 20 Einwohnerzahl, Gebietsfläche, Gebietsstand
+§ 20a Grundbeträge für die Ausgleichsjahre 2013 und 2014
 § 21 Beirat
 § 22 Ausgleich fehlerhafter Zuweisungen
 ## Abschnitt 9 Übergangs- und Schlussvorschriften
