@@ -1,0 +1,2 @@
+# Verordnung zur Erweiterung des Gemeingebrauches an nicht schiffbaren Gewässern für Elektro-Motorboote (Brandenburgische Elektro-Motorbootverordnung - BbgEMV)
+Auf Grund des § 43 Absatz 1a des Brandenburgischen Wassergesetzes in der Fassung der Bekanntmachung vom 2. März 2012 (GVBl. I Nr. 20), der durch Artikel 1 Nummer 18 des Gesetzes vom 4. Dezember 2017 (GVBl. I Nr. 28) eingefügt worden ist, verordnet der Minister für Ländliche Entwicklung, Umwelt und Landwirtschaft:
