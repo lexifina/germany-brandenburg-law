@@ -1,0 +1,2 @@
+# Verordnung zur Bestimmung von Gewässern und Gewässerabschnitten für die Ausweisung von Überschwemmungsgebieten (Überschwemmungsgebietsgewässer-Bestimmungsverordnung - ÜSGGewBestV)
+Auf Grund des § 100 Absatz 2 des Brandenburgischen Wassergesetzes in der Fassung der Bekanntmachung vom 2. März 2012 (GVBl. I Nr. 20), der durch Artikel 1 Nummer 42 des Gesetzes vom 4. Dezember 2017 (GVBl. I Nr. 28) neu gefasst worden ist, verordnet der Minister für Ländliche Entwicklung, Umwelt und Landwirtschaft des Landes Brandenburg:
