@@ -5,12 +5,12 @@
 § 3 Briefabstimmungsvorsteher und Briefabstimmungsvorstand
 § 4 Beweglicher Abstimmungsvorstand
 ## Abschnitt 2 Vorbereitung des Volksentscheides
-§ 5 Führung und Eintragung der stimmberechtigten Personen in das Stimmberechtigtenverzeichnis
+§ 5 Führung und Eintragung der stimmberechtigten Personen in das Stimmberechtigtenverzeichnis, Datenschutz
 § 6 Benachrichtigung der stimmberechtigten Personen
 § 7 Bekanntmachung über das Recht auf Einsicht in das Stimmberechtigtenverzeichnis und die Erteilung von Abstimmungsscheinen
 § 8 Einsichtnahme in das Stimmberechtigtenverzeichnis
 § 9 Berichtigung und Abschluß des Stimmberechtigtenverzeichnisses
-§ 10 Abstimmungsschein
+§ 10 Abstimmungsschein, Datenschutz
 § 11 Stimmzettel
 § 12 Abstimmungslokale
 § 13 Abstimmungsbekanntmachung der Abstimmungsbehörde
