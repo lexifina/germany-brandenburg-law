@@ -17,6 +17,7 @@
 § 13 Erkennungsdienstliche Maßnahmen
 § 14 Prüfung von Berechtigungsscheinen
 § 15 Vorladung
+§ 15a Meldeauflage
 § 16 Platzverweisung und Aufenthaltsverbot
 § 16a Wohnungsverweisung und Rückkehrverbot zum Schutz vor häuslicher Gewalt
 § 17 Gewahrsam
@@ -31,12 +32,18 @@
 § 26 Verwahrung
 § 27 Verwertung, Vernichtung
 § 28 Herausgabe sichergestellter Sachen oder des Erlöses, Kosten
+## Abschnitt 1a Besondere Befugnisse zur Abwehr von Gefahren des Terrorismus
+§ 28a Abwehr von Gefahren des Terrorismus, Begriffsbestimmung, Berichtspflicht
+§ 28b Befragung, Auskunftspflicht, Identitätsfeststellung, erkennungsdienstliche Maßnahmen, polizeiliche Ausschreibung, anlassbezogene automatische Kennzeichenfahndung
+§ 28c Aufenthaltsvorgabe und Kontaktverbot
+§ 28d Gewahrsam
+§ 28e Strafvorschrift
 ## Abschnitt 2 Datenverarbeitung
 ## Unterabschnitt 1 Datenerhebung
 § 29 Grundsätze der Datenerhebung
 § 30 Datenerhebung
 § 31 Datenerhebung bei öffentlichen Veranstaltungen und Ansammlungen sowie auf öffentlich zugänglichen Straßen und Plätzen
-§ 31a Datenerhebung zur Eigensicherung
+§ 31a Datenerhebung zur Eigensicherung und Dokumentation
 § 32 Datenerhebung durch Observation
 § 33 Datenerhebung durch den verdeckten Einsatz technischer Mittel zum Abhören und Aufzeichnen des gesprochenen Wortes und zur Anfertigung von Bildaufnahmen und Bildaufzeichnungen
 § 33a Datenerhebung durch den Einsatz technischer Mittel zur Überwachung von Wohnungen
@@ -55,7 +62,7 @@
 § 41 Allgemeine Regeln der Datenübermittlung
 § 42 Datenübermittlung zwischen Polizeibehörden
 § 43 Datenübermittlung an öffentliche Stellen, an ausländische öffentliche Stellen sowie an über- und zwischenstaatliche Stellen
-§ 44 Datenübermittlung an Personen oder an Stellen außerhalb des öffentlichen Bereichs
+§ 44 Datenübermittlung an Personen oder an Stellen außerhalb des öffentlichen Bereichs, Bekanntgabe an die Öffentlichkeit
 § 45 Datenübermittlung an die Polizei
 § 46 Rasterfahndung
 ## Unterabschnitt 4 Datenberichtigung, Datenlöschung und Datensperrung
@@ -86,7 +93,7 @@
 § 66 Allgemeine Vorschriften über den Schußwaffengebrauch
 § 67 Schußwaffengebrauch gegen Personen
 § 68 Schußwaffengebrauch gegen Personen in einer Menschenmenge
-§ 69 Sprengmittel
+§ 69 Sprengmittel und Explosivmittel
 ## Kapitel 5 Entschädigungsansprüche
 § 70 Entschädigungsansprüche
 ## Kapitel 6 Auskunftsrecht, Akteneinsicht
@@ -100,7 +107,7 @@
 § 75 (weggefallen)
 § 76 Amtshandlungen von Polizeivollzugsbeamten außerhalb Brandenburgs
 § 77 Amtshandlungen von Polizeivollzugsbeamten anderer Länder und des Bundes sowie von Bediensteten ausländischer Staaten im Land Brandenburg
-§ 78 Zuständigkeit des Polizeipräsidiums und der Polizeivollzugsbediensteten
+§ 78 Zuständigkeit des Polizeipräsidiums, des Zentraldienstes der Polizei mit seiner Zentralen Bußgeldstelle und der Polizeivollzugsbediensteten
 § 79 (weggefallen)
 § 80
 (weggefallen)
@@ -117,4 +124,3 @@
 ## Kapitel 8 Schlussvorschriften
 § 87 Verwaltungsabkommen
 § 88 Verwaltungsvorschriften
-§ 89 Übergangsvorschriften
