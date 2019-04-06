@@ -1,0 +1,2 @@
+# Verordnung über die Schiedsstelle nach § 36 des Pflegeberufegesetzes (Pflegeberufe-Schiedsstellenverordnung - PflBSchV)
+Auf Grund des § 36 Absatz 5 des Pflegeberufegesetzes vom 17. Juli 2017 (BGBl. I S. 2581) in Verbindung mit § 1 der Pflegeberufezuständigkeitsübertragungsverordnung vom 22. Januar 2019 (GVBI. II Nr. 8) verordnet die Ministerin für Arbeit, Soziales, Gesundheit, Frauen und Familie:
