@@ -36,7 +36,7 @@
 ## Kapitel 5 Forstorganisation, Zuständigkeiten
 § 31 Forstbehörden
 § 32 Zuständigkeiten der Forstbehörden
-§ 33 Forstausschüsse
+§ 33 Forstausschuss
 § 34 Forstaufsicht
 § 35 Forstschutz
 § 36 Dienstbekleidung
