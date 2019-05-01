@@ -13,7 +13,8 @@
 § 11 Rechtsaufsicht über Krankenhäuser
 ## Abschnitt 2 Planung
 § 12 Krankenhausplanung
-§ 13 Verfahren bei der Aufstellung des Krankenhausplanes
+§ 13 Verfahren
+§ 13a Aufnahme von Empfehlungen des Gemeinsamen Bundesausschusses zu planungsrelevanten Qualitätsindikatoren
 § 14 Aufnahme in den Krankenhausplan
 ## Abschnitt 3 Krankenhausförderung
 § 15 Grundlagen der Förderung
@@ -32,11 +33,11 @@
 ## Abschnitt 5 Statistik, Datenschutz und Anzeigepflichten
 § 26 Statistik
 § 27 Grundsatz, Begriffsbestimmungen im Datenschutz
-§ 28 Erhebung, Speicherung, Veränderung und Nutzung von Patientendaten
-§ 29 Übermittlung von Patientendaten
+§ 28 Verarbeitung von Patientendaten mit Ausnahme der Offenlegung
+§ 29 Offenlegung von Patientendaten
 § 30 Auskunft und Einsicht
 § 31 Datenschutz bei Forschungsvorhaben
-§ 32 Einwilligung
+§ 32 (weggefallen)
 § 33 Klinisches Krankheitsregister
 § 34 Anzeichen einer Misshandlung, Vernachlässigung oder eines sexuellen Missbrauchs von Kindern und Jugendlichen
 ## Abschnitt 6 Ausbildungsstätten
