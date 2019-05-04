@@ -1,0 +1,2 @@
+# Verordnung über die Entsorgung von kompostierbaren Abfällen und pflanzlichen Abfällen außerhalb von zugelassenen Abfallentsorgungsanlagen (Abfallkompost- und Verbrennungsverordnung - AbfKompVbrV)
+Auf Grund des § 4 Abs. 4 des Abfallgesetzes vom 27. August 1986 (BGBl. I S. 1410) verordnet die Landesregierung und auf Grund § 7 Abs. 2 Satz 2 des Vorschaltgesetzes zum Immissionsschutz vom 3. März 1992 (GVBl. I S. 54) verordnet der Minister für Umwelt, Naturschutz und Raumordnung:
