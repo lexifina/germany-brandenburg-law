@@ -5,12 +5,12 @@
 3. Nachweisverordnung (NachwV)
 4. Verordnung über das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler (Anzeige- und Erlaubnisverordnung – AbfAEV)
 5. Verordnung über Entsorgungsfachbetriebe (EfbV)
-6. Richtlinie für die Tätigkeit und die Anerkennung von Entsorgergemeinschaften
+6. (weggefallen)
 7. (weggefallen)
-8. Verordnung über Betriebsbeauftragte für Abfall
+8. Abfallbeauftragtenverordnung (AbfBeauftrV)
 9. Klärschlammverordnung (AbfKlärV)
 10. Verordnung über die Entsorgung gebrauchter halogenierter Lösemittel (HKWAbfV)
-11. Verpackungsverordnung (VerpackV)
+11. Verpackungsgesetz (VerpackG)
 12. Altölverordnung (AltölV)
 13. Chemikalien-Ozonschichtverordnung (ChemOzonSchichtV)
 14. Altfahrzeug-Verordnung (AltfahrzeugV)
@@ -21,7 +21,7 @@
 19. Umweltrahmengesetz (URG)
 20. Brandenburgisches Abfall- und Bodenschutzgesetz (BbgAbfBodG)
 21. Abfallkompost- und Verbrennungsverordnung (AbfKompVbrV)
-22. Sonderabfallentsorgungsverordnung (SAbfEV)
+22. (weggefallen)
 23. Bundes-Bodenschutzgesetz (BBodSchG)
 24. (weggefallen)
 25. Altholzverordnung (AltholzV)
@@ -34,6 +34,7 @@
 32. Gewinnungsabfallverordnung (GewinnungsAbfV)
 33. Verordnung (EU) Nr. 333/2011 mit Kriterien zur Festlegung, wann bestimmte Arten von Schrott gemäß der Richtlinie 2008/98/EG nicht mehr als Abfall anzusehen sind
 34. POP-Abfall-Überwachungs-Verordnung (POP-Abfall-ÜberwV)
+35. Elektro- und Elektronikgeräte-Stoff-Verordnung (ElektroStoffV)
 ### II. Erläuterungen zu dem nachfolgenden Verzeichnis
 1. In dem Verzeichnis werden folgende Abkürzungen verwandt: MLUL Ministerium für Ländliche Entwicklung, Umwelt und Landwirtschaft LfU Landesamt für Umwelt UAWB Landkreis und kreisfreie Stadt als untere Abfallwirtschaftsbehörde LBGR Landesamt für Bergbau, Geologie und Rohstoffe SBB Sonderabfallgesellschaft Brandenburg/Berlin mbH UB Landkreise und kreisfreie Städte als untere Bodenschutzbehörde LELF Landesamt für Ländliche Entwicklung, Landwirtschaft und Flurneuordnung
 2. Soweit in der letzten Spalte des Verzeichnisses mehrere Behörden erwähnt werden und keine anderweitige ausdrückliche Regelung getroffen worden ist, handelt es sich bei der Verwendung
@@ -44,21 +45,21 @@ des Wortes „und“ um eine gemeinsame Zuständigkeit.
 Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 1 | Kreislaufwirtschaftsgesetz (KrWG)
 1.1 | § 12 Absatz 5 | Anerkennung als Träger der Qualitätssicherung | LfU
-1.2 | weggefallen |  | 
+1.2 | §§ 17, 18 | Entgegennahme und Prüfung von Anzeigen über gemeinnützige und gewerbliche Sammlungen, Durchführung des Anzeigeverfahrens und Anordnungen hierzu (insbesondere Auflagen, Befristungen und Untersagungen) sowie zur Einhaltung der Maßgaben | LfU
 1.3 | § 20 Absatz 2 | Zustimmung und Widerruf der Zustimmung zum Ausschluss von Abfällen durch die öffentlich-rechtlichen oder privaten Entsorgungsträger | LfU
 1.4 | weggefallen |  | 
 1.5 | weggefallen |  | 
 1.6 | weggefallen |  | 
 1.7 | weggefallen |  | 
 1.8 | § 26 | alle Aufgaben im Zusammenhang mit der freiwilligen Rücknahme von Erzeugnissen und/oder gegebenenfalls verbleibenden Abfällen nach deren Gebrauch, (insbesondere Entscheidung über die Freistellung von der Pflicht zur Nachweisführung und Feststellung der Produktverantwortung) | LfU/LBGR
-1.9 | § 28 Absatz 2 | Entscheidung über Ausnahmen von der Verpflichtung zur Abfallbeseitigung in dafür zugelassenen Anlagen | UAWB/LfU/LBGR jeweils im Rahmen der ihnen zugeordneten Überwachungsaufgaben nach Nummer 1.23
+1.9 | § 28 Absatz 2 | Entscheidung über Ausnahmen von der Verpflichtung zur Abfallbeseitigung in dafür zugelassenen Anlagen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 1.10 | § 29 Absatz 1 | Anordnung der Mitbenutzung gegenüber dem Betreiber einer Abfallbeseitigungsanlage, Festsetzung des Entgelts soweit erforderlich, Aufforderung zur Vorlage eines Abfallwirtschaftskonzepts | LfU/LBGR
 1.11 | § 29 Absatz 2 | Übertragung von Abfallbeseitigungspflichten auf den Betreiber einer Abfallbeseitigungsanlage | LfU
-1.12 | § 29 Absatz 3 | Anordnung zur Duldung von Abfallbeseitigungsmaßnahmen auf Grundstücken, die zur Mineralgewinnung genutzt werden, Festsetzung des Entgelts soweit erforderlich | AWB/LfU/ LBGR jeweils im Rahmen der ihnen zugeordneten Überwachungsaufgaben nach Nummer 1.23
+1.12 | § 29 Absatz 3 | Anordnung zur Duldung von Abfallbeseitigungsmaßnahmen auf Grundstücken, die zur Mineralgewinnung genutzt werden, Festsetzung des Entgelts soweit erforderlich | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 1.13 | §§ 30, 31 und 32 | Aufstellung und Fortschreibung der Abfallwirtschaftsplanung, Beteiligung und Unterrichtung der Öffentlichkeit | MLUL
 1.14 | § 33 | Beteiligung am Abfallvermeidungsprogramm des Bundes bzw. Aufstellung eines eigenen Abfallvermeidungsprogramms, Beteiligung der Öffentlichkeit | MLUL
 1.15 | § 34 | Erkundung geeigneter Standorte für Abfallbeseitigungsanlagen | LfU/LBGR im Einvernehmen mit LfU
-1.16 | §§ 35, 36 | Durchführung des Zulassungsverfahrens und Entscheidung über die Zulassung von Deponien und Erteilung von Nebenbestimmungen einschließlich Anordnung von Sicherheitsleistungen sowie Entgegennahme von Anzeigen über die Änderung einer Deponie | LfU/LBGR im Einvernehmen mit LfU
+1.16 | §§ 35, 36 | Durchführung des Zulassungsverfahrens und der Entscheidung über die Zulassung von Deponien und Erteilung von Nebenbestimmungen einschließlich Anordnung von Sicherheitsleistungen sowie Entgegennahme von Anzeigen über die Änderung einer Deponie | LfU1)/LBGR im Einvernehmen mit LfU
 1.17 | § 36 Absatz 4 Satz 3 | nachträgliche Anordnungen bei zugelassenen Deponien | LfU/LBGR
 1.18 | § 37 | Zulassung vorzeitigen Beginns mit der Errichtung oder dem Betrieb der Deponie | LfU/LBGR
 1.19 | § 39 | Anordnungen bei Deponien, die schon vor dem 1. Juli 1990 betrieben wurden oder mit deren Errichtung begonnen war | LfU/LBGR
@@ -78,8 +79,8 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 1.23.5 |  | Überwachung von Deponien, die ohne gemäß § 35 Absatz 2 oder 3 KrWG erforderliche Zulassung oder eine entsprechende Zulassung nach DDR-Recht errichtet oder betrieben werden (illegal errichtete Deponien) | UAWB/LBGR
 1.23.6.1 |  | Überwachung von Deponien während der Stilllegungsphase | UAWB/LBGR; LfU bezüglich der in Anhang 1 aufgeführten Deponien
 1.23.6.2 |  | Überwachung von Deponien während der Nachsorgephase | UAWB/LBGR
-1.23.7 |  | Überwachung von immissionsschutzrechtlich genehmigten Anlagen, die der Abfallentsorgung dienen (Annahme, Lagerung, unzulässige Ablagerung, Umschlagen, Behandlung und Abgabe einschließlich der Inanspruchnahme anderer abfallrechtlich Verantwortlicher bis zur Erfüllung der abfallrechtlichen Entsorgungspflichten, auch nach Unwirksamwerden einer immissionsschutzrechtlichen Genehmigung oder verändertem Genehmigungsbedürfnis) | LfU/LBGR; UAWB/LfU bezüglich der in Anhang 2 aufgeführten Abfalllager und Ablagerungen
-1.23.8 |  | abfallrechtliche Überwachung der Entsorgung von Abfällen durch Aufbringung auf Böden | AWB/LBGR
+1.23.7 |  | Überwachung von immissionsschutzrechtlich genehmigten Anlagen, die der Abfallentsorgung dienen, das heißt, Anlagen nach Nummer 8 des Anhanges 1 der 4. BImSchV (Annahme, Lagerung, unzulässige Ablagerung, Umschlagen, Behandlung und Abgabe einschließlich der Inanspruchnahme anderer abfallrechtlich Verantwortlicher bis zur Erfüllung der abfallrechtlichen Entsorgungspflichten, auch nach Unwirksamwerden einer immissionsschutzrechtlichen Genehmigung oder verändertem Genehmigungsbedürfnis) | LfU/LBGR; UAWB/LfU bezüglich der in Anhang 2 aufgeführten Abfalllager und Ablagerungen
+1.23.8 |  | abfallrechtliche Überwachung der Entsorgung von Abfällen durch Aufbringung auf Böden | UAWB/LBGR
 1.23.9 |  | Überwachung der Technischen Überwachungsorganisationen und Entsorgergemeinschaften im Sinne des § 56 KrWG | LfU
 1.23.10 | weggefallen |  | 
 1.24 | § 48 Satz 2 | von den auf Grund des § 48 KrWG ergangenen Verordnungen abweichende Einstufung bestimmter Abfälle im Einzelfall | LfU
@@ -102,15 +103,15 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 3 | Nachweisverordnung (NachwV)
 3.1 | §§ 3 bis 6 | alle Aufgaben im Zusammenhang mit dem Nachweis über die Zulässigkeit der vorgesehenen Entsorgung | SBB
 3.2 | § 7 Absatz 1 Satz 1 Nummer 3 | Entgegennahme der Mitteilung über die Eintragung im EMAS-Register | LfU
-3.3 | § 7 Absatz 3 und 5 | Freistellung des Abfallentsorgers, Entgegennahme der Mitteilung über den Entfall der Freistellungsvoraussetzungen | UAWB/LfU/LBGR, soweit sie nach Nummer 1.23 für die Überwachung des Entsorgers zuständig sind
+3.3 | § 7 Absatz 3 und 5 | Freistellung des Abfallentsorgers, Entgegennahme der Mitteilung über den Entfall der Freistellungsvoraussetzungen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 3.4 | § 7 Absatz 4 | Entgegennahme der Nachweiserklärung vom Abfallentsorger und der Ablichtungen der vollständigen Nachweiserklärungen vom Abfallerzeuger | SBB
-3.5 | § 8 Absatz 1 | Anordnung der Einholung einer Bestätigung nach § 5 | UAWB/LfU/LBGR, soweit sie nach Nummer 1.23 für die Überwachung zuständig sind
-3.6 | § 8 Absatz 2 | Anordnung der Annahme von Abfällen nur nach vorhergehender Bestätigung nach § 5 und Widerruf der Freistellung | UAWB/LfU/LBGR, soweit sie nach Nummer 1.23 für die Überwachung des Entsorgers zuständig sind
+3.5 | § 8 Absatz 1 | Anordnung der Einholung einer Bestätigung nach § 5 | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
+3.6 | § 8 Absatz 2 | Anordnung der Annahme von Abfällen nur nach vorhergehender Bestätigung nach § 5 und Widerruf der Freistellung | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 3.7 | § 9 Absatz 3 | Bestätigung der Zulässigkeit der in einem Sammelentsorgungsnachweis vorgesehenen Entsorgung gefährlicher Abfälle einschließlich Eingangsbestätigung, Nachforderung und Übersendung von Unterlagen | SBB
 3.8 | § 9 Absatz 4 | Entgegennahme des Sammelentsorgungsnachweises oder bei Entfallen der Bestätigungspflicht der Nachweiserklärung bei länderübergreifender Sammelentsorgung | SBB
 3.9 | § 11 Absatz 3 und 4, § 13 Absatz 2 Satz 3 | Entgegennahme der Begleitscheine vom Entsorger bzw. von der für die Entsorgungsanlage zuständigen Behörde | SBB
 3.10 | § 14 | Zulassung besonderer Formen der Nachweisführung gegenüber privaten Entsorgungsträgern | LfU
-3.11 | § 15 Nummer 2 | Wahrnehmung der Aufgaben der für den Entsorger zuständigen Behörde bei einer Verwertung außerhalb einer Anlage | die unter Nummer 1.23 jeweils bezeichnete Behörde
+3.11 | § 15 Nummer 2 | Wahrnehmung der Aufgaben der für den Entsorger zuständigen Behörde bei einer Verwertung außerhalb einer Anlage | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 3.12 | § 19 Absatz 2 | Verlangen zur Vorlage der schriftlichen Vereinbarung zwischen Erzeuger und Beförderer zur Handhabung der Signatur | LfU
 3.13 | § 19 Absatz 3 Satz 1 | Bestätigung der Zulässigkeit der in einem Entsorgungsnachweis vorgesehenen Entsorgung einschließlich Eingangsbestätigung, Entgegennahme, Nachforderung und Übersendung von Unterlagen | SBB
 3.14 | § 19 Absatz 3 Satz 2 | Entgegennahme der Nachweiserklärungen bzw. der Abfallerzeuger und -entsorger, Verkürzung der Geltungsdauer, Erteilung von Auflagen für die Durchführung der Entsorgung | SBB
@@ -120,34 +121,36 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 3.18 | § 28 Absatz 1 | Erteilung oder Änderung der Identifikations-, Erzeuger-, Beförderer- und Entsorgernummern | SBB
 3.19 | § 28 Absatz 2 | Erteilung oder Änderung der Nachweisnummern | SBB
 3.20 | § 28 Absatz 2 | Erteilung oder Änderung der Freistellungs- und Registriernummern | SBB
-3.21 | § 29 | Verfolgung von Ordnungswidrigkeiten | AWB/LfU/LBGR, soweit sie nach Nummer 1.23 für die Überwachung des Adressaten zuständig sind
-3.22 | § 30 Absatz 5 | Nebenbestimmungen zur Gestattung der Aufbereitung, Übermittlung und Speicherung der Nachweisdaten sowie Freistellung von Anforderungen nach § 32 Absatz 4 Satz 2 NachwV (§ 32 Absatz 4 Satz 1 und 3 NachwV) in der Fassung und Bekanntmachung vom 17. Juni 2002 | LfU
-3.23 | § 31 Absatz 1 | Zustimmung zur elektronischen Nachweis- und Registerführung | LfU
+3.21 | § 29 | Durchführung von Ordnungswidrigkeitenverfahren | UAWB/LfU/LBGR, soweit sie nach Nummer 1.23 für die Überwachung des Adressaten zuständig sind
+3.22 | weggefallen
+3.23 | weggefallen
 3.24 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 4 | Verordnung über das Anzeige- und Erlaubnisverfahren für Sammler, Beförderer, Händler und Makler (Anzeige- und Erlaubnisverordnung – AbfAEV)
 4.1 | § 4 Absatz 5, § 5 Absatz 1 | Anordnung zur Teilnahme an einem Lehrgang und/oder regelmäßige entsprechende Fortbildung | SBB
 4.2 | § 4 Absatz 5, § 5 Absatz 3 | Anerkennung von Lehrgängen | LfU
-4.3 | § 6 Satz 3 | Anordnung zur Erstellung eines schriftlichen Einarbeitungsplanes und/oder dessen Vorlage bei der Behörde | LfU
+4.3 | § 6 Satz 3 | Anordnung zur Erstellung eines schriftlichen Einarbeitungsplanes und/oder dessen Vorlage bei der Behörde | SBB
 4.4 | §§ 7, 8 | Entgegennahme und Prüfung von Anzeigen über die Aufnahme der betrieblichen Tätigkeit durch Sammler, Beförderer, Händler und Makler von Abfällen (§ 53 KrWG), Aufforderung zur Vorlage oder Ergänzung der Anzeige, Vergabe von Kenn- und Vorgangsnummern | SBB
 4.5 | §§ 9 bis 11 | Entscheidung über die Erteilung einer Erlaubnis zum Sammeln, Befördern, Handeln und Makeln von gefährlichen Abfällen (§ 54 KrWG), Durchführung des Erlaubnisverfahrens | SBB
 4.6 | § 12 Absatz 2 | Anordnung der Durchführung eines Erlaubnisverfahrens (§ 54 KrWG) | SBB
 4.7 | § 13a | Entscheidung über den Antrag auf Freistellung von der Kennzeichnungspflicht/Forderung einer anderen geeigneten Kennzeichnung | UAWB
 4.8 | § 14 | Führung des bundesweiten elektronischen Behördenregisters über die angezeigten und erlaubten Tätigkeiten (§§ 53, 54 KrWG) für das Land Brandenburg | SBB
-4.9 | § 15 in Verbindung mit § 69 Absatz 2 Nummer 15 KrWG | Ordnungswidrigkeitsverfahren | LfU
+4.9 | § 15 Nummer 1 in Verbindung mit § 69 Absatz 2 Nummer 15 KrWG | Durchführung von Ordnungswidrigkeitenverfahren | LfU
+4.10 | § 15 Nummer 2 in Verbindung mit § 69 Absatz 2 Nummer 15 KrWG | Durchführung von Ordnungswidrigkeitenverfahren | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 5 | Verordnung über Entsorgungsfachbetriebe (EfbV)
-5.1 | § 9 Absatz 2 Nummer 3 | Anerkennung von Lehrgängen | LfU
-5.2 | § 14 Abs. 1, § 15 Abs. 1 und 3 | Entscheidung über die Zustimmung zum Überwachungsvertrag | LfU
-5.3 | § 14 Abs. 4 Nr. 2, § 15 Abs. 4 | Verpflichtung zum Entzug des Überwachungszertifikats | LfU
-5.4 | § 16 | Gestattung der weiteren Führung des Überwachungszertifikats | LfU
-5.5 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
-6 | Richtlinie für die Tätigkeit und die Anerkennung von Entsorgergemeinschaften
-6.1 | § 7 Abs. 1, § 11 Abs. 1 und 2 | Entscheidung über die Anerkennung der Entsorgergemeinschaft | LfU
-6.2 | § 8 Abs. 1 | Verpflichtung zum Entzug des Überwachungszertifikats | LfU
-6.3 | § 11 Abs. 3 | Widerruf der Anerkennung der Entsorgergemeinschaft | LfU
-6.4 | § 12 | Gestattung der weiteren Führung des Überwachungszertifikats | LfU
-6.5 |  | Vollzug dieser Richtlinie im Übrigen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
+5.1 | § 9 Absatz 1 Nummer 3 und Absatz 3 | Anerkennung von Lehrgängen | LfU
+5.2 | § 12 | Entscheidung über die Zustimmung zum Überwachungsvertrag und Widerruf der Zustimmung | LfU
+5.3 | § 14 Absatz 6 | Teilnahme an Sitzungen des Überwachungsausschusses und der Unterausschüsse der Entsorgergemeinschaft | LfU
+5.4 | § 15 Absatz 3 | Entgegennahme von Mitteilungen über Neuaufnahmen und Austritte und Übermittlung an die nach Nummer 1.23 zuständige Überwachungsbehörde | LfU
+5.5 | § 16 Absatz 1 bis 4 | Entscheidung über die Anerkennung der Entsorgergemeinschaft und Widerruf der Anerkennung, Übermittlung der Ergebnisse der Vorprüfung an die nach Nummer 1.23 zuständige Überwachungsbehörde und Durchführung des Anerkennungsverfahrens | LfU
+5.6 | § 21 Absatz 2 | Entgegennahme von Mitteilungen über die Beauftragung neuer Sachverständiger und die Beendigung der Beauftragung | LfU
+5.7 | § 22 Absatz 3 Satz 1 | Begleitung von Sachverständigen bei Vor-Ort-Terminen | LfU
+5.8 | § 22 Absatz 3 Satz 2 und 3 | Teilnahme an jährlichen Vor-Ort-Terminen der allgemeinen Überwachung nach Absatz 2 und Entgegennahme der Vor-Ort-Termine auf Verlangen | LfU und der Behörde nach Nummer 1.23
+5.9 | § 26 Absatz 1 und 2 | Entscheidung zum Entzug des Zertifikats und des Überwachungszeichens und Löschung aus dem Entsorgungsfachbetrieberegister, Gestattung der weiteren Führung des Zertifikats und des Überwachungszeichens | LfU
+5.10 | § 28 Absatz 3 | Führen des elektronischen Registers auf Landesebene | LfU
+5.11 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
+6 | weggefallen
 7 | weggefallen |  | 
-8 | Verordnung über Betriebsbeauftragte für Abfall
+8 | Abfallbeauftragtenverordnung (AbfBeauftrV)
  |  | alle Aufgaben der zuständigen Behörde im Sinne dieser Verordnung | LfU/LBGR
 9 | Klärschlammverordnung (AbfKlärV)
 9.1 | § 3 Abs. 2, Abs. 5 Satz 1 und Abs. 6 Satz 3 | Bestimmung von Stellen für Klärschlamm- und Bodenuntersuchungen | LfU
@@ -157,18 +160,17 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 9.3 | § 8 | Erstellung des Aufbringungsplans | LELF
 9.4 |  | Vollzug dieser Verordnung im Übrigen | UAWB; LfU/LBGR, soweit die Maßnahme einen Betreiber einer Anlage, die nach Nummer 1.23.7 der Überwachung des LfU/LBGR unterliegt, betrifft
 10 | Verordnung über die Entsorgung gebrauchter halogenierter Lösemittel (HKWAbfV)
-10.1 | § 5 und § 6 Abs. 1 Nr. 4 | Überwachung der Vorschriften über die Kennzeichnung beim Inverkehrbringen von Lösemitteln | LfU
-10.2 |  | Vollzug dieser Verordnung im Übrigen | LfU/LBGR
-11 | Verpackungsverordnung (VerpackV)
-11.1 | § 6 Absatz 2 | Entgegennahme der Bescheinigungen des Herstellers und Vertreibers über die Rücknahme und Verwertung bzw. Selbstentsorgung sowie der schriftlichen Anzeigen (Branchenlösungen/ Eigenentsorgung) | LfU
-11.2 | § 6 Absatz 3 in Verbindung mit Anhang I Nummer 2 Absatz 3 Satz 6 und 7 | Entgegennahme der vorgelegten Bescheinigungen des Systembetreibers, Anforderung der Nachweise | LfU
-11.3 | § 6 Absatz 3 in Verbindung mit Anhang I Nummer 2 und 3 | Überwachung der Anforderungen und der Beteiligung an Systemen, Anordnungen nach § 62 KrWG | LfU
-11.4 | § 6 Absatz 5 und 6 | Entscheidung über die Feststellung eines Systems, Erlass nachträglicher Nebenbestimmung, Aufforderung zur Leistung von Sicherheiten, Widerruf der Entscheidung, öffentliche Bekanntgabe | LfU
-11.5 | § 6 Absatz 8 Satz 7 und 9 in Verbindung mit Anhang I Nummer 4 Satz 10 und 11 | Entgegennahme der vorgelegten Bescheinigungen der Letztvertreiber ohne Systemzugehörigkeit und beschränkt Rücknahmeverpflichteter, Anforderung der Dokumentationen | LfU
-11.6 | § 8 Absatz 3 | Aufforderung zur Vorlage der Dokumentation der Hersteller und Vertreiber von schadstoffhaltigen Füllgütern | LfU
-11.7 | § 13 | Überwachung des Inverkehrbringens von Verpackungen und Verpackungsbestandteilen mit Schwermetallen, Anordnungen nach § 62 KrWG | LfU
-11.8 | § 15 | Ordnungswidrigkeiten nach § 15 Absatz 1 Nummer 6, 8, 9 und 17 sowie nach § 15 Absatz 2 Nummer 1 bis 12 nach § 15 Absatz 1 Nummer 1 bis 5, 7, 10 bis 16 und 18 sowie nach § 15 Absatz 2 Nummer 13 und 14 | LfU UAWB/LBGR
-11.9 |  | Vollzug der Verordnung im Übrigen | UAWB/LBGR
+10.1 | § 5 | Überwachung der Vorschriften über die Kennzeichnung beim Inverkehrbringen von Lösemitteln | LfU
+10.2 | § 6 Absatz 1 Nummer 4 | Durchführung von Ordnungswidrigkeitenverfahren | LfU
+10.3 |  | Vollzug dieser Verordnung im Übrigen | LfU/LBGR
+11 | Verpackungsgesetz (VerpackG)
+11.1 | §§ 4 bis 6 | Überwachung der allgemeinen Anforderungen an Verpackungen und der Stoffbeschränkungen | LfU
+11.2 | § 11 | Verlangen der Hinterlegung einer Vollständigkeitserklärung | LfU
+11.3 | § 18 | Durchführung des Genehmigungsverfahrens, Entscheidung über den Antrag, Auferlegung von Nebenbestimmungen, Verlangen einer Sicherheitsleistung und Widerruf der Genehmigung | LfU
+11.4 | § 26 Absatz 1 Nummer 4, 7, 8, 21 | Entgegennahme von Informationen der Zentralen Stelle | LfU
+11.5 | § 26 Absatz 1 Nummer 20 | Einsichtnahme in die bei der Zentralen Stelle hinterlegten Datenmeldungen | LfU
+11.6 | § 34 Absatz 1 | Durchführung von Ordnungswidrigkeiten nach den Nummern 1, 2, 5, 6, 11, 13 und 18 bis 20 im Übrigen | LfU UAWB/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
+11.7 |  | Vollzug dieses Gesetzes im Übrigen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 12 | Altölverordnung (AltölV)
  |  | alle Aufgaben der zuständigen Behörde im Sinne dieser Verordnung | LfU/LBGR
 13 | Chemikalien-Ozonschichtverordnung
@@ -176,7 +178,8 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 14 | Altfahrzeug-Verordnung (AltfahrzeugV)
 14.1 | § 4 Abs. 1 | Überwachung der Überlassung von Altfahrzeugen durch den Entledigenden (insbesondere Letzthalter) an anerkannte Annahmestellen, Rücknahmestellen bzw. Demontagebetrieben | UAWB/LBGR
 14.2 | §§ 4 Abs. 2, 3 und 4; § 5 Abs. 2, 3 und 4, § 6; § 7 sowie § 8 Abs. 2 | Überwachung der Einhaltung der bezeichneten Anforderungen durch Betreiber von Demontagebetrieben, Annahmestellen sowie Rücknahmestellen | LfU
-14.3 |  | Vollzug dieser Verordnung im Übrigen | LfU
+14.3 | § 11 | Durchführung von Ordnungswidrigkeitenverfahren | LfU
+14.4 |  | Vollzug dieser Verordnung im Übrigen | LfU
 15 | Bioabfallverordnung (BioAbfV)
 15.1 | § 3 Abs. 8a | Entscheidung über einen Antrag auf Bestimmung als Untersuchungsstelle | LfU
 15.2 | § 6 Abs. 2 Satz 1 | Zustimmung zum Aufbringen von Bioabfällen und Gemischen, die andere als in Anhang 1 Nr. 1 BioAbfV genannte Bioabfälle enthalten | UAWB; LfU, soweit die Zustimmung landesweit erfolgen soll
@@ -197,7 +200,7 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 16.7 | §§ 9 bis 11 | Überwachung der Pflichten der Vertreiber (Rücknahme der Batterien, Zuführung an ein Rücknahmesystem, Einhaltung der Pfandpflicht) und der Endnutzer (Zuführung zur getrennten Erfassung) | UAWB
 16.8 | § 12 | Überwachung der Überlassungs- und Verwertungspflichten Dritter (Betreiber von Behandlungseinrichtungen) | LfU
 16.9 | § 14 | Allgemeine Überwachung der Verwertung und Beseitigung von Batterien, soweit nicht das Umweltbundesamt zuständig ist | LfU
-16.10 | §§ 17 und 18 | Überwachung der Anforderungen an die Kennzeichnung und an die Einhaltung der Hinweis- und Informationspflichten | LfU im Zusammenhang mit dem Anbieten von Batterien an einen Endverbraucher: UAWB
+16.10 | §§ 17 und 18 | Überwachung der Anforderungen an die Kennzeichnung und an die Einhaltung der Hinweis- und Informationspflichten | LfU; im Zusammenhang mit dem Anbieten von Batterien an einen Endverbraucher: UAWB
 16.11 | § 22 Absatz 1 Nummer 1, 3, 5, 6, 8 bis 12 und 14 bis 16 | Ordnungswidrigkeiten | LfU/UAWB jeweils in ihrem Aufgabenbereich
 16.12 |  | Vollzug dieses Gesetzes im Übrigen, soweit nicht das Umweltbundesamt zuständig ist (§ 4 Absatz 1, § 21 BattG) | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 17 | PCB/PCT-Abfallverordnung (PCBAbfallV)
@@ -208,7 +211,7 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 18.2 | § 8 Absatz 4 AbfVerbrG | Übernahme der Kosten, sofern eine kostenpflichtige Person nicht in Anspruch genommen werden kann | MLUL
 18.3 | § 9 Absatz 1 Satz 2 AbfVerbrG | Befugnis, Daten zu erheben und zu verwenden | SBB, LfU jeweils im Rahmen ihrer Zuständigkeit
 18.4 | § 11 Absatz 1 AbfVerbrG | Kontrolle von Anlagen und Unternehmen gemäß Artikel 50 Absatz 2 VVA | SBB, UAWB, LfU, LBGR jeweils im Rahmen ihrer Zuständigkeit
-18.5 | §§ 18 und 19 AbfVerbrG | Ordnungswidrigkeiten, Einziehung von Gegenständen | UAWB/LfU/LBGR jeweils im Rahmen ihrer Zuständigkeit nach Nummer 1.23
+18.5 | §§ 18 und 19 AbfVerbrG | Ordnungswidrigkeiten, Einziehung von Gegenständen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 19 | Umweltrahmengesetz (URG)
 19.1 | Artikel 1 § 4 Abs. 3 | Entscheidung über die Freistellung von der Verantwortung für vor dem 1. Juli 1990 verursachte Schäden | UB/LBGR
 19.2 | Artikel 1 § 4 Abs. 3 | Entscheidung über das Einvernehmen zur Freistellung von der Verantwortlichkeit | MLUL(2)
@@ -248,9 +251,9 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 23.10 | § 26 | Verfolgung und Ahndung von Ordnungswidrigkeiten | UB/LBGR
 23.11 | §§ 9, 10, 13 bis 16, 25, 26 | dort genannte Aufgaben, für den Fall, dass der Landkreis oder die kreisfreie Stadt selbst verpflichtet sind | LfU
 24 | weggefallen |  | 
-24.1 | § 5 Abs. 4 | Entgegennahme von Informationen über angelieferte aber nicht zugelassene Abfälle sowie Entscheidung über deren Entsorgung | LfU/LBGR
-24.2 | § 6 Abs. 2 | Entscheidung über Zulassungsanträge | LfU/LBGR
-24.3 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
+24.1 | weggefallen |  | 
+24.2 | weggefallen |  | 
+24.3 | weggefallen |  | 
 25 | Altholzverordnung (AltholzV)
 25.1 | § 6 Abs. 6 | Bekanntgabe von Untersuchungsstellen | LfU
 25.2 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
@@ -288,8 +291,8 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 26.31 | § 27 | Ordnungswidrigkeiten | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 26.32 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 27 | Gewerbeabfallverordnung (GewAbfV)
-27.1 | § 3 Abs. 4 | Genehmigung von Ausnahmen von § 3 Abs. 1 | LfU
-27.2 | § 9 Abs. 6 | Bekanntgabe von Stellen zur Durchführung von Fremdkontrollen | LfU
+27.1 | § 11 Absatz 4 | Bekanntgabe von Stellen zur Durchführung von Fremdkontrollen | LfU
+27.2 | § 13 | Durchführung von Ordnungswidrigkeiten | UAWB/LfU/LBGR, soweit sie nach Nummer 1.23 für die Überwachung des Adressaten zuständig sind
 27.3 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 28 | Versatzverordnung (VersatzV)
  |  | Vollzug dieser Verordnung | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
@@ -301,13 +304,13 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 29.1.4 | § 7 Absatz 4 | Überwachung des Verbots der Ausweisung von Entsorgungskosten gegenüber dem Endkunden | LfU
 29.1.5 | § 8 | Überwachung der Anforderungen zur Niederlassungspflicht und Benennung eines Bevollmächtigten (gegenüber dem Umweltbundesamt) | LfU
 29.1.6 | §§ 9 und 10 Absatz 1 und 2, § 12 | Überwachung der Kennzeichnungspflichten, getrennten Erfassung sowie der Berechtigung für die Erfassung | LfU
-29.1.7 | §§ 17 und 19 | Überwachung der Rücknahme durch den Hersteller oder dessen Bevollmächtigte und durch den Vertreiber | LfU
+29.1.7 | §§ 16, 17 und 19 | Überwachung der Rücknahme durch den Hersteller oder dessen Bevollmächtigte und durch den Vertreiber | LfU
 29.1.8 | § 20 | Überwachung der Anforderungen an die Prüfung der Wiederverwendung, Behandlung (Erstbehandlung ausschließlich in zertifizierten Anlagen) und der weiteren Entsorgung von Elektroaltgeräten entsprechend dem Stand der Technik, insbesondere nach Anlage 4 ElektroG | LfU
 29.1.9 | § 21 Absatz 1 und 2 | Überwachung der Zertifizierung von Erstbehandlungsanlagen sowie der Erstbehandlung ausschließlich in einer Erstbehandlungsanlage | LfU
 29.1.10 | § 22 | Überwachung der Verwertung von Altgeräten | LfU
 29.1.11 | § 23 | Überwachung der Anforderungen an die Verbringung | SBB/LfU
 29.1.12 | § 32 Absatz 4, § 39 | Verlangen nach Mitteilung gegenüber der Gemeinsamen Stelle und dem Umweltbundesamt als zuständige Stelle nach ElektroG | alle Behörden im Land Brandenburg, die abfallrechtliche Aufgaben wahrnehmen
-29.2 | § 45 Absatz 1 Nummer 3, 4, 5, 6, 8, 9, 11, 14 | Ordnungswidrigkeitsverfahren | LfU
+29.2 | § 45 Absatz 1 Nummer 3, 4, 5, 6, 8, 9, 11, 13a und 14 | Durchführung von Ordnungswidrigkeitenverfahren | LfU
 29.3 | § 2 Absatz 3 | Vollzug dieses Gesetzes im Übrigen/Anordnungen zur Durchsetzung der Anforderungen des Elektro- und Elektronikgerätegesetzes in Verbindung mit § 62 des Kreislaufwirtschaftsgesetzes (soweit nicht die Gemeinsame Stelle oder das Umweltbundesamt zuständig ist) | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23, SBB in dem ihr zugewiesenen Aufgabenbereich
 30 | Verordnung (EG) Nr. 850/2004 des Europäischen Parlaments und des Rates über persistente organische Schadstoffe und zur Änderung der Richtlinie 79/117/EWG
 30.1 | Artikel 5 und 7 | Vollzug dieser Verordnung, soweit sie sich auf abfall- und bodenschutzrechtliche Belange bezieht | LfU
@@ -323,4 +326,8 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 34.1 | § 4 Absatz 1 | Aufgaben im Zusammenhang mit dem Nachweis über die Zulässigkeit der vorgesehenen Entsorgung | SBB
 34.2 | § 6 | Verfolgung von Ordnungswidrigkeiten | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 34.3 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
+35 | Elektro- und Elektronikgeräte-Stoff-Verordnung (ElektroStoffV)
+35.1 | §§ 3 bis 13 | Überwachung der stoffbezogenen und Kennzeichnungs-Anforderungen sowie Informationspflichten gegenüber den Pflichtigen (insbesondere Hersteller, Vertreiber, Importeure, Bevollmächtigte) einschließlich Probenahmen, Verlangen und Entgegennahme von Erklärungen | LfU
+35.2 | § 14 | Durchführung von Ordnungswidrigkeitenverfahren | LfU
+1) Die Zuständigkeit für die Durchführung des Zulassungsverfahrens und die Entscheidung über die Zulassung von Deponien, die nicht dem Bergbau zu dienen bestimmt sind, gilt ausnahmsweise auch für Flächen, welche unter Bergaufsicht in Anspruch genommen werden. Die Wirksamkeit einer solchen Zulassungsentscheidung wird unter den Vorbehalt des Endes der Bergaufsicht gestellt.
 (2) Bei der Freistellung durch das Landesamt für Bergbau, Geologie und Rohstoffe ist gemäß § 42 Absatz 7 Satz 2 BbgAbfBodG das für Wirtschaft zuständige Ministerium die für die Erteilung des Einvernehmens zuständige Behörde.
