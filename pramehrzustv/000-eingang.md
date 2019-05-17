@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von Aufgaben nach dem Prämien- und Ehrenzeichengesetz (Prämien- und Ehrenzeichenzuständigkeitsverordnung - PrämEhrZustV)
+Auf Grund des § 3 Absatz 2 Satz 3, des § 9 Absatz 1 Satz 4 und Absatz 2 Satz 5 sowie des § 13 Absatz 1 Satz 5 und Absatz 2 Satz 3 des Prämien- und Ehrenzeichengesetzes vom 30. April 2019 (GVBl. I Nr. 9) verordnet der Minister des Innern und für Kommunales:
