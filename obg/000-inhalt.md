@@ -41,6 +41,10 @@
 § 35 Aufhebung durch die Aufsichtsbehörde
 § 36 Wirkung von Gebietsveränderungen
 § 37 Sonstige Anordnungen
+## Abschnitt 2a Kampfmittelbeseitigung auf dem Gebiet der Stadt Oranienburg (Modellregion Oranienburg)
+§ 37a Zuständige Stelle
+§ 37b Abstimmungs- und Optimierungsgebot
+§ 37c Erprobung und Evaluierung
 ## Teil III Allgemeine Bestimmungen
 § 38 Zur Entschädigung verpflichtende Maßnahmen
 § 39 Art, Inhalt und Umfang der Entschädigungsleistung
