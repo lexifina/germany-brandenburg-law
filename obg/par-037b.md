@@ -1,0 +1,6 @@
+# § 37b Abstimmungs- und Optimierungsgebot
+(1) Mit dem Ziel der Beschleunigung von Kampfmittelbeseitigungsmaßnahmen auf dem Gebiet der Stadt Oranienburg
+1. stimmen die Stadt Oranienburg und der Zentraldienst der Polizei mit seinem Kampfmittelbeseitigungsdienst rechtzeitig schriftlich die Vorhaben der Kampfmittelbeseitigung ab (Vorhabenplanung),
+2. beteiligt der Zentraldienst der Polizei mit seinem Kampfmittelbeseitigungsdienst unverzüglich die Stadt Oranienburg bei allen die Kampfmittelbeseitigung betreffenden Anliegen, die von natürlichen oder juristischen Personen an ihn herangetragen werden, unabhängig davon, ob diese Auswirkungen auf die Vorhabenplanung haben, und
+3. arbeiten die Stadt Oranienburg, der Landkreis Oberhavel und der Zentraldienst der Polizei mit seinem Kampfmittelbeseitigungsdienst eng und vertrauensvoll zusammen.
+(2) Die Stadt Oranienburg kann zur Beschleunigung der Gefahrenbeseitigung und -erforschung verstärkt auch Maßnahmen in niedrigen Gefahrenlagen tätigen und diese Vorhaben auf ihre städtische Prioritätenliste setzen. Soweit dadurch Mehrbelastungen für die Stadt Oranienburg entstehen, können die nachgewiesenen tatsächlich notwendigen Kosten vom Land auf Antrag der Stadt ausgeglichen werden.
