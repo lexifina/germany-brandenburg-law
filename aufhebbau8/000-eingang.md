@@ -1,0 +1,2 @@
+# Achte Verordnung zur Aufhebung von Baubeschränkungsgebieten
+Auf Grund des § 107 Absatz 4 des Bundesberggesetzes vom 13. August 1980 (BGBl. I S. 1310), der mit der Maßgabe der Anlage I Kapitel V Sachgebiet D Abschnitt III Nummer 1 Buchstabe i des Einigungsvertrages vom 31. August 1990 in Verbindung mit Artikel 1 des Gesetzes vom 23. September 1990 (BGBl. II S. 885, 1003) im Beitrittsgebiet gilt, verordnet die Landesregierung:
