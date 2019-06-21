@@ -11,7 +11,7 @@
 § 7 Raumbezug
 § 8 Liegenschaften
 § 9 Landschaft
-§ 10 Bereitstellung
+§ 10 Bereitstellung und Nutzung
 ## Abschnitt 2 Verfahren im Liegenschaftskataster
 § 11 Inhalt des Liegenschaftskatasters
 § 12 Grenze
