@@ -3,7 +3,7 @@
 1. dies zur Abwehr einer dringenden Gefahr für Leib, Leben oder Freiheit einer Person unerlässlich ist oder
 2. aufgrund tatsächlicher Anhaltspunkte, insbesondere aufgrund konkreter Informationen über Planungs- und Vorbereitungshandlungen, anzunehmen ist, dass
 a) Mord, Totschlag oder Völkermord (§§ 211, 212 des Strafgesetzbuches oder § 6 des Völkerstrafgesetzbuches),
-b) Menschenhandel (§§ 232 Abs. 3 und 4, 233 Abs. 3 des Strafgesetzbuches),
+b) Zwangsprostitution und Zwangsarbeit (§§ 232a Absatz 3 und 4, 232b Absatz 3 und 4 des Strafgesetzbuches),
 c) Staatsschutzdelikte im Sinne des § 100a Abs. 2 Nr. 1 Buchstabe a der Strafprozessordnung,
 d) schwerer Bandendiebstahl, schwerer Raub, schwere räuberische Erpressung oder besonders schwerer Fall der Geldwäsche (§§ 244a, 250, 255 oder 261 Abs. 4 Satz 2 des Strafgesetzbuches),
 e) gemeingefährliche Straftaten nach §§ 307 Abs. 1 bis 3, 308 Abs. 1 bis 3, 309 Abs. 1 bis 4, 310 Abs. 1 Nr. 1, 313 Abs. 1, 313 Abs. 2 in Verbindung mit 308 Abs. 2 und 3, 314, 315 Abs. 3, 315b Abs. 3, 316a oder 316c Abs. 1 bis 3 des Strafgesetzbuches,
