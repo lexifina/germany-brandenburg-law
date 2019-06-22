@@ -141,7 +141,7 @@
 § 119 Grundsatz
 § 120 Besondere Bestimmungen
 ## Abschnitt 22 Datenschutz
-§ 121 Anwendung des Brandenburgischen Datenschutzgesetzes
+§ 121 Anwendung des Brandenburgischen Polizei-, Justizvollzugs- und Maßregelvollzugsdatenschutzgesetzes
 § 122 Grundsatz, Begriffsbestimmungen
 § 123 Erhebung von Daten über Gefangene bei Dritten
 § 124 Erhebung von Daten über andere Personen
@@ -154,9 +154,9 @@
 § 131 Überlassung von Akten
 § 132 Kenntlichmachung in der Anstalt, Lichtbildausweise
 § 133 Offenbarungspflichten und -befugnisse der Berufsgeheimnisträgerinnen und Berufsgeheimnisträger
-§ 134 Schutz der Daten in Akten und Dateien
+§ 134 (weggefallen)
 § 135 Auskunft an die Betroffenen, Akteneinsicht
-§ 136 Auskunft und Akteneinsicht für wissenschaftliche Zwecke
+§ 136 Auskunft und Akteneinsicht zur Wahrnehmung der Aufgaben des Europäischen Ausschusses zur Verhütung von Folter und unmenschlicher oder erniedrigender Behandlung oder Strafe
 § 137 Löschung
 § 138 Löschung besonders erhobener Daten
 § 139 Sperrung und Verwendungsbeschränkungen
