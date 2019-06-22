@@ -2,7 +2,7 @@
 ## Teil 1 Aufgaben und Aufgabenträger
 § 1 Ziele und Aufgaben
 § 2 Aufgabenträger
-§ 3 Aufgaben der amtsfreien Gemeinden, der Ämter und der kreisfreien Städte
+§ 3 Aufgaben der amtsfreien Gemeinden, der Verbandsgemeinden, der Ämter und der kreisfreien Städte
 § 4 Aufgaben der Landkreise
 § 5 Aufgaben des Landes
 § 6 Landesbeirat für Brand- und Katastrophenschutz
@@ -11,7 +11,7 @@
 § 7 Gesamtführung
 § 8 Befugnisse der Gesamtführung
 § 9 Einsatzleitung
-§ 10 Integrierte Leitstellen
+§ 10 Integrierte Regionalleitstellen
 ## Kapitel 2 Pflichten der Bevölkerung
 § 11 Gefahrenverhütung
 § 12 Meldepflicht
@@ -21,18 +21,18 @@
 § 16 Einschränkung von Grundrechten
 § 17 Datenschutz
 ## Kapitel 3 Hilfsorganisationen
-§ 18 Mitwirkung der Hilfsorganisationen
+§ 18 Mitwirkung im Katastrophenschutz
 § 19 Rechtsstellung der Mitglieder der Hilfsorganisationen
 ## Kapitel 4 Gesundheits- und Sozialwesen
 § 20 Mitwirkung des Gesundheits- und Sozialwesens
 § 21 Besondere Pflichten von Angehörigen der Gesundheitsberufe
 ## Kapitel 5 Aufsicht
 § 22 Sonderaufsicht
-§ 23 Aufsicht über die privaten Hilfsorganisationen
+§ 23 Aufsicht über die im Katastrophenschutz mitwirkenden Hilfsorganisationen
 ## Teil 3 Brandschutz und Hilfeleistung
 ## Kapitel 1 Organisation der Feuerwehren
 § 24 Öffentliche Feuerwehren
-§ 25 Jugendfeuerwehren
+§ 25 Jugendfeuerwehren, Kinderfeuerwehren
 § 26 Aufnahme und Heranziehung von ehrenamtlichen Feuerwehrangehörigen
 § 27 Rechtsstellung der ehrenamtlichen Feuerwehrangehörigen
 § 28 Leitung der öffentlichen Feuerwehr
@@ -52,14 +52,15 @@
 § 38 Katastrophenschutzleitung
 § 39 Katastrophenschutzpläne
 § 40 Externe Notfallpläne
+§ 40a Externe Notfallpläne für Abfallentsorgungseinrichtungen
 § 41 Katastrophenschutzübungen
 ## Kapitel 2 Abwehrender Katastrophenschutz
 § 42 Feststellung des Katastrophenfalles
 § 43 Abwehrende Maßnahmen
 ## Teil 5 Kosten, Entschädigung
 § 44 Kostentragung, Zuwendungen des Landes
-§ 45 Kostenersatz
-§ 46 Kosten der privaten Hilfsorganisationen, Zuwendungen des Landes
+§ 45 Erhebung von Gebühren und Kostenersatz
+§ 46 Kosten der im Katastrophenschutz mitwirkenden Hilfsorganisationen, Zuwendungen des Landes
 § 47 Entschädigung
 ## Teil 6 Schlussvorschriften
 § 48 Ordnungswidrigkeiten
