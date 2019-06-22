@@ -20,7 +20,9 @@
 § 15 Eingangsuntersuchung, Aufnahmebericht und Behandlungsplanung
 § 16 Gestaltung der Unterbringung
 § 17 Verlegung
-§ 18 Behandlung und Zwangsmaßnahmen auf dem Gebiet der Gesundheitsfürsorge
+§ 18 Behandlung auf dem Gebiet der Gesundheitsfürsorge
+§ 18a Zwangsweise Behandlung zur Wiederherstellung der Einsichtsfähigkeit
+§ 18b Zwangsweise Behandlung zur Abwehr von Selbstgefährdungen
 § 19 Beurlaubung
 § 20 Unmittelbarer Zwang, Begründungspflicht, Akteneinsicht
 § 21 Besondere Sicherungsmaßnahmen
@@ -35,7 +37,7 @@
 § 30 Unterricht
 § 31 Geld zur freien Verfügung
 § 32 Beschwerderecht
-§ 33 (weggefallen)
+§ 33 Auskunft und Akteneinsicht zur Wahrnehmung der Aufgaben des Europäischen Ausschusses zur Verhütung von Folter und unmenschlicher und erniedrigender Behandlung oder Strafe
 § 34 Aussetzung und Aufhebung der Unterbringung
 § 35 Kosten der Unterbringung
 ## Abschnitt 4 Vollzug von Maßregeln der Besserung und Sicherung
@@ -45,9 +47,10 @@
 § 39 Lockerungen des Maßregelvollzugs
 § 40 Behandlung der Anlasserkrankung und Zwangsmaßnahmen
 § 41 Andere Erkrankungen und Zwangsmaßnahmen auf dem Gebiet der Gesundheitsfürsorge
+§ 41a Unabhängige Prüfstelle
 § 42 Erkennungsdienstliche Maßnahmen, Festnahme
 § 43 Fachaufsicht
-§ 44 Besondere Datenschutzbestimmungen in den Einrichtungen des Maßregelvollzugs
+§ 44 (weggefallen)
 § 45 Rechte und deren Einschränkungen
 § 46 Bildung, Arbeit, Beschäftigung
 § 47 Taschengeld, Überbrückungsgeld, Hausgeld, Eigengeld
@@ -58,15 +61,24 @@
 ## Abschnitt 5 Nachgehende Betreuung
 § 52 Aufgaben
 § 53 Mitwirkungspflichten
-## Abschnitt 6 Datenschutzbestimmungen
+## Abschnitt 6 Datenschutz im Bereich der Hilfen und der öffentlich-rechtlichen Unterbringung
 § 54 Grundsatz
 § 55 Verarbeitung personenbezogener Daten
 § 56 Zusammenwirken mit anderen Behörden und Einrichtungen
 § 57 Datenübermittlung durch Unterbringungseinrichtungen
-§ 58 Automatisiertes Abrufverfahren und regelmäßige Datenübermittlung
+§ 58 (weggefallen)
 § 59 Übermittlungsverantwortung, Unterrichtungspflicht
-## Abschnitt 7 Übergangs- und Schlussvorschriften
-§ 60 Verwaltungsvorschriften
-§ 61 Einschränkung von Grundrechten
-§ 62 Übergangsvorschriften
-§ 63 Inkrafttreten, Außerkrafttreten
+## Abschnitt 7 Datenschutz im Vollzug der Maßregeln der Besserung und Sicherung
+§ 60 Anwendung des Brandenburgischen Polizei-, Justizvollzugs- und Maßregelvollzugsdatenschutzgesetzes
+§ 61 Grundsatz, Begriffsbestimmung
+§ 62 Überlassung von Akten
+§ 63 Erhebung und Speicherung personenbezogener Daten bei Besuchen
+§ 64 Übermittlung personenbezogener Daten
+§ 65 Löschung
+§ 66 Löschung besonders erhobener Daten
+§ 67 Einschränkung der Verarbeitung
+## Abschnitt 8 Übergangs- und Schlussvorschriften
+§ 68 Verwaltungsvorschriften
+§ 69 Einschränkung von Grundrechten
+§ 70 Übergangsvorschriften
+§ 71 Inkrafttreten, Außerkrafttreten
