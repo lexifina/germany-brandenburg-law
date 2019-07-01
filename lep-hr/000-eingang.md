@@ -1,0 +1,2 @@
+# Verordnung über den Landesentwicklungsplan Hauptstadtregion Berlin-Brandenburg (LEP HR)
+Auf Grund des Artikels 8 Absatz 4 in Verbindung mit Artikel 8 Absatz 3 des Landesplanungsvertrages in der Fassung der Bekanntmachung vom 13. Februar 2012 (GVBl. I Nr. 14) und Artikel 1 des Gesetzes zu dem Fünften Staatsvertrag vom 16. Februar 2011 über die Änderung des Landesplanungsvertrages und zur Änderung weiterer planungsrechtlicher Vorschriften vom 21. September 2011 (GVBl. I Nr. 21) verordnet die Landesregierung:
