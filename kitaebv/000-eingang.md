@@ -1,0 +1,2 @@
+# Kitaelternbeiratsverordnung (KitaEBV)
+Auf Grund des § 23 Absatz 1 Nummer 8 und 13 des Kindertagesstättengesetzes in der Fassung der Bekanntmachung vom 27. Juni 2004 (GVBl. I S. 384), der zuletzt durch Artikel 1 des Gesetzes vom 1. April 2019 (GVBl. I Nr. 8) geändert worden ist, verordnet die Ministerin für Bildung, Jugend und Sport im Einvernehmen mit dem Minister der Finanzen, dem Minister des Innern und dem Ausschuss für Bildung, Jugend und Sport des Landtags:
