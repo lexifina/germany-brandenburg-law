@@ -1,2 +1,2 @@
 # Anlagen
-1Anlage - Gebührentarif 857.0 KB
+1Anlage - Gebührentarif 480.8 KB
