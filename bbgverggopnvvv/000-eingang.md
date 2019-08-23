@@ -1,0 +1,2 @@
+# Verordnung über das Verfahren zur Feststellung repräsentativer Entgelttarifverträge im öffentlichen Personennahverkehr im Land Brandenburg (Brandenburgische Vergabegesetz-ÖPNV-Verfahrensverordnung - BbgVergGÖPNVVV)
+Auf Grund des § 3 Absatz 2 Satz 6 bis 8 des Brandenburgischen Vergabegesetzes vom 21. September 2011 (GVBl. I Nr. 19) in Verbindung mit § 1 der Brandenburgischen Vergabegesetz-Zuständigkeitsübertragungsverordnung vom 29. März 2012 (GVBl. II Nr. 22) verordnetder Minister für Arbeit, Soziales, Frauen und Familie:
