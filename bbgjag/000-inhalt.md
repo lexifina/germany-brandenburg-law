@@ -12,6 +12,7 @@
 § 9 Bewertung der Prüfungsleistungen
 ## Abschnitt 3 Vorbereitungsdienst
 § 10 Eintritt in den Vorbereitungsdienst
+§ 10a Versagung der Aufnahme in den Vorbereitungsdienst
 § 11 Auswahlverfahren und Zurückstellung
 § 12 Unterhaltsbeihilfe, Rentenversicherungsfreiheit
 § 13 Inhalt und Ziel der Ausbildung
