@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung von Aufgaben und Befugnissen nach der Bundesrechtsanwaltsordnung
+Auf Grund des § 33 Absatz 2 Satz 2 der Bundesrechtsanwaltsordnung, der durch Artikel 1 Nummer 13 des Gesetzes vom 30. Juli 2009 (BGBl. I S. 2449) neu gefasst worden ist, in Verbindung mit § 1 Nummer 37 der Justiz-Zuständigkeitsübertragungsverordnung vom 9. April 2014 (GVBl. II Nr. 23) verordnet der Minister der Justiz und für Europa und Verbraucherschutz:
