@@ -1,0 +1,2 @@
+# Verordnung über die Anerkennung als Hochschulklinik (Hochschulklinikanerkennungsverordnung - HSKV)
+Auf Grund des § 86a Absatz 2 des Brandenburgischen Hochschulgesetzes vom 28. April 2014 (GVBl. I Nr. 18), der durch Artikel 2 des Gesetzes vom 20. September 2018 (GVBl. I Nr. 21 S. 2) eingefügt worden ist, verordnet die Ministerin für Wissenschaft, Forschung und Kultur im Einvernehmen mit der Ministerin für Arbeit, Soziales, Gesundheit, Frauen und Familie:
