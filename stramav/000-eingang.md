@@ -1,0 +1,2 @@
+# Mehrbelastungsausgleichsverordnung für die Gemeinden infolge des Gesetzes zur Abschaffung der Beiträge für den Ausbau kommunaler Straßen (Straßenausbau-Mehrbelastungsausgleich-Verordnung - StraMaV)
+Auf Grund des § 3 Nummer 1 bis 3 und Nummer 5 des Gesetzes über den Mehrbelastungsausgleich für kommunale Straßenausbaumaßnahmen vom 19. Juni 2019 (GVBl. I Nr. 36) verordnet die Ministerin für Infrastruktur und Landesplanung im Einvernehmen mit dem Minister des Innern und für Kommunales und dem Minister der Finanzen:
