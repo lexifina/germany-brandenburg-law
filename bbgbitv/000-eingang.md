@@ -1,0 +1,2 @@
+# Brandenburgische Verordnung zur Schaffung barrierefreier Informationstechnik nach dem Brandenburgischen Behindertengleichstellungsgesetz (Brandenburgische Barrierefreie Informationstechnik-Verordnung - BbgBITV)
+Auf Grund des § 9 Absatz 2 des Brandenburgischen Behindertengleichstellungsgesetzes vom 11. Februar 2013 (GVBl. I Nr. 5), der durch Artikel 4 des Gesetzes vom 20. September 2018 (GVBl. I Nr. 21 S. 5) geändert worden ist, verordnet die Ministerin für Arbeit, Soziales, Gesundheit, Frauen und Familie im Einvernehmen mit dem Minister des Innern und für Kommunales:
