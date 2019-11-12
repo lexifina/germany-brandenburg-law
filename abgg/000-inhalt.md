@@ -22,10 +22,10 @@
 § 17 Zuschuss zu den Kranken- und Pflegeversicherungsbeiträgen
 ## Abschnitt 5 Gemeinsame Vorschriften
 § 18 Begriffsbestimmungen
-§ 19 Beginn und Ende der Ansprüche
+§ 19 Beginn und Ende von Ansprüchen, Mitwirkungspflichten
 § 20 Zahlungsvorschriften
 § 21 Verzicht, Übertragbarkeit
-§ 22 Bericht des Präsidenten
+§ 22 Bericht der Präsidentin oder des Präsidenten
 ## Abschnitt 6 Angehörige des öffentlichen Dienstes
 § 23 Unvereinbarkeit von Amt und Mandat
 § 24 Wiederverwendung nach Beendigung des Mandats
