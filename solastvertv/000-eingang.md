@@ -1,0 +1,2 @@
+# Verordnung zur Verteilung des Soziallastenausgleichs gemäß § 15 Absatz 1 des Brandenburgischen Finanzausgleichsgesetzes (Soziallastenausgleichsverteilverordnung - SoLastVertV)
+Auf Grund des § 15 Absatz 1 Satz 4 des Brandenburgischen Finanzausgleichsgesetzes vom 29. Juni 2004 (GVBl. I S. 262), der durch Artikel 1 Nummer 10 des Gesetzes vom 18. Dezember 2018 (GVBl. I Nr. 34) geändert worden ist, verordnet der Minister der Finanzen im Einvernehmen mit der Ministerin für Arbeit, Soziales, Gesundheit, Frauen und Familie:
