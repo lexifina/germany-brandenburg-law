@@ -1,0 +1,2 @@
+# Verordnung zur Festlegung der entgeltfreien Bereitstellung und der Nutzungsbestimmungen für digitale Geobasisinformationen und Geodatendienste (BbgGeoNutzV)
+Auf Grund des § 10 Absatz 9 in Verbindung mit § 10 Absatz 2 des Brandenburgischen Vermessungsgesetzes vom 27. Mai 2009 (GVBl. I S. 166), der durch Gesetz vom 19. Juni 2019 (GVBl. I Nr. 32) geändert worden ist, verordnet der Minister des Innern und für Kommunales:
