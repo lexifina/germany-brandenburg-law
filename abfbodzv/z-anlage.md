@@ -35,8 +35,9 @@
 33. Verordnung (EU) Nr. 333/2011 mit Kriterien zur Festlegung, wann bestimmte Arten von Schrott gemäß der Richtlinie 2008/98/EG nicht mehr als Abfall anzusehen sind
 34. POP-Abfall-Überwachungs-Verordnung (POP-Abfall-ÜberwV)
 35. Elektro- und Elektronikgeräte-Stoff-Verordnung (ElektroStoffV)
+36. Verordnung (EU) 2017/852 über Quecksilber und zur Aufhebung der Verordnung (EG) Nr. 1102/2008
 ### II. Erläuterungen zu dem nachfolgenden Verzeichnis
-1. In dem Verzeichnis werden folgende Abkürzungen verwandt: MLUL Ministerium für Ländliche Entwicklung, Umwelt und Landwirtschaft LfU Landesamt für Umwelt UAWB Landkreis und kreisfreie Stadt als untere Abfallwirtschaftsbehörde LBGR Landesamt für Bergbau, Geologie und Rohstoffe SBB Sonderabfallgesellschaft Brandenburg/Berlin mbH UB Landkreise und kreisfreie Städte als untere Bodenschutzbehörde LELF Landesamt für Ländliche Entwicklung, Landwirtschaft und Flurneuordnung
+1. In dem Verzeichnis werden folgende Abkürzungen verwandt: MLUK Ministerium für Landwirtschaft, Umwelt und Klimaschutz LfU Landesamt für Umwelt UAWB Landkreis und kreisfreie Stadt als untere Abfallwirtschaftsbehörde LBGR Landesamt für Bergbau, Geologie und Rohstoffe SBB Sonderabfallgesellschaft Brandenburg/Berlin mbH UB Landkreise und kreisfreie Städte als untere Bodenschutzbehörde LELF Landesamt für Ländliche Entwicklung, Landwirtschaft und Flurneuordnung
 2. Soweit in der letzten Spalte des Verzeichnisses mehrere Behörden erwähnt werden und keine anderweitige ausdrückliche Regelung getroffen worden ist, handelt es sich bei der Verwendung
 eines Schrägstriches oder eines Semikolons um eine alternative Zuständigkeit,
 eines Kommas zwischen zwei Abkürzungen um eine Doppelzuständigkeit,
@@ -56,8 +57,8 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 1.10 | § 29 Absatz 1 | Anordnung der Mitbenutzung gegenüber dem Betreiber einer Abfallbeseitigungsanlage, Festsetzung des Entgelts soweit erforderlich, Aufforderung zur Vorlage eines Abfallwirtschaftskonzepts | LfU/LBGR
 1.11 | § 29 Absatz 2 | Übertragung von Abfallbeseitigungspflichten auf den Betreiber einer Abfallbeseitigungsanlage | LfU
 1.12 | § 29 Absatz 3 | Anordnung zur Duldung von Abfallbeseitigungsmaßnahmen auf Grundstücken, die zur Mineralgewinnung genutzt werden, Festsetzung des Entgelts soweit erforderlich | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
-1.13 | §§ 30, 31 und 32 | Aufstellung und Fortschreibung der Abfallwirtschaftsplanung, Beteiligung und Unterrichtung der Öffentlichkeit | MLUL
-1.14 | § 33 | Beteiligung am Abfallvermeidungsprogramm des Bundes bzw. Aufstellung eines eigenen Abfallvermeidungsprogramms, Beteiligung der Öffentlichkeit | MLUL
+1.13 | §§ 30, 31 und 32 | Aufstellung und Fortschreibung der Abfallwirtschaftsplanung, Beteiligung und Unterrichtung der Öffentlichkeit | MLUK
+1.14 | § 33 | Beteiligung am Abfallvermeidungsprogramm des Bundes bzw. Aufstellung eines eigenen Abfallvermeidungsprogramms, Beteiligung der Öffentlichkeit | MLUK
 1.15 | § 34 | Erkundung geeigneter Standorte für Abfallbeseitigungsanlagen | LfU/LBGR im Einvernehmen mit LfU
 1.16 | §§ 35, 36 | Durchführung des Zulassungsverfahrens und der Entscheidung über die Zulassung von Deponien und Erteilung von Nebenbestimmungen einschließlich Anordnung von Sicherheitsleistungen sowie Entgegennahme von Anzeigen über die Änderung einer Deponie | LfU1)/LBGR im Einvernehmen mit LfU
 1.17 | § 36 Absatz 4 Satz 3 | nachträgliche Anordnungen bei zugelassenen Deponien | LfU/LBGR
@@ -208,13 +209,13 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 17.2 |  | Vollzug dieser Verordnung im Übrigen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 18 | Abfallverbringungsgesetz (AbfVerbrG), Verordnung (EG) Nr. 1013/2006 des Europäischen Parlaments und des Rates vom 14. Juni 2006 über die Verbringung von Abfällen (VVA)
 18.1 |  | alle Aufgaben der nach Landesrecht zuständigen Behörde, sofern nachfolgend keine abweichende Regelung getroffen ist | SBB
-18.2 | § 8 Absatz 4 AbfVerbrG | Übernahme der Kosten, sofern eine kostenpflichtige Person nicht in Anspruch genommen werden kann | MLUL
+18.2 | § 8 Absatz 4 AbfVerbrG | Übernahme der Kosten, sofern eine kostenpflichtige Person nicht in Anspruch genommen werden kann | MLUK
 18.3 | § 9 Absatz 1 Satz 2 AbfVerbrG | Befugnis, Daten zu erheben und zu verwenden | SBB, LfU jeweils im Rahmen ihrer Zuständigkeit
 18.4 | § 11 Absatz 1 AbfVerbrG | Kontrolle von Anlagen und Unternehmen gemäß Artikel 50 Absatz 2 VVA | SBB, UAWB, LfU, LBGR jeweils im Rahmen ihrer Zuständigkeit
 18.5 | §§ 18 und 19 AbfVerbrG | Ordnungswidrigkeiten, Einziehung von Gegenständen | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
 19 | Umweltrahmengesetz (URG)
 19.1 | Artikel 1 § 4 Abs. 3 | Entscheidung über die Freistellung von der Verantwortung für vor dem 1. Juli 1990 verursachte Schäden | UB/LBGR
-19.2 | Artikel 1 § 4 Abs. 3 | Entscheidung über das Einvernehmen zur Freistellung von der Verantwortlichkeit | MLUL(2)
+19.2 | Artikel 1 § 4 Abs. 3 | Entscheidung über das Einvernehmen zur Freistellung von der Verantwortlichkeit | MLUK(2)
 19.3 |  | Unterstützung der zuständigen Behörden beim Vollzug des Artikels 1 § 4 Absatz 3 URG | LfU
 20 | Brandenburgisches Abfall- und Bodenschutzgesetz (BbgAbfBodG)
 20.1 | § 18 Abs. 1 und 2 | Entscheidung über die Genehmigung zur Verbringung in das Gebiet eines für verbindlich erklärten Abfallwirtschaftsplanes und Entgegennahme von Nachweisen über die ordnungsgemäße und schadlose Verwertung | LfU
@@ -234,7 +235,7 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 20.15 | § 31 Absatz 3 | Einholen von Auskünften und Wahrnehmung des Betretungsrechts und Durchführung von Ermittlungsmaßnahmen und Wahrnehmung des Betretungsrechts | UB/LBGR/LfU
 20.16 | § 32 Absatz 2, 3 und 4 | Entgegennahme des Antrags auf Ausgleich, Festsetzung des Ausgleichsbetrags und Einholung erforderlicher Auskünfte sowie Einsichtnahme in die Betriebsunterlagen | die nach Nummer 1.23.3 zuständige Behörde
 20.17 | § 41 Absatz 1 | Veröffentlichung von Umweltinformationen | für die Abfallwirtschaft die nach Nummer 1.23 zur Überwachung und für den Bodenschutzbereich die nach den Nummern 23.2 und 23.6 zuständige Behörde; im Rahmen zusammenfassender Veröffentlichungen: LfU
-20.18 | § 41 Absatz 2 | Warnungen, Empfehlungen, Hinweise für umweltgerechtes Verhalten | zuständige Abfall- oder Bodenschutzbehörde/MLUL
+20.18 | § 41 Absatz 2 | Warnungen, Empfehlungen, Hinweise für umweltgerechtes Verhalten | zuständige Abfall- oder Bodenschutzbehörde/MLUK
 21 | Abfallkompost- und Verbrennungsverordnung (AbfKompVbrV)
  |  | die Zuständigkeit ergibt sich aus den Bestimmungen dieser Verordnung | 
 22 | weggefallen |  | 
@@ -329,5 +330,12 @@ Lfd. Nr. | Anzuwendende Rechtsnorm | Verwaltungsaufgabe | Zuständige Behörde
 35 | Elektro- und Elektronikgeräte-Stoff-Verordnung (ElektroStoffV)
 35.1 | §§ 3 bis 13 | Überwachung der stoffbezogenen und Kennzeichnungs-Anforderungen sowie Informationspflichten gegenüber den Pflichtigen (insbesondere Hersteller, Vertreiber, Importeure, Bevollmächtigte) einschließlich Probenahmen, Verlangen und Entgegennahme von Erklärungen | LfU
 35.2 | § 14 | Durchführung von Ordnungswidrigkeitenverfahren | LfU
+36 | Verordnung (EU) 2017/852 des Europäischen Parlaments und des Rates über Quecksilber und zur Aufhebung der Verordnung (EG) Nr. 1102/2008
+36.1 | Artikel 10 Absatz 6 | Überwachung zahnmedizinischer Einrichtungen hinsichtlich der Abfallbewirtschaftung | UAWB in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
+36.2 | Artikel 11 | Überwachung der Beseitigung von Quecksilberabfällen aus großen Quellen | LfU/LBGR in seinem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
+36.3 | Artikel 12 | Berichterstattung zu Daten der Quecksilberabfälle aus großen Quellen | LfU/LBGR in seinem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
+36.4 | Artikel 13 Absatz 1 und 3 | Überwachung der Anlagen zur zeitweiligen und zur dauerhaften Lagerung von Quecksilberabfällen | LfU/LBGR in seinem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
+36.5 | Artikel 14 Absatz 4 Satz 1 | Entgegennahme eines Verzeichnisses des Betreibers | UAWB/LfU/LBGR jeweils in ihrem Aufgabenbereich als zuständige Überwachungsbehörde nach Nummer 1.23
+36.6 | Artikel 14 Absatz 4 Satz 2 | Weiterleitung der übermittelten Verzeichnisse an die Bundesbehörde | MLUK
 1) Die Zuständigkeit für die Durchführung des Zulassungsverfahrens und die Entscheidung über die Zulassung von Deponien, die nicht dem Bergbau zu dienen bestimmt sind, gilt ausnahmsweise auch für Flächen, welche unter Bergaufsicht in Anspruch genommen werden. Die Wirksamkeit einer solchen Zulassungsentscheidung wird unter den Vorbehalt des Endes der Bergaufsicht gestellt.
 (2) Bei der Freistellung durch das Landesamt für Bergbau, Geologie und Rohstoffe ist gemäß § 42 Absatz 7 Satz 2 BbgAbfBodG das für Wirtschaft zuständige Ministerium die für die Erteilung des Einvernehmens zuständige Behörde.
