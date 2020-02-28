@@ -3,3 +3,4 @@
 (2) Das Ergebnis der Überprüfung teilt die Präsidentin oder der Präsident dem Mitglied des Landtags schriftlich mit. Liegt zur Überzeugung der Präsidentin oder des Präsidenten ein Pflichtverstoß im Sinne des Absatzes 1 Satz 1 vor, wirkt sie oder er auf eine Beachtung der Vorschriften hin. Bei erheblichen oder wiederholten Pflichtverstößen kann die Präsidentin oder der Präsident dem Mitglied des Landtags eine Rüge erteilen.
 (3) Gegen die Rüge kann das betroffene Mitglied des Landtags innerhalb von einem Monat nach Zugang der Rüge schriftlich Einspruch bei der Präsidentin oder dem Präsidenten einlegen. Über den Einspruch entscheidet das Präsidium.
 (4) Wird ein Einspruch nicht erhoben oder hat das Präsidium dem Einspruch nicht stattgegeben, informiert die Präsidentin oder der Präsident den Landtag über die Rüge und die Gründe in einer Sitzung des Landtags vor Eintritt in die Tagesordnung. Eine Aussprache findet nicht statt.
+Einzelnorm
