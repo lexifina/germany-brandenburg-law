@@ -4,4 +4,4 @@
 1. die Identität der eintragungsberechtigten Personen zu prüfen und dafür Sorge zu tragen, dass sich in den amtlichen Eintragungslisten ausschließlich Personen eintragen, die ihre Wohnung, bei mehreren Wohnungen, ihre Hauptwohnung, oder ihren gewöhnlichen Aufenthalt in der oder einer Gemeinde haben, für die die Abstimmungsbehörde, die sie berufen hat, zuständig ist,
 2. während der Eintragungszeit den öffentlichen Zutritt zum Eintragungsraum zu gewährleisten,
 3. für Ruhe und Ordnung im Eintragungsraum Sorge zu tragen.
-(3) Die Vertreter der Volksinitiative oder ihre Stellvertreter dürfen nicht zu Aufsicht führenden Personen berufen werden.
+(3) Die Vertreterinnen und Vertreter der Volksinitiative oder ihre Stellvertreterinnen und Stellvertreter dürfen nicht zu Aufsicht führenden Personen berufen werden.
