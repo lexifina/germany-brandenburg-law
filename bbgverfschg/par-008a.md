@@ -3,7 +3,7 @@
 1. tatsächliche Anhaltspunkte für den Verdacht bestehen, dass sie eine Straftat nach § 3 Absatz 1 des Artikel 10-Gesetzes plant, begeht oder begangen hat,
 2. nach den Umständen des Einzelfalls nicht ausgeschlossen werden kann, dass die Erhebung zur Abwehr einer Gefahr für Leib oder Leben erforderlich ist, oder
 3. tatsächliche Anhaltspunkte dafür bestehen, dass sie eine Tätigkeit nach § 3 Absatz 1 Nummer 2 ausübt.
-(2) Die Verarbeitung von Daten über eine minderjährige Person, die das 16. Lebensjahr vollendet hat, ist nur zulässig, wenn tatsächliche Anhaltspunkte dafür bestehen, dass sie
+(2) Die Verarbeitung von Daten über eine minderjährige Person, die das 16. Lebensjahr vollendet hat, ist darüber hinaus nur zulässig, wenn tatsächliche Anhaltspunkte dafür bestehen, dass sie
 1. an einer Bestrebung nach § 3 Absatz 1 beteiligt ist, die auf die Anwendung oder Vorbereitung von Gewalt gerichtet ist, und sie diese Ausrichtung fördert,
 2. in herausgehobener Funktion in einem Personenzusammenschluss tätig ist oder
 3. eine Tätigkeit nach § 3 Absatz 1 Nummer 2 ausübt.
