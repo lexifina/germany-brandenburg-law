@@ -5,12 +5,13 @@
 § 3 Mitwirkung der Ämter und amtsfreien Gemeinden, Landkreise und kreisfreien Städte
 ## Abschnitt 2 Volksinitiative
 § 4 Recht auf Beteiligung
-§ 5 Zulässigkeit
+§ 4a Beratung
+§ 5 Gegenstand der Volksinitiative
 § 6 Förmliche Voraussetzungen
 § 7 (aufgehoben)
 § 8 Unterschriftsbogen
 § 9 Beschluß über die Zulässigkeit
-§ 10 Zurückweisung von Volksinitiativen
+§ 10 Unzulässige Volksinitiativen
 § 11 Rechtsbehelf
 § 12 Behandlung der Volksinitiative
 ## Abschnitt 3 Volksbegehren
@@ -81,3 +82,4 @@
 § 70 Durchführung des Gesetzes
 § 71 Fristen und Termine sowie Schriftform
 § 72 Einschränkung eines Grundrechts
+§ 73 Übergangsvorschriften
