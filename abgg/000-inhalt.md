@@ -1,5 +1,3 @@
-## Inhaltsübersicht
-## Abschnitt 1 Mitgliedschaft im Landtag und Beruf
 § 1 Erwerb und Verlust der Mitgliedschaft
 § 2 Schutz der freien Mandatsausübung
 § 3 Wahlvorbereitungsurlaub
@@ -16,7 +14,7 @@
 § 13 Ausführungsbestimmungen
 ## Abschnitt 3 Leistungen nach Ausscheiden aus dem Landtag
 § 14 Übergangsgeld
-§ 15 Pflichtmitgliedschaft im Versorgungswerk , Altersrente
+§ 15 Pflichtmitgliedschaft im Versorgungswerk, Altersrente
 § 16 Gesundheitsschäden
 ## Abschnitt 4 Zuschuss zu den Kosten der Kranken- und Pflegeversicherung
 § 17 Zuschuss zu den Kranken- und Pflegeversicherungsbeiträgen
