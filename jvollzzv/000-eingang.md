@@ -11,4 +11,4 @@ Auf Grund
 9. des § 64 Satz 1 des Landesbeamtengesetzes, der zuletzt durch Artikel 1 des Gesetzes vom 11. März 2010 (GVBl. I Nr. 13) geändert worden ist, in Verbindung mit § 8 Absatz 1 der Verordnung über die Gewährung von Jubiläumszuwendungen an Beamte und Richter des Bundes in der Fassung der Bekanntmachung vom 13. März 1990 (BGBl. I S. 487) und in Verbindung mit § 9 Absatz 1 des Landesorganisationsgesetzes,
 10. des § 63 Absatz 1 des Landesbeamtengesetzes in Verbindung mit § 9 Absatz 3 der Trennungsgeldverordnung in der Fassung der Bekanntmachung vom 29. Juni 1999 (BGBl. I S. 1533),
 11. des § 63 Absatz 1 des Landesbeamtengesetzes in Verbindung mit § 8 Satz 1 des Bundesreisekostengesetzes vom 26. Mai 2005 (BGBl. I S. 1418) und § 9 Absatz 1 des Landesorganisationsgesetzes
-verordnet der Minister der Justiz :
+verordnet der Minister der Justiz:
