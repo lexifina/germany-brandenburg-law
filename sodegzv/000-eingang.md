@@ -1,0 +1,2 @@
+# Verordnung über die Zuständigkeit für die Aufgaben nach dem Sozialdienstleister-Einsatzgesetz (Sozialdienstleister-Einsatzgesetz-Zuständigkeitsverordnung - SodEGZV)
+Auf Grund des § 5 Satz 1 des Sozialdienstleister-Einsatzgesetzes vom 27. März 2020 (BGBl. I S. 575, 578) in Verbindung mit § 6 Absatz 2 und 4 sowie § 12 Absatz 1 Satz 2 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186), von denen durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28 S. 2) § 6 geändert und § 12 Absatz 1 Satz 2 eingefügt worden ist, verordnet die Landesregierung:
