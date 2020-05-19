@@ -82,4 +82,3 @@
 § 70 Durchführung des Gesetzes
 § 71 Fristen und Termine sowie Schriftform
 § 72 Einschränkung eines Grundrechts
-§ 73 Übergangsvorschriften
