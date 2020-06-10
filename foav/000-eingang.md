@@ -1,0 +1,2 @@
+# Verordnung über die Zusammensetzung des Forstausschusses, die Berufung der Mitglieder sowie deren Aufwandsentschädigungen (Forstausschussverordnung - FoAV)
+Auf Grund des § 33 Absatz 2 des Waldgesetzes des Landes Brandenburg vom 20. April 2004 (GVBl. I S. 137), der durch Artikel 2 des Gesetzes vom 19. Dezember 2008 (GVBl. I S. 367) geändert worden ist, verordnet der Minister für Landwirtschaft, Umwelt und Klimaschutz:
