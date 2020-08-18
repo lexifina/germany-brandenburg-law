@@ -1,6 +1,6 @@
 § 1 Geltungsbereich
 § 2 Frist und Form der Anträge, Ausschluss vom Verfahren
-§ 3 Serviceverfahren der Stiftung für Hochschulzulassung
+§ 3 Dialogorientiertes Serviceverfahren, Registrierung, Kommunikation und Koordinierung
 § 4 Auswahl
 § 5 Ablauf des Vergabeverfahrens
 § 6 Bescheide
@@ -21,7 +21,5 @@
 ## Abschnitt 4 Vergabeverfahren in Masterstudiengängen
 § 19 Quoten in Masterstudiengängen
 § 20 Quoten in besonderen Masterstudiengängen
-## Abschnitt 5 Übergangs- und Schlussbestimmungen
-§ 21 Übergangsbestimmung
 Anlage 1 Ermittlung der Durchschnittsnote
 Anlage 2 Ermittlung der Messzahl bei der Auswahl für ein Zweitstudium
