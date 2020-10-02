@@ -1,0 +1,2 @@
+# Verordnung über die Erstattung des Zusatzaufwandes aus der Anwendung des Sorben/Wenden-Gesetzes (SWG-Kostenerstattungsverordnung - SWGKostenV)
+Auf Grund des § 13b Absatz 4 des Sorben/Wenden-Gesetzes vom 7. Juli 1994 (GVBl. I S. 294), der durch Artikel 1 Nummer 17 des Gesetzes vom 11. Februar 2014 (GVBl. I Nr. 7) eingefügt worden ist, verordnet die Ministerin für Wissenschaft, Forschung und Kultur im Benehmen mit dem Ausschuss für Wissenschaft, Forschung und Kultur sowie dem Rat für Angelegenheiten der Sorben/Wenden:
