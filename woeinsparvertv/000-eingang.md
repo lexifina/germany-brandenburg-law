@@ -1,0 +1,2 @@
+# Verordnung zur Verteilung der Mittel aus der Weitergabe von Einsparungen an Wohngeldleistungen gemäß § 24a des Brandenburgischen Finanzausgleichsgesetzes (Wohngeldeinsparungsverteilverordnung - WoEinsparVertV)
+Auf Grund des § 24a Satz 3 des Brandenburgischen Finanzausgleichsgesetzes vom 29. Juni 2004 (GVBl. I S. 262), der durch Artikel 1 des Gesetzes vom 18. Dezember 2020 (GVBl. I Nr. 36) eingefügt worden ist, verordnet die Ministerin der Finanzen und für Europa im Einvernehmen mit dem Minister für Wirtschaft, Arbeit und Energie:
