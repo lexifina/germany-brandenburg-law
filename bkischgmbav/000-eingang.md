@@ -1,0 +1,2 @@
+# Verordnung über den Mehrbelastungsausgleich zum Bundeskinderschutzgesetz (Bundeskinderschutzgesetz-Mehrbelastungsausgleichsverordnung - BKiSchGMBAV)
+Auf Grund des § 25 Absatz 4 Satz 2 des Ersten Gesetzes zur Ausführung des Achten Buches Sozialgesetzbuch – Kinder- und Jugendhilfe in der Fassung der Bekanntmachung vom 26. Juni 1997 (GVBl. I S. 87), der durch Artikel 1 des Gesetzes vom 5. Dezember 2013 (GVBl. I Nr. 43) eingefügt worden ist, verordnet die Landesregierung:
