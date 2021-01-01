@@ -1,0 +1,2 @@
+# Verordnung zur Bemessung der Beiträge für die Gewässerunterhaltungsverbände (Beitragsbemessungsverordnung - BBV)
+Auf Grund des § 80 Absatz 1a Satz 1 des Brandenburgischen Wassergesetzes in der Fassung der Bekanntmachung vom 2. März 2012 (GVBl. I Nr. 20), der durch Artikel 1 des Gesetzes vom 4. Dezember 2017 (GVBl. I Nr. 28) eingefügt worden ist, verordnet der Minister für Landwirtschaft, Umwelt und Klimaschutz im Benehmen mit dem Ausschuss für Landwirtschaft, Umwelt und Klimaschutz des Landtages:
