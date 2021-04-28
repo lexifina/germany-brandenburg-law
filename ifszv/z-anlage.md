@@ -1,8 +1,10 @@
 # Anlage (zu § 1)
 Verwendete Abkürzungen:
-MSGIV | Ministerium für Soziales, Gesundheit, Integration und Verbraucherschutz
-LAVG | Landesamt für Arbeitsschutz, Verbraucherschutz und Gesundheit
-LK/KfS | Landkreise/Kreisfreie Städte
+- MSGIV | Ministerium für Soziales, Gesundheit, Integration und Verbraucherschutz
+- MBJS | Ministerium für Bildung, Jugend und Sport
+- LAVG | Landesamt für Arbeitsschutz, Verbraucherschutz und Gesundheit
+- LASV | Landesamt für Soziales und Versorgung
+- LK/KfS | Landkreise/Kreisfreie Städte
 lfd. Nr. | Vorschrift | Verwaltungsaufgabe | Zuständigkeit
  | Infektionsschutzgesetz
 1 Meldewesen
@@ -24,8 +26,10 @@ Entgegennahme und Weiterleitung der Angaben an das Robert Koch-Institut | LAVG
 3.1 | § 25 Abs. 2 | Entgegennahme der Unterrichtung bei Blut-, Organ- oder Gewebespendern | MSGIV
 3.2 | § 26 Abs. 3 Satz 2 | Anordnung einer inneren Leichenschau auf Anforderung durch das Gesundheitsamt | LK/KfS
 3.3 | § 28 Abs. 1 Satz 1 und 2 | Anordnung von Schutzmaßnahmen zur Verhinderung der Verbreitung übertragbarer Krankheiten sowie Veranstaltungs- und Versammlungseinschränkungen, Schließung von Einrichtungen, Reisebeschränkungen | LK/KfS
-3.4 | § 30 Abs. 1 | Anordnung der Absonderung von Personen | LK/KfS
-3.5 | § 31 | Untersagung der Ausübung bestimmter beruflicher Tätigkeiten für Kranke, Krankheitsverdächtige, Ansteckungsverdächtige und Ausscheider | LK/KfS
+3.4 | § 28b Absatz 3 Satz 4 | Anordnung von Ausnahmen von der Untersagung des Präsenzunterrichts nach § 28b Absatz 3 Satz 3 für Abschlussklassen und Förderschulen | MBJS
+3.5 | § 28b Absatz 7 Satz 3 | Überwachung der Verpflichtung der Arbeitgeberinnen und Arbeitgeber, ihren Beschäftigten das Arbeiten in deren Wohnung anzubieten sowie die Pflicht der Beschäftigten, dieses Angebot anzunehmen | LAVG
+3.6 | § 30 Abs. 1 | Anordnung der Absonderung von Personen | LK/KfS
+3.7 | § 31 | Untersagung der Ausübung bestimmter beruflicher Tätigkeiten für Kranke, Krankheitsverdächtige, Ansteckungsverdächtige und Ausscheider | LK/KfS
 4 Zusätzliche Vorschriften für Schulen und sonstige Gemeinschaftseinrichtungen
 4.1 | § 34 Abs. 7 | Zulassung von Ausnahmen von Verboten nach Absatz 1, auch in Verbindung mit Absatz 3 | LK/KfS
 4.2 | § 34 Abs. 9 | Anordnung von notwendigen Maßnahmen zur Abwendung von Gefahren | LK/KfS
@@ -48,13 +52,14 @@ Entgegennahme und Weiterleitung der Angaben an das Robert Koch-Institut | LAVG
 7.10 | § 50 Satz 1 | Entgegennahme und Bearbeitung von Veränderungsanzeigen im Sinne von § 44 zur Tätigkeit mit Krankheitserregern | LAVG
 7.11 | § 51 Satz 1 | Ausübung der Aufsicht hinsichtlich der in § 44 genannten Tätigkeiten mit Krankheitserregern | LAVG
 8 Entschädigung in besonderen Fällen
-8.1 | § 56 Abs. 1a | Zahlung der Entschädigung sowie die Entgegennahme der Darlegung des Anspruchsberechtigten, dass keine zumutbare Betreuungsmöglichkeit sichergestellt werden konnte | LAVG
-8.2 | § 56 Abs. 4 | Erstattung von Mehraufwendungen und Ersatz von Betriebsausgaben auf Grund von Verdienstausfallzeiten | LAVG
-8.3 | § 56 Abs. 5 Satz 2 und 3 i. V. m. Abs. 11 Satz 3 | Zahlung und Erstattung von Entschädigungen für Arbeitnehmer infolge eines Tätigkeitsverbotes oder wegen Absonderung | LAVG
-8.4 | § 56 Abs. 12 | Zahlung von Vorschüssen auf Erstattungsbeträge oder Entschädigungen | LAVG
-8.5 | § 57 Abs. 1 Satz 4 | Erstattung von Rentenversicherungsbeiträgen | LAVG
-8.6 | § 57 Abs. 3 Satz 3 | Erstattung von Mehraufwendungen an die Unfallversicherungsträger | LAVG
-8.7 | § 58 Satz 1 | Erstattung von Aufwendungen für die soziale Sicherung | LAVG
+8.1 | § 56 Absatz 1 | Zahlung der Entschädigung sowie die Entgegennahme der Darlegung des Anspruchsberechtigten, dass er als Ausscheider, Ansteckungsverdächtiger, Krankheitsverdächtiger oder als sonstiger Träger von Krankheitserregern im Sinne von § 31 Satz 2 Verboten in der Ausübung seiner bisherigen Erwerbstätigkeit unterliegt oder unterworfen wird und dadurch einen Verdienstausfall erleidet | LASV
+8.2 | § 56 Abs. 1a | Zahlung der Entschädigung sowie die Entgegennahme der Darlegung des Anspruchsberechtigten, dass keine zumutbare Betreuungsmöglichkeit sichergestellt werden konnte | LASV
+8.3 | § 56 Abs. 4 | Erstattung von Mehraufwendungen und Ersatz von Betriebsausgaben auf Grund von Verdienstausfallzeiten | LASV
+8.4 | § 56 Abs. 5 Satz 2 und 3 i. V. m. Abs. 11 Satz 3 | Zahlung und Erstattung von Entschädigungen für Arbeitnehmer infolge eines Tätigkeitsverbotes oder wegen Absonderung | LASV
+8.5 | § 56 Abs. 12 | Zahlung von Vorschüssen auf Erstattungsbeträge oder Entschädigungen | LASV
+8.6 | § 57 Abs. 1 Satz 4 | Erstattung von Rentenversicherungsbeiträgen | LASV
+8.7 | § 57 Abs. 3 Satz 3 | Erstattung von Mehraufwendungen an die Unfallversicherungsträger | LASV
+8.8 | § 58 Satz 1 | Erstattung von Aufwendungen für die soziale Sicherung | LASV
 9 Straf- und Bußgeldvorschriften
 9.1 | § 73 | Verfolgung und Ahndung von Ordnungswidrigkeiten bei Zuwiderhandlungen gegen die §§ 47, 50, 51 des Infektionsschutzgesetzes | LAVG
 Verfolgung und Ahndung aller weiterer Ordnungswidrigkeiten nach dem Infektionsschutzgesetz | LK/KfS
