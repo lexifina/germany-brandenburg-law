@@ -52,7 +52,6 @@ Blatt-Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
 31 | Alt Töplitz | 2 | 2 500 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 Titel: Flurkarte zur Verordnung über das Landschaftsschutzgebiet „Potsdamer Wald- und Havelseengebiet“
 Blatt-Nr. | Gemarkung | Flur | Maßstab 1 : | Unterzeichnung
-33 | Alt Töplitz | 4 | 2 500 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 34 | Alt Töplitz | 5 | 2 500 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
 35 | Neu Töplitz | 1 | 3 000 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998998
 36 | Neu Töplitz | 2 | 3 000 | unterzeichnet von der Bearbeiterin Frau Nacke und gesiegelt mit dem Siegel des MUNR, Siegelnummer 9, am 08.07.1998
