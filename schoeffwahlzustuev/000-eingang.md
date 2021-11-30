@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung der Zuständigkeit für die Bestimmung der Verwaltungsbeamtinnen und Verwaltungsbeamten für die Ausschüsse zur Wahl der Schöffinnen und Schöffen
+Auf Grund des § 40 Absatz 2 Satz 2 des Gerichtsverfassungsgesetzes in der Fassung der Bekanntmachung vom 9. Mai 1975 (BGBl. I S. 1077), der durch Artikel 1 Nummer 4 Buchstabe b Doppelbuchstabe bb des Gesetzes vom 21. Dezember 2004 (BGBl. S. 3599) angefügt worden ist, verordnet die Landesregierung:
