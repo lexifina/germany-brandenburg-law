@@ -117,4 +117,4 @@
 § 98 Fristen und Termine sowie Schriftform
 § 98a Veröffentlichung von Wahldaten im Internet
 § 98b Einschränkung eines Grundrechts
-§ 99 Übergangsvorschrift
+§ 99 (außer Kraft getreten)
