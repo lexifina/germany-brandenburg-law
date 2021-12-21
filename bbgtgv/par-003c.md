@@ -1,0 +1,2 @@
+# § 3c Reisebeihilfe für Heimfahrten von minderjährigen Bediensteten
+Ein Beamter, der das 18. Lebensjahr noch nicht vollendet hat und kein Trennungsgeld nach § 3 der Trennungsgeldverordnung erhält, erhält für jeden halben Monat eine Reisebeihilfe für eine Heimfahrt zum Wohnort der Eltern oder Erziehungsberechtigten entsprechend § 5 der Trennungsgeldverordnung, wenn er nicht täglich an den Wohnort zurückkehrt und die tägliche Rückkehr nicht zuzumuten ist.
