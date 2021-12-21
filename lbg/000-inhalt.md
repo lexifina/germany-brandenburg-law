@@ -135,7 +135,7 @@
 § 111 Laufbahnen
 § 112 Gemeinschaftsunterkunft und -verpflegung
 § 113 Dienstkleidung
-§ 114 Heilfürsorge
+§ 114 Freie Heilfürsorge
 § 115 Gesundheitsfürsorge
 § 116 Polizeidienstunfähigkeit
 ## Unterabschnitt 3 Beamte des feuerwehrtechnischen Dienstes
