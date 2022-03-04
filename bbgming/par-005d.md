@@ -1,2 +1,6 @@
-# § 5d Gewährung von Übergangsgeld bei Untersagung
-Wird die Aufnahme einer Erwerbstätigkeit oder sonstigen Beschäftigung nach § 5c untersagt, so wird das Übergangsgeld für die Dauer der Untersagung entsprechend diesem Gesetz gewährt.
+# § 5d Beratendes Gremium
+(1) Die Mitglieder des beratenden Gremiums sollen Funktionen an der Spitze staatlicher oder gesellschaftlicher Institutionen wahrgenommen haben oder über Erfahrungen in einem wichtigen politischen Amt verfügen oder allseits anerkannte aktiv im Berufsleben stehende Persönlichkeiten sein. Sie werden auf Vorschlag der Landesregierung durch die Ministerpräsidentin oder den Ministerpräsidenten berufen und sind ehrenamtlich tätig.
+(2) Die Mitglieder des beratenden Gremiums sind auch nach ihrem Ausscheiden zur Verschwiegenheit über die ihnen bei oder bei Gelegenheit ihrer Tätigkeit bekannt gewordenen Angelegenheiten verpflichtet.
+(3) Die Mitglieder des beratenden Gremiums erhalten Ersatz für Reisekosten in entsprechender Anwendung der für Landesbeamtinnen und Landesbeamte geltenden Bestimmungen sowie Ersatz ihrer Auslagen. Die Geltendmachung und Erstattung erfolgt gegenüber und durch die Staatskanzlei.
+(4) Die Mitgliedschaft im beratenden Gremium endet mit dem Rücktritt eines Mitgliedes und mit jeder Beendigung des Amtes der Ministerpräsidentin oder des Ministerpräsidenten. Die Mitglieder des beratenden Gremiums üben ihre Tätigkeit so lange aus, bis neue Mitglieder nach Absatz 1 Satz 2 berufen worden sind. Wiederberufungen sind zulässig.
+(5) Für die Erfüllung seiner Aufgaben sind dem beratenden Gremium das notwendige Personal und die notwendige Sachausstattung zur Verfügung zu stellen.

@@ -4,4 +4,5 @@
 2. die Zusammenarbeit mit natürlichen oder juristischen Personen beinhaltet, die bereits bei der Amtsausübung von erheblicher Bedeutung war
 und dadurch das Vertrauen der Allgemeinheit in die Integrität der Landesregierung beeinträchtigen kann. Die Untersagung ist zu begründen.
 (2) Beabsichtigt die Landesregierung, dem Mitglied oder ehemaligen Mitglied der Landesregierung die Erwerbstätigkeit zu untersagen, begründet sie diese Absicht und gibt ihm Gelegenheit zur Stellungnahme.
-(3) Der Beschluss der Landesregierung ist zu veröffentlichen.
+(3) Die Landesregierung trifft ihre Entscheidung über eine Untersagung auf Empfehlung eines aus fünf Mitgliedern bestehenden beratenden Gremiums. Das beratende Gremium hat seine Empfehlung zu begründen. Es gibt seine Empfehlung nicht öffentlich ab.
+(4) Die Entscheidung nach Absatz 3 Satz 1 ist unter Mitteilung der Empfehlung des beratenden Gremiums zu veröffentlichen, soweit die Grundrechte auf Schutz der persönlichen Daten sowie Schutz der Privatsphäre in Abwägung mit dem Informationsinteresse der Allgemeinheit und dem Gebot der Transparenz staatlichen Handelns gewahrt werden.
