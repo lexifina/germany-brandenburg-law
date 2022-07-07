@@ -29,8 +29,8 @@ Artikel 21 Recht auf politische Mitgestaltung
 Artikel 22 Wahlen und Volksabstimmungen
 Artikel 23 Versammlungsfreiheit
 Artikel 24 Petitionsrecht
-## 4. Abschnitt: Rechte der Sorben/Wenden
-Artikel 25 Rechte der Sorben/Wenden
+## 4. Abschnitt: Rechte des sorbischen/wendischen Volkes und seiner Angehörigen
+Artikel 25 Rechte des sorbischen/wendischen Volkes und seiner Angehörigen
 ## 5. Abschnitt: Ehe, Familie, Lebensgemeinschaften und Kinder
 Artikel 26 Ehe, Familie und Lebensgemeinschaften
 Artikel 27 Schutz und Erziehung von Kindern und Jugendlichen
@@ -78,13 +78,13 @@ Artikel 61 Abgeordnetenanklage
 Artikel 62 Wahlperiode, Neuwahl
 Artikel 63 Wahlprüfung
 Artikel 64 Sitzungen
-Artikel 65 Beschlußfassung
+Artikel 65 Beschlussfassung
 Artikel 66 Anwesenheitspflicht und Zutrittsrecht
 Artikel 67 Fraktionen
 Artikel 68 Geschäftsordnung
 Artikel 69 Präsidium
 Artikel 70 Ausschüsse
-Artikel 71 Petitionsausschuß
+Artikel 71 Petitionsausschuss
 Artikel 72 Untersuchungsausschüsse
 Artikel 73 Enquete-Kommissionen
 Artikel 74 Landesbeauftragte
@@ -98,18 +98,18 @@ Artikel 80 Rechtsverordnungen
 Artikel 81 Verkündung, Inkrafttreten
 ## 3. Abschnitt: Die Landesregierung
 Artikel 82 Zusammensetzung
-Artikel 83 Wahl des Ministerpräsidenten
-Artikel 84 Ernennung und Entlassung der Minister
+Artikel 83 Wahl der Ministerpräsidentin oder des Ministerpräsidenten
+Artikel 84 Ernennung und Entlassung der Ministerinnen und Minister
 Artikel 85 Beendigung der Amtszeit
-Artikel 86 Konstruktives Mißtrauensvotum
+Artikel 86 Konstruktives Misstrauensvotum
 Artikel 87 Vertrauensfrage
 Artikel 88 Eid
 Artikel 89 Willensbildung
-Artikel 90 Vorsitz, Beschlußfassung, Geschäftsführung
+Artikel 90 Vorsitz, Beschlussfassung, Geschäftsführung
 Artikel 91 Vertretungsbefugnis, Verträge
 Artikel 92 Begnadigungsrecht
-Artikel 93 Beamte
-Artikel 94 Unterrichtungspflicht der Regierung
+Artikel 93 Beamtinnen und Beamten
+Artikel 94 Unterrichtungspflicht der Landesregierung
 Artikel 95 Unvereinbarkeit
 ## 4. Abschnitt: Die Verwaltung
 Artikel 96 Verwaltungsorganisation
@@ -127,13 +127,13 @@ Artikel 106 Rechnungslegung und Rechnungsprüfung
 Artikel 107 Landesrechnungshof
 ## 6. Abschnitt: Die Rechtspflege
 Artikel 108 Rechtsprechung
-Artikel 109 Berufung der Richter
-Artikel 110 Ehrenamtliche Richter
+Artikel 109 Berufung der Richterinnen und Richter
+Artikel 110 Ehrenamtliche Richterinnen und Richter
 Artikel 111 Richteranklage
 Artikel 112 Verfassungsgericht
 Artikel 113 Zuständigkeit des Verfassungsgerichtes
 ## 7. Abschnitt: Übergangs- und Schlußbestimmungen
-Artikel 114 Errichtung des Verfassungsgerichtes
+Artikel 114 (weggefallen)
 Artikel 115 Verfassungsgebende Versammlung
 Artikel 116 Neugliederung des Raumes Brandenburg-Berlin
 Artikel 117 Inkrafttreten der Verfassung
