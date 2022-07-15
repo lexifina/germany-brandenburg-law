@@ -1,6 +1,6 @@
 # § 12a
-(1) Sind zur Bekämpfung übertragbarer Krankheiten Gebote und Verbote durch Rechtsverordnung auf Grundlage des § 32 des Infektionsschutzgesetzes erlassen worden, die Auswirkungen auf den Personalbedarf in der Kindertagesstätte haben, können Unterstützungskräfte für die Dauer der Wirksamkeit dieser Rechtsverordnung nach Maßgabe des Absatzes 2 eingesetzt werden.
-(2) Zur Unterstützung einer Fachkraft, der die pädagogische Verantwortung für die Erziehung, Bildung, Betreuung und Versorgung der Kinder einer Gruppe entsprechend der jeweils geltenden infektionsschutzrechtlichen Rahmenbedingungen obliegt, können persönlich und gesundheitlich geeignete
+(1) Bis zum Ablauf des 31. Juli 2023 können Unterstützungskräfte nach Maßgabe des Absatzes 2 eingesetzt werden.
+(2) Zur Unterstützung einer Fachkraft, der die pädagogische Verantwortung für die Erziehung, Bildung, Betreuung und Versorgung der Kinder einer Gruppe obliegt, können persönlich und gesundheitlich geeignete
 1. Sozialarbeiterinnen und -arbeiter,
 2. Sozialassistentinnen und -assistenten,
 3. Heilerziehungspflegerinnen und -pfleger,
