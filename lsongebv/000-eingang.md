@@ -1,0 +1,2 @@
+# Verordnung über die Erhebung von Gebühren für Sondernutzungen an Landesstraßen (Sondernutzungsgebührenverordnung Landesstraßen - LSonGebV)
+Auf Grund der §§ 2 Abs. 2 und 24 Abs. 2 des Gebührengesetzes vom 18. Oktober 1991 (GVBl. S. 452) und § 21 des Brandenburgischen Straßengesetzes vom 11. Juni 1992 (GVBl. I S. 186) verordnet der Minister für Stadtentwicklung, Wohnen und Verkehr des Landes Brandenburg im Einvernehmen mit dem Minister des Innern und dem Minister der Finanzen:
