@@ -1,0 +1,2 @@
+# Verordnung über die Zulassung von Ausnahmen von den Schutzvorschriften für den Wolf (Brandenburgische Wolfsverordnung - BbgWolfV)
+Auf Grund des § 45 Absatz 7 Satz 4 des Bundesnaturschutzgesetzes vom 29. Juli 2009 (BGBl. I S. 2542), in Verbindung mit § 30 Absatz 4 Satz 1 des Brandenburgischen Naturschutzausführungsgesetzes vom 21. Januar 2013 (GVBl. I Nr. 3) und § 1 Absatz 2 Satz 2 der Naturschutzzuständigkeitsverordnung vom 27. Mai 2013 (GVBl. II Nr. 43) verordnet der Minister für Landwirtschaft, Umwelt und Klimaschutz:
