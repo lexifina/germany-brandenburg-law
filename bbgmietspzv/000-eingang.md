@@ -1,0 +1,2 @@
+# Verordnung zur Bestimmung der für die Erstellung und Anerkennung von Mietspiegeln im Land Brandenburg nach Landesrecht zuständigen Behörden (Brandenburgische Mietspiegelzuständigkeitsverordnung - BbgMietspZV)
+Auf Grund des § 6 Absatz 2 in Verbindung mit § 12 Absatz 1 Satz 2 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186), von denen durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28 S. 2) § 6 Absatz 2 geändert und § 12 Absatz 1 Satz 2 eingefügt worden ist, verordnet die Landesregierung:
