@@ -1,0 +1,1 @@
+# Verordnung über die Ausbildung und Prüfung für die Laufbahn des höheren feuerwehrtechnischen Dienstes im Land Brandenburg (Ausbildungs- und Prüfungsordnung höherer feuerwehrtechnischer Dienst - APOhDFeu)
