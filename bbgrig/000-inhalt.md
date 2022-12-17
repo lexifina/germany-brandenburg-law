@@ -8,7 +8,8 @@
 § 6 Freistellungen und berufliches Fortkommen
 § 7 Beteiligung der Spitzenorganisationen
 § 8 Verschwiegenheitspflicht
-§ 9 Dienstliche Beurteilungen, Stellenausschreibungen
+§ 9 Dienstliche Beurteilungen, Beförderungen, Verordnungsermächtigungen, Stellenausschreibungen
+§ 9a Richterliche Gleichstellungsbeauftragte
 § 10 Geltung des Beamtenrechts und Freistellung von Verfassungsrichterinnen und Verfassungsrichtern
 ## Kapitel 2 Richterwahlausschuss
 § 11 Zuständigkeit des Richterwahlausschusses
@@ -23,11 +24,12 @@
 § 20 Einberufung
 § 21 Sitzung
 § 22 Beschlussfassung, Stellvertretung
+§ 22a Wahl zur Besetzung von Spitzenpositionen
 § 23 Übernahme und Entlassung von Richterinnen und Richtern auf Probe und Richterinnen und Richtern kraft Auftrags
 § 24 Geschäftsordnung
 § 25 Entschädigung
-## Kapitel 3 Richtervertretungen und Vertretungen ehrenamtlicher Richterinnen und Richter
-## Abschnitt 1 Gemeinsame Vorschriften
+## Kapitel 3 Richtervertretungen, Kontrollgremium IT und Vertretungen ehrenamtlicher Richterinnen und Richter
+## Abschnitt 1 Gemeinsame Vorschriften für die Richtervertretungen
 § 26 Richterrat und Präsidialrat
 § 27 Rechtsstellung der Mitglieder, Geschäftsordnung
 § 28 Amtszeit
@@ -45,7 +47,7 @@
 § 39 Zuständigkeit der Richterräte
 § 40 Gemeinsame Angelegenheiten
 § 41 Mitbestimmung
-§ 42 Mitwirkung
+§ 42 (weggefallen)
 § 43 Initiativrecht
 § 44 Arbeitsschutz und Unfallverhütung
 § 45 Beteiligungsgrundsätze
@@ -54,7 +56,7 @@
 § 48 Verfahren vor der Einigungsstelle
 § 49 Beschlussfassung der Einigungsstelle
 § 50 Aufhebung bindungsgeeigneter Beschlüsse der Einigungsstelle
-§ 51 Verfahren bei der Mitwirkung
+§ 51 (weggefallen)
 § 52 Vorläufige Regelungen
 § 53 Dienstvereinbarungen
 § 54 Gesamtrichterräte, Hauptrichter- und Hauptstaatsanwaltsrat
@@ -67,7 +69,10 @@
 § 60 Aufgaben
 § 61 Stellungnahme des Präsidialrats
 § 62 Neuwahl
-## Abschnitt 4 Vertretung ehrenamtlicher Richterinnen und Richter
+## Abschnitt 4 Kontrollgremium IT
+§ 62a Kontrollgremium IT
+§ 62b Aufgaben
+## Abschnitt 5 Vertretung ehrenamtlicher Richterinnen und Richter
 § 63 Bildung der Vertretung ehrenamtlicher Richterinnen und Richter
 ## Kapitel 4 Richterdienstgerichte
 ## Abschnitt 1 Errichtung und Zuständigkeit
@@ -114,8 +119,6 @@
 ## Kapitel 7 Gemeinsame Gerichte
 § 99 Errichtung gemeinsamer Fachobergerichte der Länder Berlin und Brandenburg
 ## Kapitel 8 Übergangs- und Schlussvorschriften
-§ 100 Richterliche und staatsanwaltliche Beteiligungsgremien
-§ 101 Richterwahlausschuss
-§ 102 Laufende Verfahren vor dem Dienstgericht und laufende Disziplinarverfahren
-§ 103 Evaluation, Reform des Richterdienstrechts
-§ 104 Ausführung des Richterwahlgesetzes
+§ 100 Laufende Verfahren vor dem Dienstgericht und laufende Disziplinarverfahren
+§ 101 Evaluation
+§ 102 Ausführung des Richterwahlgesetzes
