@@ -1,0 +1,2 @@
+# Verordnung über die Übertragung der Ermächtigung zum Erlass von Gebührenordnungen nach dem Straßenverkehrsgesetz (StVG-Gebührenermächtigungs-Übertragungsverordnung - StVGGebEÜV)
+Auf Grund des § 6 a Abs. 6 Satz 10 und Abs. 7 des Straßenverkehrsgesetzes vom 03. Mai 1909 (RGBl. S. 437) in der Fassung der Bekanntmachung vom 19. Dezember 1952 (BGBl. I S. 837), zuletzt geändert durch Artikel 1 Nr. 6 des Gesetzes vom 06. April 1980 (BGBl. I S. 413) verordnet die Landesregierung:
