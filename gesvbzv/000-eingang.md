@@ -1,0 +1,4 @@
+# Verordnung über die Zuständigkeiten zur Durchführung des Rechts der Heil- und Fachberufe im Gesundheits- und Veterinärwesen (Gesundheits- und Veterinärberufe-Zuständigkeitsverordnung - GesVBZV)
+Auf Grund
+des § 6 Absatz 2 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186), der durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28 S. 2) geändert worden ist, und des § 36 Absatz 2 Satz 1 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) verordnet die Landesregierung und
+auf Grund des § 12 Absatz 2 des Gesetzes über die Weiterbildung und Fortbildung in den Fachberufen des Gesundheitswesens vom 18. März 1994 (GVBl. I S. 62) verordnet die Ministerin für Soziales, Gesundheit, Integration und Verbraucherschutz im Einvernehmen mit dem Minister des Innern und für Kommunales:
