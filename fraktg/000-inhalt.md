@@ -3,6 +3,7 @@
 § 3 Aufgaben
 § 4 Geschäftsordnung der Fraktion
 § 5 Fraktionsmitarbeiterinnen und Fraktionsmitarbeiter
+§ 5a Geheimhaltungspflicht der Fraktionsmitarbeiterinnen und -mitarbeiter
 ## Abschnitt 2 Finanzen
 § 6 Mittel zur Deckung des allgemeinen Bedarfs
 § 7 Zweckbindung

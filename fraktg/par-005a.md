@@ -1,0 +1,4 @@
+# § 5a Geheimhaltungspflicht der Fraktionsmitarbeiterinnen und -mitarbeiter
+(1) Mitarbeiterinnen und Mitarbeiter der Fraktionen sind, auch nach Beendigung ihres Beschäftigungsverhältnisses, verpflichtet, über die ihnen bei ihrer Tätigkeit bekannt gewordenen Angelegenheiten Verschwiegenheit zu bewahren. Dies gilt nicht für Tatsachen, die offenkundig sind oder ihrer Bedeutung nach keiner Geheimhaltung bedürfen.
+(2) Mitarbeiterinnen und Mitarbeiter der Fraktionen dürfen, auch nach Beendigung ihres Beschäftigungsverhältnisses, ohne Genehmigung über solche Angelegenheiten weder vor Gericht noch außergerichtlich aussagen oder Erklärungen abgeben. Die Genehmigung erteilt die oder der jeweilige Fraktionsvorsitzende.
+(3) Für Honorarkräfte bei den Fraktionen, die für die Fraktion den Aufgaben der Fraktionsmitarbeiterinnen und Fraktionsmitarbeiter vergleichbare Aufgaben wahrnehmen, gelten die Absätze 1 und 2 entsprechend.
