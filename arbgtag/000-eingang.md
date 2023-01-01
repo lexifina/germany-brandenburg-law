@@ -1,0 +1,2 @@
+# Verordnung über die Abhaltung von Gerichtstagen in der Arbeitsgerichtsbarkeit
+Auf Grund des § 14 Absatz 4 Satz 2 und 3 des Arbeitsgerichtsgesetzes in der Fassung der Bekanntmachung vom 2. Juli 1979 (BGBl. I S. 853, 1036), der zuletzt durch Artikel 1 Nummer 3 des Gesetzes vom 20. März 2000 (BGBl. I S. 333) geändert worden ist, in Verbindung mit § 1 Nummer 2 der Justiz-Zuständigkeitsübertragungsverordnung vom 9. April 2014 (GVBl. II Nr. 23), der durch die Verordnung vom 11. Dezember 2020 (GVBl. II Nr. 121) geändert worden ist, verordnet die Ministerin der Justiz:
