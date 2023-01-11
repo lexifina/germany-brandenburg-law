@@ -1,0 +1,9 @@
+# Verordnung über die beamtenrechtlichen Zuständigkeiten im Geschäftsbereich des Ministeriums für Wirtschaft, Arbeit, Energie und Klimaschutz (Beamtenrechtszuständigkeitsverordnung MWAEK - BZVMWAEK)
+Auf Grund des § 6 Absatz 1 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186), der durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28) geändert worden ist, in Verbindung mit
+§ 4 Absatz 1 Satz 2 des Landesbeamtengesetzes vom 3. April 2009 (GVBl. I S. 26) in Verbindung mit § 1 Absatz 1 Satz 2 und Absatz 3 Satz 1 der Ernennungsverordnung vom 1. August 2004 (GVBl. II S. 742),
+§ 32 Absatz 1 Satz 1, § 38 Satz 2, § 54 Absatz 1, § 56 Absatz 1 Satz 5, § 57 Absatz 1 Satz 2, § 69 Absatz 5 Satz 1, § 84 Satz 2, § 85 Absatz 4 Satz 4, § 86 Absatz 3, § 87 Absatz 1 Satz 2 Nummer 1, § 88 Absatz 5, § 89 Satz 2, § 92 Absatz 2 Halbsatz 2 und § 103 Absatz 2 des Landesbeamtengesetzes, von denen durch das Gesetz vom 29. Juni 2018 (GVBl. I Nr. 17) § 85 Absatz 4 Satz 4, § 86 Absatz 3, § 87 Absatz 1 Satz 2 Nummer 1 und § 88 Absatz 5 neu gefasst sowie § 89 Satz 2 geändert worden sind,
+§ 64 Absatz 1 Satz 1 des Landesbeamtengesetzes, der durch das Gesetz vom 11. März 2010 (GVBl. I Nr. 13) neu gefasst worden ist, in Verbindung mit § 6 Satz 2 der Dienstjubiläumsverordnung vom 18. Dezember 2014 (BGBl. I S. 2267),
+§ 54 Absatz 3 Satz 2 des Beamtenstatusgesetzes vom 17. Juni 2008 (BGBl. I S. 1010),
+§ 25 des Landesbeamtengesetzes, der zuletzt durch das Gesetz vom 29. Juni 2018 (GVBl. I Nr. 17) geändert worden ist, in Verbindung mit § 2 Absatz 2, § 4 Absatz 4, § 9 Absatz 4 Satz 3, § 21 Absatz 3 Satz 1 und § 30 Absatz 1 der Laufbahnverordnung vom 1. Oktober 2019 (GVBl. II Nr. 82),
+§ 13 Absatz 2 Satz 3, § 16 Absatz 2 Satz 2 und § 58 Absatz 1 des Brandenburgischen Besoldungsgesetzes vom 20. November 2013 (GVBl. I Nr. 32, Nr. 34)
+verordnet der Minister für Wirtschaft, Arbeit und Energie:
