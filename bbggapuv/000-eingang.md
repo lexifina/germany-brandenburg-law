@@ -1,0 +1,8 @@
+# Verordnung zur Umsetzung der Rechtsvorschriften der Gemeinsamen Agrarpolitik im Land Brandenburg (Brandenburgische GAP-Umsetzungs-Verordnung - BbgGAPUV)
+Auf Grund des
+§ 1 der GAP-Subdelegationsverordnung vom 18. Januar 2023 (GVBl. II Nr. 6)
+§ 23 Absatz 4 in Verbindung mit Absatz 1 des GAP-Konditionalitäten-Gesetzes vom 16. Juli 2021 (BGBl. I S. 2996, 2022 I S. 2262) sowie in Verbindung mit § 11 und § 16 Absatz 1 Satz 2 bis 4 und Absatz 5 der GAP-Konditionalitäten-Verordnung vom 7. Dezember 2022 (BGBl. I S. 2244), von denen § 11 durch Artikel 1 der Verordnung vom 9. Dezember 2022 (BGBl. I S. 2273) geändert worden ist,
+§ 6 Absatz 5 in Verbindung mit Absatz 1 Nummer 2 des Marktorganisationsgesetzes in der Fassung der Bekanntmachung vom 7. November 2017 (BGBl. I S. 3746) sowie in Verbindung mit § 2 des GAP-Direktzahlungen-Gesetzes vom 16. Juli 2021 (BGBl. I S. 3003) und § 17 Absatz 3 und 5 der GAP-Direktzahlungen-Verordnung vom 24. Januar 2022 (BGBl. I S. 139), von denen der § 17 Absatz 3 durch Artikel 1 der Verordnung vom 30. November 2022 (BAnz AT 1.12.2022 V1) geändert worden ist,
+§ 17 Absatz 3 in Verbindung mit Absatz 1 Satz 2 Nummer 1 des GAP-Integriertes Verwaltungs- und Kontrollsystem-Gesetzes vom 10. August 2021 (BGBl. I S. 3523) sowie in Verbindung mit § 3 Absatz 3 Satz 3 und § 5 Absatz 1 der GAPInVeKoS-Verordnung vom 19. Dezember 2022 (BAnz AT 19. Dezember 2022 V1),
+§ 6 Absatz 2 und 4 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186), der durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28 S. 2) geändert worden ist, in Verbindung mit § 29 Absatz 2 der GAP-Konditionalitäten-Verordnung vom 7. Dezember 2022 (BGBl. I S. 2244)
+verordnet der Minister für Landwirtschaft, Umwelt und Klimaschutz:
