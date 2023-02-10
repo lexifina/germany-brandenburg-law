@@ -3,9 +3,9 @@
 § 3 Zahl der Lehrkräfte
 § 4 Lehrkräfte
 § 5 Schulleitung
-§ 6 Standort der Schule und Standort des Schulzentrums
+§ 6 Standort der Schule
 § 7 Räumliche und sächliche Ausstattung der Schule
-§ 8 Praktische Ausbildung
+§ 8 Theoretischer und praktischer Unterricht sowie praktische Ausbildung
 § 8a Praktische Ausbildung nach dem Pflegeberufegesetz
 § 9 Ausbildungsunterlagen und Schulunterlagen
 § 10 Aufsicht und Informationspflichten
