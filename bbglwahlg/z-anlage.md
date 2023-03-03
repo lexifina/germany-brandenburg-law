@@ -30,7 +30,7 @@ Stadt Rathenow
 Amt Rhinow
 Gemeinde Wusterhausen/Dosse
 ### Wahlkreis 5 (Havelland I):
-Gemeinde Brieselang zum Gebietsstand 1. Januar 2019
+Gemeinde Brieselang
 Amt Friesack
 Stadt Ketzin/Havel
 Stadt Nauen
@@ -38,7 +38,7 @@ Amt Nennhausen
 Gemeinde Wustermark
 ### Wahlkreis 6 (Havelland II):
 Gemeinde Dallgow-Döberitz
-Stadt Falkensee zum Gebietsstand 1. Januar 2019
+Stadt Falkensee
 Gemeinde Schönwalde-Glien
 ### Wahlkreis 7 (Oberhavel I):
 Stadt Hennigsdorf
@@ -72,7 +72,7 @@ Stadt Prenzlau
 Gemeinde Uckerland
 ### Wahlkreis 12 (Uckermark II):
 Amt Gartz (Oder)
-Amt Oder-Welse
+Gemeinde Pinnow
 Stadt Schwedt/Oder
 ### Wahlkreis 13 (Barnim I):
 Stadt Eberswalde
@@ -89,6 +89,7 @@ Gemeinde Wandlitz
 Stadt Werneuchen
 ### Wahlkreis 16 (Brandenburg an der Havel I/Potsdam-Mittelmark I):
 Amt Beetzsee
+Amt Brück
 Gemeinde Groß Kreutz (Havel)
 Gemeinde Kloster Lehnin
 Amt Wusterwitz
@@ -99,14 +100,13 @@ von der Stadt Brandenburg an der Havel die Stadt- oder Ortsteile Altstadt, Dom, 
 ### Wahlkreis 18 (Potsdam-Mittelmark II):
 Stadt Beelitz
 Stadt Bad Belzig
-Amt Brück
 Gemeinde Michendorf
 Amt Niemegk
+Gemeinde Schwielowsee
 Gemeinde Seddiner See
 Stadt Treuenbrietzen
 Gemeinde Wiesenburg/Mark
 ### Wahlkreis 19 (Potsdam-Mittelmark III/Potsdam III):
-Gemeinde Schwielowsee
 Stadt Werder (Havel)
 von der Landeshauptstadt die Orts- oder Stadtteile Bornim, Bornstedt, Eiche, Fahrland, Golm, Groß Glienicke, Grube, Marquardt, Nedlitz, Neu Fahrland, Sacrow, Satzkorn und Uetz-Paaren (ohne die Teile, die zum Wahlkreis 21 oder 22 gehören)
 ### Wahlkreis 20 (Potsdam-Mittelmark IV):
@@ -128,7 +128,6 @@ Stadt Trebbin
 Amt Dahme/Mark
 Stadt Jüterbog
 Stadt Luckenwalde
-Gemeinde Niederer Fläming
 Gemeinde Niedergörsdorf
 ### Wahlkreis 25 (Teltow-Fläming III):
 Stadt Baruth/Mark
@@ -170,7 +169,6 @@ Stadt Fürstenwalde/Spree
 Gemeinde Grünheide (Mark)
 Amt Odervorland
 Gemeinde Rietz-Neuendorf
-Gemeinde Steinhöfel
 ### Wahlkreis 31 (Märkisch-Oderland I/Oder-Spree IV):
 Stadt Erkner
 Gemeinde Hoppegarten
@@ -194,26 +192,23 @@ Amt Lebus
 Gemeinde Letschin
 Amt Märkische Schweiz
 Stadt Müncheberg
-Amt Neuhardenberg
 Stadt Seelow
 Amt Seelow-Land
 ### Wahlkreis 35 (Frankfurt [Oder]):
 Stadt Frankfurt (Oder)
 ### Wahlkreis 36 (Elbe-Elster I):
-Stadt Falkenberg/Elster
 Stadt Finsterwalde
 Stadt Herzberg (Elster)
 Amt Kleine Elster (Niederlausitz)
+von der Verbandsgemeinde Liebenwerda die Stadt Falkenberg/Elster und die Stadt Uebigau-Wahrenbrück
 Amt Schlieben
 Stadt Schönewalde
 Stadt Sonnewalde
-Stadt Uebigau-Wahrenbrück
 ### Wahlkreis 37 (Elbe-Elster II):
-Stadt Bad Liebenwerda
 Stadt Doberlug-Kirchhain
 Amt Elsterland
 Stadt Elsterwerda
-Stadt Mühlberg/Elbe
+von der Verbandsgemeinde Liebenwerda die Stadt Bad Liebenwerda und die Stadt Mühlberg/Elbe
 Amt Plessa
 Gemeinde Röderland
 Amt Schradenland
