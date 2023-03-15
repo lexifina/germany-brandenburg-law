@@ -6,7 +6,7 @@
 § 4 Führung der Bezeichnung Prüfsachverständiger
 § 5 Voraussetzungen für die Anerkennung
 § 6 Prüfungsausschuss
-§ 7 Anerkennungsverfahren
+§ 7 Aufsicht und Anerkennungsverfahren
 § 8 Erlöschen, Widerruf und Rücknahme der Anerkennung
 § 9 Gegenseitige Anerkennung
 ## Abschnitt 2 Besondere Voraussetzungen für einzelne Fachbereiche und Fachrichtungen
@@ -16,5 +16,7 @@
 ## Abschnitt 3 Schlussvorschriften
 § 13 Vergütung
 § 14 Ordnungswidrigkeiten
-§ 15 Übergangsregelungen
+§ 15 (weggefallen)
 § 16 Inkrafttreten, Außerkrafttreten
+Anlage 1
+Anlage 2
