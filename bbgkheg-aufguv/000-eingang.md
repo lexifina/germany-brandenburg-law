@@ -1,0 +1,1 @@
+# Verordnung zur Übertragung von Aufgaben nach dem Brandenburgischen Krankenhausentwicklungsgesetz auf das Landesamt für Soziales und Versorgung (BbgKHEG-Aufgabenübertragungsverordnung - BbgKHEG-AufgÜV)
