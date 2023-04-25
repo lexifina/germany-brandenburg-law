@@ -3,4 +3,4 @@
 2Anlage 2 - Gebiete von gemeinschaftlicher Bedeutung 7.6 MB
 3Anlage 3 - Ökologische Erfordernisse für einen günstigen Erhaltungszustand der natürlichen Lebensraumtypen nach Anhang I der Richtlinie 92/43/EWG 301.5 KB
 4Anlage 4 - Ökologische Erfordernisse für einen günstigen Erhaltungszustand von Tier- und Pflanzenarten nach Anhang II der Richtlinie 92/43/EWG 257.6 KB
-5Anlage 5 - Übersichtskarte, Topografische Karten 159.9 KB
+5Anlage 5 - Übersichtskarte, Topografische Karten 18.4 KB
