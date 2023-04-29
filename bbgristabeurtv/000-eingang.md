@@ -1,0 +1,2 @@
+# Verordnung über die dienstliche Beurteilung der Richterinnen und Richter sowie Staatsanwältinnen und Staatsanwälte im Land Brandenburg (Brandenburgische Beurteilungsverordnung für die Richter- und Staatsanwaltschaft - BbgRiStABeurtV)
+Auf Grund des § 9 Absatz 4 des Brandenburgischen Richtergesetzes vom 12. Juli 2011 (GVBl. I Nr. 18), der durch das Gesetz vom 16. Dezember 2022 (GVBl. I Nr. 32) neu gefasst worden ist, verordnet die Ministerin der Justiz:
