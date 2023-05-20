@@ -1,6 +1,6 @@
+## 
 # Anhang 2 zur Anlage der Abfall- und Bodenschutz-Zuständigkeitsverordnung
 ### Abfallrechtliche Überwachungszuständigkeit im Land Brandenburg für stillgelegte oder nicht mehr betriebene und illegale Abfalllager und Ablagerungen – Stand 03.11.2008
-Niederbarnimer Baugesellschaft mbH Frankfurter Straße 52 Fürstenwalde
 Anlagenname, Standort | Zuständigkeit
 Stadt Brandenburg an der Havel
 Magnum Enterprises Caasmannstraße 5 Stadt Brandenburg | LfU
