@@ -1,0 +1,1 @@
+# Verordnung über die Zuständigkeiten in der Marktüberwachung zum Produktsicherheitsrecht, Recht über ortsbewegliche Druckgeräte, energieverbrauchsrelevante Produkte und Energieverbrauchskennzeichnung (Produktsicherheits- und Energieverbrauchsrecht-Zuständigkeitsverordnung - ProdSEVZV)
