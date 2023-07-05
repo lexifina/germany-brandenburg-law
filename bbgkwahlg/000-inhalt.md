@@ -5,7 +5,7 @@
 § 3 Begriffsbestimmungen
 § 4 Wahlperiode
 § 5 Wahlsystem
-§ 6 Anzahl der Vertreter
+§ 6 Anzahl der Vertreterinnen und Vertreter
 § 7 Wahltag; Wahlzeit
 ## Abschnitt 2 Wahlberechtigung; Wählbarkeit
 § 8 Sachliche Voraussetzungen der Wahlberechtigung
@@ -17,21 +17,22 @@
 ## Unterabschnitt 1 Wahlleitung
 § 13 Wahlbehörden
 § 14 Gliederung der Wahlorgane
-§ 15 Wahlleiter
+§ 15 Wahlleiterin und Wahlleiter
 § 16 Wahlausschuss
-§ 17 Wahlvorsteher
+§ 17 Berufung der Wahlvorsteherinnen und Wahlvorsteher
 § 18 Wahlvorstand
+§ 18a Auszählungsvorstand
 § 19 Zentrale Wahlaufgaben
 ## Unterabschnitt 2 Wahlkreise und Wahlbezirke
 § 20 Wahlkreise
 § 21 Abgrenzung der Wahlkreise
 § 22 Wahlbezirke und Wahllokale
-## Unterabschnitt 3 Wählerverzeichnisse und Wahlscheine
-§ 23 Führung der Wählerverzeichnisse
-§ 24 Rechtsbehelfe gegen das Wählerverzeichnis
+## Unterabschnitt 3 Wahlberechtigtenverzeichnisse und Wahlscheine
+§ 23 Wahlberechtigtenverzeichnis
+§ 24 Einspruch gegen das Wahlberechtigtenverzeichnis und Beschwerde
 § 25 Ausstellung eines Wahlscheines
 ## Unterabschnitt 4 Wahlbekanntmachung
-§ 26 Wahlbekanntmachung des Wahlleiters
+§ 26 Wahlbekanntmachung der Wahlleiterin oder des Wahlleiters
 ## Unterabschnitt 5 Wahlvorschläge
 § 27 Einreichung der Wahlvorschläge
 § 28 Inhalt der Wahlvorschläge
@@ -40,8 +41,9 @@
 § 30 Beschränkungen hinsichtlich der Wahlvorschläge
 § 31 Vertrauensperson
 § 32 Listenvereinigungen
-§ 33 Bestimmung der Bewerber
-§ 34 Rücktritt und Tod von Bewerbern
+§ 33 Bestimmung der Bewerbenden
+§ 33a Sonderregelungen im Falle einer Pandemie oder anderen Notlage
+§ 34 Rücktritt und Tod von Bewerbenden
 § 35 Änderung und Zurückziehung von Wahlvorschlägen
 § 36 Vorprüfung der Wahlvorschläge; Mängelbeseitigung
 § 37 Zulassung der Wahlvorschläge; Rechtsbehelf
@@ -70,24 +72,24 @@
 § 56 Entscheidung über die Gültigkeit der Wahl
 § 57 Inhalt der Entscheidung
 § 58 Zustellung der Entscheidung und Rechtsbehelf
-## Abschnitt 7 Ausscheiden und Nachrücken von Vertretern
-§ 59 Verlust der Rechtsstellung eines Vertreters
+## Abschnitt 7 Ausscheiden und Nachrücken von Vertreterinnen und Vertretern
+§ 59 Verlust der Rechtsstellung einer Vertreterin oder eines Vertreters
 § 60 Berufung von Ersatzpersonen
 § 61 Ausscheiden von Ersatzpersonen
 § 62 Folgen eines Partei- oder Vereinigungsverbotes
-## Abschnitt 8 Unmittelbare Wahl der Bürgermeister und Oberbürgermeister
+## Abschnitt 8 Unmittelbare Wahl der Bürgermeisterinnen und Bürgermeister sowie Oberbürgermeisterinnen und Oberbürgermeister
 § 63 Entsprechende Anwendung von Vorschriften
 § 64 Wahltag; Wahlzeit
 § 65 Wählbarkeit
 § 66 (weggefallen)
-§ 67 Wählerverzeichnis für die Stichwahl
+§ 67 Wahlberechtigtenverzeichnis für die Stichwahl
 § 68 Wahlschein
 § 69 Einreichung der Wahlvorschläge
 § 70 Inhalt der Wahlvorschläge
-§ 71 Tod von Bewerbern
+§ 71 Tod von Bewerbenden
 § 72 Wahl
-§ 73 Amtszeit der ehrenamtlichen Bürgermeister
-§ 74 Amtszeit der hauptamtlichen Bürgermeister und Oberbürgermeister
+§ 73 Amtszeit der ehrenamtlichen Bürgermeisterinnen und Bürgermeister
+§ 74 Amtszeit der hauptamtlichen Bürgermeisterinnen und Bürgermeister sowie Oberbürgermeisterinnen und Oberbürgermeister
 § 75 Stimmzettel
 § 76 Stimmabgabe
 § 77 Feststellung des Ergebnisses
@@ -95,16 +97,17 @@
 § 79 Wahleinspruch
 § 80 Beschluss der Vertretung; Rechtsbehelf
 § 81 Abwahl
-§ 82 Verlust der Rechtsstellung eines Bürgermeisters oder Oberbürgermeisters
-## Abschnitt 9 Unmittelbare Wahl der Landräte
-§ 83 Wahl und Abwahl der Landräte
-## Abschnitt 10 Unmittelbare Wahl der Ortsbeiräte und Ortsvorsteher
+§ 82 Verlust der Rechtsstellung einer Bürgermeisterin oder eines Bürgermeisters oder einer
+Oberbürgermeisterin oder eines Oberbürgermeisters
+## Abschnitt 9 Unmittelbare Wahl der Landrätinnen und Landräte
+§ 83 Wahl und Abwahl der Landrätinnen und Landräte
+## Abschnitt 10 Unmittelbare Wahl der Ortsbeiräte sowie Ortsvorsteherinnen und Ortsvorsteher
 § 84 Anwendbarkeit von Vorschriften
 § 85 Wahltag und Wahlzeit
 § 86 Wahlberechtigung, Wählbarkeit und Inkompatibilität
 § 87 Wahlorgane
 § 88 Wahlgebiet, Wahlkreis und Wahlbezirk
-§ 89 Bestimmung der Bewerber
+§ 89 Bestimmung der Bewerbenden
 § 90 Wahlprüfung
 § 91 Rechtsfolgen von abgesagten oder gescheiterten Wahlen
 ## Abschnitt 11 Gemeinsame Schlussvorschriften
@@ -112,7 +115,7 @@
 § 93 Ordnungswidrigkeiten
 § 94 Kosten
 § 95 Statistik
-§ 96 Maßgebende Einwohnerzahl
+§ 96 Maßgebende Zahl der Einwohnerinnen und Einwohner
 § 97 Durchführung des Gesetzes
 § 98 Fristen und Termine sowie Schriftform
 § 98a Veröffentlichung von Wahldaten im Internet
