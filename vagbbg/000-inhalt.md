@@ -2,7 +2,7 @@
 ## Abschnitt 1 Allgemeines
 § 1 Anwendungsbereich
 § 2 Begriffsbestimmungen
-§ 3 Mitwirkung der Ämter und amtsfreien Gemeinden, Landkreise und kreisfreien Städte
+§ 3 Mitwirkung der Ämter, Verbandsgemeinden und amtsfreien Gemeinden, Landkreise und kreisfreien Städte; Abstimmungsbehörden
 ## Abschnitt 2 Volksinitiative
 § 4 Recht auf Beteiligung
 § 4a Beratung
@@ -10,7 +10,7 @@
 § 6 Förmliche Voraussetzungen
 § 7 (aufgehoben)
 § 8 Unterschriftsbogen
-§ 9 Beschluß über die Zulässigkeit
+§ 9 Beschluss über die Zulässigkeit
 § 10 Unzulässige Volksinitiativen
 § 11 Rechtsbehelf
 § 12 Behandlung der Volksinitiative
@@ -74,7 +74,7 @@
 ## Abschnitt 8 Neugliederung des Raumes Brandenburg-Berlin
 § 64 Veröffentlichung des Neugliederungs-Vertrages
 § 65 (aufgehoben)
-## Abschnitt 9 Schluß- und Übergangsvorschriften
+## Abschnitt 9 Schluss- und Übergangsvorschriften
 § 66 Ehrenamtliche Mitwirkung
 § 67 Ordnungswidrigkeiten
 § 68 Kosten
