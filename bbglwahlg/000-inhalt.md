@@ -11,18 +11,18 @@
 § 8 Wählbarkeit
 ## Abschnitt 3 Vorbereitung der Wahl
 ## Unterabschnitt 1 Wahlleitung
-§ 9 Mitwirkung der Ämter und amtsfreien Gemeinden, Landkreise und kreisfreien Städte; Wahlbehörden
+§ 9 Mitwirkung der Ämter, Verbandsgemeinden und amtsfreien Gemeinden, Landkreise und kreisfreien Städte; Wahlbehörden
 § 10 Wahlorgane
-§ 11 Landeswahlausschuss und Landeswahlleiter
-§ 12 Kreiswahlausschuss und Kreiswahlleiter
+§ 11 Landeswahlausschuss und Landeswahlleiterin oder Landeswahlleiter
+§ 12 Kreiswahlausschuss und Kreiswahlleiterin oder Kreiswahlleiter
 § 13 Gemeinsame Vorschriften für die Wahlausschüsse
 § 14 Wahlvorstand
 ## Unterabschnitt 2 Wahlkreise und Wahlbezirke
 § 15 Wahlkreise
 § 16 Wahlbezirke
-## Unterabschnitt 3 Wählerverzeichnisse
-§ 17 Führung der Wählerverzeichnisse
-§ 18 Rechtsbehelfe gegen das Wählerverzeichnis
+## Unterabschnitt 3 Wahlberechtigtenverzeichnisse
+§ 17 Wahlberechtigtenverzeichnis
+§ 18 Einspruch gegen das Wahlberechtigtenverzeichnis und Beschwerde
 ## Unterabschnitt 4 Wahlscheine
 § 19 Ausstellung eines Wahlscheines
 § 20 Briefwahl
@@ -31,7 +31,8 @@
 § 22 Listenvereinigungen
 § 23 Einreichung der Wahlvorschläge
 § 24 Inhalt und Form der Wahlvorschläge
-§ 25 Aufstellung der Bewerber
+§ 25 Aufstellung der Bewerbenden
+§ 25a Sonderregelungen im Falle einer Pandemie oder anderen Notlage
 § 26 Vertrauensperson
 § 27 Zurücknahme von Wahlvorschlägen
 § 28 Änderung von Wahlvorschlägen
@@ -54,7 +55,7 @@
 § 41 Verlust der Mitgliedschaft im Landtag
 ## Abschnitt 7 Wahlprüfung
 § 42 Zuständigkeit
-## Abschnitt 8 Ersatz für ablehnende Bewerber sowie ausscheidende Abgeordnete
+## Abschnitt 8 Ersatz für ablehnende Bewerbende sowie ausscheidende Abgeordnete
 § 43 Berufung von Ersatzpersonen
 § 44 Ersatzwahl
 § 45 Folgen eines Partei- oder Vereinigungsverbots
@@ -67,7 +68,7 @@
 § 50 Durchführung des Gesetzes
 § 51 Fristen und Termine sowie Schriftform
 § 52 Wahlkosten
-§ 53 Staatliche Mittel für Einzelbewerber
+§ 53 Staatliche Mittel für Einzelbewerbende
 § 54 Auszahlung staatlicher Mittel an Parteien
 § 55 Veröffentlichung von Wahldaten im Internet
 § 56 Einschränkung eines Grundrechts
