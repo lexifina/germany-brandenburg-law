@@ -1,0 +1,2 @@
+# Verordnung über die Übertragung der Ermächtigung zur Bestimmung der zuständigen Behörde für Ordnungswidrigkeitsverfahren im Rahmen des Vollzugs der Marktüberwachung von harmonisierten Bauprodukten im Land Brandenburg (Harmonisierte-Bauprodukte-Marktüberwachungsermächtigungsübertragungsverordnung - BbgHBauPMÜEÜV)
+Auf Grund des § 36 Absatz 2 des Gesetzes über Ordnungswidrigkeiten in der Fassung der Bekanntmachung vom 19. Februar 1987 (BGBl. I S. 602) verordnet die Landesregierung:
