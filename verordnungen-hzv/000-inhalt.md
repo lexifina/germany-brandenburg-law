@@ -21,5 +21,7 @@
 ## Abschnitt 4 Vergabeverfahren in Masterstudiengängen
 § 19 Quoten in Masterstudiengängen
 § 20 Quoten in besonderen Masterstudiengängen
+## Abschnitt 5 Übergangsvorschrift
+§ 21 Übergangsvorschrift
 Anlage 1 Ermittlung der Durchschnittsnote
 Anlage 2 Ermittlung der Messzahl bei der Auswahl für ein Zweitstudium
