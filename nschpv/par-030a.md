@@ -1,0 +1,2 @@
+# § 30a Übergangsbestimmung
+Prüflinge, die sich im Schuljahr 2022/2023 in der Qualifikationsphase einer genehmigten, aber nicht anerkannten Ersatzschule (inklusive Waldorfschulen) befinden oder einen Bildungsgang im Abschlussjahr einer Ergänzungsschule belegen oder eine Wiederholungsprüfung gemäß § 12 anstreben, können die Prüfungen auf der Grundlage dieser Verordnung in der bis zum 31. Juli 2023 geltenden Fassung ablegen.
