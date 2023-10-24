@@ -22,9 +22,15 @@
 § 16 Laufbahn der Förderschullehrerin und des Förderschullehrers
 § 17 Fachliche Voraussetzungen
 § 18 Voraussetzungen für die Beförderung
-## Abschnitt 6 Schulpsychologischer Dienst
+## Abschnitt 6 Laufbahnen der Bildungsamtfrau und des Bildungsamtmanns sowie der Bildungsamtsrätin und des Bildungsamtsrats an allgemeinbildenden Schulen und an Oberstufenzentren
+§ 18a Laufbahn der Bildungsamtfrau und des Bildungsamtmanns an allgemeinbildenden Schulen und Oberstufenzentren
+§ 18b Fachliche Voraussetzungen
+§ 18c Voraussetzungen für die Beförderung
+§ 18d Laufbahn der Bildungsamtsrätin und des Bildungsamtsrats an allgemeinbildenden Schulen und an Oberstufenzentren
+§ 18e Fachliche Voraussetzungen
+## Abschnitt 7 Schulpsychologischer Dienst
 § 19 Laufbahn des schulpsychologischen Dienstes
-## Abschnitt 7 Schulaufsichtsdienst
+## Abschnitt 8 Schulaufsichtsdienst
 § 20 Laufbahn des Schulaufsichtsdienstes
 § 21 Voraussetzungen für die Ernennung und Beförderung
 § 22 Überspringen von Ämtern
@@ -32,7 +38,7 @@
 ## Abschnitt 1 Verwendung an Studienseminaren
 § 23 Beförderungsämter
 § 24 Voraussetzungen für die Beförderung
-## Abschnitt 2 Dienst bei der obersten Schulaufsichtsbehörde oder einer dieser nachgeordneten Einrichtung
+## Abschnitt 2 Dienst bei der obersten Schulaufsichtsbehörde oder einer dieser nachgeordneten Behörde oder Einrichtung
 § 25 Voraussetzungen und Beförderungsämter
 ## Kapitel 4 Gemeinsame laufbahnrechtliche Regelungen
 ## Abschnitt 1 Allgemeines
