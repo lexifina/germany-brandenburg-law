@@ -1,3 +1,3 @@
 # Anlagen
 1Anlage 1 - Kontingentstundentafel 12.8 KB
-2Anlage 2 - Schulärztliche Stellungnahme 14.4 KB
+2Anlage 2 - Schulärztliche Stellungnahme 23.9 KB
