@@ -1,8 +1,8 @@
 ## Inhaltsübersicht
 ## Abschnitt 1 Abstimmungsorgane
-§ 1 Abstimmungsleiter und Abstimmungsausschüsse
-§ 2 Abstimmungsvorsteher und Abstimmungsvorstand
-§ 3 Briefabstimmungsvorsteher und Briefabstimmungsvorstand
+§ 1 Abstimmungsausschüsse
+§ 2 Abstimmungsvorstand
+§ 3 Briefabstimmungsvorstand
 § 4 Beweglicher Abstimmungsvorstand
 ## Abschnitt 2 Vorbereitung des Volksentscheides
 § 5 Führung und Eintragung der stimmberechtigten Personen in das Stimmberechtigtenverzeichnis, Datenschutz
@@ -39,13 +39,13 @@
 § 32 Beschaffung von Stimmzetteln, Umschlägen für die Briefabstimmung und Vordrucken
 § 33 Sicherung der Abstimmungsunterlagen
 § 34 Vernichtung der Abstimmungsunterlagen
-§ 35 Mustervordrucke
+§ 35 Vordruckmuster
 ## Abschnitt 7 Gleichzeitige Durchführung von Volksentscheiden mit Europa-, Bundestags-, Landtags- oder Kommunalwahlen
 § 36 Grundsatz
 § 37 Wahlbezirke (Stimmbezirke)
 § 38 Wahllokale (Abstimmungslokale)
 § 39 Wahlorgane (Abstimmungsorgane)
-§ 40 Wählerverzeichnis (Stimmberechtigtenverzeichnis)
+§ 40 Wahlberechtigtenverzeichnis (Stimmberechtigtenverzeichnis)
 § 41 Wahlbenachrichtigungen (Abstimmungsbenachrichtigungen) und Wahlscheine (Abstimmungsscheine)
 § 42 Stimmzettel, Wahlurnen (Abstimmungsurnen)
 § 43 Stimmabgabe im Wahllokal (Abstimmungslokal)
