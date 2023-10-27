@@ -19,5 +19,5 @@
 § 15 Zustellungen
 § 16 Sicherung der Unterlagen
 § 17 Vernichtung der Unterlagen
-§ 18 Mustervordrucke
+§ 18 Vordruckmuster
 § 19 Inkrafttreten
