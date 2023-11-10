@@ -1,0 +1,2 @@
+# Verordnung über die Feststellung der allgemeinen Eignung von Richterinnen und Richtern sowie Staatsanwältinnen und Staatsanwälten im Land Brandenburg für Beförderungsämter (Brandenburgische Eignungsfeststellungsverordnung für die Richter- und Staatsanwaltschaft - BbgRiStAEV)
+Auf Grund des § 9 Absatz 5 Satz 4 des Brandenburgischen Richtergesetzes vom 12. Juli 2011 (GVBl. I Nr. 18), der durch das Gesetz vom 16. Dezember 2022 (GVBl. I Nr. 32) eingefügt worden ist, verordnet die Ministerin der Justiz:
