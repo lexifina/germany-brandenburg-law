@@ -1,0 +1,4 @@
+# Verordnung über den Lehrgang und die Prüfung für die Sachkunde in der Lebensmittelkontrolle im Land Brandenburg (Brandenburgische LMK-Lehrgangs- und Prüfungsverordnung - BbgLMKLPV)
+Auf Grund des § 42 Absatz 1 Satz 3 und 4 des Lebensmittel- und Futtermittelgesetzbuches in der Fassung der Bekanntmachung vom 15. September 2021 (BGBl. I S. 4253; 2022 I S. 28) in Verbindung mit § 5 Satz 1 der Lebensmittelkontrolleur-Verordnung vom 17. August 2001 (BGBl. I S. 2236) in Verbindung mit § 5 der Verordnung über die Zuständigkeiten nach dem Lebensmittel- und Futtermittelgesetzbuch, dem Verbraucherinformationsgesetz und weiteren Vorschriften vom 12. Juli 2006 (GVBl. II S. 286), der durch Artikel 1 Nummer 5 der Verordnung vom 10. April 2008 (GVBl. II S. 138) geändert worden ist, verordnet die Ministerin für Soziales, Gesundheit, Integration und Verbraucherschutz im Einvernehmen mit dem Minister des Innern und für Kommunales:
+Inhaltsübersicht
+Abschnitt 1 Allgemeines
