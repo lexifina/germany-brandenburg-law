@@ -1,0 +1,2 @@
+# Verordnung über die Ermittlungspersonen der Staatsanwaltschaft
+Auf Grund des § 152 Absatz 2 des Gerichtsverfassungsgesetzes in der Fassung der Bekanntmachung vom 9. Mai 1975 (BGBl. I S. 1077) in Verbindung mit § 1 Nummer 14 der Justiz-Zuständigkeitsübertragungsverordnung vom 9. April 2014 (GVBl. II Nr. 6), die durch die Verordnung vom 24. Mai 2023 (GVBl. II Nr. 34) neu gefasst worden ist, verordnet die Ministerin der Justiz:
