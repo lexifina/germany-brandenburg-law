@@ -11,12 +11,14 @@
 ## Abschnitt 1 Stellung der Schulen
 § 6 Rechtsstellung der Schulen
 § 7 Selbstständigkeit der Schulen
-§ 8 Schulversuche
+§ 8 Schulversuche und Versuchsschulen
 § 8a Schulen mit besonderer Prägung
 § 9 Zusammenarbeit mit anderen Stellen, öffentlichen Einrichtungen und den Kirchen
+§ 9a Zusammenarbeit mit den Trägern der Schulsozialarbeit
 ## Abschnitt 2 Unterrichtsinhalte, Stundentafeln
 § 10 Rahmenlehrpläne
 § 11 Unterrichtsfächer
+§ 11a Jahrgangsstufenübergreifender Unterricht
 § 12 Lernbereiche und übergreifende Themenkomplexe
 § 13 Stundentafeln
 § 14 Zulassung von Lernmitteln
@@ -61,6 +63,7 @@
 ## Teil 5 Schulverhältnis
 ## Abschnitt 1 Allgemeine Vorschriften
 § 44 Rechte und Pflichten aus dem Schulverhältnis
+§ 44a Unterrichtsform, Verordnungsermächtigung
 § 45 Schulgesundheitspflege, Pflichtuntersuchungen
 § 46 Informations- und Beteiligungsrechte der Schülerinnen und Schüler und der Eltern
 § 47 Meinungsfreiheit, Werbung und Zuwendungen Dritter
@@ -76,14 +79,15 @@
 § 56 Nähere Ausgestaltung der Aufnahme in eine Schule und des Schulwechsel
 ## Abschnitt 3 Leistungsbewertung, Versetzung und Abschlüsse
 § 57 Grundsätze der Leistungsbewertung
-§ 58 Zeugnisse
-§ 59 Aufrücken, Versetzen, Wiederholen, Zurücktreten und Kurseinstufung
+§ 58 Zeugnisse, Verordnungsermächtigung
+§ 59 Aufrücken, Versetzen, Wiederholen, Zurücktreten, Kurseinstufung und Beendigung des Schulverhältnisses, Verordnungsermächtigung
 § 60 Prüfungen
 § 61 Anerkennung und nähere Ausgestaltung von Abschlüssen und Berechtigungen
 § 62 Beendigung des Schulverhältnisses
 ## Abschnitt 4 Erziehungs- und Ordnungsmaßnahmen
 § 63 Grundsätze
 § 64 Ordnungsmaßnahmen
+§ 64a Verbot verfassungsfeindlicher Handlungen
 ## Abschnitt 5 Datenschutz
 § 65 Verarbeitung personenbezogener Daten
 § 65a Automatisierte zentrale Schülerdatei und Schülerlaufbahnstatistiken
@@ -163,7 +167,8 @@
 ## Abschnitt 2 Ersatzschulen
 § 120 Ersatzschulen
 § 121 Genehmigung von Ersatzschulen
-§ 122 Versagung und Aufhebung der Genehmigung
+§ 122 Versagung, Aufhebung und Erlöschen der Genehmigung
+§ 122a Einschränkung und Untersagung der Tätigkeit
 § 123 Anerkannte Ersatzschulen
 § 124 Voraussetzungen für die Gewährung des Betriebskostenzuschusses
 § 124a Ermittlung des Betriebskostenzuschusses
