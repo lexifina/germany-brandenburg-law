@@ -1,0 +1,2 @@
+# Verordnung über die Erhebung jagdstatistischer Daten
+Auf Grund des § 30 Abs. 12 Nr. 2 des Gesetzes über den Schutz, die Hege und Bejagung wildlebender Tiere im Land Brandenburg (Brandenburgisches Landesjagdgesetz) vom 3. März 1992 (GVBl. I S. 58) verordnet der Minister für Ernährung, Landwirtschaft und Forsten nach Anhörung des Ausschusses für Ernährung, Landwirtschaft und Forsten des Landtages sowie im Benehmen mit dem Minister für Umwelt, Naturschutz und Raumordnung:
