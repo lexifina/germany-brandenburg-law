@@ -1,0 +1,2 @@
+# § 84d Besondere Bestandskraft
+Ein bis zum 31. Dezember 2023 nach § 53 Absatz 2 in der bis zum 31. Dezember 2023 geltenden Fassung dem Grunde nach bewilligter Hilflosigkeitszuschlag wird weiterhin gewährt, solange die Voraussetzungen hierfür vorliegen, und ist bei allgemeinen Anpassungen der Versorgungsbezüge entsprechend anzupassen. Wird von dem Wahlrecht Gebrauch gemacht, statt des Hilflosigkeitszuschlags die Kosten einer notwendigen Pflege erstattet zu bekommen, ist die erneute Gewährung eines Hilflosigkeitszuschlags ausgeschlossen.
