@@ -1,0 +1,2 @@
+# Verordnung über die Organisation der Sonderabfallentsorgung im Land Brandenburg (Sonderabfallentsorgungsverordnung - SAbfEV)
+Auf Grund des § 14 Absatz 1 und des § 15 des Brandenburgischen Abfall- und Bodenschutzgesetzes vom 6. Juni 1997 (GVBl. I S. 40), von denen durch Artikel 1 des Gesetzes vom 27. Mai 2009 (GVBl. I S. 175) § 14 Absatz 1 neu gefasst und § 15 eingefügt worden ist, verordnet die Ministerin für Umwelt, Gesundheit und Verbraucherschutz im Einvernehmen mit dem Minister der Finanzen und dem Minister des Innern:
