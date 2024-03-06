@@ -23,6 +23,7 @@
 § 20 Amtshilfe der Steuerberaterkammer
 § 20a Datenverarbeitung personenbezogener Daten
 § 20b Datenverarbeitung besonderer Kategorien personenbezogener Daten
+§ 20c Auskunftserteilung an öffentliche Stellen
 § 21 Satzung
 § 22 Aufsicht
 ## Abschnitt 3 Übergangs- und Schlussvorschriften
