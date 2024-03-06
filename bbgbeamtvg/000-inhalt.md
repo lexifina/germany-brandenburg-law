@@ -49,6 +49,7 @@
 ## Unterabschnitt 3 Unfallfürsorge
 § 44 Allgemeines
 § 45 Dienstunfall
+§ 45a Meldung von Dienstunfalldaten an EUROSTAT
 § 46 Einsatzversorgung
 § 47 Meldung und Untersuchungsverfahren
 § 48 Nichtgewährung von Unfallfürsorge
@@ -93,6 +94,10 @@
 § 83 Dienstherrenwechsel
 ## Abschnitt 5 Überleitungs- und Übergangsbestimmungen
 § 84 Überleitung vorhandener Versorgungsempfängerinnen und Versorgungsempfänger
+§ 84a Übergangsbestimmung aus Anlass des Wegfalls der Grundgehaltssätze in der Besoldungsgruppe A 4
+§ 84b Übergangsvorschrift zur Anrechnung von Leistungen nach § 3 Nummer 11a des Einkommensteuergesetzes
+§ 84c Übergangsvorschrift zur Anrechnung von Leistungen nach § 3 Nummer 11c des Einkommensteuergesetzes
+§ 84d Besondere Bestandskraft
 § 85 Übergangsregelung für vorhandene Beamtinnen und Beamte
 § 86 Ausgleichsbetrag für Kommunale Wahlbeamtinnen und Wahlbeamte auf Zeit
 § 87 Regelung zu § 42 Absatz 8 des Brandenburgischen Hochschulgesetzes
