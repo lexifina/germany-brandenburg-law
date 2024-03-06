@@ -1,0 +1,1 @@
+# Verordnung über die Durchführung des Brandenburgischen Sozialberufsgesetzes für soziale Berufe in Berufsfeldern im Bereich der Kinder- und Jugendhilfe (Soziale Berufe-Durchführungsverordnung - Soz-DurchV)
