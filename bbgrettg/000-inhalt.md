@@ -18,6 +18,7 @@
 § 17 Finanzierung des Rettungsdienstes
 § 18 Vergütung der Wasserrettungseinsätze
 § 19 Dokumentation, Datenschutz, Auskunftspflicht
+§ 19a Informationen zu Gefahrenlagen
 § 20 Sonstige Ermächtigungen
 § 21 Bußgeldvorschriften
 § 22 Einschränkung von Grundrechten
