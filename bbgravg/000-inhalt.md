@@ -21,6 +21,9 @@
 § 18 Satzung
 § 19 Aufsicht
 ## Abschnitt III Verfahrens-, Übergangs- und Schlußvorschriften
-§ 20 (weggefallen)
+§ 20 Verarbeitung personenbezogener Daten
+§ 20a Verarbeitung besonderer Kategorien personenbezogener Daten
+§ 20b Auskunftserteilung an öffentliche Stellen
 § 21 Übergangsregelung
+§ 21a Einschränkung von Grundrechten
 § 22 Inkrafttreten

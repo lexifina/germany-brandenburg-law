@@ -1,0 +1,2 @@
+# § 21a Einschränkung von Grundrechten
+Durch die §§ 20, 20a und 20b werden das Grundrecht auf informationelle Selbstbestimmung nach Artikel 2 Absatz 1 in Verbindung mit Artikel 1 Absatz 1 des Grundgesetzes und das Grundrecht auf Datenschutz nach Artikel 11 Absatz 1 der Verfassung des Landes Brandenburg eingeschränkt.
