@@ -46,6 +46,7 @@
 § 39 Bemessung des Grundgehalts
 ## Abschnitt 3 Familienzuschlag
 § 40 Grundlage und Höhe des Familienzuschlags ab 1. Januar 2015
+§ 40a Familiensonderzuschlag
 ## Abschnitt 4 Sonstige Besoldungsbestandteile, Ausgleich bei Verringerung der Dienstbezüge
 ## Unterabschnitt 1 Sonstige Besoldungsbestandteile
 § 41 Amtszulagen und Stellenzulagen
@@ -56,12 +57,14 @@
 § 46 Mehrarbeitsvergütung
 § 47 Vergütung für Beamtinnen und Beamte im Vollstreckungsdienst
 § 48 Sonderzuschläge zur Sicherung der Funktions- und Wettbewerbsfähigkeit
-§ 48a Zuschlag bei Hinausschieben des Eintritts in den Ruhestand im Bereich des Polizeivollzugsdienstes
+§ 48a Zuschlag bei Hinausschieben des Eintritts in den Ruhestand
 § 48b Attraktivitäts-Zuschlag für die Jahre 2017 bis 2020
+§ 48c Zuschlag zur Gewinnung von IT-Fachkräften
 § 49 Andere Zulagen, Prämien und Vergütungen
 ## Unterabschnitt 2 Ausgleich bei Verringerungen der Dienstbezüge
 § 50 Besoldungsanspruch bei Verleihung eines Amtes mit geringerem Grundgehalt
 § 51 Ausgleichszulagen bei Wegfall von Stellenzulagen
+§ 51a Ausgleichszulage bei Dienstherrenwechsel
 ## Abschnitt 5 Auslandsbesoldung
 § 52 Auslandsbesoldung
 ## Abschnitt 6 Anwärterbezüge
@@ -79,6 +82,9 @@
 § 61 Anwendung dieses Gesetzes auf vorhandene Beamtinnen, Beamte, Richterinnen und Richter sowie Versorgungsempfängerinnen und Versorgungsempfänger
 § 62 Überführung in die Ämter der Besoldungsordnungen A, B, W und R
 § 63 Zuordnung der vorhandenen Beamtinnen, Beamten, Richterinnen und Richter der Besoldungsordnungen A und R zu den Stufen der Grundgehälter
+§ 63a Zuordnung der vorhandenen Beamtinnen, Beamten, Richterinnen und Richter der Besoldungsordnungen A und R in die ab dem 1. Dezember 2022 maßgeblichen Grundgehaltstabellen
+§ 63b Überführung vorhandener Beamtinnen und Beamter des mittleren allgemeinen Verwaltungsdienstes und des mittleren Justizdienstes
+*
 § 64 Übergangsregelungen zur Altersteilzeit
 § 65 Übergangsregelungen zur Professorenbesoldung
 § 66 Übergangsregelungen zum Familienzuschlag
@@ -93,5 +99,6 @@ Anlage 3 Besoldungsordnung R
 Anlage 4 Grundgehaltssätze für die Besoldungsgruppen der Besoldungsordnungen A, B, W und R
 Anlage 5 Grundgehaltssätze, Amtszulagen, Stellenzulagen, Zulagen, Vergütungen für Besoldungsgruppen der Besoldungsordnung C
 Anlage 6 Familienzuschlag
+Anlage 6a Familiensonderzuschlag
 Anlage 7 Anwärtergrundbetrag
 Anlage 8 Amtszulagen, Stellenzulagen, Zulagen, Vergütungen
