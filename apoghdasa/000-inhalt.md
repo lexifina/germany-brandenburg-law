@@ -28,7 +28,7 @@
 § 23 Zweck der Prüfungen
 § 24 Prüfungsausschuss
 § 25 Zulassung zur schriftlichen Prüfung
-§ 26 Schriftliche Arbeiten unter Aufsicht
+§ 26 Aufsichtsarbeiten
 § 27 Häusliche Prüfungsarbeit
 § 28 Bewertung der schriftlichen Prüfungsarbeiten
 § 29 Zulassung zur mündlichen Prüfung
