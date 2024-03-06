@@ -1,0 +1,2 @@
+# Verordnung über die Gleichstellung von Ausbildungsabschlüssen und die ergänzende Qualifizierung zum Erwerb der staatlichen Anerkennung als Erzieherin oder Erzieher (Erzieheranerkennungsverordnung - ErzankV)
+Auf Grund des § 9 Abs. 1 Nr. 7 in Verbindung mit § 1 Abs. 2 Satz 3 des Brandenburgischen Sozialberufsgesetzes vom 8. Juli 1993 (GVBl. I S. 338) verordnet der Minister für Bildung, Jugend und Sport im Einvernehmen mit der Ministerin für Arbeit, Soziales, Gesundheit und Frauen:
