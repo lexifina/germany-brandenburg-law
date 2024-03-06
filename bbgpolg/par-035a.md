@@ -1,0 +1,9 @@
+# § 35a Opferschutzmaßnahmen
+(1) Für eine Person, die Opfer einer Straftat wurde oder bei der davon auszugehen ist, dass sie in absehbarer Zeit Opfer einer Straftat werden kann (Schutzperson), dürfen auf Anordnung Urkunden und sonstige Dokumente zum Aufbau und zur Aufrechterhaltung einer vorübergehend geänderten Identität (Tarndokumente) hergestellt, vorübergehend verändert und die entsprechend geänderten Daten verarbeitet werden, wenn
+1. dies zu ihrem Schutz vor einer wahrscheinlich nicht nur vorübergehenden Gefahr für Leib, Leben, Freiheit oder die sexuelle Selbstbestimmung erforderlich ist und
+2. die Schutzperson für diese Schutzmaßnahme geeignet ist und ihr zustimmt.
+Die Schutzperson darf unter der vorübergehend geänderten Identität am Rechtsverkehr teilnehmen. Unter den Voraussetzungen des Satzes 1 ist die Polizei für die Schutzperson staatliche Stelle im Sinne des § 20 Absatz 9 Satz 1 Nummer 3 des Infektionsschutzgesetzes.
+(2) Soweit erforderlich, können Maßnahmen nach Absatz 1 auch auf Angehörige einer Schutzperson oder ihr sonst nahestehende Personen erstreckt werden. Absatz 1 Satz 2 und 3 gilt entsprechend.
+(3) § 35 Absatz 2 findet auf die mit dem Schutz betrauten Polizeivollzugsbeamtinnen und Polizeivollzugsbeamten Anwendung, soweit ein Handeln unter einer Legende zur Vorbereitung, Durchführung, Lenkung oder Absicherung der Schutzmaßnahmen erforderlich ist.
+(4) Maßnahmen nach den Absätzen 1 bis 3 dürfen nur durch die Behördenleiterin oder den Behördenleiter oder die jeweilige Vertretung angeordnet oder beendet werden.
+(5) Wird die Schutzmaßnahme insgesamt beendet oder sind einzelne Maßnahmen nicht mehr erforderlich, unterrichtet die Polizei unter Berücksichtigung der Belange des Opferschutzes die beteiligten öffentlichen und nicht öffentlichen Stellen. Die Polizei zieht Tarndokumente ein, deren Verwendung nicht mehr erforderlich ist.
