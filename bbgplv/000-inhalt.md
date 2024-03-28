@@ -1,9 +1,11 @@
 § 1 Geltungsbereich, Laufbahnordnungsbehörde
 § 2 Laufbahnen, Ämter
-§ 3 Zugangsvoraussetzungen zur Laufbahn
+§ 3 (weggefallen))
 § 4 Ausschreibung
-§ 5 Vorbereitungsdienst
-§ 6 Dauer des Vorbereitungsdienstes
+§ 5
+(weggefallen))
+§ 6
+(weggefallen))
 § 7 Anderweitige Laufbahnbefähigung
 § 8 Laufbahnbefähigung mit juristischem Staatsexamen
 § 9 Andere Bewerberinnen und andere Bewerber
