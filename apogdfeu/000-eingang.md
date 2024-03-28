@@ -1,0 +1,1 @@
+# Verordnung über die Ausbildung und Prüfung für die Laufbahn des gehobenen feuerwehrtechnischen Dienstes im Land Brandenburg (Ausbildungs- und Prüfungsordnung gehobener feuerwehrtechnischer Dienst - APOgDFeu)
