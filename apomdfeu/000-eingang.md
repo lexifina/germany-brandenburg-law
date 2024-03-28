@@ -1,0 +1,1 @@
+# Verordnung über die Ausbildung und Prüfung für die Laufbahn des mittleren feuerwehrtechnischen Dienstes im Land Brandenburg (Ausbildungs- und Prüfungsordnung mittlerer feuerwehrtechnischer Dienst - APOmDFeu)
