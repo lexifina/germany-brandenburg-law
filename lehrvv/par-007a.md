@@ -1,0 +1,3 @@
+# § 7a Lehrverpflichtung der Akademischen Dozentinnen und Dozenten, Akademischen Juniordozentinnen und Juniordozenten
+(1) Die Lehrverpflichtung von Akademischen Dozentinnen und Dozenten mit Schwerpunktsetzung in Wissenschaft und Forschung beträgt 8 bis 10 LVS. Die Lehrverpflichtung von Akademischen Dozentinnen und Dozenten mit Schwerpunktsetzung in Wissenschaft und Lehre beträgt 12 bis 18 LVS.
+(2) Die Lehrverpflichtung von Akademischen Juniordozentinnen und Juniordozenten mit Schwerpunktsetzung in Wissenschaft und Forschung beträgt 4 bis 6 LVS. Die Lehrverpflichtung von Akademischen Juniordozentinnen und Juniordozenten mit Schwerpunktsetzung in Wissenschaft und Lehre beträgt 9 bis 12 LVS.
