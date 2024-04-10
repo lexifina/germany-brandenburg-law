@@ -11,7 +11,7 @@
 ## Abschnitt 2 Laufbahnen
 § 9 Laufbahn, Laufbahngruppen, Laufbahnordnungsbehörde
 § 10 Zugangsvoraussetzungen zu den Laufbahnen
-§ 11 Laufbahnen mit Vorbereitungsdienst
+§ 11 Laufbahnen mit Vorbereitungsdienst, Verordnungsermächtigung
 § 12 Rechtsstellung im Vorbereitungsdienst
 § 13 Laufbahnen ohne Vorbereitungsdienst
 § 14 Anerkennung der bei einem anderen Dienstherrn erworbenen Laufbahnbefähigung
@@ -20,7 +20,7 @@
 § 16 Andere Bewerber
 § 17 Einstellung
 § 18 Probezeit, Feststellung der gesundheitlichen Eignung
-§ 19 Dienstliche Beurteilung
+§ 19 Dienstliche Beurteilung, Verordnungsermächtigungen
 § 20 Beförderungen
 § 21 Laufbahnwechsel
 § 22 Aufstieg
@@ -68,7 +68,7 @@
 § 56 Zuständigkeit für die Entscheidung über die Aussagegenehmigung, Übermittlungen bei Strafverfahren
 § 57 Verbot der Annahme von Belohnungen, Geschenken und sonstigen Vorteilen
 § 58 Wohnung und Aufenthalt, Betreuung bei Übungen und besonderen Einsätzen
-§ 59 Dienstkleidung
+§ 59 Erscheinungsbild, Dienstkleidung, Verordnungsermächtigung
 § 60 Verjährung von Schadensersatzansprüchen
 § 61 Fernbleiben vom Dienst, Erkrankung
 § 62 Beihilfe in Krankheits-, Pflege- und Geburtsfällen
@@ -165,6 +165,6 @@
 § 133 Übergangsregelung zur Altersteilzeit
 § 134 (weggefallen)
 § 135 Laufbahnrechtliche Übergangsvorschriften
-§ 136 (weggefallen)
+§ 136 Übergangsregelung zur dienstlichen Beurteilung
 § 137 Übergangsregelungen zur Nebentätigkeit
 § 138 Übergangsregelungen für vorhandene Beamte auf Zeit
