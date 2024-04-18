@@ -1,0 +1,2 @@
+# Verordnung über den Verkauf bestimmter Waren an Sonn- und Feiertagen in Kur-, Ausflugs- und Erholungsorten im Land Brandenburg (Brandenburgische Ladenschluss-Ausnahmeverordnung - BbgLSchlAV)
+Auf Grund des § 5 Absatz 5 des Brandenburgischen Ladenöffnungsgesetzes vom 27. November 2006 (GVBl. I S. 158), der durch das Gesetz vom 25. April 2017 (GVBl. I Nr. 8) geändert worden ist, verordnet die Landesregierung:
