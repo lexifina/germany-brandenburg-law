@@ -15,7 +15,7 @@
 § 11 Auskünfte aus der Kaufpreissammlung
 § 12 Bodenrichtwerte
 § 13 Sonstige für die Wertermittlung erforderliche Daten
-§ 14 Grundstücksmarktbericht
+§ 14 Informationen zum Grundstücksmarkt
 § 15 Zusammenarbeit der Gutachterausschüsse
 § 16 Geschäftsstelle des Gutachterausschusses
 ## Abschnitt 3 Verfahren der Gutachterausschüsse
@@ -32,5 +32,4 @@
 § 26 Anwendung der Vorschriften über die Gutachterausschüsse
 ## Teil 3 Übergangs- und Schlussvorschriften
 § 27 Gleichstellungsbestimmung
-§ 28 Übergangsbestimmung
-§ 29 Inkrafttreten, Außerkrafttreten
+§ 28 Inkrafttreten, Außerkrafttreten
