@@ -2,9 +2,8 @@
 ## Abschnitt 1 Regionalplanung
 § 1 Regionalplanung
 § 2 Regionalpläne
-§ 2a Ergänzende Vorschriften zur Umweltprüfung nach den §§ 8 bis 10 des Raumordnungsgesetzes
+§ 2a Ergänzende Vorschriften zur Umweltprüfung, in Aufstellung befindliche Ziele
 § 2b Planerhaltung
-§ 2c Planungssicherung
 § 3 Regionen
 § 4 Regionale Planungsgemeinschaften
 § 5 Organe der Regionalen Planungsgemeinschaften
@@ -22,7 +21,6 @@
 § 15 Wahl und Berufung der Mitglieder des Braunkohlenausschusses
 § 16 Vorsitz, Sitzungen und Geschäftsordnung des Braunkohlenausschusses
 § 17 Teilnehmende mit beratender Befugnis
-§ 18 Ergänzende Vorschriften für das Erarbeitungsverfahren
+§ 18 Ergänzende Vorschriften für das Erarbeitungsverfahren, in Aufstellung befindliche Ziele
 § 19 Erlass als Rechtsverordnung
 § 20 Informationspflicht
-§ 21 Befristung
