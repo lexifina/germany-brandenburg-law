@@ -1,0 +1,1 @@
+# Gesetz über interne Meldestellen im kommunalen Bereich für hinweisgebende Personen sowie zur Umsetzung der Richtlinie (EU) 2019/1937 des Europäischen Parlaments und des Rates vom 23. Oktober 2019 zum Schutz von Personen, die Verstöße gegen das Unionsrecht melden (Kommunales Hinweisgebermeldestellengesetz - KommHinwMeldG)
