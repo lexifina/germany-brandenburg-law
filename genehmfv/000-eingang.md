@@ -1,0 +1,2 @@
+# Verordnung über die Genehmigungsfreiheit von Rechtsgeschäften der Gemeinden (Genehmigungsfreistellungsverordnung - GenehmFV)
+Auf Grund des § 111 Absatz 3 der Kommunalverfassung des Landes Brandenburg vom 18. Dezember 2007 (GVBl. I S. 286), verordnet der Minister des Innern und für Kommunales im Einvernehmen mit dem Minister der Justiz und für Europa und Verbraucherschutz, dem Minister der Finanzen, dem Minister für Wirtschaft und Energie, dem Minister für Ländliche Entwicklung, Umwelt und Landwirtschaft und der Ministerin für Infrastruktur und Landesplanung:
