@@ -61,7 +61,7 @@
 § 36a Anlassbezogene automatische Kennzeichenfahndung
 ## Unterabschnitt 2 Datenspeicherung, Datenveränderung und Datennutzung
 § 37 Allgemeine Regeln über die Dauer der Datenspeicherung
-§ 38 Zweckbindung bei der Datenspeicherung, Datenveränderung und Datennutzung
+§ 38 Zweckbindung und Zweckänderung
 § 39 Speicherung, Veränderung und Nutzung von Daten
 § 40 Datenabgleich
 ## Unterabschnitt 3 Datenübermittlung
