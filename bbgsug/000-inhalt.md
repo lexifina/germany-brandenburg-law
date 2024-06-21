@@ -5,10 +5,10 @@
 § 2 Sicherheitsempfindliche Tätigkeiten
 § 3 Betroffener Personenkreis
 § 4 Zuständigkeit
-§ 5 Bestellung von Geheimschutzbeauftragten
+§ 5 Geheimschutzbeauftragte, Sabotageschutzbeauftragte
 § 6 Verschlusssachen
 § 7 Sicherheitsrisiken, sicherheitserhebliche Erkenntnisse
-§ 8 Rechte und Pflichten der zu überprüfenden und der einzubeziehenden Person
+§ 8 Rechte und Pflichten der betroffenen und mitbetroffenen Person
 § 9 Arten der Sicherheitsüberprüfung
 § 10 Einfache Sicherheitsüberprüfung (Ü 1)
 § 11 Erweiterte Sicherheitsüberprüfung (Ü 2)
@@ -19,6 +19,7 @@
 § 16 Maßnahmen der mitwirkenden Behörde bei den einzelnen Überprüfungsarten
 § 17 Abschluss der Sicherheitsüberprüfung
 § 18 Vorläufige Betrauung mit einer sicherheitsempfindlichen Tätigkeit
+§ 18a Unterrichtung durch die personalverwaltende Stelle
 § 19 Sicherheitserhebliche Erkenntnisse nach Abschluss der Sicherheitsüberprüfung
 § 20 Ergänzung der Sicherheitserklärung und Wiederholungsüberprüfung
 § 21 Sicherheitsakte und Sicherheitsüberprüfungsakte
@@ -38,6 +39,7 @@
 ## Abschnitt 4 Reisebeschränkungen und Schlussvorschriften
 § 34 Reisebeschränkungen
 § 35 Geltung des Brandenburgischen Datenschutzgesetzes und der Verordnung (EU) 2016/679
-§ 36 Einschränkung eines Grundrechts
-§ 37 Ermächtigung zur Rechtsverordnung
+§ 36 Einschränkung von Grundrechten
+§ 37 Lebens-, verteidigungswichtige oder besonders gefahrenträchtige Einrichtungen, Verordnungsermächtigung
 § 38 Erlass allgemeiner Verwaltungsvorschriften
+§ 39 Übergangsregelung
