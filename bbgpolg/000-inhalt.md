@@ -18,8 +18,12 @@
 § 14 Prüfung von Berechtigungsscheinen
 § 15 Vorladung
 § 15a Meldeauflage
+§ 15b Elektronische Aufenthaltsüberwachung
 § 16 Platzverweisung und Aufenthaltsverbot
 § 16a Wohnungsverweisung und Rückkehrverbot zum Schutz vor häuslicher Gewalt
+§ 16b Kontakt- und Näherungsverbot
+§ 16c Verhaltensauflagen
+§ 16d Ordnungswidrigkeiten
 § 17 Gewahrsam
 § 18 Richterliche Entscheidung
 § 19 Behandlung festgehaltener Personen
@@ -51,11 +55,13 @@
 § 33c Datenerhebung durch Bestandsdatenauskunft
 § 34 Datenerhebung durch den Einsatz von Personen, deren Zusammenarbeit mit der Polizei Dritten nicht bekannt ist
 § 35 Datenerhebung durch den Einsatz Verdeckter Ermittler
+§ 35a Opferschutzmaßnahmen
+§ 35b Verarbeitung personenbezogener Daten für die Dauer von Opferschutzmaßnahmen sowie Geheimhaltung
 § 36 Polizeiliche Ausschreibung
 § 36a Anlassbezogene automatische Kennzeichenfahndung
 ## Unterabschnitt 2 Datenspeicherung, Datenveränderung und Datennutzung
 § 37 Allgemeine Regeln über die Dauer der Datenspeicherung
-§ 38 Zweckbindung bei der Datenspeicherung, Datenveränderung und Datennutzung
+§ 38 Zweckbindung und Zweckänderung
 § 39 Speicherung, Veränderung und Nutzung von Daten
 § 40 Datenabgleich
 ## Unterabschnitt 3 Datenübermittlung
@@ -64,6 +70,7 @@
 § 43 Datenübermittlung an öffentliche Stellen, an ausländische öffentliche Stellen sowie an über- und zwischenstaatliche Stellen
 § 44 Datenübermittlung an Personen oder an Stellen außerhalb des öffentlichen Bereichs, Bekanntgabe an die Öffentlichkeit
 § 45 Datenübermittlung an die Polizei
+§ 45a Zusammenarbeit in gemeinsamen Gremien (Fallkonferenzen)
 § 46 Rasterfahndung
 ## Unterabschnitt 4 Datenberichtigung, Datenlöschung und Datensperrung
 § 47 Berichtigung, Löschung und Sperrung von Daten
