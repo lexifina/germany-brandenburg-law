@@ -4,10 +4,11 @@
 § 2 Abgrenzung von Primäreinsätzen und Sekundärverlegungen
 § 3 Hilfsfrist
 § 4 Fehlfahrten und Fehleinsätze
-## Abschnitt 2 Rettungsfahrzeuge und Qualifikation des Personals im Rettungsdienst
+## Abschnitt 2 Rettungsfahrzeuge, Qualifikation des Personals im Rettungsdienst und telenotärztliche Versorgung
 § 5 Boden- und luftgebundene Rettungsfahrzeuge
 § 6 Qualifikation des Personals und Besetzung der Rettungsfahrzeuge
 § 7 Fortbildung des Personals
+§ 7a Telenotärztliche Versorgung
 ## Abschnitt 3 Ärztliche Leitung des Rettungsdienstbereiches
 § 8 Ärztliche Leitung
 § 9 Aufgaben der Ärztlichen Leitung
