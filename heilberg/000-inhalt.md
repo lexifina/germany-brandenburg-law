@@ -161,3 +161,4 @@
 § 131 Erlass von Rechtsvorschriften nach dem Berufsbildungsgesetz
 § 132 Einschränkung von Grundrechten
 § 133 Hinterbliebene aus eingetragenen Lebenspartnerschaften
+Anlage Verhältnismäßigkeitsprüfung vor Erlass neuer Berufsreglementierungen
