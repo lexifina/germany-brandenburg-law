@@ -1,5 +1,5 @@
 # § 12e Verwaltungshilfe und Mandat
-(1) Die Gemeinden und Gemeindeverbände können sich privater Dritter als Verwaltungshelfer bedienen und sie insbesondere damit beauftragen, die Berechnungsgrundlagen zu ermitteln, die Abgaben zu berechnen, Bescheide anzufertigen und zu versenden sowie die Abgaben entgegenzunehmen. Sie können sich zur Erledigung dieser Aufgaben auch der Datenverarbeitungsanlagen privater Dritter bedienen.
+(1) Die Gemeinden und Gemeindeverbände können sich privater Dritter als Verwaltungshelferinnen oder Verwaltungshelfer bedienen und sie insbesondere damit beauftragen, die Berechnungsgrundlagen zu ermitteln, die Abgaben zu berechnen, Bescheide anzufertigen und zu versenden sowie die Abgaben entgegenzunehmen. Sie können sich zur Erledigung dieser Aufgaben auch der Datenverarbeitungsanlagen privater Dritter bedienen.
 (2) Die Gemeinden und Gemeindeverbände können eine Gesellschaft in privater Rechtsform mit der Durchführung des Abgabeverfahrens (§ 9 des Verwaltungsverfahrensgesetzes) im Namen oder unter dem Namen der Gemeinde oder des Gemeindeverbandes beauftragen (Mandat), wenn
 1. die Gemeinde oder der Gemeindeverband an der Gesellschaft unmittelbar oder mittelbar beteiligt ist,
 2. an der Gesellschaft unmittelbar oder mittelbar ausschließlich juristische Personen des öffentlichen Rechts beteiligt sind,
