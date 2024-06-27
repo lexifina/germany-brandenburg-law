@@ -1,0 +1,1 @@
+# Verordnung über die Zuständigkeiten des Landesamtes für Arbeitsschutz, Verbraucherschutz und Gesundheit nach dem Konsumcannabisgesetz (Brandenburgische Konsumcannabisgesetz-Zuständigkeitsverordnung - BbgKCanGZV)
