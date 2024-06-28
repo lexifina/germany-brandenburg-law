@@ -31,3 +31,4 @@
 § 27 Geltung des Brandenburgischen Datenschutzgesetzes und der Verordnung (EU) 2016/679
 § 28 Erlaß von Verwaltungsvorschriften
 § 29 Einschränkung von Grundrechten
+§ 30 Evaluierungsbericht
