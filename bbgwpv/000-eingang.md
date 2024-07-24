@@ -1,0 +1,2 @@
+# Verordnung über die Zuständigkeiten und das vereinfachte Verfahren im Bereich der kommunalen Wärmeplanung (Brandenburgische Wärmeplanungsverordnung - BbgWPV)
+Auf Grund des § 33 Absatz 1 bis 4 Satz 1 und Absatz 5 in Verbindung mit § 4 Absatz 3 des Wärmeplanungsgesetzes vom 20. Dezember 2023 (BGBl. 2023 I Nr. 394) und in Verbindung mit § 12 Absatz 1 Satz 2 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186), der durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28 S. 2) eingefügt worden ist, verordnet die Landesregierung:
