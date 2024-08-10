@@ -1,0 +1,2 @@
+# Verordnung über die Gebühren in Angelegenheiten der Wärmeplanung des Landes Brandenburg (Brandenburgische Wärmeplanungsgebührenordnung - BbgWPGebO)
+Aufgrund des § 3 Absatz 1 sowie § 1 Absatz 1 und 3 des Gebührengesetzes für das Land Brandenburg vom 7. Juli 2009 (GVBl. I S. 246) in Verbindung mit § 11 Absatz 3 Satz 1 und 3 des Wärmeplanungsgesetzes vom 20. Dezember 2023 (BGBl. 2023 I Nr. 394) verordnet der Minister für Infrastruktur und Landesplanung:
