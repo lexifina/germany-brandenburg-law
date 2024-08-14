@@ -1,0 +1,2 @@
+# Verordnung zur Festsetzung der Überschwemmungsgebiete der Polder A/B und 10 an der Unteren Oder
+Auf Grund des § 100 Absatz 5 des Brandenburgischen Wassergesetzes in der Fassung der Bekanntmachung vom 2. März 2012 (GVBl. I Nr. 20), der durch Artikel 1 des Gesetzes vom 4. Dezember 2017 (GVBl. I Nr. 28) neu gefasst worden ist, in Verbindung mit § 76 Absatz 2 Satz 1 Nummer 2 des Wasserhaushaltsgesetzes vom 31. Juli 2009 (BGBl. I S. 2585), verordnet der Minister für Landwirtschaft, Umwelt und Klimaschutz:
