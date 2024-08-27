@@ -1,0 +1,2 @@
+# Verordnung zur Bestimmung der lebens- und verteidigungswichtigen Einrichtungen des Landes Brandenburg (Brandenburgische Sabotageschutzverordnung - BbgSabSchutzV)
+Auf Grund des § 37 des Brandenburgischen Sicherheitsüberprüfungsgesetzes vom 30. Juli 2001 (GVBl. I S. 126), der durch Artikel 1 Nummer 34 des Gesetzes vom 19. Juni 2024 (GVBl. I Nr. 23) neu gefasst worden ist, verordnet die Landesregierung:
