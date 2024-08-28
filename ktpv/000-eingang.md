@@ -1,0 +1,2 @@
+# Kindertagespflegeverordnung (Kindertagespflegeverordnung - KTPV)
+Auf Grund des § 48 des Kindertagesstättengesetzes in der Fassung der Bekanntmachung vom 27. Juni 2004 (GVBl. I S. 384), der durch Artikel 1 des Gesetzes vom 28. Juni 2023 (GVBl. I Nr. 12) neu gefasst worden ist, verordnet der Minister für Bildung, Jugend und Sport im Einvernehmen mit der Ministerin der Finanzen und für Europa und der Ministerin für Soziales, Gesundheit, Integration und Verbraucherschutz:
