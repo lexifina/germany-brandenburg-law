@@ -34,24 +34,25 @@
 § 28 Beschlagnahmen und Durchsuchungen
 § 29 Protokoll
 § 30 Innerdienstliche Informationen
+§ 30a Informationen an und durch die Verfassungsschutzbehörde
 § 31 Abschließende Anhörung
 § 32 Abgabe des Disziplinarverfahrens
 ## Kapitel 3 Abschlussentscheidung
 § 33 Einstellungsverfügung
 § 34 Disziplinarverfügung
-§ 35 Erhebung der Disziplinarklage
+§ 35 (weggefallen)
 § 36 Grenzen der erneuten Ausübung der Disziplinarbefugnisse
 § 37 Verfahren bei nachträglicher Entscheidung im Straf- oder Bußgeldverfahren
 § 38 Kostentragung
 ## Kapitel 4 Vorläufige Dienstenthebung und Einbehaltung von Bezügen
 § 39 Zulässigkeit
 § 40 Rechtswirkungen
-§ 41 Verfall und Nachzahlung der einbehaltenen Beträge
+§ 41 Verfall, Erstattung und Nachzahlung
 ## Kapitel 5 Widerspruchsverfahren
 § 42 Widerspruchsverfahren
 § 43 Grenzen der erneuten Ausübung der Disziplinarbefugnisse
 § 44 Kostentragung
-## Teil 4 Gerichtliches Disziplinarverfahren
+## Teil 4 Gerichtliches Verfahren
 ## Kapitel 1 Disziplinargerichtsbarkeit
 § 45 Zuständigkeit der Verwaltungsgerichtsbarkeit
 § 46 Kammer für Disziplinarsachen
@@ -61,22 +62,22 @@
 § 50 Nichtheranziehung eines Beamtenbeisitzers
 § 51 Entbindung vom Amt des Beamtenbeisitzers
 § 52 Senate für Disziplinarsachen
-## Kapitel 2 Disziplinarverfahren vor dem Verwaltungsgericht
+## Kapitel 2 Verfahren vor dem Verwaltungsgericht
 ## Abschnitt 1 Klageverfahren
 § 53 Klageerhebung, Form und Frist der Klage
-§ 54 Nachtragsdisziplinarklage
-§ 55 Belehrung des Beamten
-§ 56 Mängel des behördlichen Disziplinarverfahrens oder der Klageschrift
+§ 54 (weggefallen)
+§ 55 (weggefallen)
+§ 56 (weggefallen)
 § 57 Beschränkung des Disziplinarverfahrens
 § 58 Bindung an tatsächliche Feststellungen aus anderen Verfahren
 § 59 Beweisaufnahme
-§ 60 Entscheidung durch Beschluss
+§ 60 (weggefallen)
 § 61 Mündliche Verhandlung, Entscheidung durch Urteil
 § 62 Grenzen der erneuten Ausübung der Disziplinarbefugnisse
 ## Abschnitt 2 Besondere Verfahren
 § 63 Antrag auf gerichtliche Fristsetzung
 § 64 Antrag auf Aussetzung der vorläufigen Dienstenthebung und der Einbehaltung von Bezügen
-## Kapitel 3 Disziplinarverfahren vor dem Oberverwaltungsgericht
+## Kapitel 3 Verfahren vor dem Oberverwaltungsgericht
 ## Abschnitt 1 Berufung
 § 65 Statthaftigkeit, Form und Frist der Berufung
 § 66 Berufungsverfahren
@@ -84,17 +85,17 @@
 ## Abschnitt 2 Beschwerde
 § 68 Statthaftigkeit, Form und Frist der Beschwerde
 § 69 Entscheidung des Oberverwaltungsgerichts
-## Kapitel 4 Disziplinarverfahren vor dem Bundesverwaltungsgericht
+## Kapitel 4 Verfahren vor dem Bundesverwaltungsgericht
 § 70 Form, Frist und Zulassung der Revision
 § 71 Revisionsverfahren, Entscheidung über die Revision
-## Kapitel 5 Wiederaufnahme des gerichtlichen Disziplinarverfahrens
+## Kapitel 5 Wiederaufnahme des gerichtlichen Verfahrens
 § 72 Wiederaufnahmegründe
 § 73 Unzulässigkeit der Wiederaufnahme
 § 74 Frist, Verfahren
 § 75 Entscheidung durch Beschluss
 § 76 Mündliche Verhandlung, Entscheidung des Gerichts
 § 77 Rechtswirkungen, Entschädigung
-## Kapitel 6 Kostenentscheidung im gerichtlichen Disziplinarverfahren
+## Kapitel 6 Kostenentscheidung im gerichtlichen Verfahren
 § 78 Kostentragung
 § 79 Kosten
 ## Teil 5 Unterhaltsbeitrag, Unterhaltsleistung und Begnadigung
@@ -109,7 +110,7 @@
 § 85 Ermittlungen
 ## Kapitel 3 Kommunalbeamte und sonstige Beamte von Körperschaften, Anstalten und Stiftungen des öffentlichen Rechts
 § 86 Dienstvorgesetzter, höherer Dienstvorgesetzter, oberste Dienstbehörde
-§ 87 Kürzung der Dienstbezüge, Zurückstufung, Einbehaltung von Dienstbezügen
+§ 87 Zurückstufung, Einbehaltung von Dienstbezügen
 § 88 Besondere Zuständigkeiten
 § 89 Unterrichtungs- und Mitteilungspflicht
 § 90 Weisungsbefugnis der Rechtsaufsichtsbehörde
