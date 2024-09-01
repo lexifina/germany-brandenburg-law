@@ -3,6 +3,7 @@
 § 1 Geltungsbereich
 § 2 Begriffsbestimmungen, Zuständigkeiten, Aufsicht
 § 3 Voraussetzungen für die Berufung in das Beamtenverhältnis
+§ 3a Verfahren zur Prüfung der Verfassungstreue
 § 4 Zuständigkeit für die Ernennung, Wirksamwerden
 § 5 Ernennungsverbot im zeitlichen Zusammenhang mit der Wahl zum Landtag Brandenburg
 § 6 Stellenausschreibung
