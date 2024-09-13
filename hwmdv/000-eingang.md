@@ -1,0 +1,2 @@
+# Verordnung über die Einrichtung eines Warn- und Alarmdienstes zum Schutz vor Hochwassergefahren und zur Übermittlung von Hochwassermeldungen (Hochwassermeldedienstverordnung - HWMDV)
+Auf Grund des § 114 Absatz 1 und 2 des Brandenburgischen Wassergesetzes in der Fassung der Bekanntmachung vom 2. März 2012 (GVBl. I Nr. 20) verordnet der Minister für Landwirtschaft, Umwelt und Klimaschutz im Einvernehmen mit dem Minister des Innern und für Kommunales:
