@@ -1,0 +1,2 @@
+# Verordnung über die Genehmigung und Anerkennung von Ersatzschulen (Ersatzschulverordnung - ESV)
+Auf Grund des § 121 Absatz 10 und des § 123 Absatz 4 des Brandenburgischen Schulgesetzes in der Fassung der Bekanntmachung vom 2. August 2002 (GVBl. I S. 78), von denen § 121 Absatz 10 zuletzt durch Artikel 1 Nummer 31 des Gesetzes vom 31. Januar 2024 (GVBl. I Nr. 2) und § 123 Absatz 4 durch Artikel 1 Nummer 71 des Gesetzes vom 1. Juni 2001 (GVBl. I S. 62) geändert worden ist, verordnet der Minister für Bildung, Jugend und Sport:
