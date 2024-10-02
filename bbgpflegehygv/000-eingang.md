@@ -1,0 +1,2 @@
+# Verordnung über Hygiene und Infektionsprävention in vollstationären Pflegeeinrichtungen und Einrichtungen für Menschen mit Behinderungen im Land Brandenburg (Brandenburgische Pflegehygieneverordnung - BbgPflegeHygV)
+Aufgrund des § 35 Absatz 3 Satz 1 und 2 des Infektionsschutzgesetzes vom 20. Juli 2000 (BGBl. I S. 1045), der durch Artikel 1 Nummer 19 des Gesetzes vom 16. September 2022 (BGBl. I S. 1454) neu gefasst worden ist, verordnet die Landesregierung:
