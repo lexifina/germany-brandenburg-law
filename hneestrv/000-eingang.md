@@ -1,0 +1,2 @@
+# Verordnung über die Struktur der Hochschule für nachhaltige Entwicklung Eberswalde (HNEE Strukturverordnung - HNEEStrV)
+Auf Grund des § 80 Absatz 5 Satz 1 und Satz 3 des Brandenburgischen Hochschulgesetzes vom 9. April 2024 (GVBl. I Nr. 12) verordnet die Ministerin für Wissenschaft, Forschung und Kultur auf Antrag der Hochschule für nachhaltige Entwicklung Eberswalde im Benehmen mit dem Landeshochschulrat:
