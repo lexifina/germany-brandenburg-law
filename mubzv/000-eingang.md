@@ -1,0 +1,2 @@
+# Verordnung zur Übertragung beamtenrechtlicher Zuständigkeiten für die Beamtinnen und Beamten der Medizinischen Universität in Cottbus (Medizinische Universität Beamtenzuständigkeitsverordnung - MUBZV)
+Auf Grund des § 8 Absatz 6 des Brandenburgischen Universitätsmedizingesetzes vom 21. Juni 2024 (GVBl. I Nr. 30, 44) verordnet die Ministerin für Wissenschaft, Forschung und Kultur im Einvernehmen mit dem Minister der Finanzen und für Europa:
