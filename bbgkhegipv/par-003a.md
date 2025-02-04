@@ -1,2 +1,0 @@
-# § 3a Sonderregelung zur Bemessung der Investitionspauschale zugunsten der Schulen für Gesundheitsberufe für das Jahr 2024
-Abweichend von § 3 erhalten Träger, die nach dem Krankenhausfinanzierungsgesetz eine geförderte Schule für Gesundheitsberufe betreiben, zur Förderung der notwendigen Investitionen und Reinvestitionen für das Jahr 2024 eine Investitionspauschale von 500 Euro je besetzten pflegesatzfinanzierten Ausbildungsplatz.
