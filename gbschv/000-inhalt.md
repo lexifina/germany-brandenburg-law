@@ -7,7 +7,7 @@
 § 7 Räumliche und sächliche Ausstattung der Schule
 § 8 Theoretischer und praktischer Unterricht sowie praktische Ausbildung
 § 8a Praktische Ausbildung nach dem Pflegeberufegesetz
-§ 9 Ausbildungsunterlagen und Schulunterlagen
+§ 9 Dokumentation der Ausbildung
 § 10 Aufsicht und Informationspflichten
 § 11 Erlöschen der staatlichen Anerkennung
 § 12 Zuständige Behörde
