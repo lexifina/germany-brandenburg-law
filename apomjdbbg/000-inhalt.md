@@ -18,8 +18,8 @@
 § 15 Noten
 ## Abschnitt 3 Prüfungsverfahren
 § 16 Laufbahnprüfung
-§ 17 Prüfungsausschuss
-§ 18 Prüfungsverfahren
+§ 17 Prüfungsausschuss, Prüferinnen und Prüfer
+§ 18 Prüfungsverfahren, Prüfungskommissionen
 § 19 Schriftliche Prüfung
 § 20 Bewertung der schriftlichen Prüfungsarbeiten
 § 21 Nichtbestehen vor der mündlichen Prüfung
