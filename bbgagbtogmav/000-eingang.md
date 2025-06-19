@@ -1,0 +1,2 @@
+# Verordnung über den Mehrbelastungsausgleich für den Vollzug des Brandenburgischen Betreuungsorganisationsausführungsgesetzes (Brandenburgische Betreuungsorganisationsausführungsgesetz-Mehrbelastungsausgleichsverordnung - BbgAGBtOGMAV)
+Auf Grund des § 7 Absatz 5 Satz 1 des Brandenburgischen Betreuungsorganisationsausführungsgesetzes vom 16. Dezember 2022 (GVBl. I Nr. 33) verordnet die Ministerin für Gesundheit und Soziales im Einvernehmen mit dem Minister des Innern und für Kommunales und dem Minister der Finanzen und für Europa:
