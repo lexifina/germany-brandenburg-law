@@ -35,7 +35,7 @@
 § 21 Voraussetzungen für die Ernennung und Beförderung
 § 22 Überspringen von Ämtern
 ## Kapitel 3 Sonstige Verwendung
-## Abschnitt 1 Verwendung an Studienseminaren
+## Abschnitt 1 Verwendung an Pädagogische Zentren
 § 23 Beförderungsämter
 § 24 Voraussetzungen für die Beförderung
 ## Abschnitt 2 Dienst bei der obersten Schulaufsichtsbehörde oder einer dieser nachgeordneten Behörde oder Einrichtung
