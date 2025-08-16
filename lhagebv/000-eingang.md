@@ -1,0 +1,2 @@
+# Verordnung über die Gebühren und Auslagen für öffentliche Leistungen des Brandenburgischen Landeshauptarchivs (Landeshauptarchiv-Gebührenverordnung - LHAGebV)
+Auf Grund des § 17 Absatz 1 Nummer 2 des Brandenburgischen Archivgesetzes vom 7. April 1994 (GVBl. I S. 94) und des § 3 Absatz 1 Nummer 2 in Verbindung mit § 9 Satz 2 und § 3 Absatz 2 Nummer 2 des Gebührengesetzes für das Land Brandenburg vom 7. Juli 2009 (GVBl. I S. 246) verordnet die Ministerin für Wissenschaft, Forschung und Kultur:
