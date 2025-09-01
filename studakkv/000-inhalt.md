@@ -1,23 +1,23 @@
 § 1 Anwendungsbereich
 § 2 Formen der Akkreditierung
 ## Teil 2 Formale Kriterien für Studiengänge
-§ 3 Studienstruktur und Studiendauer
+§ 3 Studienstruktur und Studiendauer, Anerkennung und Anrechnung
 § 4 Studiengangsprofile
 § 5 Zugangsvoraussetzungen
 § 6 Abschlüsse und Abschlussbezeichnungen
 § 7 Modularisierung
 § 8 Leistungspunktesystem
 § 9 Besondere Kriterien für Kooperationen mit nichthochschulischen Einrichtungen
-§ 10 Sonderregelungen für Joint-Degree-Programme
+§ 10 Sonderregelungen für Joint Programmes
 ## Teil 3 Fachlich-inhaltliche Kriterien für Studiengänge und Qualitätsmanagementsysteme
 § 11 Qualifikationsziele und Abschlussniveau
 § 12 Schlüssiges Studiengangskonzept und adäquate Umsetzung
 § 13 Fachlich-inhaltliche Gestaltung der Studiengänge
 § 14 Studienerfolg
-§ 15 Geschlechtergerechtigkeit und Nachteilsausgleich
-§ 16 Sonderregelungen für Joint-Degree-Programme
-§ 17 Konzept des Qualitätsmanagementsystems (Ziele, Prozesse, Instrumente)
-§ 18 Maßnahmen zur Umsetzung des Qualitätsmanagementkonzepts
+§ 15 Diversität, Geschlechtergerechtigkeit und Nachteilsausgleich
+§ 16 Sonderregelungen für Joint Programmes
+§ 17 Konzept des Qualitätsmanagementsystems von systemakkreditierten Hochschulen (Ziele, Prozesse, Instrumente)
+§ 18 Maßnahmen zur Umsetzung des Qualitätsmanagementkonzepts von systemakkreditierten Hochschulen
 § 19 Kooperationen mit nichthochschulischen Einrichtungen
 § 20 Hochschulische Kooperationen
 § 21 Besondere Kriterien für Bachelorausbildungsgänge an Berufsakademien
@@ -34,10 +34,11 @@
 § 31 Stichproben
 ## Teil 5 Verfahrensregeln für besondere Studiengangsformen
 § 32 Kombinationsstudiengänge
-§ 33 Joint-Degree-Programme
+§ 33 Joint Programmes
 ## Teil 6 Alternative Akkreditierungsverfahren nach Artikel 3 Absatz 1 Nummer 3 Studienakkreditierungsstaatsvertrag
 § 34 Alternative Akkreditierungsverfahren
 ## Teil 7 Schlussbestimmungen
 § 35 Verbindung mit Verfahren, die die berufszulassungsrechtliche Eignung eines Studiengangs zum Gegenstand haben
 § 36 Evaluation
-§ 37 Inkrafttreten
+§ 37 Übergangsvorschriften
+§ 38 Inkrafttreten
