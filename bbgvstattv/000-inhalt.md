@@ -16,7 +16,7 @@
 § 12 Toilettenräume
 § 13 Barrierefreie Stellplätze
 ## Abschnitt 4 Technische Anlagen und Einrichtungen, besondere Räume
-§ 14 Sicherheitsstromversorgungsanlagen, elektrische Anlagen und Blitzschutzanlagen
+§ 14 Sicherheitsstromversorgung, elektrische Anlagen und Blitzschutzanlagen
 § 15 Sicherheitsbeleuchtung
 § 16 Rauchableitung
 § 17 Heizungsanlagen und Lüftungsanlagen
@@ -32,7 +32,7 @@
 § 25 Platz für die Brandsicherheitswache
 ## Abschnitt 2 Versammlungsstätten mit mehr als 5 000 Besucherplätzen
 § 26 Räume für Lautsprecherzentrale, Polizei, Feuerwehr, Sanitäts- und Rettungsdienst
-§ 27 Abschrankung und Blockbildung in Sportstadien mit mehr als 10 000 Besucherplätzen
+§ 27 Abschrankung und Blockbildung in Stadien mit mehr als 10 000 Besucherplätzen
 § 28 Wellenbrecher
 § 29 Abschrankung von Stehplätzen vor Szenenflächen
 § 30 Einfriedungen und Eingänge
