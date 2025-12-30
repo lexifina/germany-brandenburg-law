@@ -1,0 +1,2 @@
+# Verordnung zur Ausgestaltung der Übergangsregelung für Verbundspielhallen (Spielhallenverbundverordnung - SpielhVerbV)
+Auf Grund des § 11 Absatz 4 des Brandenburgischen Spielhallengesetzes vom 23. Juni 2021 (GVBl. I Nr. 22 S. 8) verordnet die Ministerin für Soziales, Gesundheit, Integration und Verbraucherschutz mit Zustimmung des Ministers des Innern und für Kommunales und des Ministers für Wirtschaft, Arbeit und Energie:
