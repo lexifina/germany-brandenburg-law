@@ -1,0 +1,2 @@
+# Verordnung über die Erhebung der Fischereiabgabe
+Auf Grund des § 32 Abs. 2 Nr. 3 und 6 des Fischereigesetzes für das Land Brandenburg vom 13. Mai 1993 (GVBl. I S. 178), der durch Artikel 5 des Gesetzes vom 28. Juni 2006 (GVBl. I S. 74, 76) geändert worden ist, verordnet der Minister für Ländliche Entwicklung, Umwelt und Verbraucherschutz im Einvernehmen mit dem Minister der Finanzen und nach Anhörung des Landesfischereibeirates:
