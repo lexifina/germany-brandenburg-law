@@ -2,6 +2,7 @@
 § 2 Staatliche Anerkennung
 § 3 Zahl der Lehrkräfte
 § 4 Lehrkräfte
+§ 4a Sozialpädagogische Begleitung und Beratung
 § 5 Schulleitung
 § 6 Standort der Schule
 § 7 Räumliche und sächliche Ausstattung der Schule
