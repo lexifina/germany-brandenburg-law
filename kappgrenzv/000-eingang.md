@@ -1,0 +1,2 @@
+# Verordnung zur Bestimmung der Gebietskulisse zur Senkung der Kappungsgrenze gemäß § 558 Absatz 3 des Bürgerlichen Gesetzbuchs (Kappungsgrenzenverordnung - KappGrenzV)
+Auf Grund des § 558 Absatz 3 Satz 3 des Bürgerlichen Gesetzbuchs in der Fassung der Bekanntmachung vom 2. Januar 2002 (BGBl. I S. 42, 2909; 2003 I S. 738), der durch Artikel 1 Nummer 7 Buchstabe b des Gesetzes vom 11. März 2013 (BGBl. I S. 434) angefügt worden ist, verordnet die Landesregierung:
