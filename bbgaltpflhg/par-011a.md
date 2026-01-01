@@ -1,0 +1,2 @@
+# § 11a Einschränkung von Grundrechten
+Durch dieses Gesetz werden das Grundrecht auf informationelle Selbstbestimmung (Artikel 2 Absatz 1 in Verbindung mit Artikel 1 Absatz 1 des Grundgesetzes), das Grundrecht auf Datenschutz (Artikel 11 Absatz 1 der Verfassung des Landes Brandenburg) und das Grundrecht der Berufsfreiheit (Artikel 49 Absatz 1 der Verfassung des Landes Brandenburg) eingeschränkt.

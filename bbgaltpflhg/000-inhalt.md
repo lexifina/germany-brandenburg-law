@@ -10,4 +10,5 @@
 § 9 Zuständige Behörde
 § 10 Ordnungswidrigkeiten
 § 11 Übergangsregelung
+§ 11a Einschränkung von Grundrechten
 § 12 Inkrafttreten
