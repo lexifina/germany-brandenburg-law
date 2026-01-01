@@ -1,0 +1,2 @@
+# Verordnung über die Eröffnung des Hochschulzugangs durch Zugangsprüfung (Hochschulzugangsprüfungsverordnung - HZPV)
+Auf Grund des § 10 Absatz 1 Satz 8 bis 10 und des § 17 Absatz 6 Satz 3 des Brandenburgischen Hochschulgesetzes vom 9. April 2024 (GVBl. I Nr. 12) verordnet die Ministerin für Wissenschaft, Forschung und Kultur nach Information und Anhörung der Landeskonferenz der Studierendenschaften:
