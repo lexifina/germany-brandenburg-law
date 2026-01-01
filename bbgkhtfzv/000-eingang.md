@@ -1,0 +1,2 @@
+# Verordnung zur Bestimmung der Zuständigkeiten für die Umsetzung des Krankenhaustransformationsfonds im Land Brandenburg (Brandenburgische Krankenhaustransformationsfonds-Zuständigkeitsverordnung - BbgKHTFZV)
+Auf Grund des § 6 Absatz 2 des Landesorganisationsgesetzes vom 24. Mai 2004 (GVBl. I S. 186), der durch Artikel 2 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 28 S. 2) geändert worden ist, verordnet die Landesregierung:
