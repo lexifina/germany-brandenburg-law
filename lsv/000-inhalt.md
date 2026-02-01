@@ -20,11 +20,17 @@
 ## Abschnitt 4 Lehramt für Förderpädagogik
 § 16 Fächer, Studienbereiche
 § 17 Leistungspunkte, Masterarbeit
-## Teil 3 Schlussbestimmungen
+## Teil 3 Besondere lehramtsbezogene Masterstudiengänge
+§ 17a Zugang zum Masterstudium
+§ 17b Inhaltliche Anforderungen
+§ 17c Schulpraktische Studien
+## Teil 4 Schlussbestimmungen
 § 18 Übergangsbestimmungen
 § 19 Inkrafttreten, Außerkrafttreten
 Anlage 1 Verteilung der Leistungspunkte auf die Studienbereiche im Studium für das Lehramt für die Primarstufe
 Anlage 2 Verteilung der Leistungspunkte auf die Studienbereiche im Studium für das Lehramt für die Primarstufe mit einer Schwerpunktbildung gemäß § 9
 Anlage 3 Verteilung der Leistungspunkte auf die Studienbereiche im Studium für das Lehramt für die Sekundarstufen I und II (allgemeinbildende Fächer)
+Anlage 3a Verteilung der Leistungspunkte auf die Studienbereiche in einem Masterstudium gemäß § 17a für das Lehramt für die Sekundarstufe I und II (allgemeinbildende Fächer)
 Anlage 4 Verteilung der Leistungspunkte auf die Studienbereiche im Studium für das Lehramt für die Sekundarstufe II (berufliche Fächer)
+Anlage 4a Verteilung der Leistungspunkte auf die Studienbereiche in einem Masterstudium gemäß § 17a für das Lehramt für die Sekundarstufe II (berufliche Fächer)
 Anlage 5 Verteilung der Leistungspunkte auf die Studienbereiche im Studium für das Lehramt für Förderpädagogik
