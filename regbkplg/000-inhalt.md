@@ -4,6 +4,7 @@
 § 2 Regionalpläne
 § 2a Ergänzende Vorschriften zur Umweltprüfung, in Aufstellung befindliche Ziele
 § 2b Planerhaltung
+§ 2c Allgemeine plansichernde Untersagung mit Befreiungsvorbehalt
 § 3 Regionen
 § 4 Regionale Planungsgemeinschaften
 § 5 Organe der Regionalen Planungsgemeinschaften
