@@ -1,0 +1,10 @@
+# § 37a Umgang mit Wölfen und Wolfshybriden
+(1) Abweichend von § 1 Absatz 1 Satz 1 und Absatz 5 des Bundesjagdgesetzes unterliegen Wölfe und Hybriden zwischen Wölfen und Hunden (Wolfshybriden) nicht dem Recht zur Aneignung.
+(2) Abweichend von § 22a Absatz 1 Halbsatz 2 des Bundesjagdgesetzes sind schwerkranke Wölfe nicht zu fangen und zu versorgen.
+(3) Für die Jagd auf Wölfe gilt die Brandenburgische Wolfsverordnung in ihrer jeweils geltenden Fassung mit der Maßgabe, dass die untere Jagdbehörde die berechtigten Personen bestimmt. Außerhalb des Anwendungsbereichs der Brandenburgischen Wolfsverordnung gilt § 45 Absatz 7 Satz 1 bis 3 in Verbindung mit § 45a des Bundesnaturschutzgesetzes.
+(4) Für die Jagd auf Wolfshybriden gelten die auf sie anzuwendenden Bestimmungen der Brandenburgischen Wolfsverordnung in ihrer jeweils geltenden Fassung in Verbindung mit § 45a Absatz 4 des Bundesnaturschutzgesetzes.
+(5) Ist die Jagd auf Wölfe und Wolfshybriden nach den vorstehenden Absätzen zulässig, finden die §§ 29, 31 Absatz 3 bis 5, 34, 35 Absatz 3 bis 5 und 36 keine Anwendung, soweit in den folgenden Absätzen nicht ausdrücklich etwas anderes bestimmt ist.
+(6) Bedarf es der Nachsuche eines krankgeschossenen oder verletzten Wolfes, so darf die Nachsuche nur von einer bestätigten Schweißhundeführerin oder einem bestätigten Schweißhundeführer durchgeführt werden.
+(7) Für eine zulässige Jagd auf Wölfe oder Wolfshybriden kann die zuständige Jagdbehörde zur Nutzung von Nachtsicht- und Nachtzieltechnik unter Beachtung des Artikels 16 Absatz 1 der Richtlinie 92/43/EWG im Einzelfall Ausnahmen von dem Verbot des § 19 Absatz 1 Nummer 5 Buchstabe a des Bundesjagdgesetzes zulassen.
+(8) Das Erlegen eines Wolfes oder Wolfshybriden sowie das Auffinden eines Fallwildwolfes oder Fallwildwolfshybriden ist der unteren Jagdbehörde unverzüglich anzuzeigen. Die untere Jagdbehörde leitet die Anzeige an die Fachbehörde für Naturschutz und Landschaftspflege weiter.
+(9) An der systematischen Erfassung, Beobachtung und Überwachung von Wölfen (Monitoring) sollen die Jagdausübungsberechtigten im Rahmen ihrer Hegeverpflichtung mitwirken.

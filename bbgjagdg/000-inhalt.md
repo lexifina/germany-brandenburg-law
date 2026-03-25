@@ -48,6 +48,7 @@
 § 35 Bestätigte Schweißhundeführer
 § 36 Verfolgung kranken oder krank geschossenen Wildes in befriedeten Bezirken
 § 37 Einsatz von Jagdgebrauchshunden
+§ 37a Umgang mit Wölfen und Wolfshybriden
 ## Abschnitt 7 Jagdschutz
 § 38 Inhalt des Jagdschutzes, Pflicht zur Ausübung des Jagdschutzes
 § 39 Jagdschutzberechtigte
