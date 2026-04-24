@@ -48,8 +48,8 @@
 § 38 Anwendung von Rechtsvorschriften
 § 39 Besondere Vorschriften für die gemeinsame kommunale Anstalt
 § 40 Verordnungsermächtigung
-## Teil 6 Anzeige- und Genehmigungspflichten, Aufsicht
-§ 41 Anzeige- und Genehmigungspflichten
+## Teil 6 Genehmigungspflichten, Aufsicht
+§ 41 Genehmigungspflichten
 § 42 Aufsicht
 § 43 Anordnung der kommunalen Zusammenarbeit
 § 44 Schlichtung von Streitigkeiten
