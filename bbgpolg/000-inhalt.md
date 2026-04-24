@@ -12,6 +12,7 @@
 ## Kapitel 2 Befugnisse der Polizei
 ## Abschnitt 1 Allgemeine und besondere Befugnisse
 § 10 Allgemeine Befugnisse, Begriffsbestimmung
+§ 10a Einsatz technischer Mittel gegen unbemannte Fahrzeugsysteme
 § 11 Befragung, Auskunftspflicht
 § 12 Identitätsfeststellung
 § 13 Erkennungsdienstliche Maßnahmen
