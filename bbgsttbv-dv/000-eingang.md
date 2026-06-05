@@ -1,0 +1,2 @@
+# Verordnung zur Durchführung der Straßenverkehr-Transportbegleitungsverordnung im Land Brandenburg (Brandenburgische StTbV-Durchführungsverordnung - BbgStTbV-DV)
+Auf Grund des § 5 Absatz 4 und § 10 Absatz 3 der Straßenverkehr-Transportbegleitungsverordnung vom 28. August 2023 (BGBl. 2023 I Nr. 236) sowie des § 6 Absatz 9 Satz 2 des Straßenverkehrsgesetzes in der Fassung der Bekanntmachung vom 5. März 2003 (BGBl. I S. 310, 919), der durch Artikel 1 des Gesetzes vom 12. Juli 2021 (BGBl. I Nr. 3091) neu gefasst worden ist, verordnet die Landesregierung:
