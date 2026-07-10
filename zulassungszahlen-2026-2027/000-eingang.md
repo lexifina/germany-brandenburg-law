@@ -1,0 +1,2 @@
+# Verordnung über die Festsetzung von Zulassungszahlen für das Studienjahr 2026/2027
+Auf Grund des § 12 Absatz 1 Satz 1 sowie des § 13 Absatz 2 in Verbindung mit § 17 Absatz 6 Satz 3 des Brandenburgischen Hochschulgesetzes vom 9. April 2024 (GVBl. I Nr. 12) verordnet die Ministerin für Wissenschaft, Forschung und Kultur im Benehmen mit den Hochschulen und nach Anhörung der Landeskonferenz der Studierendenschaften:
