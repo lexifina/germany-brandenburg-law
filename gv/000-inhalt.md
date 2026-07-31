@@ -14,11 +14,12 @@
 § 11 Zeugnisse
 § 12 Aufrücken, Versetzen, Wiederholen, Zurücktreten
 § 13 Kinder von beruflich Reisenden
-## Abschnitt 3 Empfehlung und Gutachten der Grundschule
+## Abschnitt 3 Empfehlung der Grundschule
 § 14 Empfehlung der Grundschule
-§ 15 Gutachten der Grundschule
-## Abschnitt 4 Übergangs- und Schlussvorschriften
-§ 16 Übergangsregelungen
+§ 15
+(weggefallen)
+## Abschnitt 4 Schlussvorschriften
+§ 16 (weggefallen)
 § 17 Durchführung der Verordnung
 § 18 Inkrafttreten, Außerkrafttreten
 Anlage 1 Kontingentstundentafel
