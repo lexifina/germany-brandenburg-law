@@ -1,0 +1,2 @@
+# Verordnung zur Festlegung der Schulbezirke für Berufe nach dem Berufsbildungsgesetz und der Handwerksordnung im Land Brandenburg (Landesschulbezirksverordnung - LSchBzV)
+Auf Grund des § 106 Absatz 5 Satz 1 Nummer 2 des Brandenburgischen Schulgesetzes in der Fassung der Bekanntmachung vom 2. August 2002 (GVBl. I S. 78), zuletzt geändert durch Artikel 1 des Gesetzes zur Steigerung der Effizienz und zum Abbau von Bürokratie im Bildungswesen vom 29. Januar 2026 (GVBl. I Nr. 1), verordnet der Minister für Bildung, Jugend und Sport nach Anhörung der beteiligten Schulträger:
