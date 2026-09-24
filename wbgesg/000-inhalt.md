@@ -10,6 +10,7 @@
 § 5b Verfahren für die Anerkennung von im Ausland erworbenen Weiterbildungsabschlüssen
 § 5c Weiterbildungsabschlüsse der Deutschen Demokratischen Republik
 § 5d Verwaltungszusammenarbeit
+§ 5e Vorwarnmechanismus
 § 6 Durchführung der Weiterbildung
 § 7 Abschluß der Weiterbildung
 § 8 Anerkennung von Weiterbildungsstätten
