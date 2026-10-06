@@ -1,0 +1,2 @@
+# Verordnung über die ergänzende Erhebung von Tierseuchenkassenbeiträgen im Land Brandenburg (TSK-Ergänzungsbeiträgeverordnung 2026 - TSK-ErgBV 2026)
+Auf Grund des § 9 Absatz 1 des Gesetzes zur Ausführung des Tiergesundheitsgesetzes in der Fassung der Bekanntmachung vom 17. Dezember 2001 (GVBl. I S. 14), der durch Artikel 1 Nummer 11 des Gesetzes vom 10. Juli 2014 (GVBl. I Nr. 31) geändert worden ist, verordnet die Ministerin für Land- und Ernährungswirtschaft, Umwelt und Verbraucherschutz:
