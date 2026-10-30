@@ -22,22 +22,22 @@ def cpath(path):
 
 
 def number_lists(s):
-    """Write out the numbers the browser shows for <ol> items, innermost lists first."""
-    inner = re.compile(r'(?s)<ol([^>]*)>((?:(?!<ol\b).)*?)</ol>')
+    """Write out the numbers the browser shows for <ol> items, innermost lists first (tags in either case)."""
+    inner = re.compile(r'(?is)<ol([^>]*)>((?:(?!<ol\b).)*?)</ol>')
     while True:
         m = inner.search(s)
         if not m:
             return s
-        typ = re.search(r'type="(\w)"', m.group(1))
-        st = re.search(r'start="(\d+)"', m.group(1))
+        typ = re.search(r'(?i)type="(\w)"', m.group(1))
+        st = re.search(r'(?i)start="(\d+)"', m.group(1))
         n = [int(st.group(1)) if st else 1]
 
         def mark(_):
             x = n[0]
             n[0] += 1
-            alpha = (typ and typ.group(1) == 'a') or 'lower-alpha' in m.group(1)
+            alpha = (typ and typ.group(1) == 'a') or 'lower-alpha' in m.group(1).lower()
             return f"<xli> {chr(96 + x) if alpha else x} "
-        s = s[:m.start()] + '<xol>' + re.sub(r'<li\b[^>]*>', mark, m.group(2)) + '</xol>' + s[m.end():]
+        s = s[:m.start()] + '<xol>' + re.sub(r'(?i)<li\b[^>]*>', mark, m.group(2)) + '</xol>' + s[m.end():]
 
 
 def source(raw):
