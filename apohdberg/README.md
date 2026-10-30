@@ -1,0 +1,37 @@
+# Verordnung über die Ausbildung und Prüfung für den höheren Staatsdienst im Bergfach (APOhDBerg)
+
+APOhDBerg · 1 versions, from 2024-03-06 (latest in force: 2024-03-06) · <https://bravors.brandenburg.de/de/verordnungen-211588>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Eingang | [000-eingang.md](000-eingang.md) | 0 |  |
+| Inhaltsübersicht | [000-inhalt.md](000-inhalt.md) | 0 |  |
+| § 1 Geltungsbereich | [par-001.md](par-001.md) | 0 |  |
+| § 2 Einstellungsvoraussetzungen | [par-002.md](par-002.md) | 0 |  |
+| § 3 Bewerbungen | [par-003.md](par-003.md) | 0 |  |
+| § 4 Einstellung | [par-004.md](par-004.md) | 0 |  |
+| § 5 Rechtsstellung | [par-005.md](par-005.md) | 0 |  |
+| § 6 Dauer des Vorbereitungsdienstes | [par-006.md](par-006.md) | 0 |  |
+| § 7 Ziel | [par-007.md](par-007.md) | 0 |  |
+| § 8 Vorzeitige Entlassung | [par-008.md](par-008.md) | 0 |  |
+| § 9 Ausbildungsbehörde und Ausbildungsleiter | [par-009.md](par-009.md) | 0 |  |
+| § 10 Ausbildungsabschnitte | [par-010.md](par-010.md) | 0 |  |
+| § 11 Ausbildung im technischen Betrieb eines Bergwerksunternehmens als verantwortliche Person | [par-011.md](par-011.md) | 0 |  |
+| § 12 Ausbildung im technisch-planerischen Bereich und bei der Werksleitung eines Bergwerksunternehmens | [par-012.md](par-012.md) | 0 |  |
+| § 13 Ausbildung beim Bergamt | [par-013.md](par-013.md) | 0 |  |
+| § 14 Reisezeit | [par-014.md](par-014.md) | 0 |  |
+| § 15 Ausbildung beim Oberbergamt | [par-015.md](par-015.md) | 0 |  |
+| § 16 Beurteilung | [par-016.md](par-016.md) | 0 |  |
+| § 17 Zweck der Prüfung | [par-017.md](par-017.md) | 0 |  |
+| § 18 Prüfungsausschuß | [par-018.md](par-018.md) | 0 |  |
+| § 19 Anmeldung zur Prüfung | [par-019.md](par-019.md) | 0 |  |
+| § 20 Durchführung der Prüfung | [par-020.md](par-020.md) | 0 |  |
+| § 21 Häusliche Prüfungsarbeit | [par-021.md](par-021.md) | 0 |  |
+| § 22 Aufsichtsarbeiten | [par-022.md](par-022.md) | 0 |  |
+| § 23 Mündliche Prüfung | [par-023.md](par-023.md) | 0 |  |
+| § 24 Bewertung der Prüfungsleistungen und Gesamtergebnis der Prüfung | [par-024.md](par-024.md) | 0 |  |
+| § 25 Prüfungsniederschrift | [par-025.md](par-025.md) | 0 |  |
+| § 26 Prüfungsergebnis und Zeugnis | [par-026.md](par-026.md) | 0 |  |
+| § 27 Wiederholung der Prüfung | [par-027.md](par-027.md) | 0 |  |
+| § 28 Wirkungen der Prüfung | [par-028.md](par-028.md) | 0 |  |
+| § 29 Inkrafttreten | [par-029.md](par-029.md) | 0 |  |

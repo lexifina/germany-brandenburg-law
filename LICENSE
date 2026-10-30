@@ -1,0 +1,16 @@
+Law texts
+
+The texts in this repository are Brandenburg Gesetze in the non-official reading versions (Lesefassungen) published by
+BRAVORS - Brandenburgisches Vorschriftensystem, Landesregierung Brandenburg, bravors.brandenburg.de. Dates are read
+from the Gesetz- und Verordnungsblatt für das Land Brandenburg Teil I.
+
+- Copyright: "Gesetze, Verordnungen, amtliche Erlasse und Bekanntmachungen sowie Entscheidungen und amtlich verfasste
+  Leitsätze zu Entscheidungen genießen keinen urheberrechtlichen Schutz." (§ 5 Abs. 1 Urheberrechtsgesetz)
+- BRAVORS states no terms of use restricting reuse (Nutzungshinweise, retrieved 30 October 2026).
+- The texts are not the official version: only the Gesetz- und Verordnungsblatt für das Land Brandenburg is
+  authoritative.
+
+Attribution: Quelle: BRAVORS - Brandenburgisches Vorschriftensystem, Landesregierung Brandenburg.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

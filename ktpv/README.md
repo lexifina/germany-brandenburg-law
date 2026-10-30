@@ -1,0 +1,28 @@
+# Kindertagespflegeverordnung (Kindertagespflegeverordnung - KTPV)
+
+KTPV · 1 versions, from 2024-08-28 (latest in force: 2024-08-28) · <https://bravors.brandenburg.de/verordnungen/ktpv>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Eingang | [000-eingang.md](000-eingang.md) | 0 |  |
+| Inhaltsübersicht | [000-inhalt.md](000-inhalt.md) | 0 |  |
+| § 1 Anwendungsbereich | [par-001.md](par-001.md) | 0 |  |
+| § 2 Gleichrangiges Betreuungsangebot | [par-002.md](par-002.md) | 0 |  |
+| § 3 Beratung von Personensorgeberechtigten | [par-003.md](par-003.md) | 0 |  |
+| § 4 Elternbeteiligung | [par-004.md](par-004.md) | 0 |  |
+| § 5 Gewöhnlicher Aufenthalt bei eigenständiger Feststellung der personenbezogenen Eignung der Kindertagespflegeperson | [par-005.md](par-005.md) | 0 |  |
+| § 6 Anforderungen an die personenbezogene Eignung der Kindertagespflegeperson | [par-006.md](par-006.md) | 0 |  |
+| § 7 Anforderung an die persönliche Eignung der Kindertagespflegeperson | [par-007.md](par-007.md) | 0 |  |
+| § 8 Tätigkeitsvorbereitende Grundqualifizierung als Bestandteil der Sachkompetenz | [par-008.md](par-008.md) | 0 |  |
+| § 9 Vertiefte Kenntnisse der Kindertagespflege, Grundqualifizierung | [par-009.md](par-009.md) | 0 |  |
+| § 10 Anforderungen an die Prüfung der personenbezogenen Eignung durch den örtlichen Träger der öffentlichen Jugendhilfe | [par-010.md](par-010.md) | 0 |  |
+| § 11 Feststellung der personenbezogenen Eignung der Kindertagespflegeperson | [par-011.md](par-011.md) | 0 |  |
+| § 12 Anforderungen an kindgerechte Räume | [par-012.md](par-012.md) | 0 |  |
+| § 13 Anforderungen an die Feststellung der Eignung der Räume | [par-013.md](par-013.md) | 0 |  |
+| § 14 Anforderungen an die geteilte Belegung eines Betreuungsplatzes | [par-014.md](par-014.md) | 0 |  |
+| § 15 Anforderungen an den Betreuungsvertrag | [par-015.md](par-015.md) | 0 |  |
+| § 16 Anforderungen an die verlässliche Vertretung | [par-016.md](par-016.md) | 0 |  |
+| § 17 Anforderungen an den Kinderschutz | [par-017.md](par-017.md) | 0 |  |
+| § 18 Anforderungen zur laufenden Geldleistung | [par-018.md](par-018.md) | 0 |  |
+| § 19 Aufgaben des Zusammenschlusses der Kindertagespflegepersonen | [par-019.md](par-019.md) | 0 |  |
+| § 20 Inkrafttreten, Außerkrafttreten | [par-020.md](par-020.md) | 0 |  |
