@@ -1,0 +1,8 @@
+{
+  "path": "de-bb",
+  "code": "DE-BB",
+  "name": "Brandenburg",
+  "level": "country",
+  "repo": "https://github.com/lexifina/germany-brandenburg-law",
+  "build": "built: Verfassung des Landes Brandenburg and Brandenburg Gesetze, each historical Lesefassung BRAVORS holds, dated from the Gesetz- und Verordnungsblatt"
+}

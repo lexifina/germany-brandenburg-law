@@ -1,0 +1,55 @@
+{
+ "country": "DE-BB",
+ "acts": [
+  {
+   "slug": "verfassung",
+   "short": "BbgVerf",
+   "title": "Verfassung des Landes Brandenburg",
+   "url": "https://bravors.brandenburg.de/de/gesetze-212792",
+   "versions": [
+    {
+     "from": "2004-06-18",
+     "units": 120,
+     "source_url": "https://bravors.brandenburg.de/de/gesetze-213950",
+     "sha256": "a8b196442977b909059cdc633c9f4babcd84c625e4101ee29dffe606527702b2"
+    },
+    {
+     "from": "2009-07-11",
+     "units": 120,
+     "source_url": "https://bravors.brandenburg.de/de/gesetze-214185",
+     "sha256": "a1c8c0b5acb7d2f4fd23d37ad434886a813e53d36f35a4fc3937c1592ff7c724"
+    },
+    {
+     "from": "2011-12-20",
+     "units": 120,
+     "source_url": "https://bravors.brandenburg.de/de/gesetze-214384",
+     "sha256": "ef291f441fde790699f431e45499dd8e19b5616194e9de883ed49e8c8cdc50c7"
+    },
+    {
+     "from": "2013-12-10",
+     "units": 121,
+     "source_url": "https://bravors.brandenburg.de/de/gesetze-243128",
+     "sha256": "7a98f79691008b67a31a3a9b002dfa34f571876c41df7b83d0028cff813d4f34"
+    },
+    {
+     "from": "2019-09-25",
+     "units": 121,
+     "source_url": "https://bravors.brandenburg.de/de/gesetze-247329",
+     "sha256": "20ef95c13928eff6f3efea3b12fdf04053141ba33c8e06ec2d332e19f258319d"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 121,
+     "source_url": "https://bravors.brandenburg.de/de/gesetze-254475",
+     "sha256": "8fcfb483f38b125c1712bd02d0fc46705777820c129619cc74fc838bd31643c2"
+    },
+    {
+     "from": "2022-07-07",
+     "units": 121,
+     "source_url": "https://bravors.brandenburg.de/de/gesetze-212792",
+     "sha256": "20c7d43e8d21ab9fb7cce169630b49806e55c9a9c8cfb800b382dc07a62f3c3f"
+    }
+   ]
+  }
+ ]
+}
