@@ -74,6 +74,8 @@ This file is written by the build on 2026-10-30, the day the source data was ret
 | Gesetz- und Verordnungsblatt für das Land Brandenburg Teil I and Teil II (PDF issues on BRAVORS) | <https://bravors.brandenburg.de/de/veroeffentlichungsblaetter_einfache_suche> | 2026-10-30 | § 5 Abs. 1 UrhG. |
 | BRAVORS - Brandenburgisches Vorschriftensystem (Landesregierung Brandenburg): current text, Änderungshistorie and the Lesefassung of each historical version | <https://bravors.brandenburg.de> | 2026-10-30 | § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection. BRAVORS states no terms restricting reuse. |
 | Gesetz- und Verordnungsblatt für das Land Brandenburg Teil I and Teil II (PDF issues on BRAVORS) | <https://bravors.brandenburg.de/de/veroeffentlichungsblaetter_einfache_suche> | 2026-10-30 | § 5 Abs. 1 UrhG. |
+| BRAVORS - Brandenburgisches Vorschriftensystem (Landesregierung Brandenburg): current text, Änderungshistorie and the Lesefassung of each historical version | <https://bravors.brandenburg.de> | 2026-10-30 | § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection. BRAVORS states no terms restricting reuse. |
+| Gesetz- und Verordnungsblatt für das Land Brandenburg Teil I and Teil II (PDF issues on BRAVORS) | <https://bravors.brandenburg.de/de/veroeffentlichungsblaetter_einfache_suche> | 2026-10-30 | § 5 Abs. 1 UrhG. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -1170,20 +1172,53 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lufalusizv` | Verordnung zur Bestimmung der zuständigen Behörden auf den Gebieten der Luftfahrt und der Luftsicherheit im Land Brandenburg (Luftfahrt- und Luftsicherheitszuständigkeitsverordnung - LuFaLuSiZV) | 1 | 2013-07-26 to 2013-07-26 |
 | `verordnungen-212413` | Verordnung über den Braunkohlenplan Tagebau Cottbus-Nord | 1 | 2006-09-27 to 2006-09-27 |
 | `groverfv` | Verordnung über die einheitliche Durchführung von Raumordnungsverfahren im gemeinsamen Planungsraum Berlin-Brandenburg (Gemeinsame Raumordnungsverfahrensverordnung - GROVerfV) | 3 | 2010-07-28 to 2020-07-17 |
+| `verordnungen-212961` | Verordnung über den Braunkohlenplan Tagebau Welzow-Süd, Weiterführung in den räumlichen Teilabschnitt II und Änderung im räumlichen Teilabschnitt I (Brandenburgischer Teil) | 1 | 2014-09-03 to 2014-09-03 |
+| `verordnungen-212193` | Verordnung über den Landesentwicklungsplan Flughafenstandortentwicklung | 1 | 2006-06-16 to 2006-06-16 |
+| `verordnungen-212085` | Verordnung über den Landesentwicklungsplan für den Gesamtraum Berlin-Brandenburg (LEP GR) – ergänzende raumordnerische Festlegungen für den äußeren Entwicklungsraum - | 1 | 2004-08-18 to 2004-08-18 |
+| `lepbb-2009` | Verordnung über den Landesentwicklungsplan Berlin-Brandenburg (LEP B-B) | 1 | 2009-05-15 to 2009-05-15 |
+| `fluglarmsbbbgv` | Brandenburgische Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Berlin Brandenburg (FlugLärmSBBbgV) | 1 | 2013-08-22 to 2013-08-22 |
+| `lep-hr` | Verordnung über den Landesentwicklungsplan Hauptstadtregion Berlin-Brandenburg (LEP HR) | 1 | 2019-07-01 to 2019-07-01 |
+| `bbggeonutzv` | Verordnung zur Festlegung der entgeltfreien Bereitstellung und der Nutzungsbestimmungen für digitale Geobasisinformationen und Geodatendienste (BbgGeoNutzV) | 1 | 2020-01-15 to 2020-01-15 |
+| `bbgfbav` | Verordnung über die Anforderungen für den Betrieb von Feuerbestattungsanlagen im Land Brandenburg (Brandenburgische Feuerbestattungsanlagenverordnung - BbgFBAV) | 2 | 2002-10-01 to 2008-09-28 |
+| `bbggav` | Verordnung über die Gutachterausschüsse für Grundstückswerte des Landes Brandenburg (Brandenburgische Gutachterausschussverordnung - BbgGAV) | 2 | 2017-09-28 to 2024-05-11 |
+| `baugbzv` | Verordnung über Zuständigkeiten nach dem Baugesetzbuch (Baugesetzbuchzuständigkeitsverordnung - BauGBZV) | 3 | 2008-09-28 to 2018-08-18 |
+| `bbgbauprufv` | Verordnung über die Anerkennung von Prüfingenieurinnen und Prüfingenieuren und über die bautechnischen Prüfungen im Land Brandenburg (Brandenburgische Bautechnische Prüfungsverordnung - BbgBauPrüfV) | 10 | 2008-10-03 to 2025-11-14 |
+| `bbgbauzv` | Verordnung über die Übertragung bauaufsichtlicher Zuständigkeiten im Land Brandenburg (Brandenburgische Bauzuständigkeitsverordnung - BbgBauZV) | 2 | 2020-02-05 to 2024-04-30 |
+| `umlaussv` | Zweite Verordnung zur Durchführung des Baugesetzbuches (Umlegungsausschussverordnung - UmlAussV) | 2 | 2009-03-12 to 2024-03-06 |
+| `bbggstv` | Brandenburgische Garagen- und Stellplatzverordnung (BbgGStV) | 1 | 2025-11-14 to 2025-11-14 |
+| `bbgpuzav` | Verordnung über die Anerkennung als Prüf-, Überwachungs- oder Zertifizierungsstelle nach Bauordnungsrecht im Land Brandenburg (BbgPÜZAV) | 1 | 2024-04-30 to 2024-04-30 |
+| `bbgcwpv` | Verordnung über bauaufsichtliche Anforderungen an Camping- und Wochenendhausplätze im Land Brandenburg (Brandenburgische Camping- und Wochenendhausplatz-Verordnung - BbgCWPV) | 1 | 2005-06-24 to 2005-06-24 |
+| `bbgfeuv` | Brandenburgische Feuerungsverordnung (BbgFeuV) | 3 | 2006-04-05 to 2023-03-15 |
+| `bbguzv` | Verordnung über das Übereinstimmungszeichen im Land Brandenburg (Brandenburgische Übereinstimmungszeichenverordnung - BbgÜZV) | 1 | 2024-07-30 to 2024-07-30 |
+| `bbgbauvorlv` | Verordnung über Vorlagen und Nachweise in bauaufsichtlichen Verfahren im Land Brandenburg (Brandenburgische Bauvorlagenverordnung - BbgBauVorlV) | 1 | 2018-10-16 to 2018-10-16 |
+| `planuv` | Verordnung zur Übertragung der Planungshoheit nach dem Baugesetzbuch für das Gewerbegebiet „Prignitz/Falkenhagen“ (Planungshoheitsübertragungsverordnung - PlanÜV) | 1 | 2017-01-24 to 2017-01-24 |
+| `bbgeltbauv` | Verordnung über den Bau von Betriebsräumen für elektrische Anlagen im Land Brandenburg (BbgEltBauV) | 2 | 2014-09-05 to 2023-03-15 |
+| `bbgvbauv` | Brandenburgische Verordnung über den Bau und Betrieb von Verkaufsstätten (Brandenburgische Verkaufsstätten-Bauverordnung - BbgVBauV) | 1 | 2025-11-14 to 2025-11-14 |
+| `bbgwbaupv` | Verordnung zur Feststellung der wasserrechtlichen Eignung von Bauprodukten und Bauarten durch Nachweise nach der Brandenburgischen Bauordnung (Brandenburgische Wasserbauprüfverordnung - BbgWBauPV) | 1 | 2023-03-15 to 2023-03-15 |
+| `bbgbauav` | Verordnung über bauaufsichtliche Anforderungen an Abgrabungen und Aufschüttungen im Land Brandenburg (Brandenburgische Bau-Abgrabungsverordnung - BbgBauAV) | 1 | 2002-07-16 to 2002-07-16 |
+| `bbgutv` | Verordnung über die Überwachung von Tätigkeiten mit Bauprodukten und bei Bauarten im Land Brandenburg (Brandenburgische Bautätigkeitenüberwachungsverordnung - BbgÜTV) | 2 | 2005-04-30 to 2023-03-15 |
+| `bbghav` | Verordnung über Anforderungen an Hersteller von Bauprodukten und Anwender von Bauarten im Land Brandenburg (Brandenburgische Hersteller- und Anwenderverordnung - BbgHAV) | 2 | 2009-09-11 to 2023-03-15 |
+| `bbgprufsv` | Verordnung über die im Land Brandenburg bauaufsichtlich anerkannten Prüfsachverständigen (Brandenburgische Prüfsachverständigenverordnung - BbgPrüfSV) | 8 | 2009-11-07 to 2024-04-30 |
+| `bbgsgprufv` | Verordnung über die wiederkehrende Prüfung sicherheitstechnischer Gebäudeausrüstungen in baulichen Anlagen im Land Brandenburg (Brandenburgische Sicherheitstechnische Gebäudeausrüstungs-Prüfverordnung - BbgSGPrüfV) | 4 | 2015-07-09 to 2024-04-30 |
+| `bbgbebauv` | Brandenburgische Verordnung über den Bau und Betrieb von Beherbergungsstätten (Brandenburgische Beherbergungsstättenbau-Verordnung - BbgBeBauV) | 1 | 2025-11-14 to 2025-11-14 |
+| `bbgvstattv` | Verordnung über den Bau und Betrieb von Versammlungsstätten im Land Brandenburg (Brandenburgische Versammlungsstättenverordnung - BbgVStättV) | 2 | 2018-01-05 to 2025-11-14 |
+| `bbgwofegv` | Verordnung über die Einkommensgrenzen bei der sozialen Wohnraumförderung im Land Brandenburg (Wohnraumförderungseinkommensgrenzenverordnung - BbgWoFEGV) | 2 | 2019-10-01 to 2023-08-25 |
+| `mietbegrenzv` | Verordnung zur Bestimmung der Gebiete mit Mietpreisbegrenzung gemäß § 556d Absatz 2 des Bürgerlichen Gesetzbuchs (Mietpreisbegrenzungsverordnung - MietbegrenzV) | 1 | 2026-01-01 to 2026-01-01 |
+| `bbgmietspzv` | Verordnung zur Bestimmung der für die Erstellung und Anerkennung von Mietspiegeln im Land Brandenburg nach Landesrecht zuständigen Behörden (Brandenburgische Mietspiegelzuständigkeitsverordnung - BbgMietspZV) | 1 | 2022-09-03 to 2022-09-03 |
 
-The build made 1926 commits:
+The build made 1990 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1089 | first version of an act |
-| 691 | one law on its in-force day |
-| 146 | changes no amendment note explains, credited to the publisher |
+| 1122 | first version of an act |
+| 717 | one law on its in-force day |
+| 151 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 2337 laws in the record.
-- 2661 tags.
+- 2407 laws in the record.
+- 2752 tags.
 
 ## Dates
 
@@ -1195,13 +1230,13 @@ When a law gives no date of its own, the default rule applies: Verfassung des La
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ee5840bbf89f501104e4c71ec7a8895f855d26b0a2e7046ed20f2f78c82950cd` (57265393 bytes).
+- Corpus: sha256 `1d531f4d06a7a257bf603f7296f7aedbdce6e53b764d23d14506691f4a2286a7` (59488955 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
 
-1978 versions of 1089 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+2043 versions of 1122 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
 No second build of this corpus has been compared yet.
 
@@ -3012,6 +3047,50 @@ No second build of this corpus has been compared yet.
 - Left out: Verordnung über die Verbindlichkeit des Sanierungsplanes Greifenhain: version /de/verordnungen-212071 (Ursprüngliche Fassung vom 2. September 1994) left out: GVBl issue not retrieved
 - Left out: Verordnung zur Bestimmung der Anhörungsbehörde nach dem Magnetschwebebahnplanungsgesetz (Transrapid-Zuständigkeitsverordnung - TraraZV): version /de/verordnungen-212078 (Ursprüngliche Fassung vom 25. Oktober 1995) left out: GVBl issue not retrieved
 - Left out: Verordnung über die Abgrenzung der Braunkohlen- und Sanierungsplangebiete im Land Brandenburg (BSanPlagV): version /de/verordnungen-212079 (Ursprüngliche Fassung vom 26. Februar 1996) left out: GVBl issue not retrieved
+- The versions are the rows of BRAVORS' "Änderungshistorie" that link a Lesefassung. Amending acts listed before the oldest linked row have no Lesefassung; the oldest one is the oldest version available, credited to the publisher and naming those acts.
+- Each later version is credited, for every provision that differs from the version before, to the amending act its history row names.
+- Each version is dated by its amending act's Inkrafttreten clause in the Gesetz- und Verordnungsblatt issue the row cites: "am Tag nach der Verkündung" is the day after the issue date; a stated day is that day. A version whose clause is not one of these is left out (listed below).
+- One file per Artikel or Paragraph; the Inhaltsübersicht is its own file. Headings of Hauptteile and Abschnitte stand above the first provision under them.
+- The Verordnungen are the entries of BRAVORS' subject index ("Gesetze und Verordnungen sachgebietlich") whose title names a Verordnung, in index order, 50 entries a part. They are dated like the Gesetze: "Diese Verordnung tritt am Tag nach der Verkündung in Kraft" is the day after the issue date of the Gesetz- und Verordnungsblatt (Teil II for Verordnungen, Teil I for a Gesetz that amends one).
+- Left out: Verordnung über die Verbindlichkeit des Sanierungsplanes Meuro-Süd: version /de/verordnungen-212072 (Ursprüngliche Fassung vom 11. September 1996) left out: GVBl issue not retrieved
+- Left out: Verordnung über die Verbindlichkeit des Sanierungsplanes Tröbitz/Domsdorf: version /de/verordnungen-212073 (Ursprüngliche Fassung vom 17. Juni 1997) left out: GVBl issue not retrieved
+- Left out: Verordnung über die Verbindlichkeit des Sanierungsplanes Lauchhammer, Teil II: version /de/verordnungen-212074 (Ursprüngliche Fassung vom 17. Juni 1997) left out: GVBl issue not retrieved
+- Left out: Verordnung zur Regelung des Verfahrens der Anhörung der Bürgerinnen und Bürger der Gemeinde Horno zur Wiederansiedlung auf dem Gebiet der Gemeinde Jänschwalde oder dem Gebiet der Gemeinde Turnow oder dem Gebiet der Städte Peitz oder Forst (Lausitz) (Wiederansiedlungsanhörungsverordnung Horno - WAnhV): version /de/verordnungen-212080 (Ursprüngliche Fassung vom 12. November 1997) left out: GVBl issue not retrieved
+- Left out: Verordnung über die Verbindlichkeit des Sanierungsplanes Altbergbaugebiet Göhrigk: version /de/verordnungen-212075 (Ursprüngliche Fassung vom 7. November 1997) left out: GVBl issue not retrieved
+- Left out: Verordnung über die Verbindlichkeit des Sanierungsplanes Döbern: version /de/verordnungen-212076 (Ursprüngliche Fassung vom 18. November 1997) left out: GVBl issue not retrieved
+- Left out: Verordnung über den gemeinsamen Landesentwicklungsplan für den engeren Verflechtungsraum Brandenburg-Berlin: version /de/verordnungen-213130 (Ursprüngliche Fassung vom 2. März 1998) left out: GVBl issue not retrieved
+- Left out: Verordnung über den gemeinsamen Landesentwicklungsplan für den engeren Verflechtungsraum Brandenburg-Berlin: version /de/verordnungen-212232 (Anlage geändert durch Artikel 4 des Gesetzes vom 20. April 2006) left out: 0 Inkrafttreten clauses
+- Left out: Verordnung über die Verbindlichkeit des Sanierungsplanes Annahütte-Poley: version /de/verordnungen-212081 (Ursprüngliche Fassung vom 15. Mai 1998) left out: GVBl issue not retrieved
+- Left out: Verordnung über die Verbindlichkeit des Sanierungsplanes Heide: version /de/verordnungen-212082 (Ursprüngliche Fassung vom 15. Mai 1998) left out: GVBl issue not retrieved
+- Left out: Verordnung über den Landesentwicklungsplan Flughafenstandortentwicklung: version /de/verordnungen-213034 (Ursprüngliche Fassung vom 28. Oktober 2003) left out: the parsed text differs from the page (letters check)
+- Left out: Verordnung über den Braunkohlenplan Tagebau Jänschwalde: version /de/verordnungen-213955 (Ursprüngliche Fassung vom 5. Dezember 2002) left out: the parsed text differs from the page (letters check)
+- Left out: Verordnung über den Braunkohlenplan Tagebau Jänschwalde: version /de/verordnungen-212412 (Anlage geändert durch Artikel 3 des Gesetzes vom 27. Mai 2009) left out: 0 Inkrafttreten clauses
+- Left out: Verordnung über die Verbindlichkeit des Sanierungsplanes Brieskow-Finkenheerd: version /de/verordnungen-212083 (Ursprüngliche Fassung vom 23. September 1999) left out: GVBl issue not retrieved
+- Left out: Verordnung über die Gutachterausschüsse für Grundstückswerte des Landes Brandenburg (Brandenburgische Gutachterausschussverordnung - BbgGAV): version /verordnungen/bbggav/2 (Ursprüngliche Fassung vom 12. Mai 2010) left out: 0 Inkrafttreten clauses
+- Left out: Verordnung über Zuständigkeiten nach dem Baugesetzbuch (Baugesetzbuchzuständigkeitsverordnung - BauGBZV): version /de/verordnungen-213289 (§ 1 geändert durch Verordnung vom 2. August 2001) left out: 0 acts signed on 2001-08-02 in the issue
+- Left out: Verordnung über die Anerkennung von Prüfingenieurinnen und Prüfingenieuren und über die bautechnischen Prüfungen im Land Brandenburg (Brandenburgische Bautechnische Prüfungsverordnung - BbgBauPrüfV): version /verordnungen/bbgbaupruefv/8 (§§ 5, 9, 12, 13, 14, 16, 18, Anlage 2 geändert durch Artikel 4 der Verordnung vom 31. März 2021) left out: clause not simple: "Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach der Verkündung in Kraft"
+- Left out: Verordnung über die Übertragung bauaufsichtlicher Zuständigkeiten im Land Brandenburg (Brandenburgische Bauzuständigkeitsverordnung - BbgBauZV): version /verordnungen/bbgbauzv/3 (§ 1 geändert durch Artikel 5 der Verordnung vom 31. März 2021) left out: clause not simple: "Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach der Verkündung in Kraft"
+- Left out: Verordnung über die Anerkennung als Prüf-, Überwachungs- oder Zertifizierungsstelle nach Bauordnungsrecht im Land Brandenburg (BbgPÜZAV): version /verordnungen/bbgpuezav/2 (Ursprüngliche Fassung vom 28. Juli 2009) left out: 2 acts signed on 2009-07-28 in the issue
+- Left out: Verordnung über das Übereinstimmungszeichen im Land Brandenburg (Brandenburgische Übereinstimmungszeichenverordnung - BbgÜZV): version /verordnungen/bbguezv/3 (Überschrift, § 1 geändert durch Verordnung vom 23. März 2005) left out: 0 acts signed on 2005-03-23 in the issue
+- Left out: Verordnung über Vorlagen und Nachweise in bauaufsichtlichen Verfahren im Land Brandenburg (Brandenburgische Bauvorlagenverordnung - BbgBauVorlV): version /verordnungen/bbgbauvorlv_2016/2 (Ursprüngliche Fassung vom 7. November 2016) left out: 0 Inkrafttreten clauses
+- Left out: Verordnung über Vorlagen und Nachweise in bauaufsichtlichen Verfahren im Land Brandenburg (Brandenburgische Bauvorlagenverordnung - BbgBauVorlV): version /verordnungen/bbgbauvorlv (§§ 1, 2, 3, 7, 11 geändert; § 12 neu gefasst durch Artikel 3 der Verordnung vom 31. März 2021) left out: clause not simple: "Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach der Verkündung in Kraft"
+- Left out: Verordnung über den Bau von Betriebsräumen für elektrische Anlagen im Land Brandenburg (BbgEltBauV): version /verordnungen/bbgeltbauv (§§ 1, 2, 3, 4, 5, 6, 7 geändert, § 8 neu eingefügt, §§ 8 und 9 werden §§ 9 und 10 durch Verordnung vom 19. Februar 2025) left out: it would take effect on the same day as the version before, but its amending act puts parts in or out of force on other days ("Artikel 2 Inkrafttreten Diese Verordnung tritt mit Wirkung vom 15. März 2023 in Kraft")
+- Left out: Brandenburgische Verordnung über den Bau und Betrieb von Verkaufsstätten (Brandenburgische Verkaufsstätten-Bauverordnung - BbgVBauV): version /verordnungen/bbgvbauv/2 (Ursprüngliche Fassung vom 8. November 2017) left out: 0 Inkrafttreten clauses
+- Left out: Verordnung zur Feststellung der wasserrechtlichen Eignung von Bauprodukten und Bauarten durch Nachweise nach der Brandenburgischen Bauordnung (Brandenburgische Wasserbauprüfverordnung - BbgWBauPV): version /verordnungen/bbgwbaupv/3 (§ 1 geändert durch Artikel 3 der Verordnung vom 23. März 2005) left out: 0 acts signed on 2005-03-23 in the issue
+- Left out: Verordnung über die im Land Brandenburg bauaufsichtlich anerkannten Prüfsachverständigen (Brandenburgische Prüfsachverständigenverordnung - BbgPrüfSV): version /verordnungen/bbgpruefsv_2015/5 (§ 13 geändert durch Artikel 2 der Verordnung vom 3. August 2015) left out: clause not simple: "Diese Verordnung tritt vorbehaltlich des Absatzes 2 am 1. September 2015 in Kraft"
+- Left out: Verordnung über die im Land Brandenburg bauaufsichtlich anerkannten Prüfsachverständigen (Brandenburgische Prüfsachverständigenverordnung - BbgPrüfSV): version /verordnungen/bbgpruefsv/9 (Inhaltsübersicht, §§ 1, 13 geändert; § 15 aufgehoben durch Artikel 6 der Verordnung vom 31. März 2021) left out: clause not simple: "Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach der Verkündung in Kraft"
+- Left out: Verordnung über die wiederkehrende Prüfung sicherheitstechnischer Gebäudeausrüstungen in baulichen Anlagen im Land Brandenburg (Brandenburgische Sicherheitstechnische Gebäudeausrüstungs-Prüfverordnung - BbgSGPrüfV): version /verordnungen/bbgsgpruefv_2004/3 (§§ 2, 6 geändert durch Verordnung vom 26. Januar 2004) left out: 0 acts signed on 2004-01-26 in the issue
+- Left out: Verordnung über die wiederkehrende Prüfung sicherheitstechnischer Gebäudeausrüstungen in baulichen Anlagen im Land Brandenburg (Brandenburgische Sicherheitstechnische Gebäudeausrüstungs-Prüfverordnung - BbgSGPrüfV): version /verordnungen/bbgsgpruefv_2006/4 (§ 2 geändert durch Artikel 3 des Gesetzes vom 28. Juni 2006) left out: 0 Inkrafttreten clauses
+- Left out: Verordnung über die wiederkehrende Prüfung sicherheitstechnischer Gebäudeausrüstungen in baulichen Anlagen im Land Brandenburg (Brandenburgische Sicherheitstechnische Gebäudeausrüstungs-Prüfverordnung - BbgSGPrüfV): version /verordnungen/bbgsgpruefv_2007/5 (§§ 1-3, 5 geändert durch Verordnung vom 19. Dezember 2006) left out: 0 acts signed on 2006-12-19 in the issue
+- Left out: Verordnung über die wiederkehrende Prüfung sicherheitstechnischer Gebäudeausrüstungen in baulichen Anlagen im Land Brandenburg (Brandenburgische Sicherheitstechnische Gebäudeausrüstungs-Prüfverordnung - BbgSGPrüfV): version /verordnungen/bbgsgpruefv/9 (§ 2 geändert durch Artikel 7 der Verordnung vom 31. März 2021) left out: clause not simple: "Diese Verordnung tritt vorbehaltlich des Absatzes 2 am Tag nach der Verkündung in Kraft"
+- Left out: Brandenburgische Verordnung über den Bau und Betrieb von Beherbergungsstätten (Brandenburgische Beherbergungsstättenbau-Verordnung - BbgBeBauV): version /verordnungen/bbgbebauv/2 (Ursprüngliche Fassung vom 8. November 2017) left out: 0 Inkrafttreten clauses
+- Left out: Verordnung über bauaufsichtliche Anforderungen an Krankenhäuser und Pflegeheime im Land Brandenburg (Brandenburgische Krankenhaus- und Pflegeheim-Bauverordnung - BbgKPBauV): version /de/verordnungen-213704 (§ 19 geändert durch Artikel 6 der Verordnung vom 23. März 2005) left out: 0 acts signed on 2005-03-23 in the issue
+- Left out: Verordnung über bauaufsichtliche Anforderungen an Krankenhäuser und Pflegeheime im Land Brandenburg (Brandenburgische Krankenhaus- und Pflegeheim-Bauverordnung - BbgKPBauV): version /de/verordnungen-212240 (§§ 3, 7, 20 geändert durch Artikel 1 der Verordnung vom 19. Dezember 2006) left out: 0 acts signed on 2006-12-19 in the issue
+- Left out: Verordnung über die Zuständigkeit nach dem Zweiten Wohnungsbaugesetz (WoBauGZV): version /de/verordnungen-212091 (§ 1 geändert durch Verordnung vom 1. Oktober 1999) left out: GVBl issue not retrieved
+- Left out: Verordnung zur Durchführung des Wohngeldgesetzes und des Wohngeldsondergesetzes im Land Brandenburg: version /de/verordnungen-212093 (Ursprüngliche Fassung vom 25. November 1993) left out: GVBl issue not retrieved
+- Left out: Vierte Verordnung zur Bestimmung von Gebieten mit erhöhtem Wohnungsbedarf (4. GmeWbV): version /verordnungen/4_gmewbv_2006 (Ursprüngliche Fassung vom 28. Dezember 2000) left out: no issue date
+- Left out: Verordnung über die zuständigen Stellen auf dem Gebiet des Wohnungswesens (Wohnungswesenzuständigkeitsverordnung - WoweZV): version /de/verordnungen-212095 (Ursprüngliche Fassung vom 15. März 2002) left out: 0 acts signed on 2002-03-15 in the issue
+- Left out: Verordnung über Zuständigkeiten im Kleingartenrecht: version /de/verordnungen-212097 (Ursprüngliche Fassung vom 3. April 1993) left out: GVBl issue not retrieved
 
 ## What AI did and did not do
 
@@ -3022,6 +3101,7 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: words come from BRAVORS, dates from the Gesetz- und Verordnungsblatt, credits from BRAVORS' history.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: words come from BRAVORS, dates from the Gesetz- und Verordnungsblatt, credits from BRAVORS' history.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: words come from BRAVORS, dates from the Gesetz- und Verordnungsblatt, credits from BRAVORS' history.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: words come from BRAVORS, dates from the Gesetz- und Verordnungsblatt, credits from BRAVORS' history.

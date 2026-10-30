@@ -20580,6 +20580,660 @@
      "sha256": "774f25dbc58734f85fd0428bfce4a8e19c35d321ece34e7e8c54528d27233a23"
     }
    ]
+  },
+  {
+   "slug": "verordnungen-212961",
+   "short": "Verordnung über den Braunkohlenplan Tagebau Welzow-Süd, Weit",
+   "title": "Verordnung über den Braunkohlenplan Tagebau Welzow-Süd, Weiterführung in den räumlichen Teilabschnitt II und Änderung im räumlichen Teilabschnitt I (Brandenburgischer Teil)",
+   "url": "https://bravors.brandenburg.de/de/verordnungen-212961",
+   "versions": [
+    {
+     "from": "2014-09-03",
+     "units": 5,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-212961",
+     "sha256": "dbf91975dd0d0598f4244fec61d8e5ed77efbb509cc4af71364f07cc4c5b669a"
+    }
+   ]
+  },
+  {
+   "slug": "verordnungen-212193",
+   "short": "Verordnung über den Landesentwicklungsplan Flughafenstandort",
+   "title": "Verordnung über den Landesentwicklungsplan Flughafenstandortentwicklung",
+   "url": "https://bravors.brandenburg.de/de/verordnungen-212193",
+   "versions": [
+    {
+     "from": "2006-06-16",
+     "units": 3,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-212193",
+     "sha256": "f2fbc0c92a578668d477fa80bfc2d90f877042ab8023f111a05aca66b285f198"
+    }
+   ]
+  },
+  {
+   "slug": "verordnungen-212085",
+   "short": "Verordnung über den Landesentwicklungsplan für den Gesamtrau",
+   "title": "Verordnung über den Landesentwicklungsplan für den Gesamtraum Berlin-Brandenburg (LEP GR) – ergänzende raumordnerische Festlegungen für den äußeren Entwicklungsraum -",
+   "url": "https://bravors.brandenburg.de/de/verordnungen-212085",
+   "versions": [
+    {
+     "from": "2004-08-18",
+     "units": 5,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-212085",
+     "sha256": "54a6ade002c25941823b97c5a4835efe5ef5e4a4084b9ba9a2bcbc09c0c8504a"
+    }
+   ]
+  },
+  {
+   "slug": "lepbb-2009",
+   "short": "Verordnung über den Landesentwicklungsplan Berlin-Brandenbur",
+   "title": "Verordnung über den Landesentwicklungsplan Berlin-Brandenburg (LEP B-B)",
+   "url": "https://bravors.brandenburg.de/verordnungen/lepbb_2009",
+   "versions": [
+    {
+     "from": "2009-05-15",
+     "units": 5,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/lepbb_2009",
+     "sha256": "c20035f09f8270289c1ea075749cb0d88dbd2b1b4ac36c0e45b4fcc8ccd7afe1"
+    }
+   ]
+  },
+  {
+   "slug": "fluglarmsbbbgv",
+   "short": "FlugLärmSBBbgV",
+   "title": "Brandenburgische Verordnung über die Festsetzung des Lärmschutzbereichs für den Verkehrsflughafen Berlin Brandenburg (FlugLärmSBBbgV)",
+   "url": "https://bravors.brandenburg.de/de/verordnungen-212770",
+   "versions": [
+    {
+     "from": "2013-08-22",
+     "units": 2,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-212770",
+     "sha256": "a1323702e4c0edd6694d07a3016c4a74a895656864f2ea379b23ec547b7c66dc"
+    }
+   ]
+  },
+  {
+   "slug": "lep-hr",
+   "short": "Verordnung über den Landesentwicklungsplan Hauptstadtregion ",
+   "title": "Verordnung über den Landesentwicklungsplan Hauptstadtregion Berlin-Brandenburg (LEP HR)",
+   "url": "https://bravors.brandenburg.de/verordnungen/lep_hr",
+   "versions": [
+    {
+     "from": "2019-07-01",
+     "units": 5,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/lep_hr",
+     "sha256": "0d23403991629ea1456a496fb7d022a072e4ba7c0b503e583cf1c5aabf267fee"
+    }
+   ]
+  },
+  {
+   "slug": "bbggeonutzv",
+   "short": "BbgGeoNutzV",
+   "title": "Verordnung zur Festlegung der entgeltfreien Bereitstellung und der Nutzungsbestimmungen für digitale Geobasisinformationen und Geodatendienste (BbgGeoNutzV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbggeonutzv",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 11,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbggeonutzv",
+     "sha256": "7671be31caf4fc6922b37b24f1c93e81ca911ebfe233084b497dc24d2dcfd334"
+    }
+   ]
+  },
+  {
+   "slug": "bbgfbav",
+   "short": "BbgFBAV",
+   "title": "Verordnung über die Anforderungen für den Betrieb von Feuerbestattungsanlagen im Land Brandenburg (Brandenburgische Feuerbestattungsanlagenverordnung - BbgFBAV)",
+   "url": "https://bravors.brandenburg.de/de/verordnungen-212337",
+   "versions": [
+    {
+     "from": "2002-10-01",
+     "units": 12,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-213850",
+     "sha256": "3780b28d12a5d9ec2237ca3e17a93eb78333e8b830354ef573ceab14e099ef4c"
+    },
+    {
+     "from": "2008-09-28",
+     "units": 12,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-212337",
+     "sha256": "c5afbf372d3cbc178a695d412bff2777603119b4b55fee65b1bb392abb52abb3"
+    }
+   ]
+  },
+  {
+   "slug": "bbggav",
+   "short": "BbgGAV",
+   "title": "Verordnung über die Gutachterausschüsse für Grundstückswerte des Landes Brandenburg (Brandenburgische Gutachterausschussverordnung - BbgGAV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbggav",
+   "versions": [
+    {
+     "from": "2017-09-28",
+     "units": 31,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbggav/3",
+     "sha256": "e97e075a075109f647ba860819dfb352151b505a6471455d6b7e61a9e4b3fcfe"
+    },
+    {
+     "from": "2024-05-11",
+     "units": 30,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbggav",
+     "sha256": "9c217b4ad440f1fe3eda85ee4588700717c23408df8179647feb4f7173a18ec1"
+    }
+   ]
+  },
+  {
+   "slug": "baugbzv",
+   "short": "BauGBZV",
+   "title": "Verordnung über Zuständigkeiten nach dem Baugesetzbuch (Baugesetzbuchzuständigkeitsverordnung - BauGBZV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/baugbzv",
+   "versions": [
+    {
+     "from": "2008-09-28",
+     "units": 3,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-213907",
+     "sha256": "1e2798dcdf7d40c586348ba5d665b0594f54d60fc6e5f87ec8daef0d16d6af94"
+    },
+    {
+     "from": "2009-03-12",
+     "units": 3,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/baugbzv/5",
+     "sha256": "e1324c78e927b1aa3e3ee9ffad19ce764654730db9dc077e05f77463db7e960e"
+    },
+    {
+     "from": "2018-08-18",
+     "units": 3,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/baugbzv",
+     "sha256": "50e8480faaf4d43ee83d6db3fbab9e4bc131a04d7d9c55eff1c30aad8b9cc859"
+    }
+   ]
+  },
+  {
+   "slug": "bbgbauprufv",
+   "short": "BbgBauPrüfV",
+   "title": "Verordnung über die Anerkennung von Prüfingenieurinnen und Prüfingenieuren und über die bautechnischen Prüfungen im Land Brandenburg (Brandenburgische Bautechnische Prüfungsverordnung - BbgBauPrüfV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgbaupruefv",
+   "versions": [
+    {
+     "from": "2008-10-03",
+     "units": 29,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbaupruefv/2",
+     "sha256": "fecc41b06dfe5cb5e28deecc86fb5199a34ec60f371c03f713b646568face4db"
+    },
+    {
+     "from": "2011-01-21",
+     "units": 29,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbaupruefv/3",
+     "sha256": "59fe257e0859bed1a329281129ea1b07e30b598ce0b1b51692815af3c28cb017"
+    },
+    {
+     "from": "2014-12-17",
+     "units": 31,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbaupruefv/4",
+     "sha256": "095a7bac88d7f8858772fabda9b772857d154ddb19adc64892d4c78b5104e294"
+    },
+    {
+     "from": "2016-09-21",
+     "units": 31,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbaupruefv/5",
+     "sha256": "33546046f307f65a023a1c3e669fd96cfe5b11a90ed3fb2c07c99e3c643d20de"
+    },
+    {
+     "from": "2019-08-23",
+     "units": 31,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbaupruefv/6",
+     "sha256": "30c30533120e5113feb5ec4902d6676a319f76186adb59e5dc1e3f69dbf58f8c"
+    },
+    {
+     "from": "2020-06-30",
+     "units": 29,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbaupruefv/7",
+     "sha256": "01ae15cfdfbae40c6b129bddfd99abb29824e5b442481c70e68389cb88dae0b0"
+    },
+    {
+     "from": "2021-08-27",
+     "units": 29,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbaupruefv/9",
+     "sha256": "d8ccb5ec44eed6dafbe868b7a713f4bd4d83fbe0a39e7f8645e0ac9b35f9efcd"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 29,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbaupruefv/10",
+     "sha256": "c0598a3e3a81fbbe4872adec675e07cc7960988eb8624eeab2bc2eb93b03738d"
+    },
+    {
+     "from": "2024-07-30",
+     "units": 29,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbaupruefv/11",
+     "sha256": "85f33dba842dc28ba29d82a9e5731c98cf388a6da8570614afbbbc0406152c2a"
+    },
+    {
+     "from": "2025-11-14",
+     "units": 29,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbaupruefv",
+     "sha256": "bb83c63a42800fd81b393557a5ef5aecb63568cd40e95cb8f32d80ab2d16aa47"
+    }
+   ]
+  },
+  {
+   "slug": "bbgbauzv",
+   "short": "BbgBauZV",
+   "title": "Verordnung über die Übertragung bauaufsichtlicher Zuständigkeiten im Land Brandenburg (Brandenburgische Bauzuständigkeitsverordnung - BbgBauZV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgbauzv",
+   "versions": [
+    {
+     "from": "2020-02-05",
+     "units": 3,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbauzv/2",
+     "sha256": "d816bc50ef5646452c8177d4db795ca2e812c20622fb521063bb17d31376f6d3"
+    },
+    {
+     "from": "2024-04-30",
+     "units": 3,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbauzv",
+     "sha256": "581c3656f5e7b19ee68bd6e26aba43eda4fa89ccdfa60b18c59d530121782124"
+    }
+   ]
+  },
+  {
+   "slug": "umlaussv",
+   "short": "UmlAussV",
+   "title": "Zweite Verordnung zur Durchführung des Baugesetzbuches (Umlegungsausschussverordnung - UmlAussV)",
+   "url": "https://bravors.brandenburg.de/de/verordnungen-212378",
+   "versions": [
+    {
+     "from": "2009-03-12",
+     "units": 10,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/umlaussv/2",
+     "sha256": "916f5a0ff6df37bf84bcfd687ab04f39e3c6b15fef5eaf5cf7d6b7ad2299e48f"
+    },
+    {
+     "from": "2024-03-06",
+     "units": 10,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-212378",
+     "sha256": "3fed798447c3fc4947b9b57c80aab8fb43c55ab5b6896f7daedace601519a8b4"
+    }
+   ]
+  },
+  {
+   "slug": "bbggstv",
+   "short": "BbgGStV",
+   "title": "Brandenburgische Garagen- und Stellplatzverordnung (BbgGStV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbggstv",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 26,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbggstv",
+     "sha256": "4f5fe2e4214934dc677fbb1833d099eb5ccbab8882388f8b49954470cfe85508"
+    }
+   ]
+  },
+  {
+   "slug": "bbgpuzav",
+   "short": "BbgPÜZAV",
+   "title": "Verordnung über die Anerkennung als Prüf-, Überwachungs- oder Zertifizierungsstelle nach Bauordnungsrecht im Land Brandenburg (BbgPÜZAV)",
+   "url": "https://bravors.brandenburg.de/de/verordnungen-212419",
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "units": 9,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-212419",
+     "sha256": "df419fe4ab1244302cbbc81028d7c19c574432cc893b5a822059a05f6ecc7b3c"
+    }
+   ]
+  },
+  {
+   "slug": "bbgcwpv",
+   "short": "BbgCWPV",
+   "title": "Verordnung über bauaufsichtliche Anforderungen an Camping- und Wochenendhausplätze im Land Brandenburg (Brandenburgische Camping- und Wochenendhausplatz-Verordnung - BbgCWPV)",
+   "url": "https://bravors.brandenburg.de/de/verordnungen-212086",
+   "versions": [
+    {
+     "from": "2005-06-24",
+     "units": 11,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-212086",
+     "sha256": "bf37d8c1da596455451af2bd97ee1a7ae1e01b0580d847a668011281245e67be"
+    }
+   ]
+  },
+  {
+   "slug": "bbgfeuv",
+   "short": "BbgFeuV",
+   "title": "Brandenburgische Feuerungsverordnung (BbgFeuV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgfeuv",
+   "versions": [
+    {
+     "from": "2006-04-05",
+     "units": 15,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-214091",
+     "sha256": "3cae91efb711a8c1f979c409ec42f75d88258d21edd13523ddecc1affb101095"
+    },
+    {
+     "from": "2010-09-17",
+     "units": 15,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgfeuv/3",
+     "sha256": "86e190210538b6e57820efad187412533b5e0cb91d0adceeed960067264ce23a"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 15,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgfeuv",
+     "sha256": "d5fc73847d18539346b0d012c1f9ea0dab1a69eb4f18f400415624659787c3d4"
+    }
+   ]
+  },
+  {
+   "slug": "bbguzv",
+   "short": "BbgÜZV",
+   "title": "Verordnung über das Übereinstimmungszeichen im Land Brandenburg (Brandenburgische Übereinstimmungszeichenverordnung - BbgÜZV)",
+   "url": "https://bravors.brandenburg.de/de/verordnungen-212087",
+   "versions": [
+    {
+     "from": "2024-07-30",
+     "units": 3,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-212087",
+     "sha256": "97692178656abc5c065484fbee65e495adda7973c6eaf20a1cb7e4101a769332"
+    }
+   ]
+  },
+  {
+   "slug": "bbgbauvorlv",
+   "short": "BbgBauVorlV",
+   "title": "Verordnung über Vorlagen und Nachweise in bauaufsichtlichen Verfahren im Land Brandenburg (Brandenburgische Bauvorlagenverordnung - BbgBauVorlV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgbauvorlv",
+   "versions": [
+    {
+     "from": "2018-10-16",
+     "units": 22,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbauvorlv_2016/3",
+     "sha256": "904bee0fcefbc7a1d37d9f8cacba97e93f3af1a5f60c554b76d3b7f363f73adb"
+    }
+   ]
+  },
+  {
+   "slug": "planuv",
+   "short": "PlanÜV",
+   "title": "Verordnung zur Übertragung der Planungshoheit nach dem Baugesetzbuch für das Gewerbegebiet „Prignitz/Falkenhagen“ (Planungshoheitsübertragungsverordnung - PlanÜV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/planuev",
+   "versions": [
+    {
+     "from": "2017-01-24",
+     "units": 4,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/planuev",
+     "sha256": "32763fef65a079b5f3f1748c71b6e1757596312181c202703f45d13476c752de"
+    }
+   ]
+  },
+  {
+   "slug": "bbgeltbauv",
+   "short": "BbgEltBauV",
+   "title": "Verordnung über den Bau von Betriebsräumen für elektrische Anlagen im Land Brandenburg (BbgEltBauV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgeltbauv",
+   "versions": [
+    {
+     "from": "2014-09-05",
+     "units": 10,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgeltbauv/2",
+     "sha256": "13235eef90944208dead0350037541c5a1508f249e68d90c72e7cabab260b2fb"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 11,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgeltbauv/3",
+     "sha256": "018e059f3c4445510b1f4c7bbc762a205c08eeacd75fcf26e85952da35ad0a90"
+    }
+   ]
+  },
+  {
+   "slug": "bbgvbauv",
+   "short": "BbgVBauV",
+   "title": "Brandenburgische Verordnung über den Bau und Betrieb von Verkaufsstätten (Brandenburgische Verkaufsstätten-Bauverordnung - BbgVBauV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgvbauv",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 35,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgvbauv",
+     "sha256": "2dd6de4f7bbf4972d538f69234b94c551efebac0049c081342742393dd4dbece"
+    }
+   ]
+  },
+  {
+   "slug": "bbgwbaupv",
+   "short": "BbgWBauPV",
+   "title": "Verordnung zur Feststellung der wasserrechtlichen Eignung von Bauprodukten und Bauarten durch Nachweise nach der Brandenburgischen Bauordnung (Brandenburgische Wasserbauprüfverordnung - BbgWBauPV)",
+   "url": "https://bravors.brandenburg.de/de/verordnungen-212088",
+   "versions": [
+    {
+     "from": "2023-03-15",
+     "units": 4,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-212088",
+     "sha256": "5cb0e321664c540e54c83f7ca57ac0b0d02ce7f21e25b8b60797ccf9875e1b6f"
+    }
+   ]
+  },
+  {
+   "slug": "bbgbauav",
+   "short": "BbgBauAV",
+   "title": "Verordnung über bauaufsichtliche Anforderungen an Abgrabungen und Aufschüttungen im Land Brandenburg (Brandenburgische Bau-Abgrabungsverordnung - BbgBauAV)",
+   "url": "https://bravors.brandenburg.de/de/verordnungen-212089",
+   "versions": [
+    {
+     "from": "2002-07-16",
+     "units": 10,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-212089",
+     "sha256": "56ab4804a8c0d6f3737c6ee86c4c60234ae68f0a873f8eef4b235a751e9798fd"
+    }
+   ]
+  },
+  {
+   "slug": "bbgutv",
+   "short": "BbgÜTV",
+   "title": "Verordnung über die Überwachung von Tätigkeiten mit Bauprodukten und bei Bauarten im Land Brandenburg (Brandenburgische Bautätigkeitenüberwachungsverordnung - BbgÜTV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbguetv",
+   "versions": [
+    {
+     "from": "2005-04-30",
+     "units": 4,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbguetv/2",
+     "sha256": "570a1d276fddfc4319031edbce948dd516bc84cd7943fd74aee024f952c1c343"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 4,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbguetv",
+     "sha256": "2ce57a9653f8f23cf99f58b09ad9c2beaeec045ddc88acd57d1aac6cb88db88e"
+    }
+   ]
+  },
+  {
+   "slug": "bbghav",
+   "short": "BbgHAV",
+   "title": "Verordnung über Anforderungen an Hersteller von Bauprodukten und Anwender von Bauarten im Land Brandenburg (Brandenburgische Hersteller- und Anwenderverordnung - BbgHAV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbghav",
+   "versions": [
+    {
+     "from": "2009-09-11",
+     "units": 5,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbghav/2",
+     "sha256": "23167073605faaa6b6b35a8c8dd579c9dea755c44fd4df963cb4ca0540a71821"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 5,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbghav",
+     "sha256": "073e82efca2471053d64a29aa81a44135d319c80e37a0a7066e7f94f021d1585"
+    }
+   ]
+  },
+  {
+   "slug": "bbgprufsv",
+   "short": "BbgPrüfSV",
+   "title": "Verordnung über die im Land Brandenburg bauaufsichtlich anerkannten Prüfsachverständigen (Brandenburgische Prüfsachverständigenverordnung - BbgPrüfSV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgpruefsv",
+   "versions": [
+    {
+     "from": "2009-11-07",
+     "units": 18,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgpruefsv_2009/2",
+     "sha256": "b3d85e2bfac85c47fe278ad0d5ec352509a398991831b39fb72c4a781afaeeed"
+    },
+    {
+     "from": "2011-09-16",
+     "units": 18,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgpruefsv_2011/3",
+     "sha256": "f5d646265d71ef77e99b075c7d1494ea1344070dec3a80663fa3c62db63177b2"
+    },
+    {
+     "from": "2014-06-27",
+     "units": 18,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgpruefsv_2014/4",
+     "sha256": "f56b2e41d0b69bfb85a9c94eb964b0a4cfb5f1938856524f5b33345349330f9c"
+    },
+    {
+     "from": "2016-09-23",
+     "units": 18,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgpruefsv/6",
+     "sha256": "b024c69a0bd445d97bb1fcd1431254621611d71ad294daa1d8d293e5b11a5951"
+    },
+    {
+     "from": "2019-08-23",
+     "units": 18,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgpruefsv/7",
+     "sha256": "e0b11245e7672eac3b3be5dfc50a2e9b33e8bd8e4954330ac19e3d89809b0dff"
+    },
+    {
+     "from": "2020-09-15",
+     "units": 18,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgpruefsv/8",
+     "sha256": "1113900e0b1f06a8966e3116c068859c9f3a3085a218555e31c1032dbf18c2ca"
+    },
+    {
+     "from": "2023-03-15",
+     "units": 18,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgpruefsv/10",
+     "sha256": "1c7b5a019808796e7d58ad6c9294a01be0c0127955fcb54826667eb15d2ef14b"
+    },
+    {
+     "from": "2024-04-30",
+     "units": 18,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgpruefsv",
+     "sha256": "aa378c0803e45853c42702c657e8400423880f05c87cb9ff68fb1ae6783e3324"
+    }
+   ]
+  },
+  {
+   "slug": "bbgsgprufv",
+   "short": "BbgSGPrüfV",
+   "title": "Verordnung über die wiederkehrende Prüfung sicherheitstechnischer Gebäudeausrüstungen in baulichen Anlagen im Land Brandenburg (Brandenburgische Sicherheitstechnische Gebäudeausrüstungs-Prüfverordnung - BbgSGPrüfV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgsgpruefv",
+   "versions": [
+    {
+     "from": "2015-07-09",
+     "units": 8,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgsgpruefv_2015/6",
+     "sha256": "80fa1e2e854fb761d04f831ed7f036ff821271ba5f19e287905b563e7b0d2397"
+    },
+    {
+     "from": "2016-09-23",
+     "units": 8,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgsgpruefv/7",
+     "sha256": "e40c7fd41268a37475d942e150bf968b88dfb5cd056af74827f55d0cc271a90c"
+    },
+    {
+     "from": "2020-09-15",
+     "units": 6,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgsgpruefv/8",
+     "sha256": "672d44a61b3428941c9cf36017a044b90675795c397d7b8a4845a933c8ff89d4"
+    },
+    {
+     "from": "2024-04-30",
+     "units": 6,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgsgpruefv",
+     "sha256": "8cf71e56e8c35b9d3200587dfb6f97f72393a0a36506fae7ced9b7e9fe0e3d3d"
+    }
+   ]
+  },
+  {
+   "slug": "bbgbebauv",
+   "short": "BbgBeBauV",
+   "title": "Brandenburgische Verordnung über den Bau und Betrieb von Beherbergungsstätten (Brandenburgische Beherbergungsstättenbau-Verordnung - BbgBeBauV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgbebauv",
+   "versions": [
+    {
+     "from": "2025-11-14",
+     "units": 18,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgbebauv",
+     "sha256": "a63cd8e570deba8d033b1a9286ad9ef16e7e8494b3bdff446ffdaeeed9de4ddb"
+    }
+   ]
+  },
+  {
+   "slug": "bbgvstattv",
+   "short": "BbgVStättV",
+   "title": "Verordnung über den Bau und Betrieb von Versammlungsstätten im Land Brandenburg (Brandenburgische Versammlungsstättenverordnung - BbgVStättV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgvstaettv",
+   "versions": [
+    {
+     "from": "2018-01-05",
+     "units": 51,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgvstaettv/2",
+     "sha256": "e5e6e7d205dac16c53e216769f04a04c486bb23ec72d993df3fae52e8447842a"
+    },
+    {
+     "from": "2025-11-14",
+     "units": 51,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgvstaettv",
+     "sha256": "0b37be0aa961db9fe8d7b84ce20a4f84d7fe15eec1a4235eb67bddf99f0b144a"
+    }
+   ]
+  },
+  {
+   "slug": "bbgwofegv",
+   "short": "BbgWoFEGV",
+   "title": "Verordnung über die Einkommensgrenzen bei der sozialen Wohnraumförderung im Land Brandenburg (Wohnraumförderungseinkommensgrenzenverordnung - BbgWoFEGV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgwofegv",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 4,
+     "source_url": "https://bravors.brandenburg.de/de/verordnungen-256648",
+     "sha256": "412f79897528a6efc7ea96dcebbe4a59a9dfde0dc0c7bd192d433bbe6b2c4ccc"
+    },
+    {
+     "from": "2023-08-25",
+     "units": 4,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgwofegv",
+     "sha256": "3eedd5d86226e14d5878f425d5d71afbf9ae539121ec59fb28657d77a916341b"
+    }
+   ]
+  },
+  {
+   "slug": "mietbegrenzv",
+   "short": "MietbegrenzV",
+   "title": "Verordnung zur Bestimmung der Gebiete mit Mietpreisbegrenzung gemäß § 556d Absatz 2 des Bürgerlichen Gesetzbuchs (Mietpreisbegrenzungsverordnung - MietbegrenzV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/mietbegrenzv_2025",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 4,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/mietbegrenzv_2025",
+     "sha256": "b4bc62edb67080ea3bd19e8b4de7867e4b624ca51039117772b1344e1138bc4d"
+    }
+   ]
+  },
+  {
+   "slug": "bbgmietspzv",
+   "short": "BbgMietspZV",
+   "title": "Verordnung zur Bestimmung der für die Erstellung und Anerkennung von Mietspiegeln im Land Brandenburg nach Landesrecht zuständigen Behörden (Brandenburgische Mietspiegelzuständigkeitsverordnung - BbgMietspZV)",
+   "url": "https://bravors.brandenburg.de/verordnungen/bbgmietspzv",
+   "versions": [
+    {
+     "from": "2022-09-03",
+     "units": 5,
+     "source_url": "https://bravors.brandenburg.de/verordnungen/bbgmietspzv",
+     "sha256": "96d1f449fff0a7d41c6e723052276b033d7b6f69b9d25f8506098224c4fdc8f7"
+    }
+   ]
   }
  ]
 }

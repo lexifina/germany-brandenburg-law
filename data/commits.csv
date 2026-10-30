@@ -37,6 +37,7 @@ day,kind,law,acts,files,branch
 2002-07-01,start,,nsggoerlsdorferwald-2015,13,main
 2002-07-01,start,,nsgschugemuehlenfliessqu-2015,12,main
 2002-07-12,start,,kindertagesbetreuungsstv-g-2002,3,main
+2002-07-16,start,,bbgbauav,10,main
 2002-07-27,start,,verordnungen-211844,3,main
 2002-07-27,start,,verordnungen-212269,13,main
 2002-08-01,start,,tkv,19,main
@@ -50,6 +51,7 @@ day,kind,law,acts,files,branch
 2002-08-27,start,,verordnungen-211964,12,main
 2002-09-13,start,,nsgmuehlenteich-2015,13,main
 2002-09-18,start,,nsg-oberheide,12,main
+2002-10-01,start,,bbgfbav,12,main
 2002-10-22,start,,nsgswatzkeskabyberge-2015,14,main
 2002-10-22,start,,rbbstv-g-2002,4,main
 2002-11-08,start,,verordnungen-211848,3,main
@@ -147,6 +149,7 @@ day,kind,law,acts,files,branch
 2004-07-10,start,,bbgfovgdv,6,main
 2004-07-15,start,,verordnungen-211716,4,main
 2004-07-30,start,,klschv,20,main
+2004-08-18,start,,verordnungen-212085,5,main
 2004-09-01,start,,verordnungen-211720,3,main
 2004-09-11,start,,nsgdrehnastiebsdsee,14,main
 2004-09-11,start,,nsgtalsperrespremberg-2004,12,main
@@ -175,11 +178,13 @@ day,kind,law,acts,files,branch
 2005-02-09,start,,bfv,10,main
 2005-03-22,start,,achter-rundfunkaend-stv,3,main
 2005-04-19,start,,nsg-zerweliner-koppel,12,main
+2005-04-30,start,,bbgutv,4,main
 2005-04-30,start,,gesetze-211731,3,main
 2005-05-26,start,,agbbg,8,main
 2005-05-26,start,,gesetze-211735,3,main
 2005-05-26,start,,rifletizv,4,main
 2005-06-10,start,,verordnungen-211868,18,main
+2005-06-24,start,,bbgcwpv,11,main
 2005-06-24,start,,verordnungen-212838,12,main
 2005-06-24,start,,verordnungen-212857,14,main
 2005-06-24,law,bb-gvbl-ii-05-nr-14-s-256-20050523,verordnungen-212845,4,main
@@ -214,10 +219,12 @@ day,kind,law,acts,files,branch
 2006-02-11,start,,verordnungen-212055,4,main
 2006-03-15,start,,gesetze-212182,1,main
 2006-04-01,start,,luftrettgebo,7,main
+2006-04-05,start,,bbgfeuv,15,main
 2006-04-28,start,,brustkrebsfrueherkg-2015-2,3,main
 2006-05-12,start,,verordnungen-212189,3,main
 2006-05-12,law,bb-gvbl-ii-06-nr-09-s-94-20060327,verordnungen-212840,2,main
 2006-06-10,law,bb-gvbl-ii-06-nr-12-s-142-ber-s-298-20060517,verordnungen-212849,3,main
+2006-06-16,start,,verordnungen-212193,3,main
 2006-07-05,start,,gesetze-212197,3,main
 2006-07-07,law,bb-gvbl-ii-06-nr-15-s-224-20060621,verordnungen-212848,2,main
 2006-07-07,law,bb-gvbl-ii-06-nr-15-s-225-20060626,verordnungen-212843,3,main
@@ -312,6 +319,7 @@ day,kind,law,acts,files,branch
 2008-08-30,start,,bbgguprv,8,main
 2008-08-30,start,,verordnungen-212330,4,main
 2008-09-28,start,,anhv,9,main
+2008-09-28,start,,baugbzv,3,main
 2008-09-28,start,,bbgkwahlg,100,main
 2008-09-28,start,,bbgmeldeg,49,main
 2008-09-28,start,,ewmvzv,3,main
@@ -330,8 +338,10 @@ day,kind,law,acts,files,branch
 2008-09-28,law,bb-gvbl-i-08-nr-12-s-202-206-20080923,bbgbkg agbbg,2,main
 2008-09-28,law,bb-gvbl-i-08-nr-12-s-202-208-20080923,bbgschulg,3,main
 2008-09-28,law,bb-gvbl-i-08-nr-12-s-202-209-20080923,bbg-ag-sgb-ii,1,main
+2008-09-28,law,bb-gvbl-i-08-nr-12-s-202-210-20080923,bbgfbav,1,main
 2008-09-28,law,bb-gvbl-i-08-nr-12-s-202-211-20080923,beegzv,1,main
 2008-09-28,law,bb-gvbl-i-08-nr-12-s-202-212-20080923,verordnungen-212341 fischetizv,2,main
+2008-10-03,start,,bbgbauprufv,29,main
 2008-10-03,start,,vowizustv,4,main
 2008-10-18,start,,bbggastgzv,3,main
 2008-10-18,start,,verordnungen-212350,17,main
@@ -357,7 +367,9 @@ day,kind,law,acts,files,branch
 2009-02-13,start,,infkrankmv,5,main
 2009-02-13,start,,verordnungen-212374,15,main
 2009-02-28,unexplained,,aszv,1,main
+2009-03-12,start,,umlaussv,10,main
 2009-03-12,law,bb-gvbl-ii-09-nr-07-s-100-20090218,waldbefv,3,main
+2009-03-12,law,bb-gvbl-ii-09-nr-07-s-101-103-20090223,baugbzv,1,main
 2009-03-14,start,,osgvstv-g-2009,3,main
 2009-03-20,start,,fpv,9,main
 2009-03-20,start,,kommhzv,8,main
@@ -370,6 +382,7 @@ day,kind,law,acts,files,branch
 2009-05-09,start,,uvzv,6,main
 2009-05-09,start,,verordnungen-212393,8,main
 2009-05-13,start,,bbgpsychkg,65,main
+2009-05-15,start,,lepbb-2009,5,main
 2009-05-19,law,bb-gvbl-ii-09-nr-14-s-262-20090303,verordnungen-212857,1,main
 2009-05-19,law,bb-gvbl-ii-09-nr-14-s-262-20090416,verordnungen-212849,2,main
 2009-05-29,start,,verordnungen-212398,15,main
@@ -386,6 +399,7 @@ day,kind,law,acts,files,branch
 2009-08-01,start,,vevvbbg,49,main
 2009-08-06,start,,ataprufv,21,main
 2009-08-12,start,,verordnungen-212837,12,main
+2009-09-11,start,,bbghav,5,main
 2009-09-17,start,,kjgdv,5,main
 2009-09-17,start,,verordnungen-212423,4,main
 2009-09-30,start,,verordnungen-212595,9,main
@@ -396,6 +410,7 @@ day,kind,law,acts,files,branch
 2009-10-14,start,,spielov,9,main
 2009-10-14,start,,verordnungen-212428,12,main
 2009-11-01,start,,bbgbaugebo,7,main
+2009-11-07,start,,bbgprufsv,18,main
 2009-12-28,start,,ustzulv,13,main
 2010-01-01,start,,bbgazvpfj,31,main
 2010-01-01,start,,bbgkuo,7,main
@@ -451,6 +466,7 @@ day,kind,law,acts,files,branch
 2010-08-11,start,,verordnungen-212512,3,main
 2010-08-21,start,,verordnungen-212513,11,main
 2010-09-01,start,,nsg-kleine-schorfheide,13,main
+2010-09-17,law,bb-gvbl-ii-10-nr-61-20100913,bbgfeuv,2,main
 2010-09-23,start,,bilgenentwaesserungsverbandstv-g-2010,1,main
 2010-10-01,start,,nsg-guelper-see,13,main
 2010-10-08,law,bb-gvbl-ii-10-nr-66-20101005,kommhzv,1,main
@@ -480,6 +496,7 @@ day,kind,law,acts,files,branch
 2011-01-01,unexplained,,bbgpolg,30,main
 2011-01-12,law,bb-gvbl-ii-11-nr-02-20110105,nsg-nuthe-nieplitz-niederung,2,main
 2011-01-13,law,bb-gvbl-ii-11-nr-04-20110105,ubzustv,1,main
+2011-01-21,law,bb-gvbl-ii-11-nr-08-20110117,bbgbauprufv,26,main
 2011-02-16,start,,dlrlverwv,9,main
 2011-02-18,start,,gesetze-212552,3,main
 2011-02-22,law,bb-gvbl-ii-11-nr-13-20110215,gradv,9,main
@@ -506,6 +523,7 @@ day,kind,law,acts,files,branch
 2011-08-02,law,bb-gvbl-ii-11-nr-30-20110526,gostv,4,main
 2011-08-26,start,,apogehddrvblnbbg-2015,7,main
 2011-08-26,start,,nsgdolgensee,11,main
+2011-09-16,law,bb-gvbl-ii-11-nr-51-s-nr-67-20110905,bbgprufsv,3,main
 2011-09-21,law,bb-gvbl-ii-11-nr-54-20110912,verordnungen-212853,2,main
 2011-09-22,law,bb-gvbl-i-11-nr-20-20110921,ldg,18,main
 2011-09-22,unexplained,,ldg,14,main
@@ -633,6 +651,7 @@ day,kind,law,acts,files,branch
 2013-07-26,start,,lufalusizv,5,main
 2013-08-01,law,bb-gvbl-ii-13-nr-38-20130515,gostv,6,main
 2013-08-01,law,bb-gvbl-ii-13-nr-54-20130715,luftrettgebo,1,main
+2013-08-22,start,,fluglarmsbbbgv,2,main
 2013-09-04,start,,verordnungen-212775,1,main
 2013-09-06,law,bb-gvbl-ii-13-nr-67-20130829,verordnungen-212849,2,main
 2013-09-06,law,bb-gvbl-ii-13-nr-68-20130902,verordnungen-212852,2,main
@@ -709,6 +728,7 @@ day,kind,law,acts,files,branch
 2014-06-07,start,,eurldbv,20,main
 2014-06-13,start,,lrdpv,22,main
 2014-06-26,start,,verordnungen-212905,13,main
+2014-06-27,law,bb-gvbl-ii-14-nr-37-20140618,bbgprufsv,8,main
 2014-07-01,start,,verordnungen-212907,5,main
 2014-07-11,start,,lfg,24,main
 2014-07-11,law,bb-gvbl-i-14-nr-28-s-2-20140710,log,22,main
@@ -741,12 +761,15 @@ day,kind,law,acts,files,branch
 2014-09-01,start,,bbgjvollzg,145,main
 2014-09-01,law,bb-gvbl-i-14-nr-34-s-19-20140710,bbgpsychkg,5,main
 2014-09-01,law,bb-gvbl-ii-14-nr-64-20140902,jvollzzv,4,main
+2014-09-03,start,,verordnungen-212961,5,main
+2014-09-05,start,,bbgeltbauv,10,main
 2014-09-16,law,bb-gvbl-ii-14-nr-65-20140905,imschzv,6,main
 2014-09-20,start,,verordnungen-212966,7,main
 2014-10-01,start,,gerzv,17,main
 2014-11-05,start,,waldsperrv,7,main
 2014-11-13,start,,zelbv,11,main
 2014-12-06,law,bb-gvbl-ii-14-nr-88-20141127,mwekegebo,3,main
+2014-12-17,law,bb-gvbl-ii-14-nr-91-20141211,bbgbauprufv,12,main
 2014-12-18,start,,bbgverfschg,32,main
 2015-01-01,start,,agtiergesgdv,7,main
 2015-01-01,start,,flstrzv,11,main
@@ -778,6 +801,7 @@ day,kind,law,acts,files,branch
 2015-07-07,law,bb-gvbl-i-15-nr-19-20150701,bbguig,1,main
 2015-07-07,unexplained,,bbguig,1,main
 2015-07-08,start,,g,9,main
+2015-07-09,start,,bbgsgprufv,8,main
 2015-07-09,law,bb-gvbl-ii-15-nr-28-20150625,sffv,2,main
 2015-08-01,law,bb-gvbl-ii-15-nr-33-20150721,gostv,8,main
 2015-08-01,law,bb-gvbl-ii-15-nr-35-20150721,lrdpv,1,main
@@ -871,6 +895,9 @@ day,kind,law,acts,files,branch
 2016-09-16,start,,kita-mbav,9,main
 2016-09-20,law,bb-gvbl-ii-16-nr-44-20160913,lchartbootv,2,main
 2016-09-21,start,,strvwgebo,5,main
+2016-09-21,law,bb-gvbl-ii-16-nr-46-20160913,bbgbauprufv,5,main
+2016-09-23,law,bb-gvbl-ii-16-nr-48-20160913,bbgprufsv bbgsgprufv,7,main
+2016-09-23,unexplained,,bbgprufsv,1,main
 2016-10-01,law,bb-gvbl-ii-16-nr-50-20160920,bbgkhegipv,1,main
 2016-10-08,start,,weinrdv,22,main
 2016-10-18,law,bb-gvbl-ii-16-nr-53-20161005,bbgbaugebo,1,main
@@ -905,6 +932,7 @@ day,kind,law,acts,files,branch
 2017-01-01,law,bb-gvbl-ii-17-nr-9-20170215,mkschulfv,2,main
 2017-01-01,law,bb-gvbl-ii-18-nr-4-20180118,opnvfv,3,main
 2017-01-01,unexplained,,bbgmkschulg,4,main
+2017-01-24,start,,planuv,4,main
 2017-02-14,law,bb-gvbl-ii-17-nr-6-20170206,abfbodzv,2,main
 2017-02-14,unexplained,,abfbodzv,7,main
 2017-02-15,start,,6-erhzv,6,main
@@ -946,6 +974,7 @@ day,kind,law,acts,files,branch
 2017-09-20,start,,erzgleichv,9,main
 2017-09-23,law,bb-gvbl-ii-17-nr-49-20170913,abfbodzv,1,main
 2017-09-26,start,,12-erhzv,6,main
+2017-09-28,start,,bbggav,31,main
 2017-09-30,start,,gluecksspiel-sv-2,4,main
 2017-10-01,start,,altpflhilfeaprv,26,main
 2017-10-01,start,,kitalav,7,main
@@ -977,6 +1006,7 @@ day,kind,law,acts,files,branch
 2018-01-01,law,bb-gvbl-ii-17-nr-66-20171204,agtiergesgdv,1,main
 2018-01-01,law,bb-gvbl-ii-17-nr-69-20171208,luftrettgebo,1,main
 2018-01-01,unexplained,,agtiergesgdv,1,main
+2018-01-05,start,,bbgvstattv,51,main
 2018-02-01,start,,zustfinanzaemter-2018,4,main
 2018-02-07,start,,bbgkombesv,11,main
 2018-02-17,start,,fahrbv,8,main
@@ -1054,6 +1084,7 @@ day,kind,law,acts,files,branch
 2018-08-01,law,bb-gvbl-ii-18-nr-59-20180904,grbibfsv,5,main
 2018-08-01,unexplained,,lernmv,8,main
 2018-08-18,start,,lnpv,6,main
+2018-08-18,law,bb-gvbl-ii-18-nr-51-20180731,baugbzv,1,main
 2018-08-24,start,,lsdv,37,main
 2018-08-24,law,bb-gvbl-ii-18-nr-53-s-15-20180817,lrdpv,2,main
 2018-08-28,law,bb-gvbl-ii-18-nr-54-20180822,verordnungen-hzv,1,main
@@ -1066,6 +1097,7 @@ day,kind,law,acts,files,branch
 2018-09-21,law,bb-gvbl-ii-18-nr-64-20180907,apogd,9,main
 2018-09-21,law,bb-gvbl-i-18-nr-21-s-5-20180920,bbgbgg,1,main
 2018-09-21,law,bb-gvbl-i-18-nr-21-s-6-20180920,bbglwahlg bbgausfverkg verordnungen-hzv,45,main
+2018-10-16,start,,bbgbauvorlv,22,main
 2018-10-16,start,,bekanntmv,9,main
 2018-10-16,start,,gemstrandfordg,15,main
 2018-10-16,start,,gesetze-212096,4,main
@@ -1191,6 +1223,7 @@ day,kind,law,acts,files,branch
 2019-06-22,unexplained,,bbgpsychkg,2,main
 2019-06-22,law,bb-gvbl-i-19-nr-43-s-25-20190619,bbgbkg,1,main
 2019-07-01,start,,kswiepg,17,main
+2019-07-01,start,,lep-hr,5,main
 2019-07-05,start,,bbgjagddv,12,main
 2019-07-12,law,bb-gvbl-ii-19-nr-47-20190708,komaev,5,main
 2019-07-13,start,,itbeaufv,4,main
@@ -1205,6 +1238,7 @@ day,kind,law,acts,files,branch
 2019-08-20,law,bb-gvbl-ii-19-nr-57-s-10-20190802,eurldbv,2,main
 2019-08-20,unexplained,,eurldbv,2,main
 2019-08-23,start,,bbgverggopnvvv,9,main
+2019-08-23,law,bb-gvbl-ii-19-nr-59-20190813,bbgbauprufv bbgprufsv,3,main
 2019-08-29,law,bb-gvbl-ii-19-nr-63-20190821,nschbv,2,main
 2019-09-01,law,bb-gvbl-i-19-nr-22-20190605,bbgjag,4,main
 2019-09-12,start,,braouev,3,main
@@ -1215,6 +1249,7 @@ day,kind,law,acts,files,branch
 2019-09-21,start,,bbgbitv,8,main
 2019-09-25,law,bb-gvbl-i-15-nr-6-20150318,verfassung,1,main
 2019-09-27,law,bb-gvbl-ii-19-nr-76-20190917,gebolandw,4,main
+2019-10-01,start,,bbgwofegv,4,main
 2019-10-01,start,,fveuv,3,main
 2019-10-01,unexplained,,tiererzhaverbgermuv,1,main
 2019-10-01,unexplained,,tierschzv,5,main
@@ -1253,8 +1288,10 @@ day,kind,law,acts,files,branch
 2020-01-01,law,bb-gvbl-ii-20-nr-8-s-7-20200224,altpflhilfeaprv,1,main
 2020-01-01,law,bb-gvbl-ii-20-nr-27-20200424,sozschv,17,main
 2020-01-01,law,bb-gvbl-ii-20-nr-45-20200525,bbgfagfv,1,main
+2020-01-15,start,,bbggeonutzv,11,main
 2020-01-22,law,bb-gvbl-ii-20-nr-4-20200117,fluglatv,1,main
 2020-01-24,law,bb-gvbl-ii-20-nr-5-20200117,abfbodzv,1,main
+2020-02-05,start,,bbgbauzv,3,main
 2020-02-12,start,,zv,5,main
 2020-02-28,law,bb-gvbl-i-20-nr-4-20200227,bbgverfschg,5,main
 2020-02-28,law,bb-gvbl-i-20-nr-4-s-2-20200227,g10agbbg,2,main
@@ -1286,6 +1323,7 @@ day,kind,law,acts,files,branch
 2020-06-12,start,,lehrauv,3,main
 2020-06-26,start,,modernisierung-medienordnung,5,main
 2020-06-30,law,bb-gvbl-i-19-nr-1-s-bek-entscheidungsformel-gvbl-i-20-nr-30-20190212,bbglwahlg,1,main
+2020-06-30,law,bb-gvbl-ii-20-nr-55-20200624,bbgbauprufv,8,main
 2020-07-01,law,bb-gvbl-ii-20-nr-57-20200707,luftrettgebo,1,main
 2020-07-10,start,,hspv,12,main
 2020-07-11,law,bb-gvbl-ii-20-nr-60-20200707,kapv,4,main
@@ -1303,6 +1341,8 @@ day,kind,law,acts,files,branch
 2020-09-09,law,bb-gvbl-ii-20-nr-77-20200831,2-erhzv,1,main
 2020-09-11,start,,nsg-odertal-frankfurt-lebus,13,main
 2020-09-15,start,,landwirtschaftsstaatsvertrag,4,main
+2020-09-15,law,bb-gvbl-ii-20-nr-82-20200909,bbgprufsv,9,main
+2020-09-15,law,bb-gvbl-ii-20-nr-82-s-4-20200909,bbgsgprufv,7,main
 2020-09-26,law,bb-gvbl-ii-20-nr-85-20200915,mwekegebo,1,main
 2020-09-26,law,bb-gvbl-i-20-nr-28-s-2-20200925,natschzustv,1,main
 2020-09-29,start,,lehrvv,14,main
@@ -1380,6 +1420,8 @@ day,kind,law,acts,files,branch
 2021-08-01,law,bb-gvbl-ii-21-nr-74-20210729,fosfhrv,2,main
 2021-08-02,law,bb-gvbl-ii-21-nr-47-20210429,gostv,1,main
 2021-08-25,start,,verf-antr-ifsg,3,main
+2021-08-27,law,bb-gvbl-ii-21-nr-79-20210824,bbgbauprufv,2,main
+2021-08-27,unexplained,,bbgbauprufv,8,main
 2021-09-01,law,bb-gvbl-ii-21-nr-81-20210830,stguzv,8,main
 2021-09-02,start,,bbgsteg,7,main
 2021-10-08,law,bb-gvbl-i-21-nr-27-20211006,bbgaufarbbg,4,main
@@ -1444,6 +1486,7 @@ day,kind,law,acts,files,branch
 2022-08-30,start,,bbgwolfv,15,main
 2022-09-01,start,,bbgfruhersv,4,main
 2022-09-02,start,,bbgheizkzuschzv,10,main
+2022-09-03,start,,bbgmietspzv,5,main
 2022-09-03,start,,geguev-bbg,3,main
 2022-09-27,start,,gesetze-254794,4,main
 2022-10-01,start,,eaktv,9,main
@@ -1489,6 +1532,13 @@ day,kind,law,acts,files,branch
 2023-03-03,law,bb-gvbl-i-23-nr-4-20230302,bbglwahlg,1,main
 2023-03-08,law,bb-gvbl-i-23-nr-5-20230307,bbggluag,2,main
 2023-03-08,law,bb-gvbl-ii-23-nr-16-20230307,bbgheizkzuschzv,1,main
+2023-03-15,start,,bbgwbaupv,4,main
+2023-03-15,law,bb-gvbl-ii-23-nr-17-s-1-20230313,bbgfeuv,9,main
+2023-03-15,law,bb-gvbl-ii-23-nr-17-s-5-20230313,bbgbauprufv bbgprufsv,7,main
+2023-03-15,law,bb-gvbl-ii-23-nr-17-s-6-20230313,bbghav,3,main
+2023-03-15,law,bb-gvbl-ii-23-nr-17-s-7-20230313,bbgutv,2,main
+2023-03-15,law,bb-gvbl-ii-23-nr-17-s-8-20230313,bbgeltbauv,10,main
+2023-03-15,unexplained,,bbgprufsv,4,main
 2023-03-18,law,bb-gvbl-ii-23-nr-18-20230316,ubzustv,1,main
 2023-03-24,start,,3medienaendstv,4,main
 2023-03-29,start,,stneuzg,12,main
@@ -1551,6 +1601,7 @@ day,kind,law,acts,files,branch
 2023-08-11,law,bb-gvbl-ii-23-nr-54-20230808,eaktv,1,main
 2023-08-22,start,,kwahltagv-2024,4,main
 2023-08-22,law,bb-gvbl-ii-23-nr-56-20230816,mwekegebo,2,main
+2023-08-25,law,bb-gvbl-ii-23-nr-59-20230823,bbgwofegv,1,main
 2023-09-15,start,,bbgkwahlv,110,main
 2023-09-28,start,,egsvaktv,10,main
 2023-10-24,law,bb-gvbl-ii-23-nr-64-20231020,schullv,13,main
@@ -1651,7 +1702,7 @@ day,kind,law,acts,files,branch
 2024-03-06,law,bb-gvbl-i-24-nr-9-s-39-20240305,ntv notv pflegevmav,7,main
 2024-03-06,law,bb-gvbl-i-24-nr-9-s-40-20240305,sozschv,4,main
 2024-03-06,law,bb-gvbl-i-24-nr-9-s-41-20240305,stwv,1,main
-2024-03-06,law,bb-gvbl-i-24-nr-9-s-42-20240305,verordnungen-212966 vinsofv ustzulv,5,main
+2024-03-06,law,bb-gvbl-i-24-nr-9-s-42-20240305,verordnungen-212966 vinsofv ustzulv umlaussv,6,main
 2024-03-06,law,bb-gvbl-i-24-nr-9-s-43-20240305,verordnungen-212350,4,main
 2024-03-06,law,bb-gvbl-i-24-nr-9-s-44-20240305,pohdmark apoaa,7,main
 2024-03-06,law,bb-gvbl-i-24-nr-9-s-45-20240305,medhygv,4,main
@@ -1696,9 +1747,14 @@ day,kind,law,acts,files,branch
 2024-04-10,law,bb-gvbl-i-24-nr-13-20240409,lbg,19,main
 2024-04-18,start,,bbglschlav,3,main
 2024-04-23,law,bb-gvbl-ii-24-nr-24-20240419,lrdpv,3,main
+2024-04-30,start,,bbgpuzav,9,main
 2024-04-30,start,,gesetze-258538,4,main
 2024-04-30,start,,gesetze-258542,5,main
+2024-04-30,law,bb-gvbl-ii-24-nr-25-s-6-20240426,bbgprufsv bbgsgprufv,4,main
+2024-04-30,unexplained,,bbgbauzv,1,main
+2024-04-30,unexplained,,bbgsgprufv,1,main
 2024-05-07,start,,lqav,21,main
+2024-05-11,law,bb-gvbl-ii-24-nr-30-20240507,bbggav,15,main
 2024-05-11,law,bb-gvbl-ii-24-nr-31-20240507,gebomgs,1,main
 2024-05-15,start,,kommhinwmeldg,4,main
 2024-05-15,start,,lpersvg,109,main
@@ -1734,6 +1790,8 @@ day,kind,law,acts,files,branch
 2024-07-23,law,bb-gvbl-ii-24-nr-54-20240722,gebomgs,1,main
 2024-07-24,start,,bbgwpv,8,main
 2024-07-24,law,bb-gvbl-ii-24-nr-55-20240722,mwekegebo,1,main
+2024-07-30,start,,bbguzv,3,main
+2024-07-30,law,bb-gvbl-ii-24-nr-57-s-1-20240726,bbgbauprufv,2,main
 2024-08-01,start,,disuv,30,main
 2024-08-09,start,,euzzv,3,main
 2024-08-10,start,,bbggegdv,5,main
@@ -1835,7 +1893,12 @@ day,kind,law,acts,files,branch
 2025-10-28,start,,10-aufheb-wsg,3,main
 2025-10-29,law,bb-gvbl-ii-25-nr-78-20251028,eaktv,1,main
 2025-10-31,law,bb-gvbl-ii-25-nr-80-20251030,eaktv,1,main
+2025-11-14,start,,bbgbebauv,18,main
+2025-11-14,start,,bbggstv,26,main
+2025-11-14,start,,bbgvbauv,35,main
 2025-11-14,law,bb-gvbl-ii-25-nr-82-20251111,lchartbootv,1,main
+2025-11-14,law,bb-gvbl-ii-25-nr-83-s-16-20251111,bbgvstattv,26,main
+2025-11-14,law,bb-gvbl-ii-25-nr-83-s-20-20251111,bbgbauprufv,9,main
 2025-11-14,law,bb-gvbl-ii-25-nr-83-s-21-20251111,bbgbaugebo,1,main
 2025-11-14,law,bb-gvbl-ii-25-nr-84-20251113,eaktv,1,main
 2025-11-15,start,,prkv,9,main
@@ -1862,6 +1925,7 @@ day,kind,law,acts,files,branch
 2026-01-01,start,,ebv,20,main
 2026-01-01,start,,hzpv,6,main
 2026-01-01,start,,kappgrenzv,3,main
+2026-01-01,start,,mietbegrenzv,4,main
 2026-01-01,start,,verordnungen-212206,4,main
 2026-01-01,law,bb-gvbl-ii-25-nr-79-20251029,gbschv,2,main
 2026-01-01,law,bb-gvbl-ii-25-nr-93-20251203,bbgtierskbv,1,main
