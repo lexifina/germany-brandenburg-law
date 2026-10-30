@@ -76,7 +76,7 @@ def history_rows(path: str) -> list[tuple[str, str | None]]:
     s = re.sub(r'(?s)<!--.*?-->', '', s)
     out = []
     for r in re.findall(r'(?s)<tr>(.*?)</tr>', s):
-        link = re.search(r'href="(/de/gesetze-\d+)"', r)
+        link = re.search(r'href="(/(?:de/gesetze-\d+|gesetze/[^"?#]+))"', r)
         if not link:
             continue
         pdf = re.search(r'href="(/fm/[^"]+\.pdf)"', r)

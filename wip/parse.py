@@ -315,7 +315,7 @@ def history(raw: str) -> list[dict]:
         tds = re.findall(r'(?s)<td[^>]*>(.*?)</td>', r)
         if len(tds) < 2:
             continue
-        link = re.search(r'href="(/de/gesetze-\d+)"', tds[0])
+        link = re.search(r'href="(/(?:de/gesetze-\d+|gesetze/[^"?#]+))"', tds[0])
         pdf = re.search(r'href="(/fm/[^"]+\.pdf)"', tds[1])
         desc, fund = text(tds[0]), text(tds[1])
         m = re.search(r'vom ' + DATE, desc)
@@ -378,10 +378,10 @@ def in_force(pdf_path: Path, enacted: str, act_title: str) -> tuple:
     if len(cl) != 1:
         return None, f'{len(cl)} Inkrafttreten clauses'
     c = cl[0]
-    if re.fullmatch(r'Dieses Gesetz tritt am Tag(e)? nach (der|seiner) (?:Verkündung|Verkündigung) in Kraft', c):
+    if re.fullmatch(r'DiesesGesetztrittamTage?nach(der|seiner)Verkünd(?:ung|igung)inKraft', c.replace(' ', '')):
         day = (dt.date.fromisoformat(issued) + dt.timedelta(days=1)).isoformat()
         return day, f'"{c}"; GVBl. I issued {issued}'
-    mm = re.fullmatch(r'Dieses Gesetz tritt (?:am|mit Wirkung vom) ' + DATE + r' in Kraft', c)
+    mm = re.fullmatch(r'Dieses Gesetz tritt (?:am|mit Wirkung vom) ' + DATE + r' in Kraft', re.sub(r'\s+', ' ', c))
     if mm:
         return de_date(mm), f'"{c}"'
     return None, f'clause not simple: "{c[:200]}"'
@@ -402,6 +402,13 @@ def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
     first = True
     for n, r in enumerate(linked):
         page = cache_path(r['link'])
+        if n == len(linked) - 1 and not page.exists():
+            page = cur  # the newest Lesefassung is the act's own page
+        if not page.exists():
+            if versions:
+                problems.append(f'{title}: version {r["link"]} not retrieved; later versions left out')
+                break
+            continue  # older Lesefassungen not retrieved yet: the history starts at the oldest one retrieved
         raw = page.read_text(encoding='utf-8', errors='replace')
         units = parse_version(raw, title)
         if first:
@@ -509,5 +516,19 @@ def write_part(name: str, docs: list[str], country: bool, overrides: dict) -> No
         print('  ', p)
 
 
+PART_SIZE = 50
+
+
+def ready(doc: str) -> bool:
+    return cache_path(doc).exists() and cache_path(doc + '?history').exists()
+
+
 if __name__ == '__main__':
     write_part('10-verfassung', ['/de/gesetze-212792'], country=True, overrides=OVERRIDES)
+    lst = HERE / '.cache' / 'gesetze.txt'
+    docs = lst.read_text(encoding='utf-8').split() if lst.exists() else []
+    for n in range(0, len(docs), PART_SIZE):
+        chunk = docs[n:n + PART_SIZE]
+        if not all(ready(d) for d in chunk):
+            break
+        write_part(f'20-gesetze-{n // PART_SIZE + 1:02d}', chunk, country=False, overrides=OVERRIDES)
