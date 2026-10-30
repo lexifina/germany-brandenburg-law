@@ -35,7 +35,8 @@ def number_lists(s):
         def mark(_):
             x = n[0]
             n[0] += 1
-            return f"<xli> {chr(96 + x) if typ and typ.group(1) == 'a' else x} "
+            alpha = (typ and typ.group(1) == 'a') or 'lower-alpha' in m.group(1)
+            return f"<xli> {chr(96 + x) if alpha else x} "
         s = s[:m.start()] + '<xol>' + re.sub(r'<li\b[^>]*>', mark, m.group(2)) + '</xol>' + s[m.end():]
 
 

@@ -166,23 +166,30 @@ def blocks(s: str) -> list:
 def list_lines(n) -> list:
     """A list: one line per item; the numbers the browser shows (1., 2., ... or a), b), ...) are written out."""
     out = []
-    typ = n.attrs.get('type') or '1'
+    typ = n.attrs.get('type') or ('a' if 'lower-alpha' in (n.attrs.get('style') or '') else '1')
     num = int(n.attrs.get('start') or 1)
     for li in n.kids:
         if not (isinstance(li, Node) and li.tag == 'li'):
+            # Text standing in the list outside any item (the closing words of an enumeration): its own line.
+            loose = text(raw_of(li))
+            if loose:
+                out.append(loose)
             continue
         mark = (f'{chr(96 + num)})' if typ == 'a' else f'{num}.') if n.tag == 'ol' else ''
         num += 1
-        head, rest = [], []
+        # The item's own words, its nested lists and paragraphs, and any words after them, in source order.
+        ls, run = [], []
         for k in li.kids:
-            if isinstance(k, Node) and k.tag in ('ol', 'ul'):
-                rest += list_lines(k)
-            elif isinstance(k, Node) and k.tag in ('p', 'div'):
-                rest.append(text(raw_of(k)))
+            if isinstance(k, Node) and k.tag in ('ol', 'ul', 'p', 'div'):
+                if text(''.join(run)):
+                    ls.append(text(''.join(run)))
+                run = []
+                ls += list_lines(k) if k.tag in ('ol', 'ul') else [text(raw_of(k))]
             else:
-                head.append(raw_of(k))
-        first = text(''.join(head))
-        ls = [x for x in ([first] if first else []) + rest if x]
+                run.append(raw_of(k))
+        if text(''.join(run)):
+            ls.append(text(''.join(run)))
+        ls = [x for x in ls if x]
         if mark:
             ls = [f'{mark} {ls[0]}' if ls else mark] + ls[1:]
         out += ls
@@ -292,6 +299,8 @@ def parse_version(raw: str, title: str) -> dict:
                 pending.append('#' * max(2, min(level - 1, 6)) + ' ' + head)
             continue
         ls = block_lines(t, nd)
+        if not ls:
+            continue  # an empty block (a bare anchor): the headings before it stay with what follows
         if cur is None:
             units['000-eingang']['text'] += '\n'.join(pending + ls) + ('\n' if pending or ls else '')
             pending = []
@@ -524,11 +533,16 @@ def ready(doc: str) -> bool:
 
 
 if __name__ == '__main__':
-    write_part('10-verfassung', ['/de/gesetze-212792'], country=True, overrides=OVERRIDES)
+    # python -X utf8 parse.py [<part> ...]: write only the named parts (a published part is never rewritten).
+    only = set(sys.argv[1:])
+    if not only or '10-verfassung' in only:
+        write_part('10-verfassung', ['/de/gesetze-212792'], country=True, overrides=OVERRIDES)
     lst = HERE / '.cache' / 'gesetze.txt'
     docs = lst.read_text(encoding='utf-8').split() if lst.exists() else []
     for n in range(0, len(docs), PART_SIZE):
         chunk = docs[n:n + PART_SIZE]
+        name = f'20-gesetze-{n // PART_SIZE + 1:02d}'
         if not all(ready(d) for d in chunk):
             break
-        write_part(f'20-gesetze-{n // PART_SIZE + 1:02d}', chunk, country=False, overrides=OVERRIDES)
+        if not only or name in only:
+            write_part(name, chunk, country=False, overrides=OVERRIDES)
