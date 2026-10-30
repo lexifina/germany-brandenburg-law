@@ -489,6 +489,16 @@ def write_part(name: str, docs: list[str], country: bool, overrides: dict) -> No
             acts.append(a)
             laws.update(lw)
     nv = sum(len(a['versions']) for a in acts)
+    # One amending law, one entry: the label names the law, not the Artikel that touched this act; a law an earlier
+    # published part already holds keeps that part's entry word for word (published parts are never rewritten).
+    for k, lw in laws.items():
+        lw['label'] = re.sub(r'^(?:Artikel|Art\.)\s*\d+\w*(?:\s+(?:Absatz|Abs\.)\s*\d+\w*)?\s+des\s+Gesetzes\b',
+                             'Gesetz', lw['label'])
+    for other in sorted((HERE / 'corpus.d').glob('*.PUBLISH')):
+        if other.stem != name and other.with_suffix('.json').exists():
+            for k, lw in json.loads(other.with_suffix('.json').read_text(encoding='utf-8'))['laws'].items():
+                if k in laws:
+                    laws[k] = lw
     out = {'acts': acts, 'laws': dict(sorted(laws.items())), 'applies': [],
            'sources': [{'name': 'BRAVORS - Brandenburgisches Vorschriftensystem (Landesregierung Brandenburg): current '
                                 'text, Änderungshistorie and the Lesefassung of each historical version',
