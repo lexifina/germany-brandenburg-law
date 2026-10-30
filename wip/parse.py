@@ -17,6 +17,7 @@ import html
 import json
 import re
 import sys
+from html.parser import HTMLParser
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -42,6 +43,14 @@ COUNTRY = {
                     'bravors.brandenburg.de; Gesetz- und Verordnungsblatt für das Land Brandenburg Teil I. Gesetze and '
                     'Verordnungen are not protected by copyright (§ 5 Abs. 1 UrhG). Non-official reading text: only '
                     'the Gesetz- und Verordnungsblatt is authoritative.',
+}
+
+
+# Versions whose amending act's Inkrafttreten clause names no calendar day: the day, read by hand, and why.
+OVERRIDES = {
+    '/de/gesetze-247329': ('2019-09-25', '"Dieses Gesetz tritt mit dem Beginn der 7. Wahlperiode des Landtages '
+                                         'Brandenburg in Kraft" (GVBl. I 2015 Nr. 6); the 7. Wahlperiode began with '
+                                         'the first sitting of the newly elected Landtag on 25 September 2019'),
 }
 
 
@@ -71,31 +80,149 @@ def body_of(raw: str) -> str:
     return re.sub(r'(?s)<!--.*?-->', '', s)
 
 
-BLOCK = re.compile(r'(?s)<(h[1-6]|p|table|ul|ol|dl)\b[^>]*>(.*?)</\1>')
+VOID = {'br', 'img', 'hr', 'input', 'meta', 'link', 'col', 'wbr'}
 
 
-def blocks(s: str) -> list[tuple[str, str]]:
-    """Top-level blocks in order. Nested <p><p>..</p></p> is read as its inner paragraphs."""
+class Node:
+    __slots__ = ('tag', 'attrs', 'kids', 'parent')
+
+    def __init__(self, tag, attrs, parent):
+        self.tag, self.attrs, self.kids, self.parent = tag, dict(attrs), [], parent
+
+
+class Tree(HTMLParser):
+    def __init__(self):
+        super().__init__(convert_charrefs=False)
+        self.root = Node('root', {}, None)
+        self.cur = self.root
+
+    def handle_starttag(self, tag, attrs):
+        n = Node(tag, attrs, self.cur)
+        self.cur.kids.append(n)
+        if tag not in VOID:
+            self.cur = n
+
+    def handle_startendtag(self, tag, attrs):
+        self.cur.kids.append(Node(tag, attrs, self.cur))
+
+    def handle_endtag(self, tag):
+        x = self.cur
+        while x is not self.root and x.tag != tag:
+            x = x.parent
+        if x is not self.root:
+            self.cur = x.parent
+
+    def handle_data(self, data):
+        self.cur.kids.append(data)
+
+    def handle_entityref(self, name):
+        self.cur.kids.append(f'&{name};')
+
+    def handle_charref(self, name):
+        self.cur.kids.append(f'&#{name};')
+
+
+def raw_of(n) -> str:
+    """Inline content as text (tags dropped, <br> read as a space)."""
+    if isinstance(n, str):
+        return n
+    if n.tag == 'br':
+        return ' '
+    return ''.join(raw_of(k) for k in n.kids)
+
+
+BLOCKS = ('h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'p', 'table', 'ul', 'ol', 'dl', 'div', 'blockquote', 'center')
+
+
+def blocks(s: str) -> list:
+    """Block elements in order; a <p> or <div> holding other blocks is read as those blocks."""
+    t = Tree()
+    t.feed(s)
     out = []
-    for m in BLOCK.finditer(s):
-        tag, inner = m.group(1), m.group(2)
-        out.append((tag, inner))
+
+    def walk(n):
+        loose = []
+
+        def flush():
+            if any(text(raw_of(x)) for x in loose):
+                q = Node('p', {}, None)
+                q.kids = list(loose)
+                out.append(('p', q))
+            loose.clear()
+        for k in n.kids:
+            if isinstance(k, Node) and k.tag in BLOCKS:
+                flush()
+                if k.tag in ('p', 'div', 'blockquote', 'center') and any(isinstance(x, Node) and x.tag in BLOCKS for x in k.kids):
+                    walk(k)
+                else:
+                    out.append((k.tag, k))
+            else:
+                loose.append(k)
+        flush()
+    walk(t.root)
     return out
 
 
-def block_lines(tag: str, inner: str) -> list[str]:
+def list_lines(n) -> list:
+    """A list: one line per item; the numbers the browser shows (1., 2., ... or a), b), ...) are written out."""
+    out = []
+    typ = n.attrs.get('type') or '1'
+    num = int(n.attrs.get('start') or 1)
+    for li in n.kids:
+        if not (isinstance(li, Node) and li.tag == 'li'):
+            continue
+        mark = (f'{chr(96 + num)})' if typ == 'a' else f'{num}.') if n.tag == 'ol' else ''
+        num += 1
+        head, rest = [], []
+        for k in li.kids:
+            if isinstance(k, Node) and k.tag in ('ol', 'ul'):
+                rest += list_lines(k)
+            elif isinstance(k, Node) and k.tag in ('p', 'div'):
+                rest.append(text(raw_of(k)))
+            else:
+                head.append(raw_of(k))
+        first = text(''.join(head))
+        ls = [x for x in ([first] if first else []) + rest if x]
+        if mark:
+            ls = [f'{mark} {ls[0]}' if ls else mark] + ls[1:]
+        out += ls
+    return out
+
+
+def block_lines(tag: str, node) -> list:
     if tag == 'table':
         rows = []
-        for r in re.findall(r'(?s)<tr\b[^>]*>(.*?)</tr>', inner):
-            cells = [text(c) for c in re.findall(r'(?s)<t[dh]\b[^>]*>(.*?)</t[dh]>', r)]
-            if any(cells):
-                rows.append(' | '.join(cells))
+
+        def walk(x):
+            for k in x.kids:
+                if isinstance(k, Node):
+                    if k.tag == 'tr':
+                        cells = [text(raw_of(c)) for c in k.kids if isinstance(c, Node) and c.tag in ('td', 'th')]
+                        if any(cells):
+                            rows.append(' | '.join(cells))
+                    else:
+                        walk(k)
+        walk(node)
         return rows
-    if tag in ('ul', 'ol', 'dl'):
-        items = re.findall(r'(?s)<(?:li|dd|dt)\b[^>]*>(.*?)</(?:li|dd|dt)>', inner)
-        return [t for t in (text(x) for x in items) if t]
-    t = text(inner)
+    if tag in ('ul', 'ol'):
+        return list_lines(node)
+    if tag == 'dl':
+        return [t for t in (text(raw_of(k)) for k in node.kids if isinstance(k, Node)) if t]
+    t = text(raw_of(node))
     return [t] if t else []
+
+
+def inner(node) -> str:
+    """The element as text with its anchors kept, for the table-of-contents test."""
+    def r(n):
+        if isinstance(n, str):
+            return n
+        if n.tag == 'a':
+            return f'<a href="{n.attrs.get("href", "")}">' + ''.join(r(k) for k in n.kids) + '</a>'
+        if n.tag == 'br':
+            return '<br />'
+        return ''.join(r(k) for k in n.kids)
+    return ''.join(r(k) for k in node.kids)
 
 
 def is_toc(tag: str, inner: str) -> bool:
@@ -124,33 +251,32 @@ def unit_key(head: str, seen: set) -> tuple[str, str]:
 
 
 def parse_version(raw: str, title: str) -> dict:
-    bl = blocks(body_of(raw))
-    toc_idx = [i for i, (t, x) in enumerate(bl) if is_toc(t, x)]
+    bl = [(t, inner(n), n) for t, n in blocks(body_of(raw))]
+    toc_idx = [i for i, (t, x, _) in enumerate(bl) if is_toc(t, x)]
     units: dict[str, dict] = {}
     seen = {'000-eingang'}
     if toc_idx:
-        start_toc = next(i for i, (t, x) in enumerate(bl) if t.startswith('h') and 'Inhalts' in text(x)) \
-            if any(t.startswith('h') and 'Inhalts' in text(x) for t, x in bl[:toc_idx[0] + 1]) else toc_idx[0]
+        start_toc = next((i for i, (t, x, _) in enumerate(bl[:toc_idx[0] + 1]) if t.startswith('h') and 'Inhalts' in text(x)), toc_idx[0])
         intro, toc, body = bl[:start_toc], bl[start_toc:toc_idx[-1] + 1], bl[toc_idx[-1] + 1:]
     else:
-        first = next((i for i, (t, x) in enumerate(bl) if t.startswith('h')), len(bl))
+        first = next((i for i, (t, x, _) in enumerate(bl) if t.startswith('h')), len(bl))
         intro, toc, body = bl[:first], [], bl[first:]
     eingang = ['# ' + title]
-    for t, x in intro:
-        eingang += block_lines(t, x)
+    for t, x, nd in intro:
+        eingang += block_lines(t, nd)
     units['000-eingang'] = {'label': 'Eingang', 'kind': 'title', 'text': '\n'.join(eingang) + '\n'}
     if toc:
         ls = []
-        for t, x in toc:
+        for t, x, nd in toc:
             if t == 'p' and is_toc(t, x):
                 ls += [text(a) for a in re.findall(r'(?s)<a href="#[^"]*">(.*?)</a>', x) if text(a)]
             else:
-                ls += [('## ' if t.startswith('h') else '') + l for l in block_lines(t, x)]
+                ls += [('## ' if t.startswith('h') else '') + l for l in block_lines(t, nd)]
         units['000-inhalt'] = {'label': 'Inhaltsübersicht', 'kind': 'other', 'text': '\n'.join(ls) + '\n'}
         seen.add('000-inhalt')
     pending: list[str] = []
     cur = None
-    for t, x in body:
+    for t, x, nd in body:
         if t.startswith('h'):
             head = text(x)
             starts_unit = '<a name=' in x or re.match(r'(?i)^(pr(ä|ae)ambel|anlage|anhang)', head) or \
@@ -165,7 +291,7 @@ def parse_version(raw: str, title: str) -> dict:
                 level = int(t[1])
                 pending.append('#' * max(2, min(level - 1, 6)) + ' ' + head)
             continue
-        ls = block_lines(t, x)
+        ls = block_lines(t, nd)
         if cur is None:
             units['000-eingang']['text'] += '\n'.join(pending + ls) + ('\n' if pending or ls else '')
             pending = []
@@ -207,31 +333,52 @@ def guess_pdf(fund: str) -> str | None:
     return f'/fm/76/GVBl_I_{int(m.group(2)):02d}_{y}.pdf'
 
 
-def in_force(pdf_path: Path, enacted: str) -> tuple[str | None, str]:
-    """(day, how) from the GVBl issue: its issue date and the act's Inkrafttreten clause."""
+def in_force(pdf_path: Path, enacted: str, act_title: str) -> tuple:
+    """(day, how) from the GVBl issue: its issue date and the amending act's Inkrafttreten clause.
+
+    The issue is cut into acts at each signature line ("Potsdam, den <date>"); the amending act is the one signed on
+    its Ausfertigung day, and if several were, the one that names the amended act's title."""
     import pypdf
     r = pypdf.PdfReader(str(pdf_path))
-    full = '\n'.join(p.extract_text() or '' for p in r.pages)
-    flat = re.sub(r'-\s*\n\s*', '', full)
+    full = '\n'.join(pg.extract_text() or '' for pg in r.pages)
+    flat = re.sub(r'(\w)[-\u00ad]\s*\n\s*(\w)', r'\1\2', full)
+    flat = re.sub(r'[\u00ad]', '', flat)
     flat = re.sub(r'\s+', ' ', flat)
-    m = re.search(r'Potsdam, den ' + DATE + r' Nummer', flat) or re.search(r'Nr\. \d+ vom ' + DATE, flat)
+    m = re.search(r'Teil I\W+Nr\. \d+ vom ' + DATE, flat) or re.search(r'Potsdam, den ' + DATE, flat[:600])
     if not m:
         return None, 'no issue date'
     issued = de_date(m)
-    y, mo, d = enacted.split('-')
-    names = {v: k for k, v in MONTHS.items()}
-    vom = f'Vom {int(d)}. {names[int(mo)]} {y}'
-    i = flat.find(vom)
-    if i < 0:
-        return None, f'act "{vom}" not found in the issue'
-    nxt = flat.find(' Vom ', i + len(vom))
-    seg = flat[i:nxt if nxt > 0 else len(flat)]
-    cl = [c for c in re.findall(r'(Dieses Gesetz tritt[^.]*?in Kraft)', seg)]
+    sigs = [(x.start(), de_date(x)) for x in re.finditer(r'Potsdam, den ' + DATE, flat)]
+    segs, prev = [], 0
+    for pos, d in sigs:
+        if pos < 600 and not segs and prev == 0:  # the issue's own date line
+            prev = pos + 20
+            continue
+        segs.append((flat[prev:pos], d))
+        prev = pos + 20
+    cand = [sg for sg, d in segs if d == enacted]
+    if len(cand) > 1:
+        names = {v: k for k, v in MONTHS.items()}
+        y, mo, d = enacted.split('-')
+        vom = f'Vom {int(d)}. {names[int(mo)]} {y}'
+        titled = [sg for sg in cand if re.search(r'Änderung (der|des) ' + re.escape(act_title[:60]) + r'\W*' + vom, sg)]
+        cand = titled or cand
+    if len(cand) > 1:
+        words = act_title[:60]
+        cand = [sg for sg in cand if words in sg]
+        if len(cand) > 1:
+            amend = [sg for sg in cand if re.search(re.escape(words) + r'.{0,300}?(wird|werden) wie folgt geändert', sg)]
+            cand = amend or cand
+        if len(cand) > 1:
+            named = [sg for sg in cand if ('Änderung der ' + words) in sg[:400]]
+            cand = named or cand
+    if len(cand) != 1:
+        return None, f'{len(cand)} acts signed on {enacted} in the issue'
+    cl = re.findall(r'(Dieses Gesetz tritt (?:(?!Dieses Gesetz).){0,200}? in Kraft)', cand[0])
     if len(cl) != 1:
         return None, f'{len(cl)} Inkrafttreten clauses'
     c = cl[0]
-    if re.fullmatch(r'Dieses Gesetz tritt am Tag(e)? nach (der|seiner) Verkündung in Kraft', c) or \
-            re.fullmatch(r'Dieses Gesetz tritt am Tag(e)? nach (der|seiner) Verkündigung in Kraft', c):
+    if re.fullmatch(r'Dieses Gesetz tritt am Tag(e)? nach (der|seiner) (?:Verkündung|Verkündigung) in Kraft', c):
         day = (dt.date.fromisoformat(issued) + dt.timedelta(days=1)).isoformat()
         return day, f'"{c}"; GVBl. I issued {issued}'
     mm = re.fullmatch(r'Dieses Gesetz tritt (?:am|mit Wirkung vom) ' + DATE + r' in Kraft', c)
@@ -251,6 +398,7 @@ def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
     if not linked:  # no Lesefassung of any version: current text only
         linked = [{'link': doc, 'desc': None, 'enacted': None, 'pdf': None, 'fundstelle': None}]
     earlier = []
+    skipped: list = []
     first = True
     for n, r in enumerate(linked):
         page = cache_path(r['link'])
@@ -267,13 +415,15 @@ def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
                 pdf = r['pdf'] or guess_pdf(r['fundstelle'] or '')
                 pp = cache_path(pdf) if pdf else None
                 if pp and pp.exists():
-                    day, how = in_force(pp, r['enacted'])
+                    day, how = in_force(pp, r['enacted'], title)
                 else:
                     how = 'GVBl issue not retrieved'
         elif n == 0 and rows and rows[0]['desc'] and rows[0]['desc'].startswith('Ursprüngliche Fassung'):
             pass
         if not day:
             problems.append(f'{title}: version {r["link"]} ({r["desc"]}) left out: {how}')
+            if versions:
+                skipped.append(units)
             continue
         key = f'gvbl-{day[:4]}-{r["enacted"].replace("-", "")}'
         law = {'label': f'{re.sub(r"^.*?durch ", "", r["desc"])} ({r["fundstelle"]})', 'title': None, 'kind': 'law',
@@ -289,7 +439,10 @@ def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
             prev = versions[-1]['units']
             for k in sorted(set(prev) | set(units)):
                 if prev.get(k, {}).get('text') != units.get(k, {}).get('text'):
-                    v['credits'][k] = [key]
+                    # A change that a left-out version between them already shows is not this act's: unexplained.
+                    if not any(sk.get(k, {}).get('text') != prev.get(k, {}).get('text') for sk in skipped):
+                        v['credits'][k] = [key]
+            skipped = []
             laws[key] = law
         else:
             for e in rows[:rows.index(r) + 1]:
@@ -357,4 +510,4 @@ def write_part(name: str, docs: list[str], country: bool, overrides: dict) -> No
 
 
 if __name__ == '__main__':
-    write_part('10-verfassung', ['/de/gesetze-212792'], country=True, overrides={})
+    write_part('10-verfassung', ['/de/gesetze-212792'], country=True, overrides=OVERRIDES)

@@ -21,11 +21,31 @@ def cpath(path):
     return HERE / '.cache' / 'pages' / (name[:150] + '.html')
 
 
+def number_lists(s):
+    """Write out the numbers the browser shows for <ol> items, innermost lists first."""
+    inner = re.compile(r'(?s)<ol([^>]*)>((?:(?!<ol\b).)*?)</ol>')
+    while True:
+        m = inner.search(s)
+        if not m:
+            return s
+        typ = re.search(r'type="(\w)"', m.group(1))
+        st = re.search(r'start="(\d+)"', m.group(1))
+        n = [int(st.group(1)) if st else 1]
+
+        def mark(_):
+            x = n[0]
+            n[0] += 1
+            return f"<xli> {chr(96 + x) if typ and typ.group(1) == 'a' else x} "
+        s = s[:m.start()] + '<xol>' + re.sub(r'<li\b[^>]*>', mark, m.group(2)) + '</xol>' + s[m.end():]
+
+
 def source(raw):
     i = raw.index('class="reiterbox_innen_text"')
-    s = raw[raw.index('>', i) + 1:raw.index('id="nachoben"', i)]
+    j = raw.index('id="nachoben"', i)
+    s = raw[raw.index('>', i) + 1:raw.rindex('<', i, j)]
     s = re.sub(r'(?s)<!--.*?-->', '', s)
     s = re.sub(r'(?s)<script.*?</script>', '', s)
+    s = number_lists(s)
     return ld(html.unescape(re.sub(r'<[^>]+>', ' ', s)).replace('­', ''))
 
 

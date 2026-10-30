@@ -49,10 +49,83 @@ def get(path: str) -> Path | None:
     return None
 
 
+SACH = '/de/vorschriften_fundstellennachweis_gesetzte_und_verordnungen_sachgebietlich/sachgebiet/'
+
+
+def gesetze() -> list[str]:
+    """Act pages of the Gesetze on the subject index (not Verordnungen, Geschäftsordnungen or Staatsverträge alone),
+    in index order."""
+    import html as h
+    out = []
+    for n in range(1, 10):
+        f = cache_path(SACH + str(n))
+        if not f.exists():
+            continue
+        s = f.read_text(encoding='utf-8', errors='replace')
+        for href, t in re.findall(r'<a[^>]*href="(/(?:de/gesetze-\d+|gesetze/[^"]+))"[^>]*>(.*?)</a>', s, re.S):
+            t = h.unescape(re.sub('<[^>]+>', '', t)).strip()
+            if re.match(r'^(Gesetz|[A-ZÄÖÜ][\wäöüß-]*gesetz\b)', t) and href not in out and href != '/de/gesetze-212792':
+                out.append(href)
+    return out
+
+
+def history_rows(path: str) -> list[tuple[str, str | None]]:
+    """(version page, GVBl pdf) for each history row that links a Lesefassung, oldest first."""
+    f = cache_path(path + '?history')
+    s = f.read_text(encoding='utf-8', errors='replace')
+    s = re.sub(r'(?s)<!--.*?-->', '', s)
+    out = []
+    for r in re.findall(r'(?s)<tr>(.*?)</tr>', s):
+        link = re.search(r'href="(/de/gesetze-\d+)"', r)
+        if not link:
+            continue
+        pdf = re.search(r'href="(/fm/[^"]+\.pdf)"', r)
+        fund = re.search(r'GVBl\.I/(\d{2}), \[Nr\. (\d+)\]', re.sub(r'<[^>]+>', '', r))
+        if not pdf and fund:
+            y = int(fund.group(1))
+            y += 1900 if y > 50 else 2000
+            pdf_path = f'/fm/76/GVBl_I_{int(fund.group(2)):02d}_{y}.pdf'
+        else:
+            pdf_path = pdf.group(1) if pdf else None
+        out.append((link.group(1), pdf_path))
+    return out
+
+
+def run_gesetze():
+    """Pass 1: every Gesetz's page, history and the GVBl issue of its newest version; pass 2: the older versions."""
+    for n in range(1, 10):
+        get(SACH + str(n))
+    acts = gesetze()
+    (CACHE / 'gesetze.txt').write_text('\n'.join(acts) + '\n', encoding='utf-8')
+    print(len(acts), 'Gesetze', flush=True)
+    for i, a in enumerate(acts):
+        page = get(a)
+        if page is None:
+            continue
+        real = re.search(r'<link rel="canonical" href="https://bravors\.brandenburg\.de(/de/gesetze-\d+)"', page.read_text(encoding='utf-8', errors='replace'))
+        get(a + '?history')
+        rows = history_rows(a)
+        if rows and rows[-1][1]:
+            get(rows[-1][1])
+        print('pass1', i, a, len(rows), flush=True)
+    for i, a in enumerate(acts):
+        if not cache_path(a + '?history').exists():
+            continue
+        rows = history_rows(a)
+        for link, pdf in reversed(rows[:-1]):
+            get(link)
+            if pdf:
+                get(pdf)
+        print('pass2', i, a, flush=True)
+
+
 if __name__ == '__main__':
     if sys.argv[1] == 'get':
         for x in sys.argv[2:]:
             print(x, get(x), flush=True)
+    elif sys.argv[1] == 'gesetze':
+        run_gesetze()
     elif sys.argv[1] == 'list':  # paths one per line from a file
         for x in Path(sys.argv[2]).read_text(encoding='utf-8').split():
             print(x, get(x), flush=True)
+
