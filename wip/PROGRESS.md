@@ -11,7 +11,10 @@ State 2026-10-30 (gitlaw-scraper-dell):
   corpus.d/20-gesetze-NN.PUBLISH (autopush_dell publishes main).
 - Published: 10-verfassung (7 versions); 20-gesetze-01 (acts 1-50: 28 acts, current Lesefassung only, 22 left out),
   main 045d291; 20-gesetze-02 (acts 51-100: 15 acts, 35 left out, 22 of them because the 1990s GVBl issue is not on
-  BRAVORS, 404), main f54d83c. Next: 20-gesetze-03 once `pass1 149` is in fetch-gesetze.log (about 1 act a minute).
+  BRAVORS, 404), main f54d83c; 20-gesetze-03 (acts 101-150: 29 acts, 21 left out), main 6b0ce6b (12:59 UTC). Next: 20-gesetze-04 once
+  `pass1 199` is in fetch-gesetze.log (about 1 act a minute), then 05-09 the same way.
+- check_letters.py fix 2026-10-30: lists written <OL>/<LI> (upper case) are numbered too (one false mismatch,
+  GräbVersammlG, in part 03; parts 01-02 and the Verfassung unchanged, 0 mismatches).
 - Left-out reasons are conservative on purpose: split or conditional Inkrafttreten clauses ("vorbehaltlich",
   treaty-dependent days) and Mantelgesetze with several acts signed the same day are not guessed.
 - Append-only rule: parts from pass 1 hold only each act's newest version, and later parts interleave older dates,
