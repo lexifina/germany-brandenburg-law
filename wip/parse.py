@@ -15,6 +15,7 @@ import datetime as dt
 import hashlib
 import html
 import json
+import os
 import re
 import sys
 from html.parser import HTMLParser
@@ -22,6 +23,8 @@ from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 CACHE = HERE / '.cache' / 'pages'
+# Where parts are written (a staging copy of corpus.d while a rewrite of published parts is verified).
+PARTS = Path(os.environ.get('PARSE_OUT') or HERE / 'corpus.d')
 BASE = 'https://bravors.brandenburg.de'
 RETRIEVED = '2026-10-30'
 MONTHS = {m: i + 1 for i, m in enumerate(['Januar', 'Februar', 'März', 'April', 'Mai', 'Juni', 'Juli', 'August',
@@ -407,6 +410,82 @@ def in_force(pdf_path: Path, enacted: str, act_title: str) -> tuple:
     return None, f'clause not simple: "{c[:200]}"'
 
 
+def desc_units(desc: str | None) -> set | None:
+    """The provisions a history row says the amending act changed ("Inhaltsübersicht, §§ 6, 9 - 11 geändert; § 30
+    angefügt durch ..."), as unit keys; None when the row names anything else (Artikel, Anlagen) or nothing."""
+    if not desc or ' durch ' not in desc:
+        return None
+    what = desc.split(' durch ', 1)[0]
+    if re.search(r'Artikel|Art\.|Anlage|Anhang|Präambel|Eingangsformel', what):
+        return None
+    out = set()
+    if re.search(r'Inhalts(übersicht|angabe|verzeichnis)', what):
+        out.add('000-inhalt')
+    for m in re.finditer(r'§§?\s*((?:\d+\s*[a-z]?\b\s*(?:[-–]\s*\d+\s*[a-z]?\b\s*)?(?:,|und)?\s*)+)', what):
+        for x in re.finditer(r'(\d+)\s*([a-z]?)\b(?:\s*[-–]\s*(\d+)\s*([a-z]?)\b)?', m.group(1)):
+            a, la, b, lb = x.groups()
+            if b:
+                if la or lb:
+                    return None
+                out |= {f'par-{n:03d}' for n in range(int(a), int(b) + 1)}
+            else:
+                out.add(f'par-{int(a):03d}{la}')
+    rest = re.sub(r'Inhalts(übersicht|angabe|verzeichnis)|§§?\s*[\d\sa-z,–-]+?(?=\s+(geändert|neu|eingefügt|angefügt|aufgehoben|ersetzt)\b)|'
+                  r'\b(geändert|neu gefasst|neu eingefügt|eingefügt|angefügt|aufgehoben|ersetzt|und)\b|[,;\s]', '', what)
+    return out if out and not rest else None
+
+
+def announcement(units: dict, prev: dict) -> str | None:
+    """A Lesefassung that is the version before word for word, with only a notice in its Eingang that an amending
+    Artikel takes effect later ("Hinweis: Artikel 9 des Gesetzes vom 14. Mai 2024 (...) tritt am 1. September 2024 in
+    Kraft."): the change is not worked into it. Returns the notice, else None."""
+    if any(units.get(k, {}).get('text') != prev.get(k, {}).get('text') for k in set(units) | set(prev) if k != '000-eingang'):
+        return None
+    m = re.search(r'Hinweis: [^\n]*? tritt am ' + DATE + r' in Kraft\.?', units['000-eingang']['text'])
+    return m.group(0) if m and m.group(0) not in prev['000-eingang']['text'] else None
+
+
+def split_pending(prev: dict, v: dict, r: dict, key: str, law: dict, how: str, pending: dict) -> list | str:
+    """The Lesefassung `v` after an announcement holds two acts' changes: the announced one (pending) and its own.
+    Each takes effect on its own day, so the record gets one version per day: on the earlier day the version before
+    with the earlier act's provisions as `v` gives them, on the later day `v` itself. The provisions are split by the
+    history rows' own lists of what each act changed; any doubt (a provision in both lists or in neither, a list that
+    names Artikel or Anlagen) and `v` is left out (returns why)."""
+    pu, vu = prev['units'], v['units']
+    changed = {k for k in set(pu) | set(vu) if pu.get(k, {}).get('text') != vu.get(k, {}).get('text')}
+    if '000-eingang' in changed:
+        return 'its Eingang differs from the version before'
+    mine, theirs = desc_units(r['desc']), desc_units(pending['row']['desc'])
+    if mine is None or theirs is None:
+        return 'the history rows do not list the changed provisions by Paragraph'
+    if changed & mine & theirs or not changed <= mine | theirs or not changed & theirs or not changed & mine:
+        return (f'the changed provisions ({", ".join(sorted(changed))}) do not split cleanly between the two '
+                f'amending acts\' lists')
+    first, second = sorted([(v['from'], mine, key, law, how, r), (pending['day'], theirs, pending['key'],
+                                                                  pending['law'], pending['how'], pending['row'])],
+                           key=lambda x: x[0])
+    if first[0] <= prev['from']:
+        return f'the earlier of its two days ({first[0]}) is not after the version before ({prev["from"]})'
+    take = changed & first[1]
+    units = {k: (vu[k] if k in take else u) for k, u in pu.items() if not (k in take and k not in vu)}
+    units.update({k: vu[k] for k in take if k in vu and k not in pu})
+    later = changed & second[1]
+    a = {'from': first[0], 'source_url': v['source_url'], 'sha256': v['sha256'], 'units': units,
+         'credits': {k: [first[2]] for k in sorted(take)},
+         'note': f'In force from {first[0]}: {first[4]}. The words of {", ".join(sorted(take))} are those of the '
+                 f'Lesefassung linked below; every other provision stays as in the version before, because the '
+                 f'change to {", ".join(sorted(later))} that this Lesefassung also holds takes effect only on '
+                 f'{second[0]}.', '_laws': {first[2]: first[3]}}
+    b = {'from': second[0], 'source_url': v['source_url'], 'sha256': v['sha256'], 'units': vu,
+         'credits': {k: [second[2]] for k in sorted(later)},
+         'note': f'In force from {second[0]}: {second[4]}.', '_laws': {second[2]: second[3]}}
+    if first[0] == second[0]:
+        b['credits'].update(a['credits'])
+        b['_laws'].update(a['_laws'])
+        return [b]
+    return [a, b]
+
+
 def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
     cur = cache_path(doc)
     hist = cache_path(doc + '?history')
@@ -419,6 +498,7 @@ def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
         linked = [{'link': doc, 'desc': None, 'enacted': None, 'pdf': None, 'fundstelle': None}]
     earlier = []
     skipped: list = []
+    pending = None
     first = True
     for n, r in enumerate(linked):
         page = cache_path(r['link'])
@@ -464,9 +544,36 @@ def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
         key = 'bb-' + re.sub(r'[^a-z0-9]+', '-', (r['fundstelle'] or '').lower()).strip('-') + '-' + r['enacted'].replace('-', '')
         v = {'from': day, 'source_url': BASE + r['link'], 'sha256': hashlib.sha256(page.read_bytes()).hexdigest(),
              'units': units, 'credits': {}, 'note': f'In force from {day}: {how}.'}
-        if versions and day <= versions[-1]['from']:
-            problems.append(f'{title}: version {r["link"]} dated {day}, not after {versions[-1]["from"]}; left out')
+        if versions and not skipped and announcement(units, versions[-1]['units']):
+            # Not a version of its own: the words are the version before's; the announced change is worked into the
+            # next Lesefassung, which is split below by the day each act takes effect.
+            if pending:
+                problems.append(f'{title}: version {r["link"]} ({r["desc"]}) and later left out: a second announced '
+                                f'change before the first is worked in')
+                break
+            pending = {'row': r, 'day': day, 'key': key, 'law': law, 'how': how}
+            problems.append(f'{title}: version {r["link"]} ({r["desc"]}) is not a version of its own: its words are '
+                            f'the version before\'s, with only the notice "{announcement(units, versions[-1]["units"])}"; '
+                            f'that change is dated {day} in the next Lesefassung that holds it')
             continue
+        if pending:
+            split = split_pending(versions[-1], v, r, key, law, how, pending)
+            if isinstance(split, str):
+                problems.append(f'{title}: version {r["link"]} ({r["desc"]}) and later left out: {split}')
+                break
+            for x in split:
+                laws.update(x.pop('_laws'))
+            versions += split
+            pending = None
+            skipped = []
+            continue
+        if versions and day < versions[-1]['from']:
+            problems.append(f'{title}: version {r["link"]} ({r["desc"]}) left out: it takes effect on {day}, before '
+                            f'the version before it ({versions[-1]["from"]}); the Lesefassung holds that version\'s '
+                            f'change too, so its words were never in force together on {day}')
+            continue
+        if versions and day == versions[-1]['from']:
+            v['same_day'] = True  # both Lesefassungen take effect on one day: this one second, as BRAVORS orders them
         if versions:
             prev = versions[-1]['units']
             for k in sorted(set(prev) | set(units)):
@@ -510,7 +617,7 @@ def write_part(name: str, docs: list[str], country: bool, overrides: dict) -> No
     for k, lw in laws.items():
         lw['label'] = re.sub(r'^(?:Artikel|Art\.)\s*\d+\w*(?:\s+(?:Absatz|Abs\.)\s*\d+\w*)?\s+des\s+Gesetzes\b',
                              'Gesetz', lw['label'])
-    for other in sorted((HERE / 'corpus.d').glob('*.PUBLISH')):
+    for other in sorted(PARTS.glob('*.PUBLISH')):
         if other.stem != name and other.with_suffix('.json').exists():
             for k, lw in json.loads(other.with_suffix('.json').read_text(encoding='utf-8'))['laws'].items():
                 if k in laws:
@@ -542,7 +649,7 @@ def write_part(name: str, docs: list[str], country: bool, overrides: dict) -> No
                       'Verordnungsblatt, credits from BRAVORS\' history.']}
     if country:
         out['country'] = COUNTRY
-    d = HERE / 'corpus.d'
+    d = PARTS
     tmp = d / (name + '.json.tmp')
     tmp.write_text(json.dumps(out, ensure_ascii=False, indent=1) + '\n', encoding='utf-8', newline='\n')
     tmp.replace(d / (name + '.json'))
@@ -562,7 +669,7 @@ def harmonise(written: list[str]) -> None:
     """One entry per law key across all parts (the builder refuses two). An entry in a part not written in this run
     wins; otherwise the one that names the GVBl issue and the law ("Gesetz vom ..."), not the act's own
     "Ursprüngliche Fassung" row."""
-    d = HERE / 'corpus.d'
+    d = PARTS
     parts = {p.stem: json.loads(p.read_text(encoding='utf-8')) for p in sorted(d.glob('*.json'))}
     best: dict = {}
     for name, part in parts.items():
