@@ -16,20 +16,24 @@ to the publisher as "oldest version available".
 | --- | --- | --- |
 | `verfassung/` | Verfassung des Landes Brandenburg vom 20. August 1992 | each Lesefassung since the amendment of 7 April 1999 |
 | other folders | Brandenburg Gesetze, one folder per act (named by its abbreviation) | each Lesefassung BRAVORS holds |
+| other folders | Brandenburg Verordnungen, one folder per act (named by its abbreviation, else by BRAVORS' document name) | each Lesefassung BRAVORS holds |
 
 269 of the 445 Gesetze in BRAVORS' list are here, with 556 versions. A version is left out when its date cannot be read
 from the Gesetz- und Verordnungsblatt without guessing (no issue on BRAVORS, no Inkrafttreten clause, a split or
 conditional clause, several acts signed the same day, provisions going out of force, or an amending act that takes
 effect before the version above it), or when its text as parsed differs from the page; an act
-with no version left is left out. Each one is listed under "Decisions made by hand" in REPRODUCE.md. Verordnungen and
-Verwaltungsvorschriften are not included yet.
+with no version left is left out. Each one is listed under "Decisions made by hand" in REPRODUCE.md.
+
+The Verordnungen on BRAVORS' subject index (1,250 entries) are added in parts of 50 entries, in index order, under the
+same rules; REPRODUCE.md names the parts published so far and the versions left out. Verwaltungsvorschriften are not
+included.
 
 ## Source
 
 [BRAVORS - Brandenburgisches Vorschriftensystem](https://bravors.brandenburg.de) of the Landesregierung
 Brandenburg: the current text, the change history and the historical reading versions of each act. The in-force day
-of each version is read from the issue of the Gesetz- und Verordnungsblatt für das Land Brandenburg Teil I that the
-history cites. The sha256 of each page a version was read from is in `data/versions.json`.
+of each version is read from the issue of the Gesetz- und Verordnungsblatt für das Land Brandenburg (Teil I, or Teil
+II for Verordnungen) that the history cites. The sha256 of each page a version was read from is in `data/versions.json`.
 
 ## Dates
 
