@@ -59,6 +59,10 @@ LETTERS_DIFFER = {
     '/gesetze/bbgrig/2': _LISTS, '/de/gesetze-213730': _LISTS, '/gesetze/bbguvpg/6': _LISTS, '/gesetze/bbguvpg/7': _LISTS,
     '/gesetze/bbguvpg': _LISTS, '/de/gesetze-212545': _LISTS,
 }
+# Verordnungen found by the letters check of a new part (written by the part driver, private): link -> reason.
+_LD = HERE / 'letters-differ.json'
+if _LD.exists():
+    LETTERS_DIFFER.update(json.loads(_LD.read_text(encoding='utf-8')))
 
 # Versions whose amending act's Inkrafttreten clause names no calendar day: the day, read by hand, and why.
 OVERRIDES = {
