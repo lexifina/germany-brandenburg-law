@@ -88,7 +88,7 @@ def main(paths):
                 total += 1
                 if rest or pos != len(src):
                     bad += 1
-                    print(f'MISMATCH {a["slug"]} {v["from"]}: {pos}/{len(src)}; next {src[pos:pos+70]!r}; unplaced {list(rest)[:4]}')
+                    print(f'MISMATCH {a["slug"]} {v["from"]}: {pos}/{len(src)}; next {src[pos:pos+70]!r}; unplaced {list(rest)[:4]}; url={v["source_url"]}')
     print(f'{total} versions checked, {bad} mismatches')
     return bad
 
