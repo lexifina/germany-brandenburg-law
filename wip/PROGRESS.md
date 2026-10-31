@@ -30,6 +30,16 @@ fetching.
   50 index entries: `PARSE_OUT=<stage>/corpus.d python -X utf8 parse.py 30-verordnungen-NN` (never written unless
   named; written once every act in it is fully fetched: ready_full via requests.jsonl), check_letters, verify, then
   copy into corpus.d + .PUBLISH. Verordnungen dated like the Gesetze ("Diese Verordnung tritt ..."; GVBl Teil II).
+- Main after the fix: 593068f (autopush 06:45 UTC, verified rebuild 54237b1 -> 593068f, lease; 54237b1 archived as
+  world-law-ops archive3/germany-brandenburg-law/main/54237b1ee9ef); published tree == local verified build in all 270
+  act folders. README: 556 versions, same-day/announcement rules, Verordnungen row (Teil II).
+- Driver: scripts/world-law/laender_vo_driver.py (PID 45548, both Länder, a pass every 10 min, BelowNormal, CPU gate)
+  publishes 30-verordnungen-NN parts 5-10 at a time with every check above (letters mismatches -> letters-differ.json,
+  left out with that reason, reparse). Status VO-DRIVER.json, log vo-driver.log; stops this Land on any failure. Deletes
+  this Land's claim when all 25 parts are published and the fetch has finished. Staged part 01 (07:12): 34 acts, 64
+  versions of 50 entries (16 entries with no datable version: 1990s GVBl issues not on BRAVORS (404), issues without a
+  readable date, clauses not simple, signatures not found); 2 GSZV versions differ in the letters check (Anlage).
+  Verordnungen slugs: an abbreviation needs 2+ capitals or a digit ("(Land)" is not one), else the document name.
 
 Earlier state (superseded):
 
