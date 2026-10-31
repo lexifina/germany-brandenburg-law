@@ -684,6 +684,9 @@ def write_part(name: str, docs: list[str], country: bool, overrides: dict, teil:
     acts, laws, problems = [], {}, []
     seen = {canonical(d) for d in earlier or []}
     for d in docs:
+        if earlier is not None and not cache_path(d).exists():
+            problems.append(f'{d}: the index entry\'s page is not on BRAVORS (not found); left out')
+            continue
         if earlier is not None:
             c = canonical(d)
             if c in seen:
@@ -727,7 +730,13 @@ def write_part(name: str, docs: list[str], country: bool, overrides: dict, teil:
                'issue the row cites: "am Tag nach der Verkündung" is the day after the issue date; a stated day is '
                'that day. A version whose clause is not one of these is left out (listed below).',
                'One file per Artikel or Paragraph; the Inhaltsübersicht is its own file. Headings of Hauptteile and '
-               'Abschnitte stand above the first provision under them.'] + [f'Left out: {p}' for p in problems],
+               'Abschnitte stand above the first provision under them.']
+           + (['The Verordnungen are the entries of BRAVORS\' subject index ("Gesetze und Verordnungen sachgebietlich") '
+               'whose title names a Verordnung, in index order, 50 entries a part. They are dated like the Gesetze: '
+               '"Diese Verordnung tritt am Tag nach der Verkündung in Kraft" is the day after the issue date of the '
+               'Gesetz- und Verordnungsblatt (Teil II for Verordnungen, Teil I for a Gesetz that amends one).']
+              if earlier is not None else [])
+           + [f'Left out: {p}' for p in problems],
            'ai_use': ['Claude Code (claude-opus-5-5) wrote Lexifina\'s code and chose the sources. No model output is '
                       'used as legal text, dates or credits: words come from BRAVORS, dates from the Gesetz- und '
                       'Verordnungsblatt, credits from BRAVORS\' history.']}
@@ -766,8 +775,10 @@ def asked(path: str) -> bool:
 def ready_full(doc: str) -> bool:
     """A Verordnung fetched in full: its page, history, every Lesefassung and every GVBl issue its rows name."""
     import fetch
-    if not (cache_path(doc).exists() and cache_path(doc + '?history').exists()):
-        return False
+    if not cache_path(doc).exists():
+        return asked(doc)  # asked for and not found: the part is written without it
+    if not cache_path(doc + '?history').exists():
+        return asked(doc + '?history')
     return all(asked(x) for link, pdf in fetch.history_links(doc) for x in (link, pdf) if x)
 
 
