@@ -661,6 +661,8 @@ def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
         return None, laws, problems
     m = re.search(r'[–-]\s*([A-Za-zÄÖÜäöüß][\wÄÖÜäöüß./-]*)\)\s*$', title) or re.search(r'\(([A-Za-zÄÖÜäöüß][\wÄÖÜäöüß./-]*)\)\s*$', title)
     abk = m.group(1) if m else None
+    if abk and 'verordnungen' in doc and sum(ch.isupper() for ch in abk) < 2 and not re.search(r'\d', abk):
+        abk = None  # a word in brackets ("(Land)"), not an abbreviation: the document name instead (Verordnungen only)
     slug = re.sub(r'[^a-z0-9]+', '-', doc.rsplit('/', 1)[1].lower()).strip('-')
     act = {'slug': 'verfassung' if doc == '/de/gesetze-212792' else (re.sub(r'[^a-z0-9]+', '-', abk.lower().translate(str.maketrans('äöüß', 'aous'))).strip('-') if abk else slug),
            'short': 'BbgVerf' if doc == '/de/gesetze-212792' else (abk or title[:60]), 'title': title,
