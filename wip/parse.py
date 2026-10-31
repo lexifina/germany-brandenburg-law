@@ -338,7 +338,7 @@ def history(raw: str) -> list[dict]:
         tds = re.findall(r'(?s)<td[^>]*>(.*?)</td>', r)
         if len(tds) < 2:
             continue
-        link = re.search(r'href="(/(?:de/gesetze-\d+|gesetze/[^"?#]+))"', tds[0])
+        link = re.search(r'href="(/(?:de/(?:gesetze|verordnungen)-\d+|(?:gesetze|verordnungen)/[^"?#]+))"', tds[0])
         pdf = re.search(r'href="(/fm/[^"]+\.pdf)"', tds[1])
         desc, fund = text(tds[0]), text(tds[1])
         m = re.search(r'vom ' + DATE, desc)
@@ -348,26 +348,41 @@ def history(raw: str) -> list[dict]:
 
 
 def guess_pdf(fund: str) -> str | None:
-    m = re.match(r'GVBl\.I/(\d{2}), \[Nr\. (\d+)\]', fund)
+    m = re.match(r'GVBl\.(I|II)/(\d{2}), \[Nr\. (\d+)\]', fund)
     if not m:
         return None
-    y = int(m.group(1))
+    y = int(m.group(2))
     y += 1900 if y > 50 else 2000
-    return f'/fm/76/GVBl_I_{int(m.group(2)):02d}_{y}.pdf'
+    return f'/fm/76/GVBl_{m.group(1)}_{int(m.group(3)):02d}_{y}.pdf'
 
 
-def in_force(pdf_path: Path, enacted: str, act_title: str) -> tuple:
+def amending_word(doc: str, desc: str | None) -> str:
+    """What made a version: for a Gesetz always "Gesetz" (the published Gesetze rule); for a Verordnung its history
+    row says: "durch Verordnung vom", "durch (Artikel N des) Gesetz(es) vom"; its Ursprüngliche Fassung is a
+    Verordnung."""
+    if 'verordnungen' not in doc:
+        return 'Gesetz'
+    m = re.search(r'durch (?:(?:Artikel|Art\.) \d+\w* (?:der|des) )?(Gesetz|Verordnung)', desc or '')
+    return m.group(1) if m else 'Verordnung' if (desc or '').startswith('Ursprüngliche Fassung') else 'unknown'
+
+
+def in_force(pdf_path: Path, enacted: str, act_title: str, word: str = 'Gesetz') -> tuple:
     """(day, how) from the GVBl issue: its issue date and the amending act's Inkrafttreten clause.
 
     The issue is cut into acts at each signature line ("Potsdam, den <date>"); the amending act is the one signed on
-    its Ausfertigung day, and if several were, the one that names the amended act's title."""
+    its Ausfertigung day, and if several were, the one that names the amended act's title. `word` is what the
+    amending act is ("Gesetz", or "Verordnung" for a Verordnung amended or made by a Verordnung): its clause reads
+    "Dieses Gesetz tritt ..." or "Diese Verordnung tritt ..."; a Verordnung may be printed in Teil II."""
     import pypdf
     r = pypdf.PdfReader(str(pdf_path))
     full = '\n'.join(pg.extract_text() or '' for pg in r.pages)
     flat = re.sub(r'(\w)[-\u00ad]\s*\n\s*(\w)', r'\1\2', full)
     flat = re.sub(r'[\u00ad]', '', flat)
     flat = re.sub(r'\s+', ' ', flat)
-    m = re.search(r'Teil I\W+Nr\. \d+ vom ' + DATE, flat) or re.search(r'Potsdam, den ' + DATE, flat[:600])
+    if word not in ('Gesetz', 'Verordnung'):
+        return None, 'the history row names no Gesetz or Verordnung as the amending act'
+    teil = r'Teil I' if word == 'Gesetz' else r'Teil II?'
+    m = re.search(teil + r'\W+Nr\. \d+ vom ' + DATE, flat) or re.search(r'Potsdam, den ' + DATE, flat[:600])
     if not m:
         return None, 'no issue date'
     issued = de_date(m)
@@ -397,14 +412,18 @@ def in_force(pdf_path: Path, enacted: str, act_title: str) -> tuple:
             cand = named or cand
     if len(cand) != 1:
         return None, f'{len(cand)} acts signed on {enacted} in the issue'
-    cl = re.findall(r'(Dieses Gesetz tritt (?:(?!Dieses Gesetz).){0,200}? in Kraft)', cand[0])
+    subj = 'Dieses Gesetz' if word == 'Gesetz' else 'Diese Verordnung'
+    cl = re.findall(r'(' + subj + r' tritt (?:(?!' + subj + r').){0,200}? in Kraft)', cand[0])
     if len(cl) != 1:
         return None, f'{len(cl)} Inkrafttreten clauses'
     c = cl[0]
-    if re.fullmatch(r'DiesesGesetztrittamTage?nach(der|seiner)Verkünd(?:ung|igung)inKraft', c.replace(' ', '')):
+    if re.fullmatch(r'DiesesGesetztrittamTage?nach(der|seiner)Verkünd(?:ung|igung)inKraft', c.replace(' ', '')) or \
+            (word != 'Gesetz' and re.fullmatch(r'DieseVerordnungtrittamTage?nach(der|ihrer)Verkünd(?:ung|igung)inKraft',
+                                               c.replace(' ', ''))):
         day = (dt.date.fromisoformat(issued) + dt.timedelta(days=1)).isoformat()
-        return day, f'"{c}"; GVBl. I issued {issued}'
-    mm = re.fullmatch(r'Dieses Gesetz tritt (?:am|mit Wirkung vom) ' + DATE + r' in Kraft', re.sub(r'\s+', ' ', c))
+        part = 'I' if word == 'Gesetz' else (m.group(0).split()[1] + ' ' if m.group(0).startswith('Teil') else '')
+        return day, f'"{c}"; GVBl. {part.strip() + " " if part.strip() else ""}issued {issued}'
+    mm = re.fullmatch(subj + r' tritt (?:am|mit Wirkung vom) ' + DATE + r' in Kraft', re.sub(r'\s+', ' ', c))
     if mm:
         return de_date(mm), f'"{c}"'
     return None, f'clause not simple: "{c[:200]}"'
@@ -527,7 +546,7 @@ def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
                 pdf = r['pdf'] or guess_pdf(r['fundstelle'] or '')
                 pp = cache_path(pdf) if pdf else None
                 if pp and pp.exists():
-                    day, how = in_force(pp, r['enacted'], title)
+                    day, how = in_force(pp, r['enacted'], title, amending_word(doc, r['desc']))
                 else:
                     how = 'GVBl issue not retrieved'
         elif n == 0 and rows and rows[0]['desc'] and rows[0]['desc'].startswith('Ursprüngliche Fassung'):
