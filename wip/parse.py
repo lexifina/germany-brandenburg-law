@@ -366,6 +366,25 @@ def amending_word(doc: str, desc: str | None) -> str:
     return m.group(1) if m else 'Verordnung' if (desc or '').startswith('Ursprüngliche Fassung') else 'unknown'
 
 
+SEGMENT: dict = {}  # (GVBl issue, Ausfertigung day) -> the amending act's text in_force() read
+
+
+def staggered(pdf: str | None, enacted: str) -> str | None:
+    """A sentence of the amending act, besides its "Dieses Gesetz tritt ... in Kraft", that puts parts of it in or out
+    of force on another day ("Artikel 2 Nummer 5 tritt mit Wirkung vom ... in Kraft", "... treten am 31. Juli 2016
+    außer Kraft"). Then which day a given Lesefassung's change took effect is not read from one clause."""
+    seg = SEGMENT.get((str(cache_path(pdf)) if pdf else '', enacted))
+    if seg is None:
+        return 'the amending act\'s text was not read'
+    for m in re.finditer(r'(?:tritt|treten)\b(?:(?!(?:tritt|treten)\b).){0,260}?\b(?:in|außer) Kraft', seg):
+        ctx = seg[max(0, m.start() - 120):m.end()]
+        if re.match(r'(?:tritt|treten) (?:am|mit)', m.group(0)) and re.search(r'(Artikel|Art\.|§|Nummer|Absatz|Satz)\s*\d', ctx[:125]) \
+                or 'außer Kraft' in m.group(0) and not re.search(r'(?:tritt|treten) (?:das|die|der) ', m.group(0)):
+            if not re.search(r'Dieses Gesetz (?:tritt|treten)', ctx[-len(m.group(0)) - 20:]):
+                return ctx.strip()[-260:]
+    return None
+
+
 def in_force(pdf_path: Path, enacted: str, act_title: str, word: str = 'Gesetz') -> tuple:
     """(day, how) from the GVBl issue: its issue date and the amending act's Inkrafttreten clause.
 
@@ -412,6 +431,7 @@ def in_force(pdf_path: Path, enacted: str, act_title: str, word: str = 'Gesetz')
             cand = named or cand
     if len(cand) != 1:
         return None, f'{len(cand)} acts signed on {enacted} in the issue'
+    SEGMENT[(str(pdf_path), enacted)] = cand[0]
     subj = 'Dieses Gesetz' if word == 'Gesetz' else 'Diese Verordnung'
     cl = re.findall(r'(' + subj + r' tritt (?:(?!' + subj + r').){0,200}? in Kraft)', cand[0])
     if len(cl) != 1:
@@ -539,7 +559,9 @@ def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
             # Oldest version available: dated by its amending act's in-force day if known, else its own date.
             pass
         day, how = None, ''
-        if r['enacted']:
+        if 'außer Kraft' in (r['desc'] or ''):
+            how = 'the history row records provisions going out of force ("außer Kraft"); that day is not read from an Inkrafttreten clause'
+        elif r['enacted']:
             if r['link'] in overrides:
                 day, how = overrides[r['link']]
             else:
@@ -576,7 +598,12 @@ def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
                             f'that change is dated {day} in the next Lesefassung that holds it')
             continue
         if pending:
-            split = split_pending(versions[-1], v, r, key, law, how, pending)
+            for rr in (r, pending['row']):
+                why = staggered(rr['pdf'] or guess_pdf(rr['fundstelle'] or ''), rr['enacted'])
+                if why:
+                    break
+            split = f'an amending act puts parts in or out of force on other days ("{why}")' if why else \
+                split_pending(versions[-1], v, r, key, law, how, pending)
             if isinstance(split, str):
                 problems.append(f'{title}: version {r["link"]} ({r["desc"]}) and later left out: {split}')
                 break
@@ -592,6 +619,14 @@ def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
                             f'change too, so its words were never in force together on {day}')
             continue
         if versions and day == versions[-1]['from']:
+            pdf = r['pdf'] or guess_pdf(r['fundstelle'] or '')
+            why = staggered(pdf, r['enacted'])
+            if why:
+                problems.append(f'{title}: version {r["link"]} ({r["desc"]}) left out: it would take effect on the same day '
+                                f'as the version before, but its amending act puts parts in or out of force on other '
+                                f'days ("{why}")')
+                skipped.append(units)
+                continue
             v['same_day'] = True  # both Lesefassungen take effect on one day: this one second, as BRAVORS orders them
         if versions:
             prev = versions[-1]['units']
