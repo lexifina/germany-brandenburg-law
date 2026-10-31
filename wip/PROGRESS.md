@@ -40,6 +40,8 @@ fetching.
   versions of 50 entries (16 entries with no datable version: 1990s GVBl issues not on BRAVORS (404), issues without a
   readable date, clauses not simple, signatures not found); 2 GSZV versions differ in the letters check (Anlage).
   Verordnungen slugs: an abbreviation needs 2+ capitals or a digit ("(Land)" is not one), else the document name.
+- 08:45 UTC: main 10a55ad (docs-only rebuild of 593068f after the README edit: same parent d54674d; old tip archived).
+  Verordnungen: fetch at entry ~70 of 1,250; driver waiting for 5 complete parts (first batch expected ~13:00 UTC).
 
 Earlier state (superseded):
 
