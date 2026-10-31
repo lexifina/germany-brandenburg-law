@@ -59,7 +59,21 @@ def main(paths):
     bad = total = 0
     for p in paths:
         for a in json.load(open(p, encoding='utf-8'))['acts']:
-            for v in a['versions']:
+            vs = a['versions']
+            for i, v in enumerate(vs):
+                if 0 < i < len(vs) - 1 and vs[i + 1]['source_url'] == v['source_url']:
+                    # A version composed from two Lesefassungen (an announced change and a later act's change, each
+                    # in force on its own day): every file is the version before's or the next version's word for
+                    # word, and the next one is checked against its page below.
+                    prev, nxt = vs[i - 1]['units'], vs[i + 1]['units']
+                    total += 1
+                    odd = [k for k, u in v['units'].items()
+                           if u != prev.get(k) and u != nxt.get(k)]
+                    odd += [k for k in set(prev) & set(nxt) if k not in v['units']]
+                    if odd:
+                        bad += 1
+                        print(f'MISMATCH {a["slug"]} {v["from"]}: composed version, files neither before nor after: {odd[:4]}')
+                    continue
                 src = source(cpath(v['source_url'].split('brandenburg.de', 1)[1]).read_text(encoding='utf-8', errors='replace'))
                 rest = {}
                 for k, u in v['units'].items():

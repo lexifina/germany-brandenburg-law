@@ -622,9 +622,28 @@ def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
     return act, laws, problems
 
 
-def write_part(name: str, docs: list[str], country: bool, overrides: dict) -> None:
+def canonical(doc: str) -> str | None:
+    """The act's own path (its page's canonical link): two index entries can be one act."""
+    f = cache_path(doc)
+    if not f.exists():
+        return None
+    m = re.search(r'<link rel="canonical" href="https://bravors\.brandenburg\.de([^"]+)"',
+                  f.read_text(encoding='utf-8', errors='replace'))
+    return m.group(1) if m else doc
+
+
+def write_part(name: str, docs: list[str], country: bool, overrides: dict, teil: str = 'Teil I',
+               earlier: list[str] | None = None) -> None:
+    """`earlier`: the index entries before this part (Verordnungen): an act one of them already is is taken once."""
     acts, laws, problems = [], {}, []
+    seen = {canonical(d) for d in earlier or []}
     for d in docs:
+        if earlier is not None:
+            c = canonical(d)
+            if c in seen:
+                problems.append(f'{d}: the same act as an earlier index entry ({c}); taken once')
+                continue
+            seen.add(c)
         a, lw, pr = act_of(d, overrides)
         problems += pr
         if a:
@@ -648,7 +667,7 @@ def write_part(name: str, docs: list[str], country: bool, overrides: dict) -> No
                         'licence': '§ 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright '
                                    'protection. BRAVORS states no terms restricting reuse.',
                         'notes': f'{len(acts)} acts, {nv} versions in this part.'},
-                       {'name': 'Gesetz- und Verordnungsblatt für das Land Brandenburg Teil I (PDF issues on BRAVORS)',
+                       {'name': f'Gesetz- und Verordnungsblatt für das Land Brandenburg {teil} (PDF issues on BRAVORS)',
                         'url': BASE + '/de/veroeffentlichungsblaetter_einfache_suche', 'retrieved': RETRIEVED,
                         'licence': '§ 5 Abs. 1 UrhG.', 'notes': 'Read only for each issue date and each amending act\'s '
                                                                  'Inkrafttreten clause.'}],
@@ -682,6 +701,28 @@ PART_SIZE = 50
 
 def ready(doc: str) -> bool:
     return cache_path(doc).exists() and cache_path(doc + '?history').exists()
+
+
+_ASKED: set = set()
+
+
+def asked(path: str) -> bool:
+    """Retrieved, or asked for and not there (a 404 is logged in requests.jsonl, never cached)."""
+    if cache_path(path).exists():
+        return True
+    if not _ASKED:
+        log = HERE / '.cache' / 'requests.jsonl'
+        for line in log.read_text(encoding='utf-8').splitlines():
+            _ASKED.add(json.loads(line)['url'])
+    return BASE + path in _ASKED
+
+
+def ready_full(doc: str) -> bool:
+    """A Verordnung fetched in full: its page, history, every Lesefassung and every GVBl issue its rows name."""
+    import fetch
+    if not (cache_path(doc).exists() and cache_path(doc + '?history').exists()):
+        return False
+    return all(asked(x) for link, pdf in fetch.history_links(doc) for x in (link, pdf) if x)
 
 
 def harmonise(written: list[str]) -> None:
@@ -738,5 +779,16 @@ if __name__ == '__main__':
             break
         if not only or name in only:
             write_part(name, chunk, country=False, overrides=OVERRIDES)
+            written.append(name)
+    # Verordnungen: each act fetched in full (fetch.py verordnungen), 50 index entries a part.
+    lst = HERE / '.cache' / 'verordnungen.txt'
+    vos = lst.read_text(encoding='utf-8').split() if lst.exists() else []
+    for n in range(0, len(vos), PART_SIZE):
+        chunk = vos[n:n + PART_SIZE]
+        name = f'30-verordnungen-{n // PART_SIZE + 1:02d}'
+        if not all(ready_full(d) for d in chunk):
+            break
+        if name in only:  # never written unless named
+            write_part(name, chunk, country=False, overrides=OVERRIDES, teil='Teil I and Teil II', earlier=vos[:n])
             written.append(name)
     harmonise(written)
