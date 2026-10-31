@@ -46,6 +46,17 @@ COUNTRY = {
 }
 
 
+# Versions whose words, as parsed, differ from what the page shows (the letters-and-digits check): left out rather
+# than published with a difference. Malformed nested lists (<ol start> inside <ol> with no <li>) whose numbers the
+# parser drops, and pages whose footnote or Inhaltsübersicht the parser places elsewhere.
+_LISTS = 'the page\'s nested list numbering is malformed and the parsed text differs from the page (letters check)'
+_ORDER = 'the parsed text order differs from the page around its Inhaltsübersicht (letters check)'
+LETTERS_DIFFER = {
+    '/gesetze/bbgpolg_2013_1/12': _ORDER, '/gesetze/bbgsvvollzg/3': _ORDER, '/gesetze/bbgsvvollzg': _ORDER,
+    '/gesetze/bbgrig/2': _LISTS, '/de/gesetze-213730': _LISTS, '/gesetze/bbguvpg/6': _LISTS, '/gesetze/bbguvpg/7': _LISTS,
+    '/gesetze/bbguvpg': _LISTS, '/de/gesetze-212545': _LISTS,
+}
+
 # Versions whose amending act's Inkrafttreten clause names no calendar day: the day, read by hand, and why.
 OVERRIDES = {
     '/de/gesetze-247329': ('2019-09-25', '"Dieses Gesetz tritt mit dem Beginn der 7. Wahlperiode des Landtages '
@@ -420,6 +431,11 @@ def act_of(doc: str, overrides: dict) -> tuple[dict | None, dict, list[str]]:
             continue  # older Lesefassungen not retrieved yet: the history starts at the oldest one retrieved
         raw = page.read_text(encoding='utf-8', errors='replace')
         units = parse_version(raw, title)
+        if r['link'] in LETTERS_DIFFER:
+            problems.append(f'{title}: version {r["link"]} ({r["desc"]}) left out: {LETTERS_DIFFER[r["link"]]}')
+            if versions:
+                skipped.append(units)
+            continue
         if first:
             # Oldest version available: dated by its amending act's in-force day if known, else its own date.
             pass
@@ -542,11 +558,51 @@ def ready(doc: str) -> bool:
     return cache_path(doc).exists() and cache_path(doc + '?history').exists()
 
 
+def harmonise(written: list[str]) -> None:
+    """One entry per law key across all parts (the builder refuses two). An entry in a part not written in this run
+    wins; otherwise the one that names the GVBl issue and the law ("Gesetz vom ..."), not the act's own
+    "Ursprüngliche Fassung" row."""
+    d = HERE / 'corpus.d'
+    parts = {p.stem: json.loads(p.read_text(encoding='utf-8')) for p in sorted(d.glob('*.json'))}
+    best: dict = {}
+    for name, part in parts.items():
+        for k, lw in part['laws'].items():
+            rank = (name not in written, bool(lw.get('url')), not lw['label'].startswith('Ursprüngliche Fassung'))
+            if k not in best or rank > best[k][0]:
+                best[k] = (rank, lw)
+    # A slug two acts share (a generic abbreviation such as "Staatsvertrag"): each such act in a part written now takes
+    # its BRAVORS document name instead.
+    uses: dict = {}
+    for part in parts.values():
+        for a in part['acts']:
+            uses[a['slug']] = uses.get(a['slug'], 0) + 1
+    for name in written:
+        part = parts[name]
+        changed = False
+        for a in part['acts']:
+            if uses[a['slug']] > 1:
+                a['slug'] = re.sub(r'[^a-z0-9]+', '-', a['url'].rsplit('/', 1)[1].lower()).strip('-')
+                changed = True
+        new = {k: best[k][1] for k in part['laws']}
+        if new != part['laws'] or changed:
+            part['laws'] = new
+            tmp = d / (name + '.json.tmp')
+            tmp.write_text(json.dumps(part, ensure_ascii=False, indent=1) + '\n', encoding='utf-8', newline='\n')
+            tmp.replace(d / (name + '.json'))
+            print(name, 'law entries harmonised')
+
+
 if __name__ == '__main__':
-    # python -X utf8 parse.py [<part> ...]: write only the named parts (a published part is never rewritten).
+    # python -X utf8 parse.py [<part> ...]: write only the named parts (a published part is never rewritten unless
+    # named). --harmonise <part> ...: only make the named parts' law entries agree with the others.
+    if sys.argv[1:2] == ['--harmonise']:
+        harmonise(sys.argv[2:])
+        sys.exit()
     only = set(sys.argv[1:])
+    written = []
     if not only or '10-verfassung' in only:
         write_part('10-verfassung', ['/de/gesetze-212792'], country=True, overrides=OVERRIDES)
+        written.append('10-verfassung')
     lst = HERE / '.cache' / 'gesetze.txt'
     docs = lst.read_text(encoding='utf-8').split() if lst.exists() else []
     for n in range(0, len(docs), PART_SIZE):
@@ -556,3 +612,5 @@ if __name__ == '__main__':
             break
         if not only or name in only:
             write_part(name, chunk, country=False, overrides=OVERRIDES)
+            written.append(name)
+    harmonise(written)

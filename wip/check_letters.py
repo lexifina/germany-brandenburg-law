@@ -22,22 +22,27 @@ def cpath(path):
 
 
 def number_lists(s):
-    """Write out the numbers the browser shows for <ol> items, innermost lists first (tags in either case)."""
-    inner = re.compile(r'(?is)<ol([^>]*)>((?:(?!<ol\b).)*?)</ol>')
+    """Write out the numbers the browser shows for <ol> items, innermost lists first (tags in either case). A <ul>
+    is unnumbered; it is resolved like any inner list, so an outer <ol> never numbers its bullets."""
+    inner = re.compile(r'(?is)<(ol|ul)\b([^>]*)>((?:(?!<[ou]l\b).)*?)</\1>')
     while True:
         m = inner.search(s)
         if not m:
             return s
-        typ = re.search(r'(?i)type="(\w)"', m.group(1))
-        st = re.search(r'(?i)start="(\d+)"', m.group(1))
+        kind, attrs, body = m.group(1).lower(), m.group(2), m.group(3)
+        if kind == 'ul':
+            s = s[:m.start()] + '<xul>' + re.sub(r'(?i)<li\b[^>]*>', '<xli>', body) + '</xul>' + s[m.end():]
+            continue
+        typ = re.search(r'(?i)type="(\w)"', attrs)
+        st = re.search(r'(?i)start="(\d+)"', attrs)
+        alpha = bool(typ and typ.group(1) == 'a') or 'lower-alpha' in attrs.lower()
         n = [int(st.group(1)) if st else 1]
 
         def mark(_):
             x = n[0]
             n[0] += 1
-            alpha = (typ and typ.group(1) == 'a') or 'lower-alpha' in m.group(1).lower()
             return f"<xli> {chr(96 + x) if alpha else x} "
-        s = s[:m.start()] + '<xol>' + re.sub(r'(?i)<li\b[^>]*>', mark, m.group(2)) + '</xol>' + s[m.end():]
+        s = s[:m.start()] + '<xol>' + re.sub(r'(?i)<li\b[^>]*>', mark, body) + '</xol>' + s[m.end():]
 
 
 def source(raw):
