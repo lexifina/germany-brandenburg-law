@@ -17,9 +17,10 @@ to the publisher as "oldest version available".
 | `verfassung/` | Verfassung des Landes Brandenburg vom 20. August 1992 | each Lesefassung since the amendment of 7 April 1999 |
 | other folders | Brandenburg Gesetze, one folder per act (named by its abbreviation) | each Lesefassung BRAVORS holds |
 
-269 of the 445 Gesetze in BRAVORS' list are here, with 552 versions. A version is left out when its date cannot be read
+269 of the 445 Gesetze in BRAVORS' list are here, with 556 versions. A version is left out when its date cannot be read
 from the Gesetz- und Verordnungsblatt without guessing (no issue on BRAVORS, no Inkrafttreten clause, a split or
-conditional clause, or several acts signed the same day), or when its text as parsed differs from the page; an act
+conditional clause, several acts signed the same day, provisions going out of force, or an amending act that takes
+effect before the version above it), or when its text as parsed differs from the page; an act
 with no version left is left out. Each one is listed under "Decisions made by hand" in REPRODUCE.md. Verordnungen and
 Verwaltungsvorschriften are not included yet.
 
@@ -34,7 +35,12 @@ history cites. The sha256 of each page a version was read from is in `data/versi
 
 Each version is dated by the Inkrafttreten clause of the act that made it, applied to the issue date of the Gesetz-
 und Verordnungsblatt: "am Tag nach der Verkündung" is the day after the issue date, a stated day is that day. A
-version whose clause is more complicated is left out and listed in `REPRODUCE.md`. Commits are at noon in Potsdam.
+version whose clause is more complicated is left out and listed in `REPRODUCE.md`. Two Lesefassungen that take
+effect on the same day are two commits on that day, in BRAVORS' order. A Lesefassung that only adds a notice that an
+amending Artikel takes effect later ("Hinweis: ... tritt am ... in Kraft") is not a version of its own; when the next
+Lesefassung holds both that change and a later act's change that takes effect first, the record gets one version on
+each day, the provisions split by the history rows' own lists of what each act changed (BbgVerfSchG: 28 June and
+1 September 2024). Commits are at noon in Potsdam.
 Versions in force only after the retrieval date (30 October 2026) are on the `zukunft` branch.
 
 ## What "author" means

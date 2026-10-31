@@ -1,5 +1,38 @@
 # Brandenburg (germany-brandenburg-law) - private
 
+State 2026-10-31 06:45 UTC (gitlaw-scraper-dell, CLAIMED): BbgVerfSchG fix verified and handed to autopush; Verordnungen
+fetching.
+- BbgVerfSchG: /14 (Art. 9 Gesetz vom 14. Mai 2024, in force 2024-09-01) is an announcement Lesefassung: the /13 text
+  plus "Hinweis: Artikel 9 ... tritt am 1. September 2024 in Kraft". The current Lesefassung holds Art. 9 (§ 25) AND
+  the Gesetz vom 27. Juni 2024 (Inhaltsübersicht, § 14a, § 30; in force 2024-06-28). BRAVORS orders rows by
+  Ausfertigung, not by in-force day. parse.py now: an announcement-only Lesefassung is not a version; the next one is
+  split by the history rows' own provision lists (desc_units) into 2024-06-28 (June act's provisions) and 2024-09-01
+  (full current text, § 25 credited to Art. 9). Final BbgVerfSchG files = the current text the repo held before
+  05:36 (a5cf0f7), all provision files identical.
+- Same family fixed: Lesefassungen taking effect the same day as the version before are kept as "same_day" versions
+  (BbgPolG/23, LBG/23, OBG/23, BbgBKG/6; this also corrects the next version's credits), BbgBeamtVG/15 (announcement
+  only, was dated 2024-09-01 with the pre-change text) removed. Guards: a row recording "außer Kraft" is never dated by
+  an Inkrafttreten clause (BbgSGG/BbgVwGG/BbgFGG current: Art. 4 Satz 2, expiry 31 July 2016 - left out); same-day
+  and split versions need an unstaggered Inkrafttreten Artikel (staggered()). HG 2023/2024 current (retroactive
+  "mit Wirkung vom 1. Januar 2024", enacted 25 July 2024) stays left out, reason reworded.
+- Verified (.tmp/): parse into a staging corpus.d; per-act JSON: 6 acts changed, 264 identical; check_letters 563
+  versions 0 mismatches (composed version checked file by file); local build before/after: check.py 0/0/0, audit [];
+  local "before" build == published main 54237b1 in all 270 act folders; after: 264 act trees identical, 258 commit
+  lists identical (the other 6: multi-act commits whose message named the corrected BbgBKG/BbgVerfSchG/BbgBeamtVG
+  lines; their own files, dates and authors unchanged). 559 -> 563 versions, 569 -> 574 commits.
+- FINDING, not fixed (would change published acts): in_force() reads only the first "Dieses Gesetz tritt ... in Kraft"
+  sentence; when the amending act's Inkrafttreten Artikel staggers parts (e.g. AbgG/7: Art. 2 Nr. 1-4 from 2019-01-01,
+  Nr. 5 retroactive 2014-10-08, published as 2018-03-09) the version can be misdated. .tmp/stagger.py lists 117 dated
+  versions whose amending act has more than one in/außer-Kraft sentence (many harmless: repeal of other acts, or the
+  staggered part is another Artikel). Needs a decision + a verified rebuild.
+- Verordnungen: fetch.py verordnungen (PID 7104, BelowNormal, restarted 05:49 UTC; 13412 stopped by me), 1,250 index
+  entries, each in full in index order, >= 21 s per request (about 1.5 min an act, ~31 h). Parts 30-verordnungen-NN of
+  50 index entries: `PARSE_OUT=<stage>/corpus.d python -X utf8 parse.py 30-verordnungen-NN` (never written unless
+  named; written once every act in it is fully fetched: ready_full via requests.jsonl), check_letters, verify, then
+  copy into corpus.d + .PUBLISH. Verordnungen dated like the Gesetze ("Diese Verordnung tritt ..."; GVBl Teil II).
+
+Earlier state (superseded):
+
 State 2026-10-31 05:37 UTC (gitlaw-scraper-dell): Gesetze PUBLISHED, claim deleted. Fetch 33368 finished pass 1 and
 pass 2 (all 445 Gesetze, older Lesefassungen and their GVBl issues). All nine parts 20-gesetze-01..09 parsed together
 (01-03 rebuilt with the older versions under the verified-rebuild standing yes), check_letters 0 differences, local
