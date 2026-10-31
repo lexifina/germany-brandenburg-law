@@ -370,18 +370,25 @@ SEGMENT: dict = {}  # (GVBl issue, Ausfertigung day) -> the amending act's text 
 
 
 def staggered(pdf: str | None, enacted: str) -> str | None:
-    """A sentence of the amending act, besides its "Dieses Gesetz tritt ... in Kraft", that puts parts of it in or out
-    of force on another day ("Artikel 2 Nummer 5 tritt mit Wirkung vom ... in Kraft", "... treten am 31. Juli 2016
-    außer Kraft"). Then which day a given Lesefassung's change took effect is not read from one clause."""
+    """A sentence of the amending act's Inkrafttreten Artikel (or Paragraph), besides its "Dieses Gesetz tritt ... in
+    Kraft", that puts parts of the act in or out of force on another day ("Artikel 2 Nummer 5 tritt mit Wirkung vom ...
+    in Kraft", "Artikel 1 Nummer 2 ... treten am 31. Juli 2016 außer Kraft"). Then which day a given Lesefassung's
+    change took effect is not read from one clause. Sentences that repeal other acts ("tritt das ... außer Kraft")
+    do not count."""
     seg = SEGMENT.get((str(cache_path(pdf)) if pdf else '', enacted))
     if seg is None:
         return 'the amending act\'s text was not read'
-    for m in re.finditer(r'(?:tritt|treten)\b(?:(?!(?:tritt|treten)\b).){0,260}?\b(?:in|außer) Kraft', seg):
-        ctx = seg[max(0, m.start() - 120):m.end()]
-        if re.match(r'(?:tritt|treten) (?:am|mit)', m.group(0)) and re.search(r'(Artikel|Art\.|§|Nummer|Absatz|Satz)\s*\d', ctx[:125]) \
-                or 'außer Kraft' in m.group(0) and not re.search(r'(?:tritt|treten) (?:das|die|der) ', m.group(0)):
-            if not re.search(r'Dieses Gesetz (?:tritt|treten)', ctx[-len(m.group(0)) - 20:]):
-                return ctx.strip()[-260:]
+    heads = list(re.finditer(r'(?:Artikel|§)\s*\d+\w*\s+(?:Inkrafttreten|Außerkrafttreten)', seg))
+    gen = list(re.finditer(r'Dieses Gesetz tritt', seg))
+    if not heads and not gen:
+        return 'no Inkrafttreten provision found'
+    start = heads[-1].start() if heads else gen[-1].start()
+    art = seg[start:]
+    for m in re.finditer(r'(?:tritt|treten)\b(?:(?!(?:tritt|treten)\b).){0,260}?\b(?:in|außer) Kraft', art):
+        before = art[max(0, m.start() - 20):m.start()]
+        if 'Dieses Gesetz' in before or re.match(r'(?:tritt|treten) (?:das|die|der|gleichzeitig das|gleichzeitig die) ', m.group(0)):
+            continue
+        return art[max(0, m.start() - 160):m.end()].strip()
     return None
 
 
