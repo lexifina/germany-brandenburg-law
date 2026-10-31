@@ -1,5 +1,21 @@
 # Brandenburg (germany-brandenburg-law) - private
 
+State 2026-10-31 05:37 UTC (gitlaw-scraper-dell): Gesetze PUBLISHED, claim deleted. Fetch 33368 finished pass 1 and
+pass 2 (all 445 Gesetze, older Lesefassungen and their GVBl issues). All nine parts 20-gesetze-01..09 parsed together
+(01-03 rebuilt with the older versions under the verified-rebuild standing yes), check_letters 0 differences, local
+build 270 acts / 559 versions (269 Gesetze, 552 versions + Verfassung 7), check.py 0/0/0, audit_push [] -> main
+54237b1 (verified rebuild a5cf0f7 -> 54237b1, old tip archived, 789 tags). Verfassung part kept as published.
+Changes 2026-10-31: check_letters.py numbers <ol> inside-out with <ul> bullets resolved first (an outer <ol type=a>
+had numbered nested bullets: 8 false mismatches); parse.py LETTERS_DIFFER leaves out 9 versions whose parsed text
+differs from the page (malformed nested <ol start> lists: bbgrig/2, bbguvpg 213730,/6,/7,current, Haushaltsgesetz
+212545; text order at the Inhaltsübersicht: bbgpolg_2013_1/12, bbgsvvollzg/3 and current); harmonise() gives one law
+entry per key across parts and renames shared slugs ("staatsvertrag" x3 -> BRAVORS document names).
+Known: BbgVerfSchG's current Lesefassung (in force 2024-06-28) is not after /14 (2024-09-01) and is left out, so that
+act ends at the 2024-09-01 version. README updated (269 of 445; left-out rules).
+Next (not claimed): Verordnungen.
+
+Earlier state (superseded):
+
 State 2026-10-30 (gitlaw-scraper-dell):
 - Source BRAVORS (bravors.brandenburg.de), robots Crawl-delay 20 -> fetch.py keeps >= 21 s between requests.
 - Fetch PID 33368: `python -X utf8 fetch.py gesetze > fetch-gesetze.log` (started 10:36 UTC, cache .cache/pages).
