@@ -1,2 +1,3 @@
 2026-10-31T14:19:34Z letters check: 37 versions added to letters-differ.json
 2026-10-31T14:24:24Z letters check: 2 versions added to letters-differ.json
+2026-10-31T14:29:59Z STOPPED: verify not clean: {"stage": "build", "error": "corpus.json has problems:\n  act slug 'mdf-2015' must be unique lowercase ASCII and not data/tools\n"}
