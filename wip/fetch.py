@@ -143,8 +143,14 @@ def history_links(path: str) -> list[tuple[str, str | None]]:
     for r in re.findall(r'(?s)<tr>(.*?)</tr>', s):
         link = re.search(r'href="(/(?:de/verordnungen-\d+|verordnungen/[^"?#]+))"', r)
         pdf = re.search(r'href="(/fm/[^"]+\.pdf)"', r)
-        if link or pdf:
-            out.append((link.group(1) if link else None, pdf.group(1) if pdf else None))
+        fund = re.search(r'GVBl\.(I|II)/(\d{2}), \[Nr\. (\d+)\]', re.sub(r'<[^>]+>', '', r))
+        pdf_path = pdf.group(1) if pdf else None
+        if not pdf and fund:  # the issue named but not linked: its usual path on BRAVORS
+            y = int(fund.group(2))
+            y += 1900 if y > 50 else 2000
+            pdf_path = f'/fm/76/GVBl_{fund.group(1)}_{int(fund.group(3)):02d}_{y}.pdf'
+        if link or pdf_path:
+            out.append((link.group(1) if link else None, pdf_path))
     return out
 
 
