@@ -17,7 +17,11 @@ to the publisher as "oldest version available".
 | `verfassung/` | Verfassung des Landes Brandenburg vom 20. August 1992 | each Lesefassung since the amendment of 7 April 1999 |
 | other folders | Brandenburg Gesetze, one folder per act (named by its abbreviation) | each Lesefassung BRAVORS holds |
 
-Verordnungen and Verwaltungsvorschriften are not included yet.
+269 of the 445 Gesetze in BRAVORS' list are here, with 552 versions. A version is left out when its date cannot be read
+from the Gesetz- und Verordnungsblatt without guessing (no issue on BRAVORS, no Inkrafttreten clause, a split or
+conditional clause, or several acts signed the same day), or when its text as parsed differs from the page; an act
+with no version left is left out. Each one is listed under "Decisions made by hand" in REPRODUCE.md. Verordnungen and
+Verwaltungsvorschriften are not included yet.
 
 ## Source
 
