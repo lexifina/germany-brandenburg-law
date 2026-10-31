@@ -119,12 +119,61 @@ def run_gesetze():
         print('pass2', i, a, flush=True)
 
 
+def verordnungen() -> list[str]:
+    """Act pages of the Verordnungen on the subject index (not amending Verordnungen alone), in index order."""
+    import html as h
+    out = []
+    for n in range(1, 10):
+        f = cache_path(SACH + str(n))
+        if not f.exists():
+            continue
+        s = f.read_text(encoding='utf-8', errors='replace')
+        for href, t in re.findall(r'<a[^>]*href="(/(?:de/verordnungen-\d+|verordnungen/[^"]+))"[^>]*>(.*?)</a>', s, re.S):
+            t = h.unescape(re.sub('<[^>]+>', '', t)).strip()
+            if re.search(r'(?i)verordnung', t) and href not in out:
+                out.append(href)
+    return out
+
+
+def history_links(path: str) -> list[tuple[str, str | None]]:
+    """(Lesefassung page, GVBl pdf) of every history row of a Verordnung (Teil II issues), oldest first."""
+    f = cache_path(path + '?history')
+    s = re.sub(r'(?s)<!--.*?-->', '', f.read_text(encoding='utf-8', errors='replace'))
+    out = []
+    for r in re.findall(r'(?s)<tr>(.*?)</tr>', s):
+        link = re.search(r'href="(/(?:de/verordnungen-\d+|verordnungen/[^"?#]+))"', r)
+        pdf = re.search(r'href="(/fm/[^"]+\.pdf)"', r)
+        if link or pdf:
+            out.append((link.group(1) if link else None, pdf.group(1) if pdf else None))
+    return out
+
+
+def run_verordnungen(start: int = 0):
+    """Each Verordnung in full, in index order: its page, history, and every Lesefassung with its GVBl issue."""
+    acts = verordnungen()
+    (CACHE / 'verordnungen.txt').write_text('\n'.join(acts) + '\n', encoding='utf-8')
+    print(len(acts), 'Verordnungen', flush=True)
+    for i, a in enumerate(acts[start:], start=start):
+        if get(a) is None or get(a + '?history') is None:
+            print('missing', i, a, flush=True)
+            continue
+        rows = history_links(a)
+        for link, pdf in reversed(rows):
+            if link and link != a:
+                get(link)
+            if pdf:
+                get(pdf)
+        print('done', i, a, len(rows), flush=True)
+
+
 if __name__ == '__main__':
     if sys.argv[1] == 'get':
         for x in sys.argv[2:]:
             print(x, get(x), flush=True)
     elif sys.argv[1] == 'gesetze':
         run_gesetze()
+    elif sys.argv[1] == 'verordnungen':
+        run_verordnungen(int(sys.argv[2]) if sys.argv[2:] else 0)
     elif sys.argv[1] == 'list':  # paths one per line from a file
         for x in Path(sys.argv[2]).read_text(encoding='utf-8').split():
             print(x, get(x), flush=True)
