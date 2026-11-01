@@ -42,6 +42,11 @@ fetching.
   Verordnungen slugs: an abbreviation needs 2+ capitals or a digit ("(Land)" is not one), else the document name.
 - 08:45 UTC: main 10a55ad (docs-only rebuild of 593068f after the README edit: same parent d54674d; old tip archived).
   Verordnungen: fetch at entry ~70 of 1,250; driver waiting for 5 complete parts (first batch expected ~13:00 UTC).
+- 2026-11-01: driver restarted (now PID 47236; batches of 2-4; a fresh vo-stage-<time> each pass; read-only-safe
+  rmtree; parses only the next batch). Slug fix in harmonise(): a renamed act whose document name is taken too gets the
+  BRAVORS path with its kind (verordnungen-mdf-2015; the Gesetz keeps mdf-2015). Published 30-verordnungen-01..04
+  (main 36b0d41) and 05..08 (main 7e5bb6e, 551 acts / 1,142 versions in all). letters-differ.json: 47 versions. Fetch
+  7104 alive (~1,020 of 1,250).
 
 Earlier state (superseded):
 
