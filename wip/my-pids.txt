@@ -7,3 +7,4 @@
 45548 laender_vo_driver.py (Verordnungen part driver, both Laender) started 2026-10-31T07:13:34Z (gitlaw-scraper-dell, BelowNormal)
 16920 laender_vo_driver.py restarted 2026-11-01T09:04:36Z (gitlaw-scraper-dell, BelowNormal; slug fix, fresh stage dirs, batches 2-4)
 6536 laender_vo_driver.py restarted 2026-11-01T09:35:10Z (gitlaw-scraper-dell, BelowNormal; 16920 stopped by me: parse next batch only)
+47236 laender_vo_driver.py restarted 2026-11-01T10:12:58Z (gitlaw-scraper-dell, BelowNormal; 6536 stopped by me: autopush refusal now waits instead of stopping)
