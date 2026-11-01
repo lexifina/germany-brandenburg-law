@@ -2,11 +2,53 @@
  "fetch": "running",
  "total_parts": 25,
  "published": 0,
- "at": "2026-10-31T14:29:59Z",
+ "at": "2026-11-01T09:41:08Z",
  "history": [
   {
    "stopped": "verify not clean: {\"stage\": \"build\", \"error\": \"corpus.json has problems:\\n  act slug 'mdf-2015' must be unique lowercase ASCII and not data/tools\\n\"}",
    "cleared": "2026-11-01 by gitlaw-scraper-dell after fixes"
   }
- ]
+ ],
+ "parts": {
+  "30-verordnungen-01": {
+   "acts": 34,
+   "versions": 62,
+   "left_out": 42
+  },
+  "30-verordnungen-02": {
+   "acts": 30,
+   "versions": 64,
+   "left_out": 54
+  },
+  "30-verordnungen-03": {
+   "acts": 29,
+   "versions": 54,
+   "left_out": 67
+  },
+  "30-verordnungen-04": {
+   "acts": 39,
+   "versions": 65,
+   "left_out": 47
+  }
+ },
+ "last_batch": {
+  "at": "2026-11-01T09:41:08Z",
+  "parts": [
+   "30-verordnungen-01",
+   "30-verordnungen-02",
+   "30-verordnungen-03",
+   "30-verordnungen-04"
+  ],
+  "check": {
+   "acts": 402,
+   "versions": 808,
+   "mismatches": 0,
+   "trailer_errors": 0,
+   "missing_in_force": 0,
+   "merges": 0,
+   "backwards": 0,
+   "future_dated": 0,
+   "corpus_sha256": "772e74078a068e8d7988fdcea088aa46b8bb28df2869748c20388903a9b0bf53"
+  }
+ }
 }
