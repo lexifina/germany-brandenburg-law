@@ -1,8 +1,8 @@
 {
  "fetch": "running",
  "total_parts": 25,
- "published": 12,
- "at": "2026-11-01T10:45:03Z",
+ "published": 16,
+ "at": "2026-11-01T10:54:45Z",
  "history": [
   {
    "stopped": "verify not clean: {\"stage\": \"build\", \"error\": \"corpus.json has problems:\\n  act slug 'mdf-2015' must be unique lowercase ASCII and not data/tools\\n\"}",
@@ -89,26 +89,46 @@
    "acts": 34,
    "versions": 48,
    "left_out": 55
+  },
+  "30-verordnungen-17": {
+   "acts": 35,
+   "versions": 49,
+   "left_out": 40
+  },
+  "30-verordnungen-18": {
+   "acts": 48,
+   "versions": 84,
+   "left_out": 5
+  },
+  "30-verordnungen-19": {
+   "acts": 29,
+   "versions": 48,
+   "left_out": 60
+  },
+  "30-verordnungen-20": {
+   "acts": 23,
+   "versions": 25,
+   "left_out": 61
   }
  },
  "last_batch": {
-  "at": "2026-11-01T10:45:03Z",
+  "at": "2026-11-01T10:54:45Z",
   "parts": [
-   "30-verordnungen-13",
-   "30-verordnungen-14",
-   "30-verordnungen-15",
-   "30-verordnungen-16"
+   "30-verordnungen-17",
+   "30-verordnungen-18",
+   "30-verordnungen-19",
+   "30-verordnungen-20"
   ],
   "check": {
-   "acts": 825,
-   "versions": 1531,
+   "acts": 960,
+   "versions": 1737,
    "mismatches": 0,
    "trailer_errors": 0,
    "missing_in_force": 0,
    "merges": 0,
    "backwards": 0,
    "future_dated": 0,
-   "corpus_sha256": "2e55c55f05071c074a5f8f0095d4ee90dfa89d8e04713c7f89592b5906323b5c"
+   "corpus_sha256": "d8971a85fde835c6a9594b9d5a6f1ea12ead6e43ab331e8b93d716f5154c48f5"
   }
  }
 }
