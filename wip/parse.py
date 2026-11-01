@@ -808,6 +808,11 @@ def harmonise(written: list[str]) -> None:
         for a in part['acts']:
             if uses[a['slug']] > 1:
                 a['slug'] = re.sub(r'[^a-z0-9]+', '-', a['url'].rsplit('/', 1)[1].lower()).strip('-')
+                if uses.get(a['slug']):
+                    # The document name is taken too (a Gesetz and a Verordnung both "mdf_2015"): the BRAVORS path
+                    # with its kind, "verordnungen-mdf-2015".
+                    a['slug'] = re.sub(r'[^a-z0-9]+', '-', a['url'].split('brandenburg.de/', 1)[1].lower()).strip('-')
+                uses[a['slug']] = uses.get(a['slug'], 0) + 1
                 changed = True
         new = {k: best[k][1] for k in part['laws']}
         if new != part['laws'] or changed:
