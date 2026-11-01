@@ -1,8 +1,8 @@
 {
  "fetch": "running",
  "total_parts": 25,
- "published": 20,
- "at": "2026-11-01T10:56:27Z",
+ "published": 22,
+ "at": "2026-11-01T11:11:16Z",
  "history": [
   {
    "stopped": "verify not clean: {\"stage\": \"build\", \"error\": \"corpus.json has problems:\\n  act slug 'mdf-2015' must be unique lowercase ASCII and not data/tools\\n\"}",
@@ -109,27 +109,35 @@
    "acts": 23,
    "versions": 25,
    "left_out": 61
+  },
+  "30-verordnungen-21": {
+   "acts": 41,
+   "versions": 101,
+   "left_out": 45
+  },
+  "30-verordnungen-22": {
+   "acts": 29,
+   "versions": 36,
+   "left_out": 25
   }
  },
  "last_batch": {
-  "at": "2026-11-01T10:54:45Z",
+  "at": "2026-11-01T11:11:13Z",
   "parts": [
-   "30-verordnungen-17",
-   "30-verordnungen-18",
-   "30-verordnungen-19",
-   "30-verordnungen-20"
+   "30-verordnungen-21",
+   "30-verordnungen-22"
   ],
   "check": {
-   "acts": 960,
-   "versions": 1737,
+   "acts": 1030,
+   "versions": 1874,
    "mismatches": 0,
    "trailer_errors": 0,
    "missing_in_force": 0,
    "merges": 0,
    "backwards": 0,
    "future_dated": 0,
-   "corpus_sha256": "d8971a85fde835c6a9594b9d5a6f1ea12ead6e43ab331e8b93d716f5154c48f5"
+   "corpus_sha256": "b54bf6054823df9bd5813ab071d2c0e8350681ca3855ad5c046d6093f0cf9cb1"
   }
  },
- "waiting": "1 new parts ready; batch needs 2"
+ "waiting": "0 new parts ready; batch needs 2"
 }
