@@ -2,7 +2,7 @@
  "fetch": "finished",
  "total_parts": 25,
  "published": 25,
- "at": "2026-11-02T05:09:35Z",
+ "at": "2026-11-02T05:19:35Z",
  "history": [
   {
    "stopped": "verify not clean: {\"stage\": \"build\", \"error\": \"corpus.json has problems:\\n  act slug 'mdf-2015' must be unique lowercase ASCII and not data/tools\\n\"}",
