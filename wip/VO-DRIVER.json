@@ -2,7 +2,7 @@
  "fetch": "finished",
  "total_parts": 25,
  "published": 25,
- "at": "2026-11-02T22:19:51Z",
+ "at": "2026-11-02T22:29:51Z",
  "history": [
   {
    "stopped": "verify not clean: {\"stage\": \"build\", \"error\": \"corpus.json has problems:\\n  act slug 'mdf-2015' must be unique lowercase ASCII and not data/tools\\n\"}",
@@ -153,6 +153,5 @@
    "corpus_sha256": "1d531f4d06a7a257bf603f7296f7aedbdce6e53b764d23d14506691f4a2286a7"
   }
  },
- "done": "2026-11-01T15:19:16Z",
- "autopush_refused": "unchanged since 2026-11-01T15:20:57Z (NOT pushed: needs a rewrite the user has not approved (main 04cb8d196->de7fc0ec4, replaces 1889); recorded in world-law/REWRITE-PENDING.json de7fc0ec)"
+ "done": "2026-11-01T15:19:16Z"
 }
