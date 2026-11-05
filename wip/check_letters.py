@@ -6,7 +6,7 @@ Private. The text of the reading-version box (from "reiterbox_innen_text" to "na
 reduced to letters and digits, must equal the version's files (the title line of 000-eingang left out) placed one
 after another in source order.
 """
-import hashlib, html, json, re, sys
+import hashlib, html, json, os, re, sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
@@ -24,7 +24,8 @@ def ld(s):
 
 def cpath(path):
     name = re.sub(r'[^A-Za-z0-9._-]+', '_', path.strip('/')) or 'root'
-    return HERE / '.cache' / 'pages' / (name[:150] + '.html')
+    base = Path(os.environ['BRAVORS_SOURCE_CACHE']) if 'BRAVORS_SOURCE_CACHE' in os.environ else HERE / '.cache' / 'pages'
+    return base / (name[:150] + '.html')
 
 
 def number_lists(s):
