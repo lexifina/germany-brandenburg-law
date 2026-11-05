@@ -6,10 +6,16 @@ Private. The text of the reading-version box (from "reiterbox_innen_text" to "na
 reduced to letters and digits, must equal the version's files (the title line of 000-eingang left out) placed one
 after another in source order.
 """
-import html, json, re, sys
+import hashlib, html, json, os, re, sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
+# This one BRAVORS page embeds 30 invisible popup controls between provisions. The first published version of
+# BbgWoFG excludes them. Keep every other page's historical comparison byte-for-byte as before.
+BBGWOFG_SOURCE_SHA256 = '7fe9ab501304bc1d6c0ba5b4e7007d41f99c8fc70920168bd97990a413320b6b'
+HIDDEN_BBGWOFG_NAV = re.compile(
+    r'<p class="einzelnorm" style="visibility: hidden;"><a href="/de/norm_detail-\d+"[^>]*>Einzelnorm</a></p>'
+)
 
 
 def ld(s):
@@ -18,7 +24,8 @@ def ld(s):
 
 def cpath(path):
     name = re.sub(r'[^A-Za-z0-9._-]+', '_', path.strip('/')) or 'root'
-    return HERE / '.cache' / 'pages' / (name[:150] + '.html')
+    base = Path(os.environ['BRAVORS_SOURCE_CACHE']) if 'BRAVORS_SOURCE_CACHE' in os.environ else HERE / '.cache' / 'pages'
+    return base / (name[:150] + '.html')
 
 
 def number_lists(s):
@@ -45,12 +52,16 @@ def number_lists(s):
         s = s[:m.start()] + '<xol>' + re.sub(r'(?i)<li\b[^>]*>', mark, body) + '</xol>' + s[m.end():]
 
 
-def source(raw):
+def source(raw, *, exclude_bbgwofg_navigation=False):
     i = raw.index('class="reiterbox_innen_text"')
     j = raw.index('id="nachoben"', i)
     s = raw[raw.index('>', i) + 1:raw.rindex('<', i, j)]
     s = re.sub(r'(?s)<!--.*?-->', '', s)
     s = re.sub(r'(?s)<script.*?</script>', '', s)
+    if exclude_bbgwofg_navigation:
+        s, removed = HIDDEN_BBGWOFG_NAV.subn('', s)
+        if removed != 30:
+            raise ValueError(f'BbgWoFG source navigation changed: expected 30 hidden controls, got {removed}')
     s = number_lists(s)
     return ld(html.unescape(re.sub(r'<[^>]+>', ' ', s)).replace('­', ''))
 
@@ -74,7 +85,12 @@ def main(paths):
                         bad += 1
                         print(f'MISMATCH {a["slug"]} {v["from"]}: composed version, files neither before nor after: {odd[:4]}')
                     continue
-                src = source(cpath(v['source_url'].split('brandenburg.de', 1)[1]).read_text(encoding='utf-8', errors='replace'))
+                page = cpath(v['source_url'].split('brandenburg.de', 1)[1]).read_bytes()
+                is_bbgwofg = a['slug'] == 'bbgwofg'
+                if is_bbgwofg and (v['sha256'] != BBGWOFG_SOURCE_SHA256 or
+                                   hashlib.sha256(page).hexdigest() != BBGWOFG_SOURCE_SHA256):
+                    raise ValueError('BbgWoFG source bytes changed; inspect before excluding hidden navigation')
+                src = source(page.decode('utf-8', errors='replace'), exclude_bbgwofg_navigation=is_bbgwofg)
                 rest = {}
                 for k, u in v['units'].items():
                     t = u['text'].split('\n', 1)[1] if k == '000-eingang' else u['text']
