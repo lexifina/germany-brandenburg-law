@@ -21234,6 +21234,20 @@
      "sha256": "96d1f449fff0a7d41c6e723052276b033d7b6f69b9d25f8506098224c4fdc8f7"
     }
    ]
+  },
+  {
+   "slug": "bbgwofg",
+   "short": "BbgWoFG",
+   "title": "Gesetz über die soziale Wohnraumförderung im Land Brandenburg (Brandenburgisches Wohnraumförderungsgesetz - BbgWoFG)",
+   "url": "https://bravors.brandenburg.de/gesetze/bbgwofg",
+   "versions": [
+    {
+     "from": "2019-10-01",
+     "units": 32,
+     "source_url": "https://bravors.brandenburg.de/gesetze/bbgwofg",
+     "sha256": "7fe9ab501304bc1d6c0ba5b4e7007d41f99c8fc70920168bd97990a413320b6b"
+    }
+   ]
   }
  ]
 }

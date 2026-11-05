@@ -76,6 +76,7 @@ This file is written by the build on 2026-11-05, the day the source data was ret
 | Gesetz- und Verordnungsblatt für das Land Brandenburg Teil I and Teil II (PDF issues on BRAVORS) | <https://bravors.brandenburg.de/de/veroeffentlichungsblaetter_einfache_suche> | 2026-10-30 | § 5 Abs. 1 UrhG. |
 | BRAVORS - Brandenburgisches Vorschriftensystem (Landesregierung Brandenburg): current text, Änderungshistorie and the Lesefassung of each historical version | <https://bravors.brandenburg.de> | 2026-10-30 | § 5 Abs. 1 UrhG: Gesetze, Verordnungen and amtliche Erlasse enjoy no copyright protection. BRAVORS states no terms restricting reuse. |
 | Gesetz- und Verordnungsblatt für das Land Brandenburg Teil I and Teil II (PDF issues on BRAVORS) | <https://bravors.brandenburg.de/de/veroeffentlichungsblaetter_einfache_suche> | 2026-10-30 | § 5 Abs. 1 UrhG. |
+| BRAVORS current text, history, and GVBl. I 2019 Nr. 17 | <https://bravors.brandenburg.de/gesetze/bbgwofg> | 2026-11-05 | § 5 Abs. 1 UrhG; official laws have no copyright protection. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -1205,12 +1206,13 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `bbgwofegv` | Verordnung über die Einkommensgrenzen bei der sozialen Wohnraumförderung im Land Brandenburg (Wohnraumförderungseinkommensgrenzenverordnung - BbgWoFEGV) | 2 | 2019-10-01 to 2023-08-25 |
 | `mietbegrenzv` | Verordnung zur Bestimmung der Gebiete mit Mietpreisbegrenzung gemäß § 556d Absatz 2 des Bürgerlichen Gesetzbuchs (Mietpreisbegrenzungsverordnung - MietbegrenzV) | 1 | 2026-01-01 to 2026-01-01 |
 | `bbgmietspzv` | Verordnung zur Bestimmung der für die Erstellung und Anerkennung von Mietspiegeln im Land Brandenburg nach Landesrecht zuständigen Behörden (Brandenburgische Mietspiegelzuständigkeitsverordnung - BbgMietspZV) | 1 | 2022-09-03 to 2022-09-03 |
+| `bbgwofg` | Gesetz über die soziale Wohnraumförderung im Land Brandenburg (Brandenburgisches Wohnraumförderungsgesetz - BbgWoFG) | 1 | 2019-10-01 to 2019-10-01 |
 
-The build made 1990 commits:
+The build made 1991 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1122 | first version of an act |
+| 1123 | first version of an act |
 | 717 | one law on its in-force day |
 | 151 | changes no amendment note explains, credited to the publisher |
 
@@ -1218,7 +1220,7 @@ Other counts:
 - 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2407 laws in the record.
-- 2754 tags.
+- 2755 tags.
 
 ## Dates
 
@@ -1230,15 +1232,15 @@ When a law gives no date of its own, the default rule applies: Verfassung des La
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `1d531f4d06a7a257bf603f7296f7aedbdce6e53b764d23d14506691f4a2286a7` (59488955 bytes).
+- Corpus: sha256 `e0a5254515bc1c49a585c8278f50d4dc801902afef7e950a959eca90910fd9fc` (59536607 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-2043 versions of 1122 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
-A second build gave different hashes; see verification.json.
+A second build from the same corpus into an empty folder gave identical hashes for all 1991 history commits and 2753 tags (history tip `6dcb7fbe59c9271a4f38359a04b1922e765d5eef`).
 
 ## Decisions made by hand
 
@@ -3091,6 +3093,11 @@ A second build gave different hashes; see verification.json.
 - Left out: Vierte Verordnung zur Bestimmung von Gebieten mit erhöhtem Wohnungsbedarf (4. GmeWbV): version /verordnungen/4_gmewbv_2006 (Ursprüngliche Fassung vom 28. Dezember 2000) left out: no issue date
 - Left out: Verordnung über die zuständigen Stellen auf dem Gebiet des Wohnungswesens (Wohnungswesenzuständigkeitsverordnung - WoweZV): version /de/verordnungen-212095 (Ursprüngliche Fassung vom 15. März 2002) left out: 0 acts signed on 2002-03-15 in the issue
 - Left out: Verordnung über Zuständigkeiten im Kleingartenrecht: version /de/verordnungen-212097 (Ursprüngliche Fassung vom 3. April 1993) left out: GVBl issue not retrieved
+- BbgWoFG has one Lesefassung in the official history: Ursprüngliche Fassung vom 5. Juni 2019, GVBl.I/19 [Nr. 17].
+- In-force basis: the gazette is dated 5 June 2019; § 30 states "Dieses Gesetz tritt am ersten Tag des vierten auf die Verkündung folgenden Kalendermonats in Kraft." The fourth following month is October 2019.
+- Section 30 makes § 4 Absatz 3 and § 22 Absatz 5 effective on the day after publication; the single whole-act current version is dated when all provisions are in force, 1 October 2019.
+- The text is parsed directly from the official BRAVORS current-text page; no model supplied or corrected legal text.
+- Thirty hidden BRAVORS Einzelnorm popup links were excluded from the HTML before legal text extraction; they are navigation controls, not visible law text.
 
 ## What AI did and did not do
 
@@ -3136,3 +3143,4 @@ Model use at data-build time:
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: words come from BRAVORS, dates from the Gesetz- und Verordnungsblatt, credits from BRAVORS' history.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: words come from BRAVORS, dates from the Gesetz- und Verordnungsblatt, credits from BRAVORS' history.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text, dates or credits: words come from BRAVORS, dates from the Gesetz- und Verordnungsblatt, credits from BRAVORS' history.
+- A model selected the candidate, read the date clause, and wrote this staging script; legal text comes unchanged from the official HTML through the existing parser.

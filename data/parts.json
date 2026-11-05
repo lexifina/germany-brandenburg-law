@@ -1296,6 +1296,12 @@
     "verordnungen-212961"
    ],
    "sha256": "9e8b962f40edb2165e7a54096c9f6eed56a4221b351153c05659a90669ac5b1c"
+  },
+  "40-verify-490.json": {
+   "acts": [
+    "bbgwofg"
+   ],
+   "sha256": "73c927b3511e25da93bfc180c6d6c971d9af02611907ef3bc85cb02c3950e0a4"
   }
  },
  "schema": 1
