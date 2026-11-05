@@ -1,6 +1,6 @@
 # How this repository was made (Brandenburg)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-05, the day the source data was retrieved.
 
 ## Sources
 
@@ -1215,10 +1215,10 @@ The build made 1990 commits:
 | 151 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
+- 0 commits on the branch `zukunft`: laws not yet in force on 2026-11-05.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 2407 laws in the record.
-- 2752 tags.
+- 2754 tags.
 
 ## Dates
 
@@ -1231,14 +1231,14 @@ When a law gives no date of its own, the default rule applies: Verfassung des La
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
 - Corpus: sha256 `1d531f4d06a7a257bf603f7296f7aedbdce6e53b764d23d14506691f4a2286a7` (59488955 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `900da0d33bfd1ef455267fb4dcef7961fd5acc9c`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
 2043 versions of 1122 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
 
-No second build of this corpus has been compared yet.
+A second build gave different hashes; see verification.json.
 
 ## Decisions made by hand
 
