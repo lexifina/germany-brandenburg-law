@@ -1,5 +1,7 @@
 # Brandenburg: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Brandenburg, Germany, which global-law reads at `germany/brandenburg/acts/`.
+
 The law of the Land Brandenburg as a git history: one file per Artikel or Paragraph, one paragraph per line, one commit per amending act on the day it came into force. `git blame` names the act behind each change; `git log` lists every change; picking a date gives the text in force that day. The text is German.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
