@@ -1,0 +1,38 @@
+{
+ "generated": "2026-11-23T21:16:22Z",
+ "latest": {
+  "bravors|germany/brandenburg/acts": {
+   "attempt": 1,
+   "audit": null,
+   "census": {},
+   "check_id": "de-bravors-20261123T211258Z",
+   "commits": null,
+   "corpus": "germany/brandenburg/acts",
+   "error": "SourceError: https://bravors.brandenburg.de/de/vorschriften_fundstellennachweis_gesetzte_und_verordnungen_sachgebietlich/sachgebiet/5: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection fa",
+   "finished": "2026-11-23T21:16:20Z",
+   "flags": [],
+   "gap": 0,
+   "note": null,
+   "outcome": "source-error",
+   "published": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 8,
+   "runner": "lawwatch germany (725dd60068)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": null,
+   "source": "bravors",
+   "started": "2026-11-23T21:12:58Z",
+   "unexplained": 0,
+   "verify": null
+  }
+ },
+ "schema": "lexifina-check/1"
+}

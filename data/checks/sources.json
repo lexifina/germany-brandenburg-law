@@ -1,0 +1,26 @@
+{
+ "sources": [
+  {
+   "id": "bravors",
+   "kind": "legislation",
+   "name": {
+    "en": "BRAVORS (Brandenburg state government)",
+    "de": "BRAVORS (Landesregierung Brandenburg)"
+   },
+   "url": "https://bravors.brandenburg.de",
+   "reads": {
+    "en": "the subject index of the Gesetze and Verordnungen, and the history page of a thirtieth of the held acts a day (robots.txt asks for 20 s between requests)",
+    "de": "den sachgebietlichen Fundstellennachweis der Gesetze und Verordnungen und täglich die Änderungshistorie eines Dreißigstels der Vorschriften hier (robots.txt verlangt 20 s zwischen Anfragen)"
+   },
+   "folders": [
+    "<act>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "germany/brandenburg/acts"
+   ],
+   "interval": 20.0
+  }
+ ]
+}
