@@ -1,26 +1,36 @@
 {
- "generated": "2026-11-23T21:16:22Z",
+ "generated": "2026-11-24T00:20:10Z",
  "latest": {
   "bravors|germany/brandenburg/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
-   "census": {},
-   "check_id": "de-bravors-20261123T211258Z",
+   "census": {
+    "checked": 58,
+    "current": 1123,
+    "gone": 0,
+    "held": 1123,
+    "newest_at_source": null,
+    "newest_in_repo": "ustbeschzustv",
+    "pending": 0,
+    "repo": 1122,
+    "source_in_scope": 1695
+   },
+   "check_id": "de-bravors-20261123T234959Z",
    "commits": null,
    "corpus": "germany/brandenburg/acts",
-   "error": "SourceError: https://bravors.brandenburg.de/de/vorschriften_fundstellennachweis_gesetzte_und_verordnungen_sachgebietlich/sachgebiet/5: <urlopen error [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection fa",
-   "finished": "2026-11-23T21:16:20Z",
+   "error": null,
+   "finished": "2026-11-24T00:12:01Z",
    "flags": [],
-   "gap": 0,
-   "note": null,
-   "outcome": "source-error",
+   "gap": 573,
+   "note": "BRAVORS (robots.txt Crawl-delay 20: one request every 20 s): the subject index of Gesetze and Verordnungen, and the history page of a thirtieth of the held acts a day (58 read; each act within 30 days); a history row the repository does not hold and the builder did not leave out (REPRODUCE.md, 1684 versions) is a new version; first check: the list was recorded as the baseline for the next check",
+   "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 8,
-   "runner": "lawwatch germany (725dd60068)",
+   "requests": 67,
+   "runner": "lawwatch germany (22a9910bc1)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
@@ -29,7 +39,7 @@
    },
    "snapshot": null,
    "source": "bravors",
-   "started": "2026-11-23T21:12:58Z",
+   "started": "2026-11-23T23:49:59Z",
    "unexplained": 0,
    "verify": null
   }
