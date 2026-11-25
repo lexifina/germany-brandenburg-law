@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T00:20:10Z",
+ "generated": "2026-11-25T07:45:26Z",
  "latest": {
   "bravors|germany/brandenburg/acts": {
-   "attempt": 2,
+   "attempt": 1,
    "audit": null,
    "census": {
     "checked": 58,
@@ -15,31 +15,74 @@
     "repo": 1122,
     "source_in_scope": 1695
    },
-   "check_id": "de-bravors-20261123T234959Z",
+   "check_id": "de-bravors-20261125T071559Z",
    "commits": null,
    "corpus": "germany/brandenburg/acts",
    "error": null,
-   "finished": "2026-11-24T00:12:01Z",
+   "finished": "2026-11-25T07:38:02Z",
    "flags": [],
    "gap": 573,
-   "note": "BRAVORS (robots.txt Crawl-delay 20: one request every 20 s): the subject index of Gesetze and Verordnungen, and the history page of a thirtieth of the held acts a day (58 read; each act within 30 days); a history row the repository does not hold and the builder did not leave out (REPRODUCE.md, 1684 versions) is a new version; first check: the list was recorded as the baseline for the next check",
-   "outcome": "no-change",
+   "note": "BRAVORS (robots.txt Crawl-delay 20: one request every 20 s): the subject index of Gesetze and Verordnungen, and the history page of a thirtieth of the held acts a day (58 read; each act within 30 days); a history row the repository does not hold and the builder did not leave out (REPRODUCE.md, 1684 versions) is a new version",
+   "outcome": "changed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
    "requests": 67,
-   "runner": "lawwatch germany (22a9910bc1)",
+   "runner": "lawwatch germany (040e66c4a9)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
-    "changed": [],
-    "removed": []
+    "added": [
+     "/verordnungen/spielbabgaantv"
+    ],
+    "changed": [
+     "/de/verordnungen-211588",
+     "/de/verordnungen-211614",
+     "/de/verordnungen-211627",
+     "/de/verordnungen-211659",
+     "/de/verordnungen-211660",
+     "/de/verordnungen-211661",
+     "/de/verordnungen-211662",
+     "/de/verordnungen-211663",
+     "/de/verordnungen-211675",
+     "/de/verordnungen-211686",
+     "/de/verordnungen-211687",
+     "/de/verordnungen-211693",
+     "/de/verordnungen-211696",
+     "/de/verordnungen-211698",
+     "/de/verordnungen-211701",
+     "/de/verordnungen-211707",
+     "/de/verordnungen-211711",
+     "/de/verordnungen-211712",
+     "/de/verordnungen-211716",
+     "/de/verordnungen-211717",
+     "/de/verordnungen-211720",
+     "/de/verordnungen-211721",
+     "/de/verordnungen-211723",
+     "/de/verordnungen-211725",
+     "/de/verordnungen-211740",
+     "/de/verordnungen-211741",
+     "/de/verordnungen-211755",
+     "/de/verordnungen-211757",
+     "/de/verordnungen-211758",
+     "/de/verordnungen-211777",
+     "/de/verordnungen-211778",
+     "/de/verordnungen-211786",
+     "/de/verordnungen-211790",
+     "/de/verordnungen-211797",
+     "/de/verordnungen-211798",
+     "/de/verordnungen-211800",
+     "/de/verordnungen-211804",
+     "/de/verordnungen-211842"
+    ],
+    "removed": [
+     "/de/verordnungen-211603"
+    ]
    },
    "snapshot": null,
    "source": "bravors",
-   "started": "2026-11-23T23:49:59Z",
+   "started": "2026-11-25T07:15:59Z",
    "unexplained": 0,
    "verify": null
   }
