@@ -8,6 +8,6 @@ How global-law watches every country's sources: [global-law WATCHING.md](https:/
 
 | Source | What is read | Folders | How often | Last read | State |
 | --- | --- | --- | --- | --- | --- |
-| [BRAVORS (Brandenburg state government)](https://bravors.brandenburg.de) | the subject index of the Gesetze and Verordnungen, and the history page of a thirtieth of the held acts a day (robots.txt asks for 20 s between requests) | `<act>/` | daily | 2026-11-25 07:15 UTC | watched |
+| [BRAVORS (Brandenburg state government)](https://bravors.brandenburg.de) | the subject index of the Gesetze and Verordnungen, and the history page of a thirtieth of the held acts a day (robots.txt asks for 20 s between requests) | `<act>/` | daily | 2026-11-26 09:17 UTC | watched |
 
 Sources are read within their robots.txt and terms, with pauses between requests.
